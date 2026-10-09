@@ -1,0 +1,28 @@
+[project]
+name = "hear-you-scrape"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "openpyxl",
+    "scikit-learn",
+    "pandas>=3.0.6",
+    "seaborn>=0.13.2",
+]
+
+[tool.ruff]
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM", "NPY", "C4"]
+ignore = ["SIM108"]  # explicit if/else blocks are easier to read than ternaries
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.10",
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["common", "surface_families"]
