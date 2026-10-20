@@ -1,109 +1,76 @@
-# Train / validation / Test splits
+# hear-you-scrape
 
-Every model uses the same splits, written by `scripts/splits.py` to `folds.csv`:
+<p align="center"><img src="docs/poster.png" width="800" alt="Parody of the Alien (1979) poster: the egg is the spectrogram of a real scrape"></p>
 
-```bash
-uv run python scripts/splits.py
-```
+*Contact: In Space No One Can Hear You Scrape.* Recognizing what a surface is made of from the sound
+and vibration of a probe sliding on it.
 
-The script only reads `analysis/surface_families.csv`, so it runs without the raw data. Models get the
-recordings of each role with `split_recordings(recordings, folds, split, seed, fold, new_velocity=False)`.
+## Why
 
-## Rules
+Robots mostly recognize objects by vision, but appearance can mislead: a painted board or a plastic
+laminate looks like wood. Sliding a probe on a surface produces sound and vibration that depend on
+the material. We predict the **material family** (wood, metal, textile, polymer) from audio,
+acceleration or both.
 
-- **Split by surface, not by recording.** All recordings of a surface stay in the same role, so the
-  test surfaces are never seen in training. This is the object-wise split from the hyperspectral
-  project, with one surface playing the role of one object.
-- **Probable duplicates stay together.** In Cluster, surfaces with the same name form one group
-  (White ash 8 and 13, Cotton 88 and 104). In LMT108, `SolidRubberPlateVersion1/2` form one group,
-  and so do `Beech_0` and `CoreBeech`. That gives 70 groups for the 72 Cluster surfaces.
-- **Stratified by dataset and family**, with `StratifiedGroupKFold`.
-- **Validation surfaces come from the training side.** About a quarter of the training groups are used
-  for early stopping and for choosing λ. The test dataset is never used for training or tuning.
+Two things make this hard, and they are what the project is about:
 
-## Splits
+- **New surfaces.** Recordings of one surface share details a model can memorize, so all recordings of
+  a surface stay in the same split: we test on surfaces never seen in training.
+- **New conditions.** The signal changes with the sliding velocity and with the sensors. A model trained
+  on one setup must still work on another.
 
-| `split` | Question | Train / val | Test | Folds |
-|---|---|---|---|---|
-| `cluster` | Exp. 1: new Cluster surfaces | Cluster, all velocities | other Cluster surfaces, all velocities | 5 folds × 3 seeds |
-| `cluster` + `new_velocity=True` | Exp. 2: new surfaces at a new velocity | Cluster, 20–50 mm/s | other Cluster surfaces, 60 mm/s only | same 15 folds |
-| `lmt108` | New LMT108 surfaces | LMT108 | other LMT108 surfaces | 5 folds × 5 seeds (few surfaces, so more seeds) |
-| `combined` | Can one model handle both setups? | Cluster + LMT108 | new surfaces of both datasets | 5 folds × 3 seeds |
-| `cluster_to_lmt108` | Exp. 3a: new setup | Cluster | all 36 kept LMT108 surfaces | 1 fold × 3 seeds (the seed changes the val surfaces) |
-| `lmt108_to_cluster` | New setup, other direction | LMT108 | all 72 kept Cluster surfaces | 1 fold × 3 seeds |
-| *to do* | Exp. 3b: new setup, bare finger | Cluster + LMT108 | SENS3 | waits for SENS3 in `surface_families.csv` |
+## Direction
 
-Why the within-dataset splits: Leo's analysis shows the two datasets differ more than the families do.
-Comparing `cluster` with `cluster_to_lmt108` and `lmt108` with `lmt108_to_cluster` separates two
-problems. Either the families are hard to tell apart even within one setup (low in-domain scores), or
-the model learns them but does not transfer (good in-domain scores, then a drop). The difference is
-the generalization gap between setups.
+- **Data.** [Cluster](https://doi.org/10.6084/m9.figshare.29438288) (72 kept surfaces, five velocities,
+  eight directions, two forces) for controlled experiments, [LMT108](https://zeus.lkn.ei.tum.de/downloads/texture/)
+  (36 surfaces, handheld probe) as a second setup, [SENS3](https://www.sens3.net/surfaces) (bare finger)
+  as an external test. `scripts/surface_families.py` decides which surface goes in which family.
+- **Models.** Spectral features with a linear classifier, a small CNN on log-mel spectrograms, and
+  pretrained audio encoders (BEATs, CLAP).
+- **Idea.** Pair recordings of the same surface at two velocities and add a consistency penalty so the
+  model gives the same prediction for both. Does it help on new surfaces, a new velocity, a new setup?
+- **Protocol.** (1) new Cluster surfaces; (2) new surfaces at an unseen velocity; (3) train on Cluster,
+  test on LMT108, then train on both and test on SENS3.
 
-![Role of each Cluster surface per fold](cluster_folds.png)
-![Role of each LMT108 surface per fold](lmt108_folds.png)
-![Role of each surface of both datasets per fold](combined_folds.png)
+## What the signals already tell us (no machine learning yet)
 
-## Numbers
+**The datasets differ more than the families.** On a PCA of spectral shapes, the first axis separates
+the two datasets; the families come second. Clustering the surfaces without labels finds the dataset
+(adjusted Rand index 0.80-0.86), not the family (about 0.1). The datasets differ in their setup, but also
+in their surfaces, gestures and processing (the Cluster audio is already denoised by its authors), so
+this gap cannot yet be attributed to the setup alone. Either way, transfer between datasets is hard.
 
-Surfaces per fold (range over all folds). `combined` gives the same counts for each dataset as the
-two single-dataset splits.
+![PCA of spectral shapes](analysis/signal_processing/pca_both_datasets.png)
 
-| Split | Role | Wood | Metal | Textile | Polymer |
-|---|---|---|---|---|---|
-| `cluster` (70 groups) | train | 21 | 5–6 | 10–12 | 6 |
-| | val | 7 | 1–2 | 3–4 | 2 |
-| | test | 7 | 1–2 | 3–4 | 2 |
-| `lmt108` (34 groups) | train | 3–5 | 3 | 9–10 | 4–6 |
-| | val | 1–2 | 1 | 3–4 | 1–2 |
-| | test | 1–2 | 1 | 3–4 | 1–2 |
+**Inside one dataset, families do differ**, but not in the same way in both: LMT108 wood has a strong
+150-400 Hz bump, its textiles fall off steeply; in Cluster the four families look almost alike.
 
-Cross-dataset splits, seed 0:
+![Spectral shape per family](analysis/signal_processing/family_spectra.png)
 
-| Split | Train | Val | Test |
-|---|---|---|---|
-| `cluster_to_lmt108` | 54 Cluster surfaces | 18 Cluster surfaces | 36 LMT108 surfaces (7 wood, 5 metal, 16 textile, 8 polymer) |
-| `lmt108_to_cluster` | 27 LMT108 surfaces | 9 LMT108 surfaces | 72 Cluster surfaces (35 wood, 9 metal, 18 textile, 10 polymer) |
+**A lot of the Cluster vibration is probably the machine.** Peaks shared by all 72 surfaces line up at
+f = 3.5 v (right column), which points to the drive mechanism rather than the texture. In each recording,
+the +-10 Hz windows around these lines hold a median 32-85 % of the 10-600 Hz acceleration energy,
+depending on the velocity; not all of that energy is necessarily machine.
 
-Recordings for seed 0, fold 0:
+![Machine lines](analysis/signal_processing/setup_lines_accel.png)
 
-| Split | Train | Val | Test |
-|---|---|---|---|
-| `cluster` | 6,880 | 2,240 | 2,400 |
-| `cluster` + `new_velocity` | 5,504 | 1,792 | 480 |
-| `lmt108` | 420 | 140 | 160 |
-| `combined` | 7,160 | 2,540 | 2,540 |
-| `cluster_to_lmt108` | 8,640 | 2,880 | 720 |
-| `lmt108_to_cluster` | 540 | 180 | 11,520 |
+**NMF can isolate a machine candidate.** On eight surfaces, one narrow template is active on all of them:
+a candidate for machine noise, not yet a validated one. Removing it leaves a part that differs between
+surfaces.
 
-## What this means for evaluation
+![NMF separation](analysis/signal_processing/nmf_separation_accel.png)
 
-- **Few test surfaces per family.** A fold tests 1–2 metal and 2 polymer surfaces, so one surface
-  changes a per-family score by 50 % or more. Report mean ± std over the 15 folds, not a single fold.
-- **Surfaces are the independent examples.** Thousands of recordings come from only 72 surfaces. Report
-  per-surface accuracy, where a surface's prediction is the majority vote of its recordings, alongside
-  the per-recording metrics.
-- **Imbalanced classes.** Wood is about half of Cluster, so use macro-F1 rather than accuracy.
-- **The class balance shifts between datasets.** LMT108 is mostly textile (16 of 36) while Cluster is
-  mostly wood, so per-family recall is easier to compare between experiments than overall accuracy.
-- **LMT108 alone is very small.** Each fold trains on 3 metal surfaces and tests 1, so the metal score of
-  a fold is either 0 or 100 %. This is why `lmt108` uses 25 folds; only the mean ± std is meaningful.
-- **Cluster has 8 times more recordings per surface** (160 against 20). In `combined`, LMT108 is only
-  about 6 % of the training recordings (420 of 7,160), so weight the loss per surface or per dataset, or the model
-  will mostly fit Cluster.
-- **`combined` has a shortcut.** Cluster is mostly wood and LMT108 mostly textile, and the dataset is
-  easy to recognize. A model can guess "LMT108, so textile" without learning any material. Report
-  scores per dataset, and compare with a baseline that predicts the most common family of each dataset.
-- **Experiment 2 has a small test set** (480 recordings, one velocity), but the same number of test
-  surfaces as experiment 1.
+**A simple frequency shift with velocity explains the spectra poorly.** The texture model f = k v
+predicts that going from 20 to 60 mm/s moves the spectrum up by a factor 3. Spectra at 20 and 60 mm/s
+correlate better at the same frequency than after this shift (median 0.20-0.49 against about 0), but
+only moderately, and the level rises by 4 to 7 dB per doubling of velocity. Velocity explains as much
+of the spectrum as the surface.
 
-## Proposed baseline: logistic regression
+![Same surface at five velocities](analysis/signal_processing/velocity_examples.png)
+![What drives the band levels](analysis/signal_processing/variance_decomposition.png)
 
-This gives the reference numbers that the CNN and other models have to beat.
-
-## Open questions
-
-- Should the duplicate groups be kept? In particular, `Beech_0` and `CoreBeech` may be different boards.
-  Cotton 88 is listed as "Biodegradable" and Cotton 104 as "Cloths".
-- Should elastomers stay in "polymer"? They are mostly in LMT108, while Cluster's polymers are rigid
-  plastics (see `polymer_type`).
-- Which SENS3 surfaces do we keep, and in which families?
+**What this changes for the models.** Compare training with and without removing the machine lines
+(learned on the training surfaces only), normalize the level, and treat the velocity-consistency penalty
+as invariance to nuisance factors (velocity, machine, sensor gain) rather than to a frequency shift.
+Also: in LMT108, audio and acceleration show almost no coherence (about 0.01), which may mean they are
+not synchronous; and "polymer" means rigid plastics in Cluster but mostly rubbers in LMT108.
