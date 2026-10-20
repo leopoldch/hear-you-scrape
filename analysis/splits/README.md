@@ -1,4 +1,4 @@
-# Train / validation / test splits
+# Train / validation / Test splits
 
 Every model uses the same splits, written by `scripts/splits.py` to `folds.csv`:
 
