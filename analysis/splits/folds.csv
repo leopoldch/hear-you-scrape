@@ -1,0 +1,1405 @@
+split,seed,fold,dataset,surface,name,family,group,role
+cluster,0,0,cluster,0,Nyatoh,wood,cluster/Nyatoh,test
+cluster,0,0,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,0,0,cluster,2,Elm,wood,cluster/Elm,test
+cluster,0,0,cluster,3,Red oak,wood,cluster/Red oak,val
+cluster,0,0,cluster,4,Oak,wood,cluster/Oak,train
+cluster,0,0,cluster,5,Ash,wood,cluster/Ash,train
+cluster,0,0,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,0,0,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,0,0,cluster,8,White ash,wood,cluster/White ash,val
+cluster,0,0,cluster,9,Birch,wood,cluster/Birch,train
+cluster,0,0,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,0,0,cluster,11,Basswood,wood,cluster/Basswood,val
+cluster,0,0,cluster,12,Beech,wood,cluster/Beech,train
+cluster,0,0,cluster,13,White ash,wood,cluster/White ash,val
+cluster,0,0,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,0,0,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,0,0,cluster,16,Silver cherry,wood,cluster/Silver cherry,test
+cluster,0,0,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,0,0,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,0,0,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,0,0,cluster,20,Zebra,wood,cluster/Zebra,test
+cluster,0,0,cluster,21,Wenge,wood,cluster/Wenge,test
+cluster,0,0,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,0,0,cluster,23,Teak,wood,cluster/Teak,test
+cluster,0,0,cluster,24,Mahogany,wood,cluster/Mahogany,val
+cluster,0,0,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,0,0,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,0,0,cluster,27,Douglas fir,wood,cluster/Douglas fir,val
+cluster,0,0,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,0,0,cluster,29,Walnut,wood,cluster/Walnut,test
+cluster,0,0,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,0,0,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,0,0,cluster,32,Gumwood,wood,cluster/Gumwood,val
+cluster,0,0,cluster,33,White oak,wood,cluster/White oak,train
+cluster,0,0,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,0,0,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),test
+cluster,0,0,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,0,0,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,0,0,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,0,0,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster,0,0,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,0,0,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,val
+cluster,0,0,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,0,0,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,test
+cluster,0,0,cluster,63,Silicon,polymer,cluster/Silicon,val
+cluster,0,0,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,0,0,cluster,66,Steel,metal,cluster/Steel,train
+cluster,0,0,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,0,0,cluster,68,Aluminum,metal,cluster/Aluminum,test
+cluster,0,0,cluster,69,Lead,metal,cluster/Lead,train
+cluster,0,0,cluster,70,Copper,metal,cluster/Copper,test
+cluster,0,0,cluster,71,Brass,metal,cluster/Brass,val
+cluster,0,0,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,0,0,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,0,0,cluster,87,Jute,textile,cluster/Jute,val
+cluster,0,0,cluster,88,Cotton,textile,cluster/Cotton,test
+cluster,0,0,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,0,0,cluster,102,Velvet,textile,cluster/Velvet,val
+cluster,0,0,cluster,103,Corduroy,textile,cluster/Corduroy,val
+cluster,0,0,cluster,104,Cotton,textile,cluster/Cotton,test
+cluster,0,0,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,0,0,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,val
+cluster,0,0,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,0,0,cluster,108,Lace,textile,cluster/Lace,train
+cluster,0,0,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,0,0,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,0,0,cluster,112,Wool,textile,cluster/Wool,test
+cluster,0,0,cluster,113,Nylon,textile,cluster/Nylon,test
+cluster,0,0,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,0,0,cluster,115,Silk,textile,cluster/Silk,train
+cluster,0,0,cluster,116,Linen,textile,cluster/Linen,train
+cluster,0,0,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster,0,1,cluster,0,Nyatoh,wood,cluster/Nyatoh,val
+cluster,0,1,cluster,1,Castor aralia,wood,cluster/Castor aralia,test
+cluster,0,1,cluster,2,Elm,wood,cluster/Elm,train
+cluster,0,1,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,0,1,cluster,4,Oak,wood,cluster/Oak,train
+cluster,0,1,cluster,5,Ash,wood,cluster/Ash,train
+cluster,0,1,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,0,1,cluster,7,Hard maple,wood,cluster/Hard maple,val
+cluster,0,1,cluster,8,White ash,wood,cluster/White ash,test
+cluster,0,1,cluster,9,Birch,wood,cluster/Birch,train
+cluster,0,1,cluster,10,Poplar,wood,cluster/Poplar,test
+cluster,0,1,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,0,1,cluster,12,Beech,wood,cluster/Beech,test
+cluster,0,1,cluster,13,White ash,wood,cluster/White ash,test
+cluster,0,1,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,0,1,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster,0,1,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,0,1,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,0,1,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,0,1,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,0,1,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster,0,1,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,0,1,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,test
+cluster,0,1,cluster,23,Teak,wood,cluster/Teak,train
+cluster,0,1,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,0,1,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,0,1,cluster,26,Western hemlock,wood,cluster/Western hemlock,test
+cluster,0,1,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,0,1,cluster,28,Radiata pine,wood,cluster/Radiata pine,val
+cluster,0,1,cluster,29,Walnut,wood,cluster/Walnut,val
+cluster,0,1,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,0,1,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,0,1,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,0,1,cluster,33,White oak,wood,cluster/White oak,train
+cluster,0,1,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,val
+cluster,0,1,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),val
+cluster,0,1,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),val
+cluster,0,1,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,0,1,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,0,1,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,test
+cluster,0,1,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,0,1,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,test
+cluster,0,1,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,0,1,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,0,1,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,0,1,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,0,1,cluster,66,Steel,metal,cluster/Steel,train
+cluster,0,1,cluster,67,Cast iron,metal,cluster/Cast iron,test
+cluster,0,1,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,0,1,cluster,69,Lead,metal,cluster/Lead,val
+cluster,0,1,cluster,70,Copper,metal,cluster/Copper,train
+cluster,0,1,cluster,71,Brass,metal,cluster/Brass,test
+cluster,0,1,cluster,72,Bronze,metal,cluster/Bronze,val
+cluster,0,1,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,0,1,cluster,87,Jute,textile,cluster/Jute,train
+cluster,0,1,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,0,1,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,0,1,cluster,102,Velvet,textile,cluster/Velvet,val
+cluster,0,1,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,0,1,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,0,1,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,0,1,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,0,1,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,0,1,cluster,108,Lace,textile,cluster/Lace,test
+cluster,0,1,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,0,1,cluster,110,Organdy,textile,cluster/Organdy,test
+cluster,0,1,cluster,112,Wool,textile,cluster/Wool,train
+cluster,0,1,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,0,1,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,0,1,cluster,115,Silk,textile,cluster/Silk,train
+cluster,0,1,cluster,116,Linen,textile,cluster/Linen,test
+cluster,0,1,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster,0,2,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,0,2,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,0,2,cluster,2,Elm,wood,cluster/Elm,train
+cluster,0,2,cluster,3,Red oak,wood,cluster/Red oak,val
+cluster,0,2,cluster,4,Oak,wood,cluster/Oak,test
+cluster,0,2,cluster,5,Ash,wood,cluster/Ash,test
+cluster,0,2,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,0,2,cluster,7,Hard maple,wood,cluster/Hard maple,test
+cluster,0,2,cluster,8,White ash,wood,cluster/White ash,val
+cluster,0,2,cluster,9,Birch,wood,cluster/Birch,test
+cluster,0,2,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,0,2,cluster,11,Basswood,wood,cluster/Basswood,test
+cluster,0,2,cluster,12,Beech,wood,cluster/Beech,train
+cluster,0,2,cluster,13,White ash,wood,cluster/White ash,val
+cluster,0,2,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,0,2,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,0,2,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,0,2,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,0,2,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,0,2,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,0,2,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster,0,2,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,0,2,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,0,2,cluster,23,Teak,wood,cluster/Teak,train
+cluster,0,2,cluster,24,Mahogany,wood,cluster/Mahogany,test
+cluster,0,2,cluster,25,Sapele,wood,cluster/Sapele,val
+cluster,0,2,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,0,2,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,0,2,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,0,2,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,0,2,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,0,2,cluster,31,North pipe,wood,cluster/North pipe,test
+cluster,0,2,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,0,2,cluster,33,White oak,wood,cluster/White oak,val
+cluster,0,2,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,val
+cluster,0,2,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,0,2,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),test
+cluster,0,2,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,0,2,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,0,2,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,val
+cluster,0,2,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,0,2,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,0,2,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,test
+cluster,0,2,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,0,2,cluster,63,Silicon,polymer,cluster/Silicon,val
+cluster,0,2,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,0,2,cluster,66,Steel,metal,cluster/Steel,train
+cluster,0,2,cluster,67,Cast iron,metal,cluster/Cast iron,val
+cluster,0,2,cluster,68,Aluminum,metal,cluster/Aluminum,val
+cluster,0,2,cluster,69,Lead,metal,cluster/Lead,test
+cluster,0,2,cluster,70,Copper,metal,cluster/Copper,train
+cluster,0,2,cluster,71,Brass,metal,cluster/Brass,train
+cluster,0,2,cluster,72,Bronze,metal,cluster/Bronze,test
+cluster,0,2,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,0,2,cluster,87,Jute,textile,cluster/Jute,train
+cluster,0,2,cluster,88,Cotton,textile,cluster/Cotton,train
+cluster,0,2,cluster,89,Wool felt,textile,cluster/Wool felt,test
+cluster,0,2,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,0,2,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,0,2,cluster,104,Cotton,textile,cluster/Cotton,train
+cluster,0,2,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,test
+cluster,0,2,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,0,2,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,0,2,cluster,108,Lace,textile,cluster/Lace,train
+cluster,0,2,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,0,2,cluster,110,Organdy,textile,cluster/Organdy,val
+cluster,0,2,cluster,112,Wool,textile,cluster/Wool,train
+cluster,0,2,cluster,113,Nylon,textile,cluster/Nylon,val
+cluster,0,2,cluster,114,Polyester,textile,cluster/Polyester,test
+cluster,0,2,cluster,115,Silk,textile,cluster/Silk,train
+cluster,0,2,cluster,116,Linen,textile,cluster/Linen,train
+cluster,0,2,cluster,117,Cotton linen,textile,cluster/Cotton linen,val
+cluster,0,3,cluster,0,Nyatoh,wood,cluster/Nyatoh,val
+cluster,0,3,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,0,3,cluster,2,Elm,wood,cluster/Elm,train
+cluster,0,3,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,0,3,cluster,4,Oak,wood,cluster/Oak,val
+cluster,0,3,cluster,5,Ash,wood,cluster/Ash,train
+cluster,0,3,cluster,6,Black cherry,wood,cluster/Black cherry,val
+cluster,0,3,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,0,3,cluster,8,White ash,wood,cluster/White ash,val
+cluster,0,3,cluster,9,Birch,wood,cluster/Birch,train
+cluster,0,3,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,0,3,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,0,3,cluster,12,Beech,wood,cluster/Beech,train
+cluster,0,3,cluster,13,White ash,wood,cluster/White ash,val
+cluster,0,3,cluster,14,Zelkova,wood,cluster/Zelkova,test
+cluster,0,3,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster,0,3,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,0,3,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",test
+cluster,0,3,cluster,18,Chestnut,wood,cluster/Chestnut,test
+cluster,0,3,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,0,3,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,0,3,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,0,3,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,0,3,cluster,23,Teak,wood,cluster/Teak,train
+cluster,0,3,cluster,24,Mahogany,wood,cluster/Mahogany,val
+cluster,0,3,cluster,25,Sapele,wood,cluster/Sapele,test
+cluster,0,3,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,0,3,cluster,27,Douglas fir,wood,cluster/Douglas fir,test
+cluster,0,3,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,0,3,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,0,3,cluster,30,Acacia,wood,cluster/Acacia,test
+cluster,0,3,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,0,3,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,0,3,cluster,33,White oak,wood,cluster/White oak,train
+cluster,0,3,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,test
+cluster,0,3,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),val
+cluster,0,3,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,0,3,cluster,51,Polypropylene,polymer,cluster/Polypropylene,test
+cluster,0,3,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,0,3,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster,0,3,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,0,3,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,0,3,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,0,3,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,val
+cluster,0,3,cluster,63,Silicon,polymer,cluster/Silicon,test
+cluster,0,3,cluster,65,Stainless steel,metal,cluster/Stainless steel,test
+cluster,0,3,cluster,66,Steel,metal,cluster/Steel,train
+cluster,0,3,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,0,3,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,0,3,cluster,69,Lead,metal,cluster/Lead,train
+cluster,0,3,cluster,70,Copper,metal,cluster/Copper,train
+cluster,0,3,cluster,71,Brass,metal,cluster/Brass,val
+cluster,0,3,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,0,3,cluster,73,Titanium,metal,cluster/Titanium,test
+cluster,0,3,cluster,87,Jute,textile,cluster/Jute,val
+cluster,0,3,cluster,88,Cotton,textile,cluster/Cotton,train
+cluster,0,3,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,0,3,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,0,3,cluster,103,Corduroy,textile,cluster/Corduroy,test
+cluster,0,3,cluster,104,Cotton,textile,cluster/Cotton,train
+cluster,0,3,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,0,3,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,val
+cluster,0,3,cluster,107,Chiffon,textile,cluster/Chiffon,test
+cluster,0,3,cluster,108,Lace,textile,cluster/Lace,train
+cluster,0,3,cluster,109,Georgette,textile,cluster/Georgette,test
+cluster,0,3,cluster,110,Organdy,textile,cluster/Organdy,val
+cluster,0,3,cluster,112,Wool,textile,cluster/Wool,train
+cluster,0,3,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,0,3,cluster,114,Polyester,textile,cluster/Polyester,val
+cluster,0,3,cluster,115,Silk,textile,cluster/Silk,test
+cluster,0,3,cluster,116,Linen,textile,cluster/Linen,train
+cluster,0,3,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster,0,4,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,0,4,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,0,4,cluster,2,Elm,wood,cluster/Elm,train
+cluster,0,4,cluster,3,Red oak,wood,cluster/Red oak,test
+cluster,0,4,cluster,4,Oak,wood,cluster/Oak,val
+cluster,0,4,cluster,5,Ash,wood,cluster/Ash,train
+cluster,0,4,cluster,6,Black cherry,wood,cluster/Black cherry,test
+cluster,0,4,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,0,4,cluster,8,White ash,wood,cluster/White ash,train
+cluster,0,4,cluster,9,Birch,wood,cluster/Birch,val
+cluster,0,4,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,0,4,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,0,4,cluster,12,Beech,wood,cluster/Beech,train
+cluster,0,4,cluster,13,White ash,wood,cluster/White ash,train
+cluster,0,4,cluster,14,Zelkova,wood,cluster/Zelkova,val
+cluster,0,4,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,test
+cluster,0,4,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,0,4,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,0,4,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,0,4,cluster,19,Cedar,wood,cluster/Cedar,test
+cluster,0,4,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster,0,4,cluster,21,Wenge,wood,cluster/Wenge,val
+cluster,0,4,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,0,4,cluster,23,Teak,wood,cluster/Teak,train
+cluster,0,4,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,0,4,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,0,4,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,0,4,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,0,4,cluster,28,Radiata pine,wood,cluster/Radiata pine,test
+cluster,0,4,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,0,4,cluster,30,Acacia,wood,cluster/Acacia,val
+cluster,0,4,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,0,4,cluster,32,Gumwood,wood,cluster/Gumwood,test
+cluster,0,4,cluster,33,White oak,wood,cluster/White oak,test
+cluster,0,4,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,val
+cluster,0,4,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,0,4,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,0,4,cluster,51,Polypropylene,polymer,cluster/Polypropylene,val
+cluster,0,4,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),test
+cluster,0,4,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster,0,4,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,test
+cluster,0,4,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,0,4,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,val
+cluster,0,4,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,0,4,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,0,4,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,0,4,cluster,66,Steel,metal,cluster/Steel,test
+cluster,0,4,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,0,4,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,0,4,cluster,69,Lead,metal,cluster/Lead,train
+cluster,0,4,cluster,70,Copper,metal,cluster/Copper,train
+cluster,0,4,cluster,71,Brass,metal,cluster/Brass,val
+cluster,0,4,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,0,4,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster,0,4,cluster,87,Jute,textile,cluster/Jute,test
+cluster,0,4,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,0,4,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,0,4,cluster,102,Velvet,textile,cluster/Velvet,test
+cluster,0,4,cluster,103,Corduroy,textile,cluster/Corduroy,val
+cluster,0,4,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,0,4,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,0,4,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,test
+cluster,0,4,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,0,4,cluster,108,Lace,textile,cluster/Lace,train
+cluster,0,4,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,0,4,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,0,4,cluster,112,Wool,textile,cluster/Wool,train
+cluster,0,4,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,0,4,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,0,4,cluster,115,Silk,textile,cluster/Silk,train
+cluster,0,4,cluster,116,Linen,textile,cluster/Linen,train
+cluster,0,4,cluster,117,Cotton linen,textile,cluster/Cotton linen,test
+cluster_to_lmt108,0,0,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster_to_lmt108,0,0,cluster,1,Castor aralia,wood,cluster/Castor aralia,val
+cluster_to_lmt108,0,0,cluster,2,Elm,wood,cluster/Elm,train
+cluster_to_lmt108,0,0,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster_to_lmt108,0,0,cluster,4,Oak,wood,cluster/Oak,train
+cluster_to_lmt108,0,0,cluster,5,Ash,wood,cluster/Ash,train
+cluster_to_lmt108,0,0,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster_to_lmt108,0,0,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster_to_lmt108,0,0,cluster,8,White ash,wood,cluster/White ash,train
+cluster_to_lmt108,0,0,cluster,9,Birch,wood,cluster/Birch,train
+cluster_to_lmt108,0,0,cluster,10,Poplar,wood,cluster/Poplar,val
+cluster_to_lmt108,0,0,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster_to_lmt108,0,0,cluster,12,Beech,wood,cluster/Beech,train
+cluster_to_lmt108,0,0,cluster,13,White ash,wood,cluster/White ash,train
+cluster_to_lmt108,0,0,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster_to_lmt108,0,0,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster_to_lmt108,0,0,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster_to_lmt108,0,0,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster_to_lmt108,0,0,cluster,18,Chestnut,wood,cluster/Chestnut,val
+cluster_to_lmt108,0,0,cluster,19,Cedar,wood,cluster/Cedar,val
+cluster_to_lmt108,0,0,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster_to_lmt108,0,0,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster_to_lmt108,0,0,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,val
+cluster_to_lmt108,0,0,cluster,23,Teak,wood,cluster/Teak,train
+cluster_to_lmt108,0,0,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster_to_lmt108,0,0,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster_to_lmt108,0,0,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster_to_lmt108,0,0,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster_to_lmt108,0,0,cluster,28,Radiata pine,wood,cluster/Radiata pine,val
+cluster_to_lmt108,0,0,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster_to_lmt108,0,0,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster_to_lmt108,0,0,cluster,31,North pipe,wood,cluster/North pipe,val
+cluster_to_lmt108,0,0,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster_to_lmt108,0,0,cluster,33,White oak,wood,cluster/White oak,train
+cluster_to_lmt108,0,0,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster_to_lmt108,0,0,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster_to_lmt108,0,0,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster_to_lmt108,0,0,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster_to_lmt108,0,0,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),val
+cluster_to_lmt108,0,0,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster_to_lmt108,0,0,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster_to_lmt108,0,0,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster_to_lmt108,0,0,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,val
+cluster_to_lmt108,0,0,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster_to_lmt108,0,0,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster_to_lmt108,0,0,cluster,65,Stainless steel,metal,cluster/Stainless steel,val
+cluster_to_lmt108,0,0,cluster,66,Steel,metal,cluster/Steel,train
+cluster_to_lmt108,0,0,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster_to_lmt108,0,0,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster_to_lmt108,0,0,cluster,69,Lead,metal,cluster/Lead,train
+cluster_to_lmt108,0,0,cluster,70,Copper,metal,cluster/Copper,train
+cluster_to_lmt108,0,0,cluster,71,Brass,metal,cluster/Brass,train
+cluster_to_lmt108,0,0,cluster,72,Bronze,metal,cluster/Bronze,val
+cluster_to_lmt108,0,0,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster_to_lmt108,0,0,cluster,87,Jute,textile,cluster/Jute,train
+cluster_to_lmt108,0,0,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster_to_lmt108,0,0,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster_to_lmt108,0,0,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster_to_lmt108,0,0,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster_to_lmt108,0,0,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster_to_lmt108,0,0,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster_to_lmt108,0,0,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster_to_lmt108,0,0,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster_to_lmt108,0,0,cluster,108,Lace,textile,cluster/Lace,train
+cluster_to_lmt108,0,0,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster_to_lmt108,0,0,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster_to_lmt108,0,0,cluster,112,Wool,textile,cluster/Wool,val
+cluster_to_lmt108,0,0,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster_to_lmt108,0,0,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster_to_lmt108,0,0,cluster,115,Silk,textile,cluster/Silk,val
+cluster_to_lmt108,0,0,cluster,116,Linen,textile,cluster/Linen,train
+cluster_to_lmt108,0,0,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster_to_lmt108,0,0,lmt108,G1ProfiledAluminumPlate,ProfiledAluminumPlate,metal,lmt108/G1ProfiledAluminumPlate,test
+cluster_to_lmt108,0,0,lmt108,G3AcrylicGlass,AcrylicGlass,polymer,lmt108/G3AcrylicGlass,test
+cluster_to_lmt108,0,0,lmt108,G3AluminumPlate,AluminumPlate,metal,lmt108/G3AluminumPlate,test
+cluster_to_lmt108,0,0,lmt108,G3Brass,Brass,metal,lmt108/G3Brass,test
+cluster_to_lmt108,0,0,lmt108,G3Copper,Copper,metal,lmt108/G3Copper,test
+cluster_to_lmt108,0,0,lmt108,G3EpoxyPlate,EpoxyPlate,polymer,lmt108/G3EpoxyPlate,test
+cluster_to_lmt108,0,0,lmt108,G3StainlessSteel,StainlessSteel,metal,lmt108/G3StainlessSteel,test
+cluster_to_lmt108,0,0,lmt108,G4Beech_0,Beech_0,wood,lmt108/Beech,test
+cluster_to_lmt108,0,0,lmt108,G4CherryTree,CherryTree,wood,lmt108/G4CherryTree,test
+cluster_to_lmt108,0,0,lmt108,G4CoreBeech,CoreBeech,wood,lmt108/Beech,test
+cluster_to_lmt108,0,0,lmt108,G4Larch,Larch,wood,lmt108/G4Larch,test
+cluster_to_lmt108,0,0,lmt108,G4ProfiledWoodPlate,ProfiledWoodPlate,wood,lmt108/G4ProfiledWoodPlate,test
+cluster_to_lmt108,0,0,lmt108,G4Teak,Teak,wood,lmt108/G4Teak,test
+cluster_to_lmt108,0,0,lmt108,G4WoodTypeSilverOak,WoodTypeSilverOak,wood,lmt108/G4WoodTypeSilverOak,test
+cluster_to_lmt108,0,0,lmt108,G5FineRubber,FineRubber,polymer,lmt108/G5FineRubber,test
+cluster_to_lmt108,0,0,lmt108,G5ProfiledRubberPlate,ProfiledRubberPlate,polymer,lmt108/G5ProfiledRubberPlate,test
+cluster_to_lmt108,0,0,lmt108,G5RubberPlateVersion2,RubberPlateVersion2,polymer,lmt108/G5RubberPlateVersion2,test
+cluster_to_lmt108,0,0,lmt108,G5SolidRubberPlateVersion1,SolidRubberPlateVersion1,polymer,lmt108/SolidRubberPlate,test
+cluster_to_lmt108,0,0,lmt108,G5SolidRubberPlateVersion2,SolidRubberPlateVersion2,polymer,lmt108/SolidRubberPlate,test
+cluster_to_lmt108,0,0,lmt108,G6Towel,Towel,textile,lmt108/G6Towel,test
+cluster_to_lmt108,0,0,lmt108,G8HighDensityPolyethylen,HighDensityPolyethylen,polymer,lmt108/G8HighDensityPolyethylen,test
+cluster_to_lmt108,0,0,lmt108,G9BlueSatin,BlueSatin,textile,lmt108/G9BlueSatin,test
+cluster_to_lmt108,0,0,lmt108,G9FloorCloth,FloorCloth,textile,lmt108/G9FloorCloth,test
+cluster_to_lmt108,0,0,lmt108,G9FloorClothVersion2,FloorClothVersion2,textile,lmt108/G9FloorClothVersion2,test
+cluster_to_lmt108,0,0,lmt108,G9FloorClothVersion3,FloorClothVersion3,textile,lmt108/G9FloorClothVersion3,test
+cluster_to_lmt108,0,0,lmt108,G9GreenVelvet,GreenVelvet,textile,lmt108/G9GreenVelvet,test
+cluster_to_lmt108,0,0,lmt108,G9Jeans,Jeans,textile,lmt108/G9Jeans,test
+cluster_to_lmt108,0,0,lmt108,G9Kashmir,Kashmir,textile,lmt108/G9Kashmir,test
+cluster_to_lmt108,0,0,lmt108,G9RedFleeze,RedFleeze,textile,lmt108/G9RedFleeze,test
+cluster_to_lmt108,0,0,lmt108,G9RedVelvet,RedVelvet,textile,lmt108/G9RedVelvet,test
+cluster_to_lmt108,0,0,lmt108,G9TableClothVersion1,TableClothVersion1,textile,lmt108/G9TableClothVersion1,test
+cluster_to_lmt108,0,0,lmt108,G9TableClothVersion2,TableClothVersion2,textile,lmt108/G9TableClothVersion2,test
+cluster_to_lmt108,0,0,lmt108,G9TextileVersion1,TextileVersion1,textile,lmt108/G9TextileVersion1,test
+cluster_to_lmt108,0,0,lmt108,G9TextileVersion2,TextileVersion2,textile,lmt108/G9TextileVersion2,test
+cluster_to_lmt108,0,0,lmt108,G9TextileVersion3,TextileVersion3,textile,lmt108/G9TextileVersion3,test
+cluster_to_lmt108,0,0,lmt108,G9TextileVersion4,TextileVersion4,textile,lmt108/G9TextileVersion4,test
+cluster,1,0,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,1,0,cluster,1,Castor aralia,wood,cluster/Castor aralia,val
+cluster,1,0,cluster,2,Elm,wood,cluster/Elm,train
+cluster,1,0,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,1,0,cluster,4,Oak,wood,cluster/Oak,train
+cluster,1,0,cluster,5,Ash,wood,cluster/Ash,train
+cluster,1,0,cluster,6,Black cherry,wood,cluster/Black cherry,val
+cluster,1,0,cluster,7,Hard maple,wood,cluster/Hard maple,val
+cluster,1,0,cluster,8,White ash,wood,cluster/White ash,val
+cluster,1,0,cluster,9,Birch,wood,cluster/Birch,test
+cluster,1,0,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,1,0,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,1,0,cluster,12,Beech,wood,cluster/Beech,train
+cluster,1,0,cluster,13,White ash,wood,cluster/White ash,val
+cluster,1,0,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,1,0,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,1,0,cluster,16,Silver cherry,wood,cluster/Silver cherry,test
+cluster,1,0,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,1,0,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,1,0,cluster,19,Cedar,wood,cluster/Cedar,val
+cluster,1,0,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,1,0,cluster,21,Wenge,wood,cluster/Wenge,test
+cluster,1,0,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,1,0,cluster,23,Teak,wood,cluster/Teak,test
+cluster,1,0,cluster,24,Mahogany,wood,cluster/Mahogany,val
+cluster,1,0,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,1,0,cluster,26,Western hemlock,wood,cluster/Western hemlock,test
+cluster,1,0,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,1,0,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,1,0,cluster,29,Walnut,wood,cluster/Walnut,test
+cluster,1,0,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,1,0,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,1,0,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,1,0,cluster,33,White oak,wood,cluster/White oak,test
+cluster,1,0,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,1,0,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),test
+cluster,1,0,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),test
+cluster,1,0,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,1,0,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,1,0,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,val
+cluster,1,0,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,1,0,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,1,0,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,val
+cluster,1,0,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,1,0,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,1,0,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,1,0,cluster,66,Steel,metal,cluster/Steel,test
+cluster,1,0,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,1,0,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,1,0,cluster,69,Lead,metal,cluster/Lead,train
+cluster,1,0,cluster,70,Copper,metal,cluster/Copper,test
+cluster,1,0,cluster,71,Brass,metal,cluster/Brass,train
+cluster,1,0,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,1,0,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster,1,0,cluster,87,Jute,textile,cluster/Jute,val
+cluster,1,0,cluster,88,Cotton,textile,cluster/Cotton,test
+cluster,1,0,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,1,0,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,1,0,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,1,0,cluster,104,Cotton,textile,cluster/Cotton,test
+cluster,1,0,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,val
+cluster,1,0,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,val
+cluster,1,0,cluster,107,Chiffon,textile,cluster/Chiffon,test
+cluster,1,0,cluster,108,Lace,textile,cluster/Lace,train
+cluster,1,0,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,1,0,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,1,0,cluster,112,Wool,textile,cluster/Wool,val
+cluster,1,0,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,1,0,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,1,0,cluster,115,Silk,textile,cluster/Silk,train
+cluster,1,0,cluster,116,Linen,textile,cluster/Linen,train
+cluster,1,0,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster,1,1,cluster,0,Nyatoh,wood,cluster/Nyatoh,val
+cluster,1,1,cluster,1,Castor aralia,wood,cluster/Castor aralia,val
+cluster,1,1,cluster,2,Elm,wood,cluster/Elm,train
+cluster,1,1,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,1,1,cluster,4,Oak,wood,cluster/Oak,val
+cluster,1,1,cluster,5,Ash,wood,cluster/Ash,train
+cluster,1,1,cluster,6,Black cherry,wood,cluster/Black cherry,test
+cluster,1,1,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,1,1,cluster,8,White ash,wood,cluster/White ash,test
+cluster,1,1,cluster,9,Birch,wood,cluster/Birch,train
+cluster,1,1,cluster,10,Poplar,wood,cluster/Poplar,val
+cluster,1,1,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,1,1,cluster,12,Beech,wood,cluster/Beech,train
+cluster,1,1,cluster,13,White ash,wood,cluster/White ash,test
+cluster,1,1,cluster,14,Zelkova,wood,cluster/Zelkova,test
+cluster,1,1,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,1,1,cluster,16,Silver cherry,wood,cluster/Silver cherry,val
+cluster,1,1,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",val
+cluster,1,1,cluster,18,Chestnut,wood,cluster/Chestnut,test
+cluster,1,1,cluster,19,Cedar,wood,cluster/Cedar,test
+cluster,1,1,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,1,1,cluster,21,Wenge,wood,cluster/Wenge,val
+cluster,1,1,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,1,1,cluster,23,Teak,wood,cluster/Teak,train
+cluster,1,1,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,1,1,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,1,1,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,1,1,cluster,27,Douglas fir,wood,cluster/Douglas fir,test
+cluster,1,1,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,1,1,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,1,1,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,1,1,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,1,1,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,1,1,cluster,33,White oak,wood,cluster/White oak,train
+cluster,1,1,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,1,1,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),val
+cluster,1,1,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,1,1,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,1,1,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,1,1,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster,1,1,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,test
+cluster,1,1,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,1,1,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,test
+cluster,1,1,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,val
+cluster,1,1,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,1,1,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,1,1,cluster,66,Steel,metal,cluster/Steel,val
+cluster,1,1,cluster,67,Cast iron,metal,cluster/Cast iron,test
+cluster,1,1,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,1,1,cluster,69,Lead,metal,cluster/Lead,test
+cluster,1,1,cluster,70,Copper,metal,cluster/Copper,train
+cluster,1,1,cluster,71,Brass,metal,cluster/Brass,val
+cluster,1,1,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,1,1,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,1,1,cluster,87,Jute,textile,cluster/Jute,train
+cluster,1,1,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,1,1,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,1,1,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,1,1,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,1,1,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,1,1,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,test
+cluster,1,1,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,1,1,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,1,1,cluster,108,Lace,textile,cluster/Lace,train
+cluster,1,1,cluster,109,Georgette,textile,cluster/Georgette,test
+cluster,1,1,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,1,1,cluster,112,Wool,textile,cluster/Wool,train
+cluster,1,1,cluster,113,Nylon,textile,cluster/Nylon,test
+cluster,1,1,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,1,1,cluster,115,Silk,textile,cluster/Silk,test
+cluster,1,1,cluster,116,Linen,textile,cluster/Linen,val
+cluster,1,1,cluster,117,Cotton linen,textile,cluster/Cotton linen,val
+cluster,1,2,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,1,2,cluster,1,Castor aralia,wood,cluster/Castor aralia,val
+cluster,1,2,cluster,2,Elm,wood,cluster/Elm,test
+cluster,1,2,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,1,2,cluster,4,Oak,wood,cluster/Oak,test
+cluster,1,2,cluster,5,Ash,wood,cluster/Ash,test
+cluster,1,2,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,1,2,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,1,2,cluster,8,White ash,wood,cluster/White ash,val
+cluster,1,2,cluster,9,Birch,wood,cluster/Birch,train
+cluster,1,2,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,1,2,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,1,2,cluster,12,Beech,wood,cluster/Beech,train
+cluster,1,2,cluster,13,White ash,wood,cluster/White ash,val
+cluster,1,2,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,1,2,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,test
+cluster,1,2,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,1,2,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",val
+cluster,1,2,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,1,2,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,1,2,cluster,20,Zebra,wood,cluster/Zebra,test
+cluster,1,2,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,1,2,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,test
+cluster,1,2,cluster,23,Teak,wood,cluster/Teak,val
+cluster,1,2,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,1,2,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,1,2,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,1,2,cluster,27,Douglas fir,wood,cluster/Douglas fir,val
+cluster,1,2,cluster,28,Radiata pine,wood,cluster/Radiata pine,test
+cluster,1,2,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,1,2,cluster,30,Acacia,wood,cluster/Acacia,val
+cluster,1,2,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,1,2,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,1,2,cluster,33,White oak,wood,cluster/White oak,train
+cluster,1,2,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,1,2,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,1,2,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,1,2,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,1,2,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,1,2,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,val
+cluster,1,2,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,val
+cluster,1,2,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,test
+cluster,1,2,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,1,2,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,test
+cluster,1,2,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,1,2,cluster,65,Stainless steel,metal,cluster/Stainless steel,test
+cluster,1,2,cluster,66,Steel,metal,cluster/Steel,train
+cluster,1,2,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,1,2,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,1,2,cluster,69,Lead,metal,cluster/Lead,train
+cluster,1,2,cluster,70,Copper,metal,cluster/Copper,train
+cluster,1,2,cluster,71,Brass,metal,cluster/Brass,test
+cluster,1,2,cluster,72,Bronze,metal,cluster/Bronze,val
+cluster,1,2,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster,1,2,cluster,87,Jute,textile,cluster/Jute,train
+cluster,1,2,cluster,88,Cotton,textile,cluster/Cotton,train
+cluster,1,2,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,1,2,cluster,102,Velvet,textile,cluster/Velvet,test
+cluster,1,2,cluster,103,Corduroy,textile,cluster/Corduroy,val
+cluster,1,2,cluster,104,Cotton,textile,cluster/Cotton,train
+cluster,1,2,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,1,2,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,val
+cluster,1,2,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,1,2,cluster,108,Lace,textile,cluster/Lace,test
+cluster,1,2,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,1,2,cluster,110,Organdy,textile,cluster/Organdy,val
+cluster,1,2,cluster,112,Wool,textile,cluster/Wool,train
+cluster,1,2,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,1,2,cluster,114,Polyester,textile,cluster/Polyester,test
+cluster,1,2,cluster,115,Silk,textile,cluster/Silk,train
+cluster,1,2,cluster,116,Linen,textile,cluster/Linen,train
+cluster,1,2,cluster,117,Cotton linen,textile,cluster/Cotton linen,test
+cluster,1,3,cluster,0,Nyatoh,wood,cluster/Nyatoh,val
+cluster,1,3,cluster,1,Castor aralia,wood,cluster/Castor aralia,test
+cluster,1,3,cluster,2,Elm,wood,cluster/Elm,train
+cluster,1,3,cluster,3,Red oak,wood,cluster/Red oak,test
+cluster,1,3,cluster,4,Oak,wood,cluster/Oak,train
+cluster,1,3,cluster,5,Ash,wood,cluster/Ash,train
+cluster,1,3,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,1,3,cluster,7,Hard maple,wood,cluster/Hard maple,test
+cluster,1,3,cluster,8,White ash,wood,cluster/White ash,train
+cluster,1,3,cluster,9,Birch,wood,cluster/Birch,train
+cluster,1,3,cluster,10,Poplar,wood,cluster/Poplar,test
+cluster,1,3,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,1,3,cluster,12,Beech,wood,cluster/Beech,train
+cluster,1,3,cluster,13,White ash,wood,cluster/White ash,train
+cluster,1,3,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,1,3,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster,1,3,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,1,3,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,1,3,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,1,3,cluster,19,Cedar,wood,cluster/Cedar,val
+cluster,1,3,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster,1,3,cluster,21,Wenge,wood,cluster/Wenge,val
+cluster,1,3,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,val
+cluster,1,3,cluster,23,Teak,wood,cluster/Teak,train
+cluster,1,3,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,1,3,cluster,25,Sapele,wood,cluster/Sapele,test
+cluster,1,3,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,1,3,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,1,3,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,1,3,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,1,3,cluster,30,Acacia,wood,cluster/Acacia,test
+cluster,1,3,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,1,3,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,1,3,cluster,33,White oak,wood,cluster/White oak,val
+cluster,1,3,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,test
+cluster,1,3,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,1,3,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,1,3,cluster,51,Polypropylene,polymer,cluster/Polypropylene,val
+cluster,1,3,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),test
+cluster,1,3,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster,1,3,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,1,3,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,1,3,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,val
+cluster,1,3,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,1,3,cluster,63,Silicon,polymer,cluster/Silicon,test
+cluster,1,3,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,1,3,cluster,66,Steel,metal,cluster/Steel,train
+cluster,1,3,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,1,3,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,1,3,cluster,69,Lead,metal,cluster/Lead,train
+cluster,1,3,cluster,70,Copper,metal,cluster/Copper,val
+cluster,1,3,cluster,71,Brass,metal,cluster/Brass,val
+cluster,1,3,cluster,72,Bronze,metal,cluster/Bronze,test
+cluster,1,3,cluster,73,Titanium,metal,cluster/Titanium,test
+cluster,1,3,cluster,87,Jute,textile,cluster/Jute,train
+cluster,1,3,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,1,3,cluster,89,Wool felt,textile,cluster/Wool felt,test
+cluster,1,3,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,1,3,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,1,3,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,1,3,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,1,3,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,1,3,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,1,3,cluster,108,Lace,textile,cluster/Lace,train
+cluster,1,3,cluster,109,Georgette,textile,cluster/Georgette,val
+cluster,1,3,cluster,110,Organdy,textile,cluster/Organdy,test
+cluster,1,3,cluster,112,Wool,textile,cluster/Wool,train
+cluster,1,3,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,1,3,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,1,3,cluster,115,Silk,textile,cluster/Silk,train
+cluster,1,3,cluster,116,Linen,textile,cluster/Linen,test
+cluster,1,3,cluster,117,Cotton linen,textile,cluster/Cotton linen,val
+cluster,1,4,cluster,0,Nyatoh,wood,cluster/Nyatoh,test
+cluster,1,4,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,1,4,cluster,2,Elm,wood,cluster/Elm,train
+cluster,1,4,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,1,4,cluster,4,Oak,wood,cluster/Oak,train
+cluster,1,4,cluster,5,Ash,wood,cluster/Ash,train
+cluster,1,4,cluster,6,Black cherry,wood,cluster/Black cherry,val
+cluster,1,4,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,1,4,cluster,8,White ash,wood,cluster/White ash,train
+cluster,1,4,cluster,9,Birch,wood,cluster/Birch,val
+cluster,1,4,cluster,10,Poplar,wood,cluster/Poplar,val
+cluster,1,4,cluster,11,Basswood,wood,cluster/Basswood,test
+cluster,1,4,cluster,12,Beech,wood,cluster/Beech,test
+cluster,1,4,cluster,13,White ash,wood,cluster/White ash,train
+cluster,1,4,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,1,4,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,1,4,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,1,4,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",test
+cluster,1,4,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,1,4,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,1,4,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,1,4,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,1,4,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,val
+cluster,1,4,cluster,23,Teak,wood,cluster/Teak,train
+cluster,1,4,cluster,24,Mahogany,wood,cluster/Mahogany,test
+cluster,1,4,cluster,25,Sapele,wood,cluster/Sapele,val
+cluster,1,4,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,1,4,cluster,27,Douglas fir,wood,cluster/Douglas fir,val
+cluster,1,4,cluster,28,Radiata pine,wood,cluster/Radiata pine,val
+cluster,1,4,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,1,4,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,1,4,cluster,31,North pipe,wood,cluster/North pipe,test
+cluster,1,4,cluster,32,Gumwood,wood,cluster/Gumwood,test
+cluster,1,4,cluster,33,White oak,wood,cluster/White oak,train
+cluster,1,4,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,1,4,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,1,4,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,1,4,cluster,51,Polypropylene,polymer,cluster/Polypropylene,test
+cluster,1,4,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,1,4,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,test
+cluster,1,4,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,val
+cluster,1,4,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,1,4,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,val
+cluster,1,4,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,1,4,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,1,4,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,1,4,cluster,66,Steel,metal,cluster/Steel,train
+cluster,1,4,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,1,4,cluster,68,Aluminum,metal,cluster/Aluminum,test
+cluster,1,4,cluster,69,Lead,metal,cluster/Lead,train
+cluster,1,4,cluster,70,Copper,metal,cluster/Copper,val
+cluster,1,4,cluster,71,Brass,metal,cluster/Brass,train
+cluster,1,4,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,1,4,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster,1,4,cluster,87,Jute,textile,cluster/Jute,test
+cluster,1,4,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,1,4,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,1,4,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,1,4,cluster,103,Corduroy,textile,cluster/Corduroy,test
+cluster,1,4,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,1,4,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,1,4,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,test
+cluster,1,4,cluster,107,Chiffon,textile,cluster/Chiffon,val
+cluster,1,4,cluster,108,Lace,textile,cluster/Lace,train
+cluster,1,4,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,1,4,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,1,4,cluster,112,Wool,textile,cluster/Wool,test
+cluster,1,4,cluster,113,Nylon,textile,cluster/Nylon,val
+cluster,1,4,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,1,4,cluster,115,Silk,textile,cluster/Silk,train
+cluster,1,4,cluster,116,Linen,textile,cluster/Linen,train
+cluster,1,4,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster_to_lmt108,1,0,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster_to_lmt108,1,0,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster_to_lmt108,1,0,cluster,2,Elm,wood,cluster/Elm,train
+cluster_to_lmt108,1,0,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster_to_lmt108,1,0,cluster,4,Oak,wood,cluster/Oak,val
+cluster_to_lmt108,1,0,cluster,5,Ash,wood,cluster/Ash,train
+cluster_to_lmt108,1,0,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster_to_lmt108,1,0,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster_to_lmt108,1,0,cluster,8,White ash,wood,cluster/White ash,train
+cluster_to_lmt108,1,0,cluster,9,Birch,wood,cluster/Birch,train
+cluster_to_lmt108,1,0,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster_to_lmt108,1,0,cluster,11,Basswood,wood,cluster/Basswood,val
+cluster_to_lmt108,1,0,cluster,12,Beech,wood,cluster/Beech,train
+cluster_to_lmt108,1,0,cluster,13,White ash,wood,cluster/White ash,train
+cluster_to_lmt108,1,0,cluster,14,Zelkova,wood,cluster/Zelkova,val
+cluster_to_lmt108,1,0,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster_to_lmt108,1,0,cluster,16,Silver cherry,wood,cluster/Silver cherry,val
+cluster_to_lmt108,1,0,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",val
+cluster_to_lmt108,1,0,cluster,18,Chestnut,wood,cluster/Chestnut,val
+cluster_to_lmt108,1,0,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster_to_lmt108,1,0,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster_to_lmt108,1,0,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster_to_lmt108,1,0,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster_to_lmt108,1,0,cluster,23,Teak,wood,cluster/Teak,train
+cluster_to_lmt108,1,0,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster_to_lmt108,1,0,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster_to_lmt108,1,0,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster_to_lmt108,1,0,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster_to_lmt108,1,0,cluster,28,Radiata pine,wood,cluster/Radiata pine,val
+cluster_to_lmt108,1,0,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster_to_lmt108,1,0,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster_to_lmt108,1,0,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster_to_lmt108,1,0,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster_to_lmt108,1,0,cluster,33,White oak,wood,cluster/White oak,train
+cluster_to_lmt108,1,0,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,val
+cluster_to_lmt108,1,0,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster_to_lmt108,1,0,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),val
+cluster_to_lmt108,1,0,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster_to_lmt108,1,0,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster_to_lmt108,1,0,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster_to_lmt108,1,0,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster_to_lmt108,1,0,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,val
+cluster_to_lmt108,1,0,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster_to_lmt108,1,0,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster_to_lmt108,1,0,cluster,63,Silicon,polymer,cluster/Silicon,val
+cluster_to_lmt108,1,0,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster_to_lmt108,1,0,cluster,66,Steel,metal,cluster/Steel,train
+cluster_to_lmt108,1,0,cluster,67,Cast iron,metal,cluster/Cast iron,val
+cluster_to_lmt108,1,0,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster_to_lmt108,1,0,cluster,69,Lead,metal,cluster/Lead,train
+cluster_to_lmt108,1,0,cluster,70,Copper,metal,cluster/Copper,train
+cluster_to_lmt108,1,0,cluster,71,Brass,metal,cluster/Brass,train
+cluster_to_lmt108,1,0,cluster,72,Bronze,metal,cluster/Bronze,val
+cluster_to_lmt108,1,0,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster_to_lmt108,1,0,cluster,87,Jute,textile,cluster/Jute,val
+cluster_to_lmt108,1,0,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster_to_lmt108,1,0,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster_to_lmt108,1,0,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster_to_lmt108,1,0,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster_to_lmt108,1,0,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster_to_lmt108,1,0,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster_to_lmt108,1,0,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster_to_lmt108,1,0,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster_to_lmt108,1,0,cluster,108,Lace,textile,cluster/Lace,train
+cluster_to_lmt108,1,0,cluster,109,Georgette,textile,cluster/Georgette,val
+cluster_to_lmt108,1,0,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster_to_lmt108,1,0,cluster,112,Wool,textile,cluster/Wool,train
+cluster_to_lmt108,1,0,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster_to_lmt108,1,0,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster_to_lmt108,1,0,cluster,115,Silk,textile,cluster/Silk,train
+cluster_to_lmt108,1,0,cluster,116,Linen,textile,cluster/Linen,train
+cluster_to_lmt108,1,0,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster_to_lmt108,1,0,lmt108,G1ProfiledAluminumPlate,ProfiledAluminumPlate,metal,lmt108/G1ProfiledAluminumPlate,test
+cluster_to_lmt108,1,0,lmt108,G3AcrylicGlass,AcrylicGlass,polymer,lmt108/G3AcrylicGlass,test
+cluster_to_lmt108,1,0,lmt108,G3AluminumPlate,AluminumPlate,metal,lmt108/G3AluminumPlate,test
+cluster_to_lmt108,1,0,lmt108,G3Brass,Brass,metal,lmt108/G3Brass,test
+cluster_to_lmt108,1,0,lmt108,G3Copper,Copper,metal,lmt108/G3Copper,test
+cluster_to_lmt108,1,0,lmt108,G3EpoxyPlate,EpoxyPlate,polymer,lmt108/G3EpoxyPlate,test
+cluster_to_lmt108,1,0,lmt108,G3StainlessSteel,StainlessSteel,metal,lmt108/G3StainlessSteel,test
+cluster_to_lmt108,1,0,lmt108,G4Beech_0,Beech_0,wood,lmt108/Beech,test
+cluster_to_lmt108,1,0,lmt108,G4CherryTree,CherryTree,wood,lmt108/G4CherryTree,test
+cluster_to_lmt108,1,0,lmt108,G4CoreBeech,CoreBeech,wood,lmt108/Beech,test
+cluster_to_lmt108,1,0,lmt108,G4Larch,Larch,wood,lmt108/G4Larch,test
+cluster_to_lmt108,1,0,lmt108,G4ProfiledWoodPlate,ProfiledWoodPlate,wood,lmt108/G4ProfiledWoodPlate,test
+cluster_to_lmt108,1,0,lmt108,G4Teak,Teak,wood,lmt108/G4Teak,test
+cluster_to_lmt108,1,0,lmt108,G4WoodTypeSilverOak,WoodTypeSilverOak,wood,lmt108/G4WoodTypeSilverOak,test
+cluster_to_lmt108,1,0,lmt108,G5FineRubber,FineRubber,polymer,lmt108/G5FineRubber,test
+cluster_to_lmt108,1,0,lmt108,G5ProfiledRubberPlate,ProfiledRubberPlate,polymer,lmt108/G5ProfiledRubberPlate,test
+cluster_to_lmt108,1,0,lmt108,G5RubberPlateVersion2,RubberPlateVersion2,polymer,lmt108/G5RubberPlateVersion2,test
+cluster_to_lmt108,1,0,lmt108,G5SolidRubberPlateVersion1,SolidRubberPlateVersion1,polymer,lmt108/SolidRubberPlate,test
+cluster_to_lmt108,1,0,lmt108,G5SolidRubberPlateVersion2,SolidRubberPlateVersion2,polymer,lmt108/SolidRubberPlate,test
+cluster_to_lmt108,1,0,lmt108,G6Towel,Towel,textile,lmt108/G6Towel,test
+cluster_to_lmt108,1,0,lmt108,G8HighDensityPolyethylen,HighDensityPolyethylen,polymer,lmt108/G8HighDensityPolyethylen,test
+cluster_to_lmt108,1,0,lmt108,G9BlueSatin,BlueSatin,textile,lmt108/G9BlueSatin,test
+cluster_to_lmt108,1,0,lmt108,G9FloorCloth,FloorCloth,textile,lmt108/G9FloorCloth,test
+cluster_to_lmt108,1,0,lmt108,G9FloorClothVersion2,FloorClothVersion2,textile,lmt108/G9FloorClothVersion2,test
+cluster_to_lmt108,1,0,lmt108,G9FloorClothVersion3,FloorClothVersion3,textile,lmt108/G9FloorClothVersion3,test
+cluster_to_lmt108,1,0,lmt108,G9GreenVelvet,GreenVelvet,textile,lmt108/G9GreenVelvet,test
+cluster_to_lmt108,1,0,lmt108,G9Jeans,Jeans,textile,lmt108/G9Jeans,test
+cluster_to_lmt108,1,0,lmt108,G9Kashmir,Kashmir,textile,lmt108/G9Kashmir,test
+cluster_to_lmt108,1,0,lmt108,G9RedFleeze,RedFleeze,textile,lmt108/G9RedFleeze,test
+cluster_to_lmt108,1,0,lmt108,G9RedVelvet,RedVelvet,textile,lmt108/G9RedVelvet,test
+cluster_to_lmt108,1,0,lmt108,G9TableClothVersion1,TableClothVersion1,textile,lmt108/G9TableClothVersion1,test
+cluster_to_lmt108,1,0,lmt108,G9TableClothVersion2,TableClothVersion2,textile,lmt108/G9TableClothVersion2,test
+cluster_to_lmt108,1,0,lmt108,G9TextileVersion1,TextileVersion1,textile,lmt108/G9TextileVersion1,test
+cluster_to_lmt108,1,0,lmt108,G9TextileVersion2,TextileVersion2,textile,lmt108/G9TextileVersion2,test
+cluster_to_lmt108,1,0,lmt108,G9TextileVersion3,TextileVersion3,textile,lmt108/G9TextileVersion3,test
+cluster_to_lmt108,1,0,lmt108,G9TextileVersion4,TextileVersion4,textile,lmt108/G9TextileVersion4,test
+cluster,2,0,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,2,0,cluster,1,Castor aralia,wood,cluster/Castor aralia,test
+cluster,2,0,cluster,2,Elm,wood,cluster/Elm,train
+cluster,2,0,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,2,0,cluster,4,Oak,wood,cluster/Oak,test
+cluster,2,0,cluster,5,Ash,wood,cluster/Ash,train
+cluster,2,0,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,2,0,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,2,0,cluster,8,White ash,wood,cluster/White ash,val
+cluster,2,0,cluster,9,Birch,wood,cluster/Birch,train
+cluster,2,0,cluster,10,Poplar,wood,cluster/Poplar,val
+cluster,2,0,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,2,0,cluster,12,Beech,wood,cluster/Beech,test
+cluster,2,0,cluster,13,White ash,wood,cluster/White ash,val
+cluster,2,0,cluster,14,Zelkova,wood,cluster/Zelkova,val
+cluster,2,0,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,test
+cluster,2,0,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,2,0,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,2,0,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,2,0,cluster,19,Cedar,wood,cluster/Cedar,test
+cluster,2,0,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,2,0,cluster,21,Wenge,wood,cluster/Wenge,test
+cluster,2,0,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,val
+cluster,2,0,cluster,23,Teak,wood,cluster/Teak,val
+cluster,2,0,cluster,24,Mahogany,wood,cluster/Mahogany,test
+cluster,2,0,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,2,0,cluster,26,Western hemlock,wood,cluster/Western hemlock,val
+cluster,2,0,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,2,0,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,2,0,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,2,0,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,2,0,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,2,0,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,2,0,cluster,33,White oak,wood,cluster/White oak,train
+cluster,2,0,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,2,0,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,2,0,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,2,0,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,2,0,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),val
+cluster,2,0,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,test
+cluster,2,0,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,2,0,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,2,0,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,test
+cluster,2,0,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,val
+cluster,2,0,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,2,0,cluster,65,Stainless steel,metal,cluster/Stainless steel,val
+cluster,2,0,cluster,66,Steel,metal,cluster/Steel,train
+cluster,2,0,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,2,0,cluster,68,Aluminum,metal,cluster/Aluminum,val
+cluster,2,0,cluster,69,Lead,metal,cluster/Lead,train
+cluster,2,0,cluster,70,Copper,metal,cluster/Copper,train
+cluster,2,0,cluster,71,Brass,metal,cluster/Brass,train
+cluster,2,0,cluster,72,Bronze,metal,cluster/Bronze,test
+cluster,2,0,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,2,0,cluster,87,Jute,textile,cluster/Jute,train
+cluster,2,0,cluster,88,Cotton,textile,cluster/Cotton,test
+cluster,2,0,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,2,0,cluster,102,Velvet,textile,cluster/Velvet,test
+cluster,2,0,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,2,0,cluster,104,Cotton,textile,cluster/Cotton,test
+cluster,2,0,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,val
+cluster,2,0,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,val
+cluster,2,0,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,2,0,cluster,108,Lace,textile,cluster/Lace,train
+cluster,2,0,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,2,0,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,2,0,cluster,112,Wool,textile,cluster/Wool,train
+cluster,2,0,cluster,113,Nylon,textile,cluster/Nylon,val
+cluster,2,0,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,2,0,cluster,115,Silk,textile,cluster/Silk,train
+cluster,2,0,cluster,116,Linen,textile,cluster/Linen,train
+cluster,2,0,cluster,117,Cotton linen,textile,cluster/Cotton linen,val
+cluster,2,1,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,2,1,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,2,1,cluster,2,Elm,wood,cluster/Elm,train
+cluster,2,1,cluster,3,Red oak,wood,cluster/Red oak,test
+cluster,2,1,cluster,4,Oak,wood,cluster/Oak,train
+cluster,2,1,cluster,5,Ash,wood,cluster/Ash,val
+cluster,2,1,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,2,1,cluster,7,Hard maple,wood,cluster/Hard maple,test
+cluster,2,1,cluster,8,White ash,wood,cluster/White ash,test
+cluster,2,1,cluster,9,Birch,wood,cluster/Birch,train
+cluster,2,1,cluster,10,Poplar,wood,cluster/Poplar,test
+cluster,2,1,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,2,1,cluster,12,Beech,wood,cluster/Beech,val
+cluster,2,1,cluster,13,White ash,wood,cluster/White ash,test
+cluster,2,1,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,2,1,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,2,1,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,2,1,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,2,1,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster,2,1,cluster,19,Cedar,wood,cluster/Cedar,val
+cluster,2,1,cluster,20,Zebra,wood,cluster/Zebra,val
+cluster,2,1,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,2,1,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,val
+cluster,2,1,cluster,23,Teak,wood,cluster/Teak,train
+cluster,2,1,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,2,1,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,2,1,cluster,26,Western hemlock,wood,cluster/Western hemlock,val
+cluster,2,1,cluster,27,Douglas fir,wood,cluster/Douglas fir,val
+cluster,2,1,cluster,28,Radiata pine,wood,cluster/Radiata pine,test
+cluster,2,1,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster,2,1,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,2,1,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,2,1,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,2,1,cluster,33,White oak,wood,cluster/White oak,train
+cluster,2,1,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,test
+cluster,2,1,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,2,1,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,2,1,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster,2,1,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),test
+cluster,2,1,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,val
+cluster,2,1,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,test
+cluster,2,1,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,2,1,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,val
+cluster,2,1,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,2,1,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,2,1,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,2,1,cluster,66,Steel,metal,cluster/Steel,train
+cluster,2,1,cluster,67,Cast iron,metal,cluster/Cast iron,val
+cluster,2,1,cluster,68,Aluminum,metal,cluster/Aluminum,test
+cluster,2,1,cluster,69,Lead,metal,cluster/Lead,test
+cluster,2,1,cluster,70,Copper,metal,cluster/Copper,val
+cluster,2,1,cluster,71,Brass,metal,cluster/Brass,train
+cluster,2,1,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,2,1,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,2,1,cluster,87,Jute,textile,cluster/Jute,train
+cluster,2,1,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,2,1,cluster,89,Wool felt,textile,cluster/Wool felt,test
+cluster,2,1,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,2,1,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,2,1,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,2,1,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,2,1,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,2,1,cluster,107,Chiffon,textile,cluster/Chiffon,test
+cluster,2,1,cluster,108,Lace,textile,cluster/Lace,val
+cluster,2,1,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,2,1,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,2,1,cluster,112,Wool,textile,cluster/Wool,test
+cluster,2,1,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,2,1,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,2,1,cluster,115,Silk,textile,cluster/Silk,test
+cluster,2,1,cluster,116,Linen,textile,cluster/Linen,train
+cluster,2,1,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster,2,2,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,2,2,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,2,2,cluster,2,Elm,wood,cluster/Elm,train
+cluster,2,2,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,2,2,cluster,4,Oak,wood,cluster/Oak,train
+cluster,2,2,cluster,5,Ash,wood,cluster/Ash,train
+cluster,2,2,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,2,2,cluster,7,Hard maple,wood,cluster/Hard maple,val
+cluster,2,2,cluster,8,White ash,wood,cluster/White ash,train
+cluster,2,2,cluster,9,Birch,wood,cluster/Birch,test
+cluster,2,2,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,2,2,cluster,11,Basswood,wood,cluster/Basswood,test
+cluster,2,2,cluster,12,Beech,wood,cluster/Beech,val
+cluster,2,2,cluster,13,White ash,wood,cluster/White ash,train
+cluster,2,2,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,2,2,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster,2,2,cluster,16,Silver cherry,wood,cluster/Silver cherry,val
+cluster,2,2,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,2,2,cluster,18,Chestnut,wood,cluster/Chestnut,val
+cluster,2,2,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,2,2,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,2,2,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,2,2,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,val
+cluster,2,2,cluster,23,Teak,wood,cluster/Teak,test
+cluster,2,2,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,2,2,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,2,2,cluster,26,Western hemlock,wood,cluster/Western hemlock,test
+cluster,2,2,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster,2,2,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,2,2,cluster,29,Walnut,wood,cluster/Walnut,test
+cluster,2,2,cluster,30,Acacia,wood,cluster/Acacia,val
+cluster,2,2,cluster,31,North pipe,wood,cluster/North pipe,test
+cluster,2,2,cluster,32,Gumwood,wood,cluster/Gumwood,test
+cluster,2,2,cluster,33,White oak,wood,cluster/White oak,train
+cluster,2,2,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,2,2,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,2,2,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,2,2,cluster,51,Polypropylene,polymer,cluster/Polypropylene,val
+cluster,2,2,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,2,2,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,val
+cluster,2,2,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,2,2,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,test
+cluster,2,2,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,2,2,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster,2,2,cluster,63,Silicon,polymer,cluster/Silicon,test
+cluster,2,2,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster,2,2,cluster,66,Steel,metal,cluster/Steel,train
+cluster,2,2,cluster,67,Cast iron,metal,cluster/Cast iron,test
+cluster,2,2,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,2,2,cluster,69,Lead,metal,cluster/Lead,train
+cluster,2,2,cluster,70,Copper,metal,cluster/Copper,val
+cluster,2,2,cluster,71,Brass,metal,cluster/Brass,train
+cluster,2,2,cluster,72,Bronze,metal,cluster/Bronze,val
+cluster,2,2,cluster,73,Titanium,metal,cluster/Titanium,test
+cluster,2,2,cluster,87,Jute,textile,cluster/Jute,train
+cluster,2,2,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,2,2,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,2,2,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,2,2,cluster,103,Corduroy,textile,cluster/Corduroy,test
+cluster,2,2,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,2,2,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,2,2,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,2,2,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,2,2,cluster,108,Lace,textile,cluster/Lace,train
+cluster,2,2,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,2,2,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,2,2,cluster,112,Wool,textile,cluster/Wool,train
+cluster,2,2,cluster,113,Nylon,textile,cluster/Nylon,test
+cluster,2,2,cluster,114,Polyester,textile,cluster/Polyester,test
+cluster,2,2,cluster,115,Silk,textile,cluster/Silk,train
+cluster,2,2,cluster,116,Linen,textile,cluster/Linen,val
+cluster,2,2,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster,2,3,cluster,0,Nyatoh,wood,cluster/Nyatoh,test
+cluster,2,3,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,2,3,cluster,2,Elm,wood,cluster/Elm,train
+cluster,2,3,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,2,3,cluster,4,Oak,wood,cluster/Oak,val
+cluster,2,3,cluster,5,Ash,wood,cluster/Ash,train
+cluster,2,3,cluster,6,Black cherry,wood,cluster/Black cherry,test
+cluster,2,3,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster,2,3,cluster,8,White ash,wood,cluster/White ash,train
+cluster,2,3,cluster,9,Birch,wood,cluster/Birch,train
+cluster,2,3,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,2,3,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,2,3,cluster,12,Beech,wood,cluster/Beech,train
+cluster,2,3,cluster,13,White ash,wood,cluster/White ash,train
+cluster,2,3,cluster,14,Zelkova,wood,cluster/Zelkova,test
+cluster,2,3,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster,2,3,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster,2,3,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",train
+cluster,2,3,cluster,18,Chestnut,wood,cluster/Chestnut,test
+cluster,2,3,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,2,3,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster,2,3,cluster,21,Wenge,wood,cluster/Wenge,val
+cluster,2,3,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster,2,3,cluster,23,Teak,wood,cluster/Teak,val
+cluster,2,3,cluster,24,Mahogany,wood,cluster/Mahogany,val
+cluster,2,3,cluster,25,Sapele,wood,cluster/Sapele,test
+cluster,2,3,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,2,3,cluster,27,Douglas fir,wood,cluster/Douglas fir,test
+cluster,2,3,cluster,28,Radiata pine,wood,cluster/Radiata pine,val
+cluster,2,3,cluster,29,Walnut,wood,cluster/Walnut,val
+cluster,2,3,cluster,30,Acacia,wood,cluster/Acacia,test
+cluster,2,3,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,2,3,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,2,3,cluster,33,White oak,wood,cluster/White oak,train
+cluster,2,3,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,2,3,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),test
+cluster,2,3,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),train
+cluster,2,3,cluster,51,Polypropylene,polymer,cluster/Polypropylene,test
+cluster,2,3,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,2,3,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,val
+cluster,2,3,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,2,3,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,2,3,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,2,3,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,val
+cluster,2,3,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster,2,3,cluster,65,Stainless steel,metal,cluster/Stainless steel,test
+cluster,2,3,cluster,66,Steel,metal,cluster/Steel,test
+cluster,2,3,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster,2,3,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,2,3,cluster,69,Lead,metal,cluster/Lead,train
+cluster,2,3,cluster,70,Copper,metal,cluster/Copper,val
+cluster,2,3,cluster,71,Brass,metal,cluster/Brass,train
+cluster,2,3,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,2,3,cluster,73,Titanium,metal,cluster/Titanium,val
+cluster,2,3,cluster,87,Jute,textile,cluster/Jute,train
+cluster,2,3,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster,2,3,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,2,3,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,2,3,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster,2,3,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster,2,3,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster,2,3,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,test
+cluster,2,3,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster,2,3,cluster,108,Lace,textile,cluster/Lace,test
+cluster,2,3,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster,2,3,cluster,110,Organdy,textile,cluster/Organdy,test
+cluster,2,3,cluster,112,Wool,textile,cluster/Wool,train
+cluster,2,3,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,2,3,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,2,3,cluster,115,Silk,textile,cluster/Silk,val
+cluster,2,3,cluster,116,Linen,textile,cluster/Linen,val
+cluster,2,3,cluster,117,Cotton linen,textile,cluster/Cotton linen,test
+cluster,2,4,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster,2,4,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster,2,4,cluster,2,Elm,wood,cluster/Elm,test
+cluster,2,4,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster,2,4,cluster,4,Oak,wood,cluster/Oak,train
+cluster,2,4,cluster,5,Ash,wood,cluster/Ash,test
+cluster,2,4,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster,2,4,cluster,7,Hard maple,wood,cluster/Hard maple,val
+cluster,2,4,cluster,8,White ash,wood,cluster/White ash,val
+cluster,2,4,cluster,9,Birch,wood,cluster/Birch,val
+cluster,2,4,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster,2,4,cluster,11,Basswood,wood,cluster/Basswood,train
+cluster,2,4,cluster,12,Beech,wood,cluster/Beech,train
+cluster,2,4,cluster,13,White ash,wood,cluster/White ash,val
+cluster,2,4,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster,2,4,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,train
+cluster,2,4,cluster,16,Silver cherry,wood,cluster/Silver cherry,test
+cluster,2,4,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",test
+cluster,2,4,cluster,18,Chestnut,wood,cluster/Chestnut,val
+cluster,2,4,cluster,19,Cedar,wood,cluster/Cedar,train
+cluster,2,4,cluster,20,Zebra,wood,cluster/Zebra,test
+cluster,2,4,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster,2,4,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,test
+cluster,2,4,cluster,23,Teak,wood,cluster/Teak,train
+cluster,2,4,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster,2,4,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster,2,4,cluster,26,Western hemlock,wood,cluster/Western hemlock,train
+cluster,2,4,cluster,27,Douglas fir,wood,cluster/Douglas fir,val
+cluster,2,4,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster,2,4,cluster,29,Walnut,wood,cluster/Walnut,val
+cluster,2,4,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster,2,4,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster,2,4,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster,2,4,cluster,33,White oak,wood,cluster/White oak,test
+cluster,2,4,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster,2,4,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster,2,4,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),test
+cluster,2,4,cluster,51,Polypropylene,polymer,cluster/Polypropylene,val
+cluster,2,4,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),train
+cluster,2,4,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster,2,4,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,train
+cluster,2,4,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster,2,4,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster,2,4,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,test
+cluster,2,4,cluster,63,Silicon,polymer,cluster/Silicon,val
+cluster,2,4,cluster,65,Stainless steel,metal,cluster/Stainless steel,val
+cluster,2,4,cluster,66,Steel,metal,cluster/Steel,train
+cluster,2,4,cluster,67,Cast iron,metal,cluster/Cast iron,val
+cluster,2,4,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster,2,4,cluster,69,Lead,metal,cluster/Lead,train
+cluster,2,4,cluster,70,Copper,metal,cluster/Copper,test
+cluster,2,4,cluster,71,Brass,metal,cluster/Brass,test
+cluster,2,4,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster,2,4,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster,2,4,cluster,87,Jute,textile,cluster/Jute,test
+cluster,2,4,cluster,88,Cotton,textile,cluster/Cotton,train
+cluster,2,4,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster,2,4,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster,2,4,cluster,103,Corduroy,textile,cluster/Corduroy,val
+cluster,2,4,cluster,104,Cotton,textile,cluster/Cotton,train
+cluster,2,4,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,test
+cluster,2,4,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,train
+cluster,2,4,cluster,107,Chiffon,textile,cluster/Chiffon,val
+cluster,2,4,cluster,108,Lace,textile,cluster/Lace,val
+cluster,2,4,cluster,109,Georgette,textile,cluster/Georgette,test
+cluster,2,4,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster,2,4,cluster,112,Wool,textile,cluster/Wool,train
+cluster,2,4,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster,2,4,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster,2,4,cluster,115,Silk,textile,cluster/Silk,val
+cluster,2,4,cluster,116,Linen,textile,cluster/Linen,test
+cluster,2,4,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster_to_lmt108,2,0,cluster,0,Nyatoh,wood,cluster/Nyatoh,train
+cluster_to_lmt108,2,0,cluster,1,Castor aralia,wood,cluster/Castor aralia,train
+cluster_to_lmt108,2,0,cluster,2,Elm,wood,cluster/Elm,train
+cluster_to_lmt108,2,0,cluster,3,Red oak,wood,cluster/Red oak,train
+cluster_to_lmt108,2,0,cluster,4,Oak,wood,cluster/Oak,train
+cluster_to_lmt108,2,0,cluster,5,Ash,wood,cluster/Ash,train
+cluster_to_lmt108,2,0,cluster,6,Black cherry,wood,cluster/Black cherry,train
+cluster_to_lmt108,2,0,cluster,7,Hard maple,wood,cluster/Hard maple,train
+cluster_to_lmt108,2,0,cluster,8,White ash,wood,cluster/White ash,train
+cluster_to_lmt108,2,0,cluster,9,Birch,wood,cluster/Birch,train
+cluster_to_lmt108,2,0,cluster,10,Poplar,wood,cluster/Poplar,train
+cluster_to_lmt108,2,0,cluster,11,Basswood,wood,cluster/Basswood,val
+cluster_to_lmt108,2,0,cluster,12,Beech,wood,cluster/Beech,val
+cluster_to_lmt108,2,0,cluster,13,White ash,wood,cluster/White ash,train
+cluster_to_lmt108,2,0,cluster,14,Zelkova,wood,cluster/Zelkova,train
+cluster_to_lmt108,2,0,cluster,15,Wild cherry tree,wood,cluster/Wild cherry tree,val
+cluster_to_lmt108,2,0,cluster,16,Silver cherry,wood,cluster/Silver cherry,train
+cluster_to_lmt108,2,0,cluster,17,"Japanese cypress, Hinoki",wood,"cluster/Japanese cypress, Hinoki",val
+cluster_to_lmt108,2,0,cluster,18,Chestnut,wood,cluster/Chestnut,train
+cluster_to_lmt108,2,0,cluster,19,Cedar,wood,cluster/Cedar,val
+cluster_to_lmt108,2,0,cluster,20,Zebra,wood,cluster/Zebra,train
+cluster_to_lmt108,2,0,cluster,21,Wenge,wood,cluster/Wenge,train
+cluster_to_lmt108,2,0,cluster,22,Eucalyptus,wood,cluster/Eucalyptus,train
+cluster_to_lmt108,2,0,cluster,23,Teak,wood,cluster/Teak,val
+cluster_to_lmt108,2,0,cluster,24,Mahogany,wood,cluster/Mahogany,train
+cluster_to_lmt108,2,0,cluster,25,Sapele,wood,cluster/Sapele,train
+cluster_to_lmt108,2,0,cluster,26,Western hemlock,wood,cluster/Western hemlock,val
+cluster_to_lmt108,2,0,cluster,27,Douglas fir,wood,cluster/Douglas fir,train
+cluster_to_lmt108,2,0,cluster,28,Radiata pine,wood,cluster/Radiata pine,train
+cluster_to_lmt108,2,0,cluster,29,Walnut,wood,cluster/Walnut,train
+cluster_to_lmt108,2,0,cluster,30,Acacia,wood,cluster/Acacia,train
+cluster_to_lmt108,2,0,cluster,31,North pipe,wood,cluster/North pipe,train
+cluster_to_lmt108,2,0,cluster,32,Gumwood,wood,cluster/Gumwood,train
+cluster_to_lmt108,2,0,cluster,33,White oak,wood,cluster/White oak,val
+cluster_to_lmt108,2,0,cluster,35,Merkusii pine,wood,cluster/Merkusii pine,train
+cluster_to_lmt108,2,0,cluster,49,Polyethylene (high density),polymer,cluster/Polyethylene (high density),train
+cluster_to_lmt108,2,0,cluster,50,Polyethylene (low density),polymer,cluster/Polyethylene (low density),val
+cluster_to_lmt108,2,0,cluster,51,Polypropylene,polymer,cluster/Polypropylene,train
+cluster_to_lmt108,2,0,cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer,cluster/ABS(Acrylonitrile Butadiene Styrene),val
+cluster_to_lmt108,2,0,cluster,54,Vinyl chloride,polymer,cluster/Vinyl chloride,train
+cluster_to_lmt108,2,0,cluster,55,Polymethyl methacrylate,polymer,cluster/Polymethyl methacrylate,val
+cluster_to_lmt108,2,0,cluster,56,Polytetrafluoroethylene,polymer,cluster/Polytetrafluoroethylene,train
+cluster_to_lmt108,2,0,cluster,57,Polyethylene terephthalate,polymer,cluster/Polyethylene terephthalate,train
+cluster_to_lmt108,2,0,cluster,58,Ppolylactic acid,polymer,cluster/Ppolylactic acid,train
+cluster_to_lmt108,2,0,cluster,63,Silicon,polymer,cluster/Silicon,train
+cluster_to_lmt108,2,0,cluster,65,Stainless steel,metal,cluster/Stainless steel,train
+cluster_to_lmt108,2,0,cluster,66,Steel,metal,cluster/Steel,val
+cluster_to_lmt108,2,0,cluster,67,Cast iron,metal,cluster/Cast iron,train
+cluster_to_lmt108,2,0,cluster,68,Aluminum,metal,cluster/Aluminum,train
+cluster_to_lmt108,2,0,cluster,69,Lead,metal,cluster/Lead,val
+cluster_to_lmt108,2,0,cluster,70,Copper,metal,cluster/Copper,train
+cluster_to_lmt108,2,0,cluster,71,Brass,metal,cluster/Brass,train
+cluster_to_lmt108,2,0,cluster,72,Bronze,metal,cluster/Bronze,train
+cluster_to_lmt108,2,0,cluster,73,Titanium,metal,cluster/Titanium,train
+cluster_to_lmt108,2,0,cluster,87,Jute,textile,cluster/Jute,train
+cluster_to_lmt108,2,0,cluster,88,Cotton,textile,cluster/Cotton,val
+cluster_to_lmt108,2,0,cluster,89,Wool felt,textile,cluster/Wool felt,train
+cluster_to_lmt108,2,0,cluster,102,Velvet,textile,cluster/Velvet,train
+cluster_to_lmt108,2,0,cluster,103,Corduroy,textile,cluster/Corduroy,train
+cluster_to_lmt108,2,0,cluster,104,Cotton,textile,cluster/Cotton,val
+cluster_to_lmt108,2,0,cluster,105,Cotton broadcloth,textile,cluster/Cotton broadcloth,train
+cluster_to_lmt108,2,0,cluster,106,Cotton gauze,textile,cluster/Cotton gauze,val
+cluster_to_lmt108,2,0,cluster,107,Chiffon,textile,cluster/Chiffon,train
+cluster_to_lmt108,2,0,cluster,108,Lace,textile,cluster/Lace,train
+cluster_to_lmt108,2,0,cluster,109,Georgette,textile,cluster/Georgette,train
+cluster_to_lmt108,2,0,cluster,110,Organdy,textile,cluster/Organdy,train
+cluster_to_lmt108,2,0,cluster,112,Wool,textile,cluster/Wool,train
+cluster_to_lmt108,2,0,cluster,113,Nylon,textile,cluster/Nylon,train
+cluster_to_lmt108,2,0,cluster,114,Polyester,textile,cluster/Polyester,train
+cluster_to_lmt108,2,0,cluster,115,Silk,textile,cluster/Silk,val
+cluster_to_lmt108,2,0,cluster,116,Linen,textile,cluster/Linen,val
+cluster_to_lmt108,2,0,cluster,117,Cotton linen,textile,cluster/Cotton linen,train
+cluster_to_lmt108,2,0,lmt108,G1ProfiledAluminumPlate,ProfiledAluminumPlate,metal,lmt108/G1ProfiledAluminumPlate,test
+cluster_to_lmt108,2,0,lmt108,G3AcrylicGlass,AcrylicGlass,polymer,lmt108/G3AcrylicGlass,test
+cluster_to_lmt108,2,0,lmt108,G3AluminumPlate,AluminumPlate,metal,lmt108/G3AluminumPlate,test
+cluster_to_lmt108,2,0,lmt108,G3Brass,Brass,metal,lmt108/G3Brass,test
+cluster_to_lmt108,2,0,lmt108,G3Copper,Copper,metal,lmt108/G3Copper,test
+cluster_to_lmt108,2,0,lmt108,G3EpoxyPlate,EpoxyPlate,polymer,lmt108/G3EpoxyPlate,test
+cluster_to_lmt108,2,0,lmt108,G3StainlessSteel,StainlessSteel,metal,lmt108/G3StainlessSteel,test
+cluster_to_lmt108,2,0,lmt108,G4Beech_0,Beech_0,wood,lmt108/Beech,test
+cluster_to_lmt108,2,0,lmt108,G4CherryTree,CherryTree,wood,lmt108/G4CherryTree,test
+cluster_to_lmt108,2,0,lmt108,G4CoreBeech,CoreBeech,wood,lmt108/Beech,test
+cluster_to_lmt108,2,0,lmt108,G4Larch,Larch,wood,lmt108/G4Larch,test
+cluster_to_lmt108,2,0,lmt108,G4ProfiledWoodPlate,ProfiledWoodPlate,wood,lmt108/G4ProfiledWoodPlate,test
+cluster_to_lmt108,2,0,lmt108,G4Teak,Teak,wood,lmt108/G4Teak,test
+cluster_to_lmt108,2,0,lmt108,G4WoodTypeSilverOak,WoodTypeSilverOak,wood,lmt108/G4WoodTypeSilverOak,test
+cluster_to_lmt108,2,0,lmt108,G5FineRubber,FineRubber,polymer,lmt108/G5FineRubber,test
+cluster_to_lmt108,2,0,lmt108,G5ProfiledRubberPlate,ProfiledRubberPlate,polymer,lmt108/G5ProfiledRubberPlate,test
+cluster_to_lmt108,2,0,lmt108,G5RubberPlateVersion2,RubberPlateVersion2,polymer,lmt108/G5RubberPlateVersion2,test
+cluster_to_lmt108,2,0,lmt108,G5SolidRubberPlateVersion1,SolidRubberPlateVersion1,polymer,lmt108/SolidRubberPlate,test
+cluster_to_lmt108,2,0,lmt108,G5SolidRubberPlateVersion2,SolidRubberPlateVersion2,polymer,lmt108/SolidRubberPlate,test
+cluster_to_lmt108,2,0,lmt108,G6Towel,Towel,textile,lmt108/G6Towel,test
+cluster_to_lmt108,2,0,lmt108,G8HighDensityPolyethylen,HighDensityPolyethylen,polymer,lmt108/G8HighDensityPolyethylen,test
+cluster_to_lmt108,2,0,lmt108,G9BlueSatin,BlueSatin,textile,lmt108/G9BlueSatin,test
+cluster_to_lmt108,2,0,lmt108,G9FloorCloth,FloorCloth,textile,lmt108/G9FloorCloth,test
+cluster_to_lmt108,2,0,lmt108,G9FloorClothVersion2,FloorClothVersion2,textile,lmt108/G9FloorClothVersion2,test
+cluster_to_lmt108,2,0,lmt108,G9FloorClothVersion3,FloorClothVersion3,textile,lmt108/G9FloorClothVersion3,test
+cluster_to_lmt108,2,0,lmt108,G9GreenVelvet,GreenVelvet,textile,lmt108/G9GreenVelvet,test
+cluster_to_lmt108,2,0,lmt108,G9Jeans,Jeans,textile,lmt108/G9Jeans,test
+cluster_to_lmt108,2,0,lmt108,G9Kashmir,Kashmir,textile,lmt108/G9Kashmir,test
+cluster_to_lmt108,2,0,lmt108,G9RedFleeze,RedFleeze,textile,lmt108/G9RedFleeze,test
+cluster_to_lmt108,2,0,lmt108,G9RedVelvet,RedVelvet,textile,lmt108/G9RedVelvet,test
+cluster_to_lmt108,2,0,lmt108,G9TableClothVersion1,TableClothVersion1,textile,lmt108/G9TableClothVersion1,test
+cluster_to_lmt108,2,0,lmt108,G9TableClothVersion2,TableClothVersion2,textile,lmt108/G9TableClothVersion2,test
+cluster_to_lmt108,2,0,lmt108,G9TextileVersion1,TextileVersion1,textile,lmt108/G9TextileVersion1,test
+cluster_to_lmt108,2,0,lmt108,G9TextileVersion2,TextileVersion2,textile,lmt108/G9TextileVersion2,test
+cluster_to_lmt108,2,0,lmt108,G9TextileVersion3,TextileVersion3,textile,lmt108/G9TextileVersion3,test
+cluster_to_lmt108,2,0,lmt108,G9TextileVersion4,TextileVersion4,textile,lmt108/G9TextileVersion4,test
