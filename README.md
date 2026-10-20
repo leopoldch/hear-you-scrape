@@ -39,9 +39,9 @@ problems. Either the families are hard to tell apart even within one setup (low 
 the model learns them but does not transfer (good in-domain scores, then a drop). The difference is
 the generalization gap between setups.
 
-![Role of each Cluster surface per fold](cluster_folds.png)
-![Role of each LMT108 surface per fold](lmt108_folds.png)
-![Role of each surface of both datasets per fold](combined_folds.png)
+![Role of each Cluster surface per fold](analysis/splits/cluster_folds.png)
+![Role of each LMT108 surface per fold](analysis/splits/lmt108_folds.png)
+![Role of each surface of both datasets per fold](analysis/splits/combined_folds.png)
 
 ## Numbers
 
