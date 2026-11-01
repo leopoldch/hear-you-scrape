@@ -6,10 +6,12 @@ import pandas as pd
 import seaborn as sns
 from scipy import ndimage, signal
 from scipy.io import wavfile
-from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import StratifiedGroupKFold
 
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / "scripts"))
+from splits import kept_surfaces  # noqa: E402
+
 from surface_families import surface_families  # noqa: E402
 
 CLUSTER = ROOT / "data/cluster/cluster_haptic_texture_dataset/sensor_data"
@@ -247,10 +249,15 @@ def shapes(psd):
 
 
 def surface_folds(meta):
-    surfaces = meta[["surface", "family"]].drop_duplicates().reset_index(drop=True)
-    splitter = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+    # Same material = same group (e.g. Cluster 8 and 13 are both White ash), so it never sits on both sides.
+    kept = kept_surfaces()
+    group_of_surface = kept.set_index(kept.dataset + "/" + kept.surface).group
+    surfaces = meta[["dataset", "surface", "family"]].drop_duplicates().reset_index(drop=True)
+    surface_ids = surfaces.dataset + "/" + surfaces.surface
+    groups = surface_ids.map(group_of_surface).fillna(surface_ids)
+    splitter = StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=42)
     fold_of_surface = {}
-    for fold, (_, test) in enumerate(splitter.split(surfaces.surface, surfaces.family)):
+    for fold, (_, test) in enumerate(splitter.split(surfaces.surface, surfaces.family, groups)):
         for surface in surfaces.surface.iloc[test]:
             fold_of_surface[surface] = fold
     return meta.surface.map(fold_of_surface).to_numpy()

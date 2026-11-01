@@ -102,7 +102,7 @@ centering for unseen recording devices, we subtract each setup's mean spectral s
 from [On Frequency-Wise Normalizations for Better Recording Device Generalization in Audio Spectrogram
 Transformers](https://arxiv.org/abs/2306.11764); our experiment applies its idea to setup-level mean
 shapes and finds that removing the common filter alone does not align the families.
-The best case is acceleration on SENS3: 0.39 [0.32–0.47], an exploratory result on a repeatedly used test.
+Picking the best of these many scores on SENS3 would be selecting on the test, so no single best case is reported.
 
 ![Difference of mean shapes between setups](analysis/classification/setup_filter.png)
 ![Centering each setup, acceleration](analysis/classification/setup_centering_acceleration.png)
@@ -127,7 +127,9 @@ uv run python scripts/classification/run.py
 ```
 
 The classification run regenerates the team splits, results and waveform data; CNNs need a GPU.
-Historical results use five surface folds; the `spectral_models_on_team_splits` and
+Historical results use five surface folds, with duplicate materials (White ash 8/13, Cotton 88/104,
+SolidRubber V1/V2, Beech/CoreBeech) now kept in the same fold; results committed before this change
+let them straddle folds and are to be regenerated. The `spectral_models_on_team_splits` and
 `cnn_on_team_splits` commands use the team's grouped splits.
 Settings and seeds are fixed in the scripts. Scores are balanced accuracies; few-shot bands show
 variation across 20 draws, while the other intervals bootstrap whole surfaces.

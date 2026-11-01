@@ -30,6 +30,7 @@ TESTS = {
     "LMT108 -> Cluster (development)": (["lmt108"], "cluster"),
     "Cluster + LMT108 -> SENS3 (external)": (["cluster", "lmt108"], "sens3"),
 }
+N_SEEDS = 3
 
 
 def cnn_scores(variants):
@@ -49,18 +50,22 @@ def cnn_scores(variants):
             test_windows = np.flatnonzero(window_dataset == test_dataset)
         for input_name in SPECTROGRAMS_OF_INPUT:
             for variant_name, variant in variants.items():
-                model = train(
-                    input_name,
-                    spectrograms,
-                    family_of_window,
-                    group_of_window,
-                    train_windows,
-                    seed=0,
-                    variant=variant,
-                    target=(test_spectrograms, test_windows, test_dataset),
-                )
-                predicted = classify_recordings(model, test_spectrograms, test_windows, test_recording_of_window)
-                scores = score(tested, predicted.reindex(tested.index))
+                predictions = []
+                for seed in range(N_SEEDS):
+                    model = train(
+                        input_name,
+                        spectrograms,
+                        family_of_window,
+                        group_of_window,
+                        train_windows,
+                        seed=seed,
+                        variant=variant,
+                        target=(test_spectrograms, test_windows, test_dataset),
+                    )
+                    predicted = classify_recordings(model, test_spectrograms, test_windows, test_recording_of_window)
+                    predictions.append(predicted.reindex(tested.index))
+                # All seeds pooled: the interval then also covers the run-to-run noise.
+                scores = score(pd.concat([tested] * N_SEEDS), pd.concat(predictions))
                 rows.append({"test": test_name, "input": input_name, "variant": variant_name, **scores})
                 print(f"{test_name} | {input_name} | {variant_name}: {scores['balanced accuracy']:.2f}", flush=True)
     return rows
@@ -73,6 +78,10 @@ def mark_chosen(scores):
     best = mean_development.groupby("input").idxmax().map(lambda key: key[1])
     scores["chosen"] = scores.variant == scores.input.map(best)
     print("\nchosen on the development tests:\n" + best.to_string())
+    # Only the external test is unbiased: the development scores of the chosen variant were used to choose it.
+    external = scores[scores.chosen & scores.test.str.contains("external")]
+    print("\nchosen variant on the external test (the number to report):")
+    print(external[["input", "variant", "balanced accuracy", "low", "high"]].to_string(index=False))
     return scores
 
 

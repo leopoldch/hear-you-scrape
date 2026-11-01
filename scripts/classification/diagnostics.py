@@ -118,9 +118,9 @@ SETUPS = ["cluster", "lmt108", "sens3"]
 SPECTRAL_MODELS = {"logistic regression": lambda: LogisticRegression(max_iter=2000), "RBF SVM": SVC}
 
 
-def centered(shapes, recordings, balanced):
-    keys = [recordings.dataset, recordings.family] if balanced else [recordings.dataset]
-    setup_means = shapes.groupby(keys).mean().groupby(level=0).mean()
+def centered(shapes, recordings):
+    # Uses only the setup name, never the families: the tested setup's labels stay unseen.
+    setup_means = shapes.groupby(recordings.dataset).mean()
     return shapes - setup_means.loc[recordings.dataset].to_numpy()
 
 
@@ -133,8 +133,7 @@ def centering():
     recordings, shapes = spectral_shape_features("sens3")
     versions = {
         "raw": shapes,
-        "centered": centered(shapes, recordings, balanced=False),
-        "centered, family-balanced": centered(shapes, recordings, balanced=True),
+        "centered": centered(shapes, recordings),
     }
     rows = []
     for held_out in SETUPS:
