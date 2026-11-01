@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-# Reproduce the whole signal-processing analysis; figures and tables go to analysis/signal_processing/.
-# extract_spectra.py takes ~6 minutes (16 cores) and writes the cache; the other scripts take seconds,
-# except spectra_embeddings.py (~5 minutes).
 set -euo pipefail
 cd "$(dirname "$0")/../.."
 uv run python scripts/surface_families.py

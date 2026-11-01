@@ -10,6 +10,9 @@ dependencies = [
     "scikit-learn",
     "pandas>=3.0.6",
     "seaborn>=0.13.2",
+    "torch>=2.14.1",
+    "torchaudio>=2.11.0",
+    "zipfile-deflate64>=0.2.0",
 ]
 
 [tool.ruff]
@@ -25,4 +28,4 @@ dev = [
 ]
 
 [tool.ruff.lint.isort]
-known-first-party = ["common", "surface_families"]
+known-first-party = ["cnn", "common", "evaluation", "extract_spectra", "surface_families"]

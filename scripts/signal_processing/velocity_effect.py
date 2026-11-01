@@ -1,14 +1,3 @@
-"""How does the Cluster spectrum change with sliding velocity?
-
-Texture model: a spatial frequency k gives f = k v, so from 20 to 60 mm/s the
-spectrum should move up by a factor 3. If resonances (probe, sensor) dominate,
-it stays at the same frequencies. For each surface / direction / force / repeat
-we correlate the 20 and 60 mm/s log spectra in two ways:
-  same f        S60(f)   vs S20(f)    high if the spectrum stays put
-  same f / v    S60(3 f) vs S20(f)    high if the spectrum follows f = k v
-We also measure the level change per doubling of velocity.
-"""
-
 import numpy as np
 import pandas as pd
 import seaborn as sns

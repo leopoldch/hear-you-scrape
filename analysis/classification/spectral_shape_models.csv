@@ -1,0 +1,37 @@
+input,model,test,balanced accuracy,low,high
+audio,majority class,"Cluster, new surfaces",0.25,0.25,0.25
+audio,majority class,"LMT108, Cluster scaling",0.25,0.25,0.25
+audio,majority class,"LMT108, per-dataset scaling",0.25,0.25,0.25
+audio,logistic regression,"Cluster, new surfaces",0.5912003968253968,0.5391804315476191,0.641317150297619
+audio,logistic regression,"LMT108, Cluster scaling",0.28500000000000003,0.25,0.32999999999999996
+audio,logistic regression,"LMT108, per-dataset scaling",0.21241071428571429,0.11930022321428572,0.32314174107142846
+audio,LDA,"Cluster, new surfaces",0.5870362103174603,0.5400416666666668,0.6298741319444445
+audio,LDA,"LMT108, Cluster scaling",0.2917410714285714,0.25,0.3456138392857139
+audio,LDA,"LMT108, per-dataset scaling",0.1771205357142857,0.09609375,0.27869140624999994
+audio,RBF SVM,"Cluster, new surfaces",0.6834747023809523,0.6319469246031746,0.7330019221230157
+audio,RBF SVM,"LMT108, Cluster scaling",0.29015625,0.2620234375,0.3214140625
+audio,RBF SVM,"LMT108, per-dataset scaling",0.31026785714285715,0.22710770089285715,0.39234486607142854
+acceleration,majority class,"Cluster, new surfaces",0.25,0.25,0.25
+acceleration,majority class,"LMT108, Cluster scaling",0.25,0.25,0.25
+acceleration,majority class,"LMT108, per-dataset scaling",0.25,0.25,0.25
+acceleration,logistic regression,"Cluster, new surfaces",0.3894047619047619,0.35506659226190473,0.4219249751984127
+acceleration,logistic regression,"LMT108, Cluster scaling",0.28995535714285714,0.18837053571428572,0.38952566964285706
+acceleration,logistic regression,"LMT108, per-dataset scaling",0.14328125,0.07160379464285714,0.22730859374999995
+acceleration,LDA,"Cluster, new surfaces",0.3886036706349206,0.35787965029761903,0.41707552083333327
+acceleration,LDA,"LMT108, Cluster scaling",0.2642857142857143,0.16785714285714287,0.35716517857142843
+acceleration,LDA,"LMT108, per-dataset scaling",0.11276785714285714,0.05312332589285714,0.17508984375
+acceleration,RBF SVM,"Cluster, new surfaces",0.6185987103174603,0.5602442336309524,0.6766480654761905
+acceleration,RBF SVM,"LMT108, Cluster scaling",0.3126339285714286,0.18545145089285717,0.44967745535714276
+acceleration,RBF SVM,"LMT108, per-dataset scaling",0.16372767857142856,0.11607142857142858,0.21060267857142856
+audio + acceleration,majority class,"Cluster, new surfaces",0.25,0.25,0.25
+audio + acceleration,majority class,"LMT108, Cluster scaling",0.25,0.25,0.25
+audio + acceleration,majority class,"LMT108, per-dataset scaling",0.25,0.25,0.25
+audio + acceleration,logistic regression,"Cluster, new surfaces",0.6210962301587303,0.5653888268849206,0.6755637400793651
+audio + acceleration,logistic regression,"LMT108, Cluster scaling",0.28359375,0.2265625,0.3562695312499999
+audio + acceleration,logistic regression,"LMT108, per-dataset scaling",0.13419642857142858,0.05863560267857142,0.2313627232142857
+audio + acceleration,LDA,"Cluster, new surfaces",0.6090897817460318,0.5565743427579365,0.6603844246031746
+audio + acceleration,LDA,"LMT108, Cluster scaling",0.2733258928571428,0.190625,0.3733621651785713
+audio + acceleration,LDA,"LMT108, per-dataset scaling",0.1138392857142857,0.041406250000000006,0.2136300223214285
+audio + acceleration,RBF SVM,"Cluster, new surfaces",0.7398784722222222,0.6800975942460318,0.7991165054563493
+audio + acceleration,RBF SVM,"LMT108, Cluster scaling",0.28078125,0.2259375,0.34344140624999997
+audio + acceleration,RBF SVM,"LMT108, per-dataset scaling",0.2965625,0.21171875,0.37440234374999987

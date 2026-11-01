@@ -1,15 +1,3 @@
-"""Which surfaces belong to which of the 4 material families (wood, metal, textile, polymer).
-
-Only families present in Cluster, LMT108 and SENS3 are kept. Surfaces whose label may
-not describe the touched material (meshes, foams, laminated or coated boards, composites,
-unclear compositions) are excluded: their family is "".
-
-Polymers are split into rigid plastics and elastomers (rubbers, silicone), because the
-two behave differently under sliding and are not mixed in the same way in both datasets.
-
-Run this file to write analysis/surface_families.csv and print the counts per family.
-"""
-
 from pathlib import Path
 
 import pandas as pd
@@ -19,9 +7,9 @@ ROOT = Path(__file__).resolve().parents[1]
 CLUSTER = ROOT / "data/cluster/cluster_haptic_texture_dataset"
 LMT = ROOT / "data/lmt108/LMT_108_SurfaceMaterials_Database"
 
-CLUSTER_TEXTILES_OUTSIDE_CLOTHS = [87, 88, 89]  # jute, cotton, wool felt
+CLUSTER_TEXTILES_OUTSIDE_CLOTHS = [87, 88, 89]
 CLUSTER_RIGID_PLASTICS = [49, 50, 51, 53, 54, 55, 56, 57, 58]
-CLUSTER_ELASTOMERS = [63]  # silicone
+CLUSTER_ELASTOMERS = [63]
 
 LMT_WOOD = [
     "G4Beech_0",
@@ -41,6 +29,28 @@ LMT_ELASTOMERS = [
     "G5SolidRubberPlateVersion1",
     "G5SolidRubberPlateVersion2",
 ]
+
+
+SENS3_CATEGORIES = {
+    "Fabric": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15],
+    "Sandpaper": [11, 12, 13, 16],
+    "Vinyl": [17, 18, 19, 20],
+    "Plastic": [21, 22],
+    "Leather": [23, 24],
+    "Rubber": [25],
+    "Paper": [26, 27, 28, 29, 30, 31],
+    "Metal": [32, 33, 34, 35, 36],
+    "Wood": [37, 38, 39, 40, 41, 42],
+    "Foam": [43, 44, 45, 46, 47, 48, 49, 50],
+}
+SENS3_FAMILY_OF_CATEGORY = {
+    "Wood": ("wood", ""),
+    "Metal": ("metal", ""),
+    "Fabric": ("textile", ""),
+    "Plastic": ("polymer", "rigid plastic"),
+    "Rubber": ("polymer", "elastomer"),
+    "Vinyl": ("polymer", "vinyl"),
+}
 
 
 def cluster_family(number, name, category):
@@ -72,7 +82,6 @@ def lmt_family(name):
 
 
 def surface_families():
-    """DataFrame with one row per surface of Cluster and LMT108 (family "" = excluded)."""
     rows = []
 
     workbook = load_workbook(CLUSTER / "texture_list.xlsx", read_only=True, data_only=True)
@@ -103,6 +112,20 @@ def surface_families():
                 "polymer_type": polymer_type,
             }
         )
+
+    for category, numbers in SENS3_CATEGORIES.items():
+        family, polymer_type = SENS3_FAMILY_OF_CATEGORY.get(category, ("", ""))
+        for number in numbers:
+            rows.append(
+                {
+                    "dataset": "sens3",
+                    "surface": str(number),
+                    "name": f"{category} material {number}",
+                    "native_category": category,
+                    "family": family,
+                    "polymer_type": polymer_type,
+                }
+            )
 
     return pd.DataFrame(rows)
 

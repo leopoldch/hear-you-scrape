@@ -1,12 +1,3 @@
-"""Clustering surfaces without labels (week 9): k-means, Gaussian mixture, Ward.
-
-One point per surface: median spectral-shape vector over its recordings.
-Adjusted Rand index (ARI): 1 = clusters are exactly the families, 0 = random.
-On both datasets pooled, ARI vs dataset tells whether the clusters find the setup.
-Last check: Cluster IDs follow the categories (recording order?). Inside one family,
-are surfaces with close IDs more similar? Permutation test on Spearman's rho.
-"""
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd

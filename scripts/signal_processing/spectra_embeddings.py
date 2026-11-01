@@ -1,10 +1,3 @@
-"""Non-linear 2D maps of the spectral shapes (week 5), same vectors as spectra_pca.py.
-
-MDS (keeps all distances), Isomap (distances along the manifold), Laplacian eigenmap
-and LLE (keep neighbours), t-SNE (keeps neighbourhoods only).
-First on both datasets, then inside each dataset.
-"""
-
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.manifold import MDS, TSNE, Isomap, LocallyLinearEmbedding, SpectralEmbedding

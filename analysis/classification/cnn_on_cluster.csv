@@ -1,0 +1,7 @@
+input,model,test,balanced accuracy,low,high
+audio,small CNN,"Cluster, new surfaces",0.6997792658730159,0.6266625124007936,0.7704551091269841
+audio,small CNN,"LMT108, transfer",0.29453125,0.25078125,0.3367382812499999
+acceleration,small CNN,"Cluster, new surfaces",0.6306622023809524,0.5706492435515873,0.6910802331349205
+acceleration,small CNN,"LMT108, transfer",0.1925,0.13125,0.24375781249999995
+audio + acceleration,small CNN,"Cluster, new surfaces",0.7263640873015873,0.6487544642857143,0.8004628596230159
+audio + acceleration,small CNN,"LMT108, transfer",0.33562499999999995,0.25983984374999997,0.40765625

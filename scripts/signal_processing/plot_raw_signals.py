@@ -1,8 +1,3 @@
-"""What do the raw signals look like? One surface per family: waveform, spectrogram, acceleration.
-
-Cluster at 20 and 60 mm/s (direction 0, 500 mN), LMT108 first trial. Reads raw files.
-"""
-
 import matplotlib.pyplot as plt
 import numpy as np
 

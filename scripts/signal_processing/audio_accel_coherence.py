@@ -1,10 +1,3 @@
-"""Do audio and acceleration see the same vibration?
-
-Coherence near 1: same content at that frequency; near 0: different content,
-or the two streams are not synchronous. The histogram shows the lag that
-best aligned them (a sharp peak = synchronous recording).
-"""
-
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns

@@ -1,10 +1,3 @@
-"""PCA (week 4) and Kernel PCA (week 5) on spectral shapes.
-
-Vectors: 1/3-octave levels of audio + acceleration, mean level removed (common.shapes).
-Subset: Cluster at direction 0 / 500 mN (720 recordings) + all LMT108 (720), so both
-datasets weigh the same. Is the main axis the family, the dataset or the velocity?
-"""
-
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns

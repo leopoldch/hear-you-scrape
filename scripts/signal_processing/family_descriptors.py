@@ -1,18 +1,3 @@
-"""Simple descriptors: which ones separate the families, and do they agree across datasets?
-
-  centroid           geometric-mean frequency of the PSD (Hz)
-  slope              line fitted to the 1/3-octave levels vs log2 f (dB per octave)
-  hf_lf              energy above / below a split frequency (2 kHz audio, 200 Hz accel), dB
-  flatness           geometric / arithmetic mean of the PSD (1 = white noise)
-  peakiness          99th percentile of (dB PSD - its median-filtered version): sharp resonances
-  log_rms, kurtosis  of the band-passed signal (computed in extract_spectra.py)
-
-One value per surface (median over its recordings). Then, per descriptor:
-  epsilon2   Kruskal-Wallis effect size of the family, per dataset (0 = none, 1 = perfect)
-  rank rho   Spearman correlation between the 4 family medians of Cluster and of LMT108
-             (+1 = the families are in the same order in both datasets)
-"""
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -95,7 +80,7 @@ for ax, name in zip(g.axes, table.index, strict=True):
     )
 save(g.figure, "descriptors.png")
 
-# Same descriptors after a z-score inside each dataset (removes the offset between datasets)
+
 long["z-score within dataset"] = long.groupby(["dataset", "descriptor"]).value.transform(stats.zscore)
 best_five = long[long.descriptor.isin(table.index[:5])]
 g = sns.catplot(

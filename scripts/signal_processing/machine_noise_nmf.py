@@ -1,12 +1,3 @@
-"""Separate Cluster machine lines from contact noise with NMF (weeks 4 and 12).
-
-Magnitude spectrogram V (freq x time) ~ W H, with K spectral templates W and their
-activations H. Fitted on 8 surfaces (2 per family) at 40 mm/s, placed one after another.
-A template is "machine" if it is narrow (half its energy within 3% of the band) and
-active on every surface (its weakest per-surface mean activation is > 20% of its strongest).
-We rebuild the spectrogram with and without those templates.
-"""
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -19,7 +10,6 @@ N_TEMPLATES = 12
 
 
 def contact_spectrogram(row, modality, rate, nperseg, max_freq):
-    """Magnitude spectrogram (10 Hz - max_freq) of the contact segment of one recording."""
     audio = read_audio(row.audio)
     accel = read_accel(row)
     start, stop = contact_segment(audio, accel, "cluster")
@@ -33,14 +23,12 @@ def contact_spectrogram(row, modality, rate, nperseg, max_freq):
 
 
 def half_energy_width(templates, freq):
-    """Hz needed to hold half the energy of each template (largest bins first)."""
     largest_first = np.sort(templates, axis=0)[::-1]
     bins_needed = (largest_first.cumsum(axis=0) < 0.5).sum(axis=0)
     return bins_needed * (freq[1] - freq[0])
 
 
 def presence_on_every_surface(activations, block_ends):
-    """For each template: weakest / strongest mean activation over the surfaces."""
     block_starts = np.r_[0, block_ends[:-1]]
     block_lengths = block_ends - block_starts
     mean_per_surface = np.add.reduceat(activations, block_starts, axis=1) / block_lengths
@@ -59,7 +47,6 @@ chosen = pd.concat([recordings[recordings.family == family].head(2) for family i
 surface_names = [f"{row.family} {row.surface}" for _, row in chosen.iterrows()]
 
 for modality, rate, nperseg, max_freq in [("accel", ACCEL_RATE, 512, 1000), ("audio", AUDIO_RATE, 4096, 3000)]:
-    # One long spectrogram: the 8 surfaces one after the other
     blocks = []
     for _, row in chosen.iterrows():
         freq, magnitude = contact_spectrogram(row, modality, rate, nperseg, max_freq)
@@ -68,11 +55,11 @@ for modality, rate, nperseg, max_freq in [("accel", ACCEL_RATE, 512, 1000), ("au
     block_ends = np.cumsum([block.shape[1] for block in blocks])
 
     nmf = NMF(N_TEMPLATES, beta_loss="kullback-leibler", solver="mu", max_iter=2000, init="nndsvda", random_state=0)
-    templates = nmf.fit_transform(spectrogram)  # frequency x template
-    activations = nmf.components_  # template x time
+    templates = nmf.fit_transform(spectrogram)
+    activations = nmf.components_
     scale = templates.sum(axis=0)
     templates = templates / scale
-    activations = activations * scale[:, None]  # templates @ activations is unchanged
+    activations = activations * scale[:, None]
 
     width = half_energy_width(templates, freq)
     presence = presence_on_every_surface(activations, block_ends)
@@ -81,7 +68,6 @@ for modality, rate, nperseg, max_freq in [("accel", ACCEL_RATE, 512, 1000), ("au
     print(f"  weakest / strongest activation over surfaces {presence.round(2)}")
     print(f"  machine templates {np.flatnonzero(machine)}")
 
-    # Figure 1: templates and activations, stacked with an offset
     colors = np.where(machine, "red", "C0")
     stacked_templates = pd.DataFrame(templates + np.arange(N_TEMPLATES) * templates.max(), index=freq)
     stacked_activations = pd.DataFrame(
@@ -94,7 +80,6 @@ for modality, rate, nperseg, max_freq in [("accel", ACCEL_RATE, 512, 1000), ("au
     axes[1].set_title(" | ".join(surface_names) + "   (activations)")
     save(fig, f"nmf_templates_{modality}.png")
 
-    # Figure 2: original spectrogram, machine part, contact part
     machine_part = templates[:, machine] @ activations[machine]
     contact_part = templates[:, ~machine] @ activations[~machine]
     color_range = {"vmin": np.log(np.percentile(spectrogram, 30)), "vmax": np.log(np.percentile(spectrogram, 99.5))}

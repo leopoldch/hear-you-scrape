@@ -1,10 +1,3 @@
-"""In Cluster, what changes the spectrum most: surface, velocity, direction or force?
-
-For each 1/3-octave band level, the share of variance explained by a factor is
-  variance of the group means / total variance   (one-way eta squared).
-"family" is the part of the surface effect that the 4 families explain.
-"""
-
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -16,7 +9,6 @@ cluster_meta = meta[cluster]
 
 
 def explained_share(levels, factors):
-    """Share of the variance of each band explained by the given factor(s)."""
     groups = [cluster_meta[factor] for factor in factors]
     group_means = levels.groupby(groups).transform("mean")
     return group_means.var() / levels.var()

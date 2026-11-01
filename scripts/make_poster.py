@@ -1,10 +1,3 @@
-"""README banner: a parody of the "Alien" (1979) poster.
-
-The egg is the spectrogram of a real Cluster scrape (velvet, 60 mm/s), cracked open over the
-grid of the original poster, next to the tagline "In space no one can hear you scream",
-with "scream" crossed out. Writes docs/poster.png.
-"""
-
 import sys
 from pathlib import Path
 
@@ -21,7 +14,7 @@ from common import AUDIO_RATE, CLUSTER, read_audio  # noqa: E402
 GREEN = "#b8ffcf"
 DARK_TO_GREEN = LinearSegmentedColormap.from_list("egg", ["black", "#0b3d1f", "#3fae6a", GREEN])
 EGG_X, EGG_Y, EGG_WIDTH, EGG_HEIGHT = 0.22, 0.55, 0.17, 0.62
-HORIZON = EGG_Y - EGG_HEIGHT / 2 + 0.01  # the egg stands on the grid
+HORIZON = EGG_Y - EGG_HEIGHT / 2 + 0.01
 
 
 def scrape_spectrogram():
@@ -32,7 +25,6 @@ def scrape_spectrogram():
 
 
 def draw_floor_grid(ax):
-    """Perspective grid under the egg, as on the original poster, kept on the left half."""
     floor = Rectangle((0, 0), 0.46, HORIZON, transform=ax.transData)
     lines = []
     for x_bottom in np.linspace(-0.6, 1.04, 25):

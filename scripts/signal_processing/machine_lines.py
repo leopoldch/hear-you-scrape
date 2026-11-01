@@ -1,10 +1,3 @@
-"""Which spectral peaks come from the Cluster machine, not from the surface?
-
-Narrow peaks of the median spectrum over all 72 surfaces (see common.machine_lines).
-Plotted against f, fixed lines align vertically; plotted against f / v,
-lines locked to the motion (drive mechanism) align vertically.
-"""
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
@@ -34,7 +27,6 @@ for modality, freq, band, filter_width, max_freq in [
         )
         curves.append(curve)
 
-    # Long format: the same curve twice, once against f and once against f / v
     curves = pd.concat(curves).melt(id_vars=["velocity", "level (dB)"], var_name="x axis", value_name="x")
     g = sns.relplot(
         curves,

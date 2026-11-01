@@ -1,13 +1,3 @@
-"""Compute one spectrum per recording and cache it (~6 min on 16 cores).
-
-For each recording, on the contact segment only:
-  - Welch PSD of the audio and of the acceleration (power of the 3 axes summed)
-  - Cluster only: audio PSD before touchdown (background noise)
-  - RMS, kurtosis and crest factor of the band-passed signals
-  - audio / acceleration coherence, after aligning the two streams by cross-correlation
-Outputs: analysis/signal_processing/recordings.csv and analysis/signal_processing/psd_cache.npz
-"""
-
 from multiprocessing import Pool
 
 import numpy as np
@@ -23,10 +13,8 @@ from common import (
     AUDIO_NPERSEG,
     AUDIO_RATE,
     OUT,
-    contact_segment,
     list_recordings,
-    read_accel,
-    read_audio,
+    read_recording,
 )
 
 
@@ -36,7 +24,6 @@ def bandpass(x, rate, band):
 
 
 def background_noise_psd(audio, start):
-    """Audio PSD before touchdown (Cluster only; NaN when there is no quiet part)."""
     if start <= 0.4:
         return np.full(len(AUDIO_FREQ), np.nan)
     quiet = audio[int(0.02 * AUDIO_RATE) : int((start - 0.2) * AUDIO_RATE)]
@@ -54,11 +41,6 @@ def time_statistics(name, x):
 
 
 def aligned_coherence(audio, accel):
-    """Coherence between audio (at 8 kHz) and the main acceleration axis.
-
-    The two streams are first shifted by the lag (within +-100 ms) that
-    maximises their cross-correlation. Returns (coherence, lag in ms).
-    """
     audio_8k = signal.resample_poly(audio, 80, 441)
     main_axis = accel[:, np.argmax(accel.var(axis=0))]
     n = min(len(audio_8k), len(main_axis))
@@ -79,13 +61,11 @@ def aligned_coherence(audio, accel):
 
 
 def process(row):
-    audio = read_audio(row.audio)
-    accel = read_accel(row)
-    start, stop = contact_segment(audio, accel, row.dataset)
+    audio, accel, start, stop = read_recording(row)
 
     audio_contact = audio[int(start * AUDIO_RATE) : int(stop * AUDIO_RATE)]
     accel_contact = accel[int(start * ACCEL_RATE) : int(stop * ACCEL_RATE)]
-    accel_contact = accel_contact - accel_contact.mean(axis=0)  # remove gravity
+    accel_contact = accel_contact - accel_contact.mean(axis=0)
 
     _, audio_psd = signal.welch(audio_contact, AUDIO_RATE, nperseg=AUDIO_NPERSEG)
     _, accel_psd = signal.welch(accel_contact, ACCEL_RATE, nperseg=ACCEL_NPERSEG, axis=0)

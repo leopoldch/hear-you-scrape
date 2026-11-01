@@ -6,3 +6,6 @@ __pycache__/
 
 # Caches that the scripts regenerate (psd_cache.npz is 220 MB)
 *.npz
+
+/dist/
+/models/
