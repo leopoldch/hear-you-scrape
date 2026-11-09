@@ -1,0 +1,64 @@
+signal,setup,k,method,score
+accel,cluster,1,logistic probe (H16),0.47247395833333333
+accel,cluster,1,prototypes,0.40996170343137256
+accel,cluster,1,"prototypes, learned projection",0.3512285539215686
+accel,cluster,2,logistic probe (H16),0.5166727543290043
+accel,cluster,2,prototypes,0.42831490124458876
+accel,cluster,2,"prototypes, learned projection",0.37130123782467533
+accel,cluster,4,logistic probe (H16),0.5506665706605223
+accel,cluster,4,prototypes,0.44552188940092163
+accel,cluster,4,"prototypes, learned projection",0.3877721774193548
+accel,lmt108,1,logistic probe (H16),0.5968184523809523
+accel,lmt108,1,prototypes,0.5790089285714286
+accel,lmt108,1,"prototypes, learned projection",0.5266934523809523
+accel,lmt108,2,logistic probe (H16),0.6815833333333334
+accel,lmt108,2,prototypes,0.6096845238095238
+accel,lmt108,2,"prototypes, learned projection",0.5406309523809524
+accel,lmt108,4,logistic probe (H16),0.6846875
+accel,lmt108,4,prototypes,0.6380208333333333
+accel,lmt108,4,"prototypes, learned projection",0.566875
+accel,sens3,1,logistic probe (H16),0.38680539772727274
+accel,sens3,1,prototypes,0.35108001893939395
+accel,sens3,1,"prototypes, learned projection",0.34418323863636363
+accel,sens3,2,logistic probe (H16),0.4784427083333334
+accel,sens3,2,prototypes,0.38090104166666666
+accel,sens3,2,"prototypes, learned projection",0.3617135416666667
+accel,sens3,4,logistic probe (H16),0.5946354166666666
+accel,sens3,4,prototypes,0.44996093750000005
+accel,sens3,4,"prototypes, learned projection",0.3998828125
+audio,cluster,1,logistic probe (H16),0.5569709967320261
+audio,cluster,1,prototypes,0.47453022875816997
+audio,cluster,1,"prototypes, learned projection",0.4095894607843137
+audio,cluster,2,logistic probe (H16),0.6103175730519481
+audio,cluster,2,prototypes,0.5284219426406926
+audio,cluster,2,"prototypes, learned projection",0.4528632305194805
+audio,cluster,4,logistic probe (H16),0.6586486175115207
+audio,cluster,4,prototypes,0.5487187980030722
+audio,cluster,4,"prototypes, learned projection",0.4785355222734255
+audio,lmt108,1,logistic probe (H16),0.5555505952380952
+audio,lmt108,1,prototypes,0.514422619047619
+audio,lmt108,1,"prototypes, learned projection",0.4524255952380952
+audio,lmt108,2,logistic probe (H16),0.6492202380952381
+audio,lmt108,2,prototypes,0.5789583333333332
+audio,lmt108,2,"prototypes, learned projection",0.45392261904761905
+audio,lmt108,4,logistic probe (H16),0.680625
+audio,lmt108,4,prototypes,0.5795833333333333
+audio,lmt108,4,"prototypes, learned projection",0.4375
+audio,sens3,1,logistic probe (H16),0.3814895833333333
+audio,sens3,1,prototypes,0.33676657196969695
+audio,sens3,1,"prototypes, learned projection",0.30481628787878784
+audio,sens3,2,logistic probe (H16),0.4797239583333333
+audio,sens3,2,prototypes,0.404609375
+audio,sens3,2,"prototypes, learned projection",0.384625
+audio,sens3,4,logistic probe (H16),0.5723177083333333
+audio,sens3,4,prototypes,0.42184895833333336
+audio,sens3,4,"prototypes, learned projection",0.3988541666666667
+simulated,simulated (unseen devices),1,logistic probe (H16),0.699875
+simulated,simulated (unseen devices),1,prototypes,0.68575
+simulated,simulated (unseen devices),1,"prototypes, learned projection",0.8029999999999999
+simulated,simulated (unseen devices),2,logistic probe (H16),0.77078125
+simulated,simulated (unseen devices),2,prototypes,0.76265625
+simulated,simulated (unseen devices),2,"prototypes, learned projection",0.8559374999999999
+simulated,simulated (unseen devices),4,logistic probe (H16),0.8225
+simulated,simulated (unseen devices),4,prototypes,0.7990625
+simulated,simulated (unseen devices),4,"prototypes, learned projection",0.8809374999999999

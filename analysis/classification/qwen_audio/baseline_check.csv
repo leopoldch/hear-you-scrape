@@ -1,0 +1,841 @@
+format,recording,dataset,surface,family,scored answer,generated answer,generated text,log-prob wood,log-prob metal,log-prob textile,log-prob polymer
+"clip, level 0.1",0,cluster,cluster:65,metal,polymer,polymer,The surface is polymer.,-7.604727268218994,-4.417227268218994,-11.354726791381836,-0.29222720861434937
+"clip, level 0.1",1,cluster,cluster:66,metal,polymer,polymer,The surface is a polymer.,-6.011763095855713,-4.386763095855713,-11.199262619018555,-0.8867630958557129
+"clip, level 0.1",2,cluster,cluster:67,metal,polymer,polymer,The surface is a polymer.,-5.814523220062256,-4.689523220062256,-12.189522743225098,-1.0645231008529663
+"clip, level 0.1",3,cluster,cluster:68,metal,polymer,polymer,The surface is polymer.,-6.168562889099121,-4.418562889099121,-11.137312889099121,-0.48106294870376587
+"clip, level 0.1",4,cluster,cluster:69,metal,polymer,polymer,The surface is polymer.,-6.591398239135742,-4.528898239135742,-11.528898239135742,-0.4038984179496765
+"clip, level 0.1",5,cluster,cluster:70,metal,polymer,polymer,The surface is a polymer.,-6.443892478942871,-4.568892478942871,-12.412642478942871,-1.5063927173614502
+"clip, level 0.1",6,cluster,cluster:71,metal,polymer,polymer,The surface is a polymer.,-6.022470474243164,-4.834970474243164,-12.334970474243164,-1.2724707126617432
+"clip, level 0.1",7,cluster,cluster:72,metal,polymer,polymer,The surface is a polymer.,-6.818578243255615,-4.568578243255615,-11.443578720092773,-0.8810784220695496
+"clip, level 0.1",8,cluster,cluster:73,metal,polymer,polymer,The surface is a polymer.,-5.788759231567383,-4.538759231567383,-12.070009231567383,-1.2262593507766724
+"clip, level 0.1",9,cluster,cluster:65,metal,polymer,polymer,The surface is polymer.,-6.751188278198242,-4.063688278198242,-11.063688278198242,-0.3136880695819855
+"clip, level 0.1",10,cluster,cluster:49,polymer,polymer,polymer,The surface is a polymer.,-7.651846885681152,-4.714346885681152,-12.120596885681152,-1.4018467664718628
+"clip, level 0.1",11,cluster,cluster:50,polymer,polymer,invalid,The surface is plastic.,-5.981427192687988,-5.293927192687988,-11.575177192687988,-0.7939271330833435
+"clip, level 0.1",12,cluster,cluster:51,polymer,polymer,invalid,The surface is plastic.,-6.484495162963867,-4.484495162963867,-12.484495162963867,-1.5469954013824463
+"clip, level 0.1",13,cluster,cluster:53,polymer,polymer,invalid,The surface is plastic.,-5.9714202880859375,-4.5964202880859375,-11.533920288085938,-0.658920407295227
+"clip, level 0.1",14,cluster,cluster:54,polymer,polymer,polymer,The surface is a polymer.,-7.818838596343994,-4.881338596343994,-11.975089073181152,-0.6938387155532837
+"clip, level 0.1",15,cluster,cluster:55,polymer,polymer,polymer,The surface is polymer.,-6.719842910766602,-4.407342910766602,-11.219842910766602,-0.5948429703712463
+"clip, level 0.1",16,cluster,cluster:56,polymer,polymer,invalid,The surface is plastic.,-6.112796306610107,-4.737796306610107,-12.30029582977295,-1.2377961874008179
+"clip, level 0.1",17,cluster,cluster:57,polymer,polymer,polymer,The surface is polymer.,-7.1181111335754395,-4.6181111335754395,-12.055610656738281,-0.30561110377311707
+"clip, level 0.1",18,cluster,cluster:58,polymer,polymer,polymer,The surface is a polymer.,-6.981064319610596,-4.731064319610596,-11.824813842773438,-1.1685643196105957
+"clip, level 0.1",19,cluster,cluster:63,polymer,polymer,polymer,The surface is polymer.,-6.671458721160889,-3.8589587211608887,-11.42145824432373,-0.4214586317539215
+"clip, level 0.1",20,cluster,cluster:102,textile,polymer,polymer,The surface is polymer.,-7.108731746673584,-4.296231746673584,-10.983732223510742,-0.5462319254875183
+"clip, level 0.1",21,cluster,cluster:103,textile,polymer,invalid,The surface is made of plastic.,-6.488375663757324,-4.675875663757324,-11.175875663757324,-1.1758755445480347
+"clip, level 0.1",22,cluster,cluster:104,textile,polymer,polymer,The surface is polymer.,-5.544164657592773,-4.169164657592773,-11.044164657592773,-0.6066647171974182
+"clip, level 0.1",23,cluster,cluster:105,textile,polymer,polymer,The surface is a polymer.,-6.143780708312988,-4.706280708312988,-11.862530708312988,-0.9562804698944092
+"clip, level 0.1",24,cluster,cluster:106,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.9403791427612305,-4.5028791427612305,-11.69037914276123,-1.0028793811798096
+"clip, level 0.1",25,cluster,cluster:107,textile,polymer,invalid,The surface is plastic.,-5.545205593109131,-4.482705593109131,-11.388956069946289,-0.9202055931091309
+"clip, level 0.1",26,cluster,cluster:108,textile,polymer,polymer,The surface is a polymer.,-5.939372539520264,-4.689372539520264,-11.126873016357422,-0.9393725991249084
+"clip, level 0.1",27,cluster,cluster:109,textile,polymer,polymer,The surface is polymer.,-5.424508571624756,-4.487008571624756,-11.237009048461914,-0.6745085716247559
+"clip, level 0.1",28,cluster,cluster:110,textile,polymer,polymer,The surface is a polymer.,-5.948338031768799,-4.323338031768799,-11.63583755493164,-0.8858379125595093
+"clip, level 0.1",29,cluster,cluster:112,textile,polymer,invalid,The surface is plastic.,-5.424076080322266,-4.299076080322266,-11.736576080322266,-1.1115763187408447
+"clip, level 0.1",30,cluster,cluster:0,wood,polymer,polymer,The surface is a polymer.,-6.909895420074463,-4.659895420074463,-11.691145896911621,-0.9098955988883972
+"clip, level 0.1",31,cluster,cluster:1,wood,polymer,polymer,The surface is a polymer.,-5.189743518829346,-4.377243518829346,-12.064743041992188,-1.2522433996200562
+"clip, level 0.1",32,cluster,cluster:10,wood,polymer,polymer,The surface is a polymer.,-5.663154125213623,-4.725654125213623,-12.194403648376465,-1.2881540060043335
+"clip, level 0.1",33,cluster,cluster:11,wood,polymer,polymer,The surface is a polymer.,-5.51295280456543,-4.45045280456543,-12.04420280456543,-1.2004528045654297
+"clip, level 0.1",34,cluster,cluster:12,wood,polymer,invalid,The surface is made of plastic.,-6.012838363647461,-4.200338363647461,-11.137838363647461,-1.0753381252288818
+"clip, level 0.1",35,cluster,cluster:13,wood,polymer,polymer,The surface is a polymer.,-6.21550178527832,-4.65300178527832,-12.34050178527832,-1.2780017852783203
+"clip, level 0.1",36,cluster,cluster:14,wood,polymer,polymer,The surface is a polymer.,-5.604666709899902,-4.729666709899902,-12.073416709899902,-1.1046664714813232
+"clip, level 0.1",37,cluster,cluster:15,wood,polymer,polymer,The surface is a polymer.,-5.864023208618164,-4.801523208618164,-12.489023208618164,-1.4265234470367432
+"clip, level 0.1",38,cluster,cluster:16,wood,polymer,polymer,The surface is a polymer.,-6.148311138153076,-4.648311138153076,-11.742061614990234,-0.9608111381530762
+"clip, level 0.1",39,cluster,cluster:17,wood,polymer,polymer,The surface is a polymer.,-5.826592445373535,-4.451592445373535,-12.295342445373535,-1.326592206954956
+"clip, level 0.1",40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or another synthetic",-4.32555627822876,-4.20055627822876,-10.856805801391602,-0.513056218624115
+"clip, level 0.1",41,lmt108,lmt108:G3AluminumPlate,metal,polymer,invalid,The surface sounds like it's made of plastic.,-6.912888050079346,-5.100388050079346,-12.131637573242188,-1.6003879308700562
+"clip, level 0.1",42,lmt108,lmt108:G3Brass,metal,polymer,invalid,The surface sounds like it's made of plastic.,-6.536888122558594,-4.599388122558594,-10.505638122558594,-0.8493882417678833
+"clip, level 0.1",43,lmt108,lmt108:G3Copper,metal,polymer,polymer,The surface is a polymer.,-6.249635696411133,-4.187135696411133,-11.093385696411133,-1.3121356964111328
+"clip, level 0.1",44,lmt108,lmt108:G3StainlessSteel,metal,polymer,polymer,The surface is a polymer.,-8.153944969177246,-5.091444969177246,-11.622694969177246,-0.6539450287818909
+"clip, level 0.1",45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface sounds like it's made of plastic.,-6.69843053817749,-5.26093053817749,-11.542181015014648,-0.7609306573867798
+"clip, level 0.1",46,lmt108,lmt108:G3AluminumPlate,metal,polymer,invalid,The surface sounds like it's made of plastic.,-5.931301116943359,-5.118801116943359,-12.30630111694336,-1.3063013553619385
+"clip, level 0.1",47,lmt108,lmt108:G3Brass,metal,polymer,invalid,The surface sounds like it's made of plastic.,-5.262054920196533,-5.074554920196533,-10.699554443359375,-0.7620548009872437
+"clip, level 0.1",48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface feels like plastic.,-5.296459197998047,-5.296459197998047,-10.233959197998047,-0.6089592576026917
+"clip, level 0.1",49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or another synthetic",-4.84928560256958,-4.91178560256958,-12.224285125732422,-0.4742855429649353
+"clip, level 0.1",50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,polymer,The surface is polymer.,-4.335653781890869,-5.898153781890869,-11.085653305053711,-0.39815372228622437
+"clip, level 0.1",51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.723999977111816,-5.036499977111816,-12.098999977111816,-0.7240002155303955
+"clip, level 0.1",52,lmt108,lmt108:G5FineRubber,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-2.9969964027404785,-3.5594964027404785,-10.184496879577637,-0.8094964623451233
+"clip, level 0.1",53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,polymer,The surface is a polymer.,-6.730442047119141,-4.480442047119141,-10.23044204711914,-0.7929422855377197
+"clip, level 0.1",54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,polymer,The surface is a polymer.,-7.116386413574219,-5.116386413574219,-10.866386413574219,-0.6163864135742188
+"clip, level 0.1",55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.435056686401367,-5.060056686401367,-9.778806686401367,-1.7475568056106567
+"clip, level 0.1",56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,polymer,The surface is a polymer.,-3.4174790382385254,-3.4174790382385254,-10.261228561401367,-0.7924789190292358
+"clip, level 0.1",57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-7.571438789367676,-4.508938789367676,-10.508938789367676,-1.0089386701583862
+"clip, level 0.1",58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface is polymer.,-6.617607116699219,-4.555107116699219,-10.648857116699219,-0.3676072359085083
+"clip, level 0.1",59,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is polymer.,-7.120481491088867,-4.620481491088867,-11.214231491088867,-0.6829817295074463
+"clip, level 0.1",60,lmt108,lmt108:G6Towel,textile,polymer,invalid,The surface sounds like it's made of plastic.,-6.203222274780273,-5.078222274780273,-10.703222274780273,-1.765722393989563
+"clip, level 0.1",61,lmt108,lmt108:G9BlueSatin,textile,polymer,invalid,The surface feels like rubber.,-5.856269359588623,-4.918769359588623,-7.856269359588623,-1.3562694787979126
+"clip, level 0.1",62,lmt108,lmt108:G9FloorCloth,textile,polymer,invalid,The surface is plastic.,-3.8908772468566895,-5.7658772468566895,-7.7033772468566895,-1.203377366065979
+"clip, level 0.1",63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,invalid,The surface sounds like rubber.,-3.4088315963745117,-5.283831596374512,-9.221331596374512,-0.7213315367698669
+"clip, level 0.1",64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,polymer,The surface is polymer.,-8.228598594665527,-5.041098594665527,-11.666098594665527,-0.9160987138748169
+"clip, level 0.1",65,lmt108,lmt108:G9GreenVelvet,textile,polymer,invalid,The surface is plastic.,-2.0483334064483643,-5.610833168029785,-9.235833168029785,-0.7358333468437195
+"clip, level 0.1",66,lmt108,lmt108:G9Jeans,textile,polymer,polymer,The surface is a polymer.,-5.958312511444092,-3.895812511444092,-8.333312034606934,-1.7083123922348022
+"clip, level 0.1",67,lmt108,lmt108:G9Kashmir,textile,polymer,polymer,The surface is polymer.,-7.338960647583008,-4.776460647583008,-11.401460647583008,-0.6514608263969421
+"clip, level 0.1",68,lmt108,lmt108:G9RedFleeze,textile,polymer,polymer,The surface is a polymer.,-8.109947204589844,-4.984947681427002,-12.422447204589844,-1.672447681427002
+"clip, level 0.1",69,lmt108,lmt108:G9RedVelvet,textile,polymer,polymer,The surface is polymer.,-7.056439399719238,-5.243939399719238,-11.587689399719238,-0.7439392805099487
+"clip, level 0.1",70,lmt108,lmt108:G4Beech_0,wood,polymer,invalid,The surface sounds like it's made of plastic.,-5.953242301940918,-4.828242301940918,-11.453242301940918,-1.4532420635223389
+"clip, level 0.1",71,lmt108,lmt108:G4CherryTree,wood,polymer,invalid,The surface sounds like it's made of plastic.,-6.808750629425049,-3.996250629425049,-11.55875015258789,-0.8712506294250488
+"clip, level 0.1",72,lmt108,lmt108:G4CoreBeech,wood,polymer,invalid,The surface sounds like it's made of plastic.,-5.416828155517578,-4.479328155517578,-11.854328155517578,-1.354327917098999
+"clip, level 0.1",73,lmt108,lmt108:G4Larch,wood,polymer,polymer,The surface is polymer.,-7.0321221351623535,-4.3446221351623535,-11.969621658325195,-1.0321221351623535
+"clip, level 0.1",74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface is polymer.,-8.14361572265625,-5.018616199493408,-12.73736572265625,-0.5811160802841187
+"clip, level 0.1",75,lmt108,lmt108:G4Teak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-4.980772972106934,-4.168272972106934,-12.668272972106934,-1.2932729721069336
+"clip, level 0.1",76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-5.215518951416016,-4.340518951416016,-11.590518951416016,-1.2780189514160156
+"clip, level 0.1",77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface is polymer.,-5.646673202514648,-4.771673202514648,-12.365423202514648,-0.5216732621192932
+"clip, level 0.1",78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-5.050907611846924,-3.800907611846924,-10.363408088684082,-1.3009077310562134
+"clip, level 0.1",79,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is a polymer.,-7.664370059967041,-4.851870059967041,-11.195619583129883,-1.6018699407577515
+"clip, level 0.1",80,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-6.316028118133545,-4.003528118133545,-10.909778594970703,-0.3785282373428345
+"clip, level 0.1",81,sens3,sens3:33,metal,polymer,polymer,The surface is polymer.,-4.611458778381348,-3.4864587783813477,-11.298958778381348,-0.48645877838134766
+"clip, level 0.1",82,sens3,sens3:34,metal,polymer,polymer,The surface is polymer.,-8.714690208435059,-5.339690208435059,-11.933440208435059,-0.9021899700164795
+"clip, level 0.1",83,sens3,sens3:35,metal,polymer,polymer,The surface is polymer.,-5.148817539215088,-4.273817539215088,-12.39881706237793,-0.33631742000579834
+"clip, level 0.1",84,sens3,sens3:36,metal,polymer,invalid,The surface is plastic.,-4.49741268157959,-4.99741268157959,-10.68491268157959,-1.1224126815795898
+"clip, level 0.1",85,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-7.840583801269531,-4.528083801269531,-11.246833801269531,-0.7155836224555969
+"clip, level 0.1",86,sens3,sens3:36,metal,polymer,polymer,The surface is polymer.,-8.599023818969727,-5.224023818969727,-11.224023818969727,-0.3490239381790161
+"clip, level 0.1",87,sens3,sens3:36,metal,polymer,polymer,The surface is polymer.,-8.684316635131836,-4.809316635131836,-10.809316635131836,-0.684316873550415
+"clip, level 0.1",88,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-7.576768398284912,-5.951768398284912,-9.76426887512207,-0.8892685770988464
+"clip, level 0.1",89,sens3,sens3:32,metal,polymer,polymer,The surface is a polymer.,-7.175905227661133,-4.300905227661133,-10.675905227661133,-0.8634051084518433
+"clip, level 0.1",90,sens3,sens3:17,polymer,polymer,polymer,The surface is polymer.,-4.785780906677246,-4.098280906677246,-11.317030906677246,-0.660780668258667
+"clip, level 0.1",91,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-8.554576873779297,-4.617077350616455,-11.804576873779297,-0.4920773208141327
+"clip, level 0.1",92,sens3,sens3:19,polymer,polymer,polymer,The surface is a polymer.,-7.873240947723389,-5.560740947723389,-11.40449047088623,-1.1857408285140991
+"clip, level 0.1",93,sens3,sens3:20,polymer,polymer,invalid,The surface sounds like plastic.,-3.712625026702881,-5.025125026702881,-10.868875503540039,-0.5876251459121704
+"clip, level 0.1",94,sens3,sens3:21,polymer,polymer,invalid,The surface feels like plastic.,-5.4748616218566895,-4.7873616218566895,-11.568611145019531,-0.9123614430427551
+"clip, level 0.1",95,sens3,sens3:22,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-3.50283145904541,-4.50283145904541,-11.15908145904541,-0.8778315782546997
+"clip, level 0.1",96,sens3,sens3:25,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-4.316939353942871,-4.691939353942871,-10.691939353942871,-0.5669395923614502
+"clip, level 0.1",97,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-7.661143779754639,-4.973643779754639,-11.317394256591797,-0.661143958568573
+"clip, level 0.1",98,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-7.590236186981201,-4.902736186981201,-11.93398666381836,-0.9652361869812012
+"clip, level 0.1",99,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-7.626605987548828,-5.126605987548828,-10.345355987548828,-0.8141059875488281
+"clip, level 0.1",100,sens3,sens3:1,textile,polymer,polymer,The surface is polymer.,-5.908349514007568,-3.9083497524261475,-10.939599990844727,-0.9083496928215027
+"clip, level 0.1",101,sens3,sens3:10,textile,polymer,polymer,The surface is polymer.,-5.704229831695557,-4.391729831695557,-10.297979354858398,-0.8917297124862671
+"clip, level 0.1",102,sens3,sens3:14,textile,polymer,polymer,The surface is a polymer.,-7.671982765197754,-5.359482765197754,-11.078232765197754,-0.9219826459884644
+"clip, level 0.1",103,sens3,sens3:15,textile,polymer,invalid,The surface sounds like it's made of plastic.,-8.500737190246582,-5.813237190246582,-12.125737190246582,-1.1882373094558716
+"clip, level 0.1",104,sens3,sens3:2,textile,polymer,invalid,The surface feels like plastic.,-1.310846209526062,-5.373346328735352,-9.810846328735352,-0.935846209526062
+"clip, level 0.1",105,sens3,sens3:3,textile,polymer,invalid,The surface sounds like it's made of plastic.,-9.264135360717773,-5.576635360717773,-11.920385360717773,-1.5766355991363525
+"clip, level 0.1",106,sens3,sens3:4,textile,polymer,polymer,The surface is polymer.,-4.852319240570068,-4.664819240570068,-10.696069717407227,-0.7273192405700684
+"clip, level 0.1",107,sens3,sens3:5,textile,polymer,invalid,"The surface is likely made of plastic or rubber, as that is a common material",-8.042049407958984,-5.104548931121826,-11.510799407958984,-1.7920489311218262
+"clip, level 0.1",108,sens3,sens3:6,textile,polymer,invalid,The surface sounds like plastic.,-4.2301859855651855,-4.7301859855651855,-11.167686462402344,-0.7301859855651855
+"clip, level 0.1",109,sens3,sens3:7,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.826222896575928,-5.701222896575928,-11.16997241973877,-1.2637226581573486
+"clip, level 0.1",110,sens3,sens3:37,wood,polymer,polymer,The surface is a polymer.,-7.998141765594482,-5.373141765594482,-11.373141288757324,-1.2481417655944824
+"clip, level 0.1",111,sens3,sens3:38,wood,polymer,polymer,The surface is polymer.,-7.832592964172363,-4.770092964172363,-11.426342964172363,-0.770092785358429
+"clip, level 0.1",112,sens3,sens3:39,wood,polymer,polymer,The surface is polymer.,-7.968886375427246,-5.843886375427246,-10.562636375427246,-1.0938862562179565
+"clip, level 0.1",113,sens3,sens3:40,wood,polymer,polymer,The surface is polymer.,-6.274371147155762,-5.086871147155762,-11.368121147155762,-1.1493711471557617
+"clip, level 0.1",114,sens3,sens3:41,wood,polymer,polymer,The surface is a polymer.,-6.842222213745117,-4.592222213745117,-11.623472213745117,-1.2172224521636963
+"clip, level 0.1",115,sens3,sens3:42,wood,polymer,polymer,The surface is polymer.,-7.8867950439453125,-5.0742950439453125,-11.543045043945312,-0.2617950737476349
+"clip, level 0.1",116,sens3,sens3:37,wood,polymer,polymer,The surface is polymer.,-7.341424942016602,-4.403924942016602,-10.778924942016602,-0.7789248824119568
+"clip, level 0.1",117,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-7.558849334716797,-5.371349334716797,-12.308849334716797,-0.8713490962982178
+"clip, level 0.1",118,sens3,sens3:40,wood,polymer,polymer,The surface is polymer.,-6.29939603805542,-4.73689603805542,-9.674396514892578,-0.5493960380554199
+"clip, level 0.1",119,sens3,sens3:39,wood,polymer,polymer,The surface is a polymer.,-8.239623069763184,-5.614622592926025,-11.395873069763184,-1.8021228313446045
+"clip, level 0.02",0,cluster,cluster:65,metal,polymer,polymer,The surface is polymer.,-8.288722038269043,-5.038722038269043,-11.351222038269043,-0.4137220084667206
+"clip, level 0.02",1,cluster,cluster:66,metal,polymer,polymer,The surface is a polymer.,-7.2854743003845215,-4.4104743003845215,-11.535473823547363,-1.410474181175232
+"clip, level 0.02",2,cluster,cluster:67,metal,polymer,polymer,The surface is a polymer.,-6.850162029266357,-4.412662029266357,-11.193912506103516,-1.350162148475647
+"clip, level 0.02",3,cluster,cluster:68,metal,polymer,polymer,The surface is a polymer.,-7.207263946533203,-4.394763946533203,-11.144763946533203,-0.957263708114624
+"clip, level 0.02",4,cluster,cluster:69,metal,polymer,polymer,The surface is polymer.,-7.33566427230835,-4.27316427230835,-11.023164749145508,-0.7106644511222839
+"clip, level 0.02",5,cluster,cluster:70,metal,polymer,polymer,The surface is a polymer.,-6.016417980194092,-4.391417980194092,-11.672667503356934,-1.5164177417755127
+"clip, level 0.02",6,cluster,cluster:71,metal,polymer,polymer,The surface is a polymer.,-6.731456756591797,-4.543956756591797,-11.012706756591797,-1.3564567565917969
+"clip, level 0.02",7,cluster,cluster:72,metal,polymer,invalid,The surface is made of plastic.,-7.025077819824219,-4.337577819824219,-11.150077819824219,-1.2125780582427979
+"clip, level 0.02",8,cluster,cluster:73,metal,polymer,polymer,The surface is a polymer.,-6.423144340515137,-4.423144340515137,-11.235644340515137,-1.3606441020965576
+"clip, level 0.02",9,cluster,cluster:65,metal,polymer,polymer,The surface is polymer.,-7.2933807373046875,-3.9808809757232666,-10.699630737304688,-0.4183809459209442
+"clip, level 0.02",10,cluster,cluster:49,polymer,polymer,polymer,The surface is a polymer.,-7.81540584564209,-4.56540584564209,-11.75290584564209,-1.502906084060669
+"clip, level 0.02",11,cluster,cluster:50,polymer,polymer,invalid,The surface is plastic.,-5.7624030113220215,-5.5124030113220215,-11.543652534484863,-0.8249029517173767
+"clip, level 0.02",12,cluster,cluster:51,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-6.450382709503174,-4.262882709503174,-11.669133186340332,-1.8878828287124634
+"clip, level 0.02",13,cluster,cluster:53,polymer,polymer,invalid,The surface is plastic.,-6.6171555519104,-4.1171555519104,-10.804656028747559,-0.9296556711196899
+"clip, level 0.02",14,cluster,cluster:54,polymer,polymer,polymer,The surface is polymer.,-8.11244010925293,-4.54994010925293,-11.51869010925293,-0.9249400496482849
+"clip, level 0.02",15,cluster,cluster:55,polymer,polymer,polymer,The surface is a polymer.,-7.092361927032471,-4.342361927032471,-10.873611450195312,-1.1548618078231812
+"clip, level 0.02",16,cluster,cluster:56,polymer,polymer,polymer,The surface is a polymer.,-6.617788314819336,-4.680288314819336,-12.367788314819336,-1.680288553237915
+"clip, level 0.02",17,cluster,cluster:57,polymer,polymer,polymer,The surface is polymer.,-7.248531818389893,-4.748531818389893,-11.561031341552734,-0.6235318183898926
+"clip, level 0.02",18,cluster,cluster:58,polymer,polymer,polymer,The surface is a polymer.,-7.322427272796631,-4.634927272796631,-11.478677749633789,-1.5099272727966309
+"clip, level 0.02",19,cluster,cluster:63,polymer,polymer,polymer,The surface is a polymer.,-7.03108549118042,-3.59358549118042,-10.937335968017578,-0.9685856103897095
+"clip, level 0.02",20,cluster,cluster:102,textile,polymer,polymer,The surface is polymer.,-7.634618759155273,-4.822118759155273,-11.447118759155273,-0.572118878364563
+"clip, level 0.02",21,cluster,cluster:103,textile,polymer,polymer,The surface is a polymer.,-6.303559303283691,-4.366059303283691,-10.616059303283691,-1.5535593032836914
+"clip, level 0.02",22,cluster,cluster:104,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.774323463439941,-4.086823463439941,-10.680573463439941,-1.0243233442306519
+"clip, level 0.02",23,cluster,cluster:105,textile,polymer,invalid,The surface is plastic.,-6.987574100494385,-4.550074100494385,-10.675073623657227,-0.8625739812850952
+"clip, level 0.02",24,cluster,cluster:106,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.669332981109619,-4.231832981109619,-11.075583457946777,-0.9193331003189087
+"clip, level 0.02",25,cluster,cluster:107,textile,polymer,invalid,The surface is plastic.,-6.658485412597656,-4.345985412597656,-11.408485412597656,-1.4084852933883667
+"clip, level 0.02",26,cluster,cluster:108,textile,polymer,polymer,The surface is polymer.,-6.353672027587891,-4.728672027587891,-11.10367202758789,-0.9786717891693115
+"clip, level 0.02",27,cluster,cluster:109,textile,polymer,polymer,The surface is polymer.,-6.678369522094727,-4.428369522094727,-11.115869522094727,-0.9283695220947266
+"clip, level 0.02",28,cluster,cluster:110,textile,polymer,polymer,The surface is a polymer.,-6.9299187660217285,-4.6174187660217285,-11.867419242858887,-1.554918885231018
+"clip, level 0.02",29,cluster,cluster:112,textile,polymer,invalid,The surface is plastic.,-5.674381256103516,-4.236881256103516,-11.393131256103516,-1.3618812561035156
+"clip, level 0.02",30,cluster,cluster:0,wood,polymer,polymer,The surface is a polymer.,-7.007171630859375,-4.507171630859375,-11.225921630859375,-1.069671869277954
+"clip, level 0.02",31,cluster,cluster:1,wood,polymer,invalid,The surface sounds like it's made of plastic.,-6.0362653732299805,-4.3487653732299805,-11.84876537322998,-1.5987651348114014
+"clip, level 0.02",32,cluster,cluster:10,wood,polymer,invalid,The surface is made of plastic.,-6.761490821838379,-4.573990821838379,-11.230240821838379,-1.5114905834197998
+"clip, level 0.02",33,cluster,cluster:11,wood,polymer,polymer,The surface is a polymer.,-6.548013687133789,-4.548013687133789,-11.641763687133789,-1.4855138063430786
+"clip, level 0.02",34,cluster,cluster:12,wood,polymer,invalid,The surface is made of plastic.,-6.644383907318115,-4.081883907318115,-10.738134384155273,-1.2693839073181152
+"clip, level 0.02",35,cluster,cluster:13,wood,polymer,polymer,The surface is a polymer.,-6.1800007820129395,-4.6800007820129395,-12.148750305175781,-1.4925007820129395
+"clip, level 0.02",36,cluster,cluster:14,wood,polymer,invalid,The surface is made of plastic.,-6.737179756164551,-4.612179756164551,-11.26842975616455,-1.4246796369552612
+"clip, level 0.02",37,cluster,cluster:15,wood,polymer,polymer,The surface is a polymer.,-6.8842363357543945,-4.8217363357543945,-12.165486335754395,-1.696736454963684
+"clip, level 0.02",38,cluster,cluster:16,wood,polymer,polymer,The surface is a polymer.,-7.2345805168151855,-4.7345805168151855,-11.797080993652344,-1.4845805168151855
+"clip, level 0.02",39,cluster,cluster:17,wood,polymer,polymer,The surface is a polymer.,-7.142596244812012,-4.642596244812012,-12.236346244812012,-1.5175960063934326
+"clip, level 0.02",40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is polymer.,-3.0893123149871826,-3.7143123149871826,-10.214312553405762,-0.5893123149871826
+"clip, level 0.02",41,lmt108,lmt108:G3AluminumPlate,metal,polymer,invalid,The surface sounds like it's made of plastic.,-6.6301188468933105,-5.0676188468933105,-12.286369323730469,-1.5051188468933105
+"clip, level 0.02",42,lmt108,lmt108:G3Brass,metal,polymer,invalid,The surface sounds like it's made of plastic.,-6.466367721557617,-4.528867721557617,-11.247617721557617,-0.9038675427436829
+"clip, level 0.02",43,lmt108,lmt108:G3Copper,metal,polymer,polymer,The surface is a polymer.,-5.620846271514893,-4.745846271514893,-11.245845794677734,-1.4333460330963135
+"clip, level 0.02",44,lmt108,lmt108:G3StainlessSteel,metal,polymer,polymer,The surface is a polymer.,-7.916619300842285,-5.104119300842285,-10.916619300842285,-0.7916195392608643
+"clip, level 0.02",45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface is plastic.,-5.468095779418945,-4.343095779418945,-11.030595779418945,-0.7180957198143005
+"clip, level 0.02",46,lmt108,lmt108:G3AluminumPlate,metal,polymer,invalid,The surface sounds like it's made of plastic.,-5.575207710266113,-5.137707710266113,-12.637707710266113,-1.1377079486846924
+"clip, level 0.02",47,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is polymer.,-5.29459285736084,-5.16959285736084,-10.70084285736084,-0.6695929765701294
+"clip, level 0.02",48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface is plastic.,-3.922625780105591,-4.61012601852417,-10.141375541687012,-0.4851258397102356
+"clip, level 0.02",49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface is plastic.,-3.552650213241577,-4.427650451660156,-10.833900451660156,-0.5526502132415771
+"clip, level 0.02",50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,polymer,The surface is polymer.,-4.514393329620361,-5.639393329620361,-11.139392852783203,-0.5768932700157166
+"clip, level 0.02",51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-7.006901741027832,-5.131901741027832,-11.131901741027832,-0.6944019198417664
+"clip, level 0.02",52,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is polymer.,-1.8009142875671387,-3.6759142875671387,-10.832164764404297,-1.4884142875671387
+"clip, level 0.02",53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,polymer,The surface is a polymer.,-6.448757171630859,-4.448757171630859,-10.29250717163086,-0.6987573504447937
+"clip, level 0.02",54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,polymer,The surface is polymer.,-6.131951808929443,-5.131951808929443,-11.100701332092285,-0.8194516897201538
+"clip, level 0.02",55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,invalid,The surface sounds like it's made of plastic or rubber.,-4.740263938903809,-4.865263938903809,-9.771513938903809,-1.8027637004852295
+"clip, level 0.02",56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,polymer,The surface is a polymer.,-2.835488796234131,-4.272988796234131,-10.772989273071289,-1.3354887962341309
+"clip, level 0.02",57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,invalid,The surface sounds like it's made of plastic or rubber.,-7.989585876464844,-4.614585876464844,-9.802085876464844,-1.3020858764648438
+"clip, level 0.02",58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-6.528573036193848,-4.841073036193848,-10.841073036193848,-0.4035728871822357
+"clip, level 0.02",59,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is polymer.,-6.904943466186523,-4.592443466186523,-10.842443466186523,-0.7174432277679443
+"clip, level 0.02",60,lmt108,lmt108:G6Towel,textile,polymer,invalid,The surface feels like plastic.,-5.231852054595947,-5.731852054595947,-8.794352531433105,-1.9193520545959473
+"clip, level 0.02",61,lmt108,lmt108:G9BlueSatin,textile,polymer,invalid,The surface feels like plastic.,-6.524165630340576,-7.274165630340576,-5.961665630340576,-1.7741657495498657
+"clip, level 0.02",62,lmt108,lmt108:G9FloorCloth,textile,polymer,invalid,The surface is plastic.,-3.952481746673584,-5.389981746673584,-8.389981269836426,-1.452481746673584
+"clip, level 0.02",63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,invalid,The surface sounds like plastic.,-4.142262935638428,-5.267262935638428,-10.17351245880127,-0.8297627568244934
+"clip, level 0.02",64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,polymer,The surface is polymer.,-7.816569805145264,-5.129069805145264,-11.972820281982422,-1.0665699243545532
+"clip, level 0.02",65,lmt108,lmt108:G9GreenVelvet,textile,polymer,polymer,The surface is a polymer.,-2.761796474456787,-4.699296474456787,-9.199295997619629,-0.8867963552474976
+"clip, level 0.02",66,lmt108,lmt108:G9Jeans,textile,polymer,invalid,The surface is plastic.,-6.9188618659973145,-4.1688618659973145,-8.168861389160156,-1.3563618659973145
+"clip, level 0.02",67,lmt108,lmt108:G9Kashmir,textile,polymer,polymer,The surface is polymer.,-7.208797931671143,-4.521297931671143,-11.521297454833984,-0.7712977528572083
+"clip, level 0.02",68,lmt108,lmt108:G9RedFleeze,textile,polymer,invalid,"The surface is likely made of plastic or rubber, as indicated by the description of",-7.119377613067627,-4.744377613067627,-12.213127136230469,-1.431877613067627
+"clip, level 0.02",69,lmt108,lmt108:G9RedVelvet,textile,polymer,polymer,The surface is a polymer.,-6.290200233459473,-5.040200233459473,-11.758950233459473,-0.977700412273407
+"clip, level 0.02",70,lmt108,lmt108:G4Beech_0,wood,polymer,polymer,The surface is a polymer.,-4.161820411682129,-4.724320411682129,-11.755570411682129,-1.2868201732635498
+"clip, level 0.02",71,lmt108,lmt108:G4CherryTree,wood,polymer,invalid,The surface sounds like it's made of plastic.,-5.194797992706299,-4.444797992706299,-11.16354751586914,-0.8197978734970093
+"clip, level 0.02",72,lmt108,lmt108:G4CoreBeech,wood,polymer,invalid,The surface sounds like it's made of plastic.,-3.6319217681884766,-4.381921768188477,-10.788171768188477,-1.1319217681884766
+"clip, level 0.02",73,lmt108,lmt108:G4Larch,wood,polymer,polymer,The surface is polymer.,-6.919693946838379,-4.232193946838379,-11.763443946838379,-0.8571937084197998
+"clip, level 0.02",74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface is polymer.,-8.179802894592285,-5.429802894592285,-12.211052894592285,-0.36730295419692993
+"clip, level 0.02",75,lmt108,lmt108:G4Teak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-2.52109432220459,-4.45859432220459,-10.92734432220459,-1.0835942029953003
+"clip, level 0.02",76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-4.539111137390137,-3.976611375808716,-11.695361137390137,-1.4141113758087158
+"clip, level 0.02",77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface is polymer.,-4.793262481689453,-4.418262481689453,-11.699512481689453,-0.4807626008987427
+"clip, level 0.02",78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-4.696505546569824,-3.821505546569824,-11.196505546569824,-0.9465056657791138
+"clip, level 0.02",79,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is a polymer.,-7.834863662719727,-4.959863662719727,-11.397363662719727,-2.2723636627197266
+"clip, level 0.02",80,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-6.501989364624023,-4.501989364624023,-11.251989364624023,-0.5644896030426025
+"clip, level 0.02",81,sens3,sens3:33,metal,polymer,invalid,The surface is plastic.,-2.636953830718994,-3.324453830718994,-10.355704307556152,-0.6994539499282837
+"clip, level 0.02",82,sens3,sens3:34,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-6.481040000915527,-5.168540000915527,-11.074790000915527,-1.1060400009155273
+"clip, level 0.02",83,sens3,sens3:35,metal,polymer,polymer,The surface is polymer.,-3.5969901084899902,-4.40949010848999,-11.159490585327148,-0.5969901084899902
+"clip, level 0.02",84,sens3,sens3:36,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-3.5142407417297363,-4.951740741729736,-11.232990264892578,-1.2017406225204468
+"clip, level 0.02",85,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-6.198520183563232,-4.761020183563232,-11.38602066040039,-1.0735201835632324
+"clip, level 0.02",86,sens3,sens3:36,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-6.715036392211914,-5.340036392211914,-11.090036392211914,-0.4650363326072693
+"clip, level 0.02",87,sens3,sens3:36,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-6.544985771179199,-4.857485771179199,-10.9199857711792,-0.9824855327606201
+"clip, level 0.02",88,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-6.25494909286499,-5.56744909286499,-9.067449569702148,-0.9424490928649902
+"clip, level 0.02",89,sens3,sens3:32,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-4.996265888214111,-4.246265888214111,-9.621265411376953,-0.6837657690048218
+"clip, level 0.02",90,sens3,sens3:17,polymer,polymer,polymer,The surface is polymer.,-4.902888774871826,-4.152888774871826,-11.090389251708984,-0.7153889536857605
+"clip, level 0.02",91,sens3,sens3:18,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-5.6988749504089355,-4.6363749504089355,-11.386375427246094,-1.0738749504089355
+"clip, level 0.02",92,sens3,sens3:19,polymer,polymer,polymer,The surface is a polymer.,-6.228906154632568,-5.728906154632568,-11.60390567779541,-1.1039060354232788
+"clip, level 0.02",93,sens3,sens3:20,polymer,polymer,invalid,The surface sounds like plastic.,-2.811079740524292,-4.748579502105713,-10.436079978942871,-0.7485796809196472
+"clip, level 0.02",94,sens3,sens3:21,polymer,polymer,invalid,The surface feels like plastic.,-4.321730613708496,-4.321730613708496,-11.759230613708496,-0.7592304944992065
+"clip, level 0.02",95,sens3,sens3:22,polymer,polymer,invalid,The surface is plastic.,-2.7653303146362305,-4.5778303146362305,-11.32783031463623,-0.8903303146362305
+"clip, level 0.02",96,sens3,sens3:25,polymer,polymer,invalid,The surface is plastic.,-3.1083452701568604,-4.858345031738281,-9.702095031738281,-0.9208452701568604
+"clip, level 0.02",97,sens3,sens3:18,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-6.60597038269043,-4.91847038269043,-10.54347038269043,-0.7934701442718506
+"clip, level 0.02",98,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-6.6248779296875,-4.9998779296875,-12.2811279296875,-0.6873781085014343
+"clip, level 0.02",99,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-5.689828872680664,-5.252328872680664,-9.377328872680664,-1.127328872680664
+"clip, level 0.02",100,sens3,sens3:1,textile,polymer,invalid,The surface is plastic.,-4.2802228927612305,-4.5927228927612305,-9.93647289276123,-1.0927231311798096
+"clip, level 0.02",101,sens3,sens3:10,textile,polymer,invalid,The surface is plastic.,-4.445282936096191,-4.507782936096191,-10.476532936096191,-1.1327831745147705
+"clip, level 0.02",102,sens3,sens3:14,textile,polymer,invalid,The surface is plastic.,-5.347102165222168,-5.409602165222168,-10.190852165222168,-1.159602403640747
+"clip, level 0.02",103,sens3,sens3:15,textile,polymer,polymer,The surface is polymer.,-6.185007095336914,-5.622507095336914,-11.622507095336914,-0.9975069761276245
+"clip, level 0.02",104,sens3,sens3:2,textile,polymer,invalid,"The surface feels smooth and hard, like plastic.",-1.5123050212860107,-5.51230525970459,-10.57480525970459,-0.7623050212860107
+"clip, level 0.02",105,sens3,sens3:3,textile,polymer,invalid,"The surface is likely made of plastic or rubber, as that is a common material",-8.160300254821777,-5.160300254821777,-11.097800254821777,-1.3478002548217773
+"clip, level 0.02",106,sens3,sens3:4,textile,polymer,polymer,The surface is polymer.,-4.576888561248779,-4.701888561248779,-11.764388084411621,-0.8268884420394897
+"clip, level 0.02",107,sens3,sens3:5,textile,polymer,polymer,The surface is a polymer.,-6.80246639251709,-4.86496639251709,-10.58371639251709,-1.6774661540985107
+"clip, level 0.02",108,sens3,sens3:6,textile,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-4.35414981842041,-4.41664981842041,-11.54164981842041,-0.9791499376296997
+"clip, level 0.02",109,sens3,sens3:7,textile,polymer,invalid,The surface is plastic.,-4.957515716552734,-5.832515716552734,-10.988765716552734,-1.0200154781341553
+"clip, level 0.02",110,sens3,sens3:37,wood,polymer,polymer,The surface is a polymer.,-8.370964050292969,-5.308464050292969,-11.808464050292969,-1.6209638118743896
+"clip, level 0.02",111,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-7.258125305175781,-5.383125305175781,-11.945625305175781,-0.7581254243850708
+"clip, level 0.02",112,sens3,sens3:39,wood,polymer,polymer,The surface is a polymer.,-7.0977559089660645,-5.5977559089660645,-10.972755432128906,-1.2852559089660645
+"clip, level 0.02",113,sens3,sens3:40,wood,polymer,invalid,The surface feels like plastic.,-6.013034820556641,-5.388034820556641,-12.51303482055664,-1.2630349397659302
+"clip, level 0.02",114,sens3,sens3:41,wood,polymer,invalid,The surface is plastic.,-6.495271682739258,-4.620271682739258,-11.839021682739258,-1.3077715635299683
+"clip, level 0.02",115,sens3,sens3:42,wood,polymer,invalid,The surface sounds like it's made of plastic.,-6.871823787689209,-4.996823787689209,-11.340574264526367,-0.4968239665031433
+"clip, level 0.02",116,sens3,sens3:37,wood,polymer,polymer,The surface is polymer.,-5.884825706481934,-4.509825706481934,-10.478575706481934,-0.8848255276679993
+"clip, level 0.02",117,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-6.652446746826172,-5.527446746826172,-12.089946746826172,-1.0899465084075928
+"clip, level 0.02",118,sens3,sens3:40,wood,polymer,polymer,The surface is polymer.,-6.244781494140625,-4.932281494140625,-9.994781494140625,-0.8072813749313354
+"clip, level 0.02",119,sens3,sens3:39,wood,polymer,polymer,The surface is polymer.,-6.1261162757873535,-4.6261162757873535,-11.532365798950195,-1.0011162757873535
+"clip, level 0.5",0,cluster,cluster:65,metal,polymer,polymer,The surface is polymer.,-6.648248672485352,-4.273248672485352,-12.085748672485352,-0.4607488512992859
+"clip, level 0.5",1,cluster,cluster:66,metal,polymer,polymer,The surface is a polymer.,-5.775290012359619,-4.212790012359619,-11.744040489196777,-0.9627901911735535
+"clip, level 0.5",2,cluster,cluster:67,metal,polymer,polymer,The surface belongs to the polymer family.,-5.228482246398926,-4.665982246398926,-12.697232246398926,-0.853482186794281
+"clip, level 0.5",3,cluster,cluster:68,metal,polymer,polymer,The surface is polymer.,-4.551620960235596,-3.9891209602355957,-12.051621437072754,-0.36412107944488525
+"clip, level 0.5",4,cluster,cluster:69,metal,polymer,polymer,The surface is polymer.,-5.330401420593262,-4.205401420593262,-12.142901420593262,-0.5179016590118408
+"clip, level 0.5",5,cluster,cluster:70,metal,polymer,polymer,The surface is a polymer.,-5.550529956817627,-4.550529956817627,-12.550529479980469,-1.2380298376083374
+"clip, level 0.5",6,cluster,cluster:71,metal,polymer,polymer,The surface belongs to the polymer family.,-5.418716907501221,-4.668716907501221,-12.324966430664062,-0.9187167882919312
+"clip, level 0.5",7,cluster,cluster:72,metal,polymer,polymer,The surface is a polymer.,-5.59991455078125,-4.53741455078125,-12.06866455078125,-0.5999147295951843
+"clip, level 0.5",8,cluster,cluster:73,metal,polymer,polymer,The surface belongs to the polymer family.,-6.1332244873046875,-4.2582244873046875,-12.039474487304688,-1.0707244873046875
+"clip, level 0.5",9,cluster,cluster:65,metal,polymer,polymer,The surface is a polymer.,-4.484411239624023,-4.296911239624023,-11.671911239624023,-0.5469111204147339
+"clip, level 0.5",10,cluster,cluster:49,polymer,polymer,polymer,The surface belongs to the polymer family.,-6.340397357940674,-4.527897357940674,-12.152896881103516,-1.0278973579406738
+"clip, level 0.5",11,cluster,cluster:50,polymer,polymer,invalid,The surface is plastic.,-5.695277214050293,-5.320277214050293,-11.539027214050293,-0.8827773332595825
+"clip, level 0.5",12,cluster,cluster:51,polymer,polymer,polymer,The surface is a polymer.,-4.819835186004639,-4.569835186004639,-11.913585662841797,-1.3198353052139282
+"clip, level 0.5",13,cluster,cluster:53,polymer,polymer,invalid,The surface is plastic.,-4.96945858001709,-4.59445858001709,-11.84445858001709,-0.5944583415985107
+"clip, level 0.5",14,cluster,cluster:54,polymer,polymer,polymer,The surface is polymer.,-7.0640645027160645,-4.7515645027160645,-12.470314025878906,-0.31406450271606445
+"clip, level 0.5",15,cluster,cluster:55,polymer,polymer,polymer,The surface is polymer.,-5.615086555480957,-4.177586555480957,-12.052586555480957,-0.552586555480957
+"clip, level 0.5",16,cluster,cluster:56,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.925971031188965,-4.800971031188965,-11.957221031188965,-0.9259712100028992
+"clip, level 0.5",17,cluster,cluster:57,polymer,polymer,polymer,The surface is polymer.,-6.303228378295898,-4.803228378295898,-12.646978378295898,-0.3032282888889313
+"clip, level 0.5",18,cluster,cluster:58,polymer,polymer,polymer,The surface is a polymer.,-5.789247512817383,-4.414247512817383,-12.382997512817383,-0.9142475128173828
+"clip, level 0.5",19,cluster,cluster:63,polymer,polymer,polymer,The surface is polymer.,-6.596036434173584,-4.221036434173584,-12.127286911010742,-0.533536434173584
+"clip, level 0.5",20,cluster,cluster:102,textile,polymer,invalid,The surface is plastic.,-5.231794834136963,-4.919294834136963,-11.731795310974121,-0.6067948937416077
+"clip, level 0.5",21,cluster,cluster:103,textile,polymer,polymer,The surface is a polymer.,-5.402979850769043,-4.965479850769043,-12.527979850769043,-1.2154799699783325
+"clip, level 0.5",22,cluster,cluster:104,textile,polymer,polymer,The surface is a polymer.,-4.88339376449585,-4.69589376449585,-11.570894241333008,-0.6958938241004944
+"clip, level 0.5",23,cluster,cluster:105,textile,polymer,polymer,The surface is a polymer.,-6.140405178070068,-4.577905178070068,-11.67165470123291,-0.7654051184654236
+"clip, level 0.5",24,cluster,cluster:106,textile,polymer,polymer,The surface is a polymer.,-5.827776908874512,-4.390276908874512,-11.234026908874512,-0.5777768492698669
+"clip, level 0.5",25,cluster,cluster:107,textile,polymer,polymer,The surface is a polymer.,-4.577993392944336,-4.702993392944336,-11.734243392944336,-0.7654935121536255
+"clip, level 0.5",26,cluster,cluster:108,textile,polymer,polymer,The surface is polymer.,-5.711954116821289,-4.899454116821289,-11.868204116821289,-0.46195411682128906
+"clip, level 0.5",27,cluster,cluster:109,textile,polymer,polymer,The surface is a polymer.,-5.542229652404785,-4.479729652404785,-11.479729652404785,-0.4797297716140747
+"clip, level 0.5",28,cluster,cluster:110,textile,polymer,polymer,The surface belongs to the polymer family.,-5.593167781829834,-4.155667781829834,-12.030667304992676,-0.8431677222251892
+"clip, level 0.5",29,cluster,cluster:112,textile,polymer,invalid,The surface is plastic.,-4.871127605438232,-4.371127605438232,-12.21487808227539,-0.9336276650428772
+"clip, level 0.5",30,cluster,cluster:0,wood,polymer,polymer,The surface is a polymer.,-5.927684783935547,-4.365184783935547,-12.365184783935547,-0.6776846647262573
+"clip, level 0.5",31,cluster,cluster:1,wood,polymer,invalid,The surface is plastic.,-4.7465643882751465,-4.2465643882751465,-11.746564865112305,-1.0590643882751465
+"clip, level 0.5",32,cluster,cluster:10,wood,polymer,polymer,The surface is a polymer.,-4.74201774597168,-4.49201774597168,-12.27326774597168,-1.0545178651809692
+"clip, level 0.5",33,cluster,cluster:11,wood,polymer,invalid,The surface is plastic.,-5.8629279136657715,-4.6754279136657715,-12.706677436828613,-1.050427794456482
+"clip, level 0.5",34,cluster,cluster:12,wood,polymer,polymer,The surface is a polymer.,-5.1316752433776855,-4.6941752433776855,-12.131674766540527,-0.7566751837730408
+"clip, level 0.5",35,cluster,cluster:13,wood,polymer,polymer,The surface belongs to the polymer family.,-5.42172908782959,-4.54672908782959,-12.14047908782959,-1.3592290878295898
+"clip, level 0.5",36,cluster,cluster:14,wood,polymer,polymer,The surface belongs to the polymer family.,-5.469997882843018,-4.657497882843018,-12.12624740600586,-0.969997763633728
+"clip, level 0.5",37,cluster,cluster:15,wood,polymer,polymer,The surface belongs to the polymer family.,-5.170141220092773,-4.607641220092773,-12.545141220092773,-0.9201411008834839
+"clip, level 0.5",38,cluster,cluster:16,wood,polymer,polymer,The surface is a polymer.,-6.019285202026367,-4.519285202026367,-12.050535202026367,-0.8317853212356567
+"clip, level 0.5",39,cluster,cluster:17,wood,polymer,polymer,The surface is a polymer.,-5.980639457702637,-4.730639457702637,-12.543139457702637,-1.1681394577026367
+"clip, level 0.5",40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.636777877807617,-4.574277877807617,-12.324277877807617,-0.3867780566215515
+"clip, level 0.5",41,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.273608684539795,-4.961108684539795,-11.086109161376953,-1.0861088037490845
+"clip, level 0.5",42,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is a polymer.,-5.7784295082092285,-4.4659295082092285,-10.21592903137207,-0.7159294486045837
+"clip, level 0.5",43,lmt108,lmt108:G3Copper,metal,polymer,polymer,The surface is polymer.,-5.123619079589844,-3.8736190795898438,-11.217369079589844,-0.748619019985199
+"clip, level 0.5",44,lmt108,lmt108:G3StainlessSteel,metal,polymer,polymer,The surface is a polymer.,-6.406306266784668,-4.531306266784668,-11.906306266784668,-0.7813063859939575
+"clip, level 0.5",45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-6.151423454284668,-4.776423454284668,-13.057673454284668,-0.4014236330986023
+"clip, level 0.5",46,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface is a polymer.,-5.751394271850586,-4.876394271850586,-11.688894271850586,-1.063894271850586
+"clip, level 0.5",47,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is polymer.,-5.038477897644043,-5.225977897644043,-10.944727897644043,-0.3509778082370758
+"clip, level 0.5",48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is polymer.,-5.496697425842285,-4.996697425842285,-11.809197425842285,-0.30919766426086426
+"clip, level 0.5",49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.944545745849609,-4.632045745849609,-13.00704574584961,-0.44454577565193176
+"clip, level 0.5",50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,polymer,The surface is polymer.,-5.337919235229492,-5.712919235229492,-11.994169235229492,-0.15041935443878174
+"clip, level 0.5",51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,polymer,The surface is polymer.,-5.505831241607666,-4.943331241607666,-12.099580764770508,-0.5058311820030212
+"clip, level 0.5",52,lmt108,lmt108:G5FineRubber,polymer,polymer,invalid,The surface is plastic.,-4.7411909103393555,-3.7411906719207764,-10.709940910339355,-0.5536906719207764
+"clip, level 0.5",53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,polymer,The surface is a polymer.,-6.130239963531494,-4.505239963531494,-10.505240440368652,-0.8177401423454285
+"clip, level 0.5",54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,polymer,The surface is polymer.,-6.184885501861572,-5.434885501861572,-11.27863597869873,-0.37238556146621704
+"clip, level 0.5",55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-6.592841148376465,-4.717841148376465,-10.749091148376465,-0.7178410291671753
+"clip, level 0.5",56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,polymer,The surface is polymer.,-4.818240642547607,-4.380740642547607,-11.130741119384766,-0.505740761756897
+"clip, level 0.5",57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,invalid,The surface is plastic.,-5.997839450836182,-4.810339450836182,-9.99783992767334,-0.6228395104408264
+"clip, level 0.5",58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface is polymer.,-6.512037754058838,-4.699537754058838,-10.543288230895996,-0.26203781366348267
+"clip, level 0.5",59,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is polymer.,-5.7115044593811035,-4.7740044593811035,-11.430254936218262,-0.5865046381950378
+"clip, level 0.5",60,lmt108,lmt108:G6Towel,textile,polymer,invalid,The surface sounds like it's made of plastic.,-6.49390983581543,-5.18140983581543,-11.15015983581543,-1.1814098358154297
+"clip, level 0.5",61,lmt108,lmt108:G9BlueSatin,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.915398597717285,-5.102898597717285,-10.071648597717285,-0.8528988361358643
+"clip, level 0.5",62,lmt108,lmt108:G9FloorCloth,textile,polymer,invalid,The surface is plastic.,-5.213722229003906,-5.213722229003906,-8.213722229003906,-0.9637221097946167
+"clip, level 0.5",63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,invalid,The surface sounds like rubber.,-4.599409103393555,-5.474409103393555,-9.099409103393555,-0.5369092226028442
+"clip, level 0.5",64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,invalid,The surface is made of plastic.,-6.188921928405762,-4.813921928405762,-12.095171928405762,-0.5014221668243408
+"clip, level 0.5",65,lmt108,lmt108:G9GreenVelvet,textile,polymer,invalid,The surface is plastic.,-1.7274142503738403,-4.664914131164551,-10.16491413116455,-1.0399142503738403
+"clip, level 0.5",66,lmt108,lmt108:G9Jeans,textile,polymer,polymer,The surface is polymer.,-4.173177719116211,-4.173177719116211,-9.860677719116211,-0.4856778383255005
+"clip, level 0.5",67,lmt108,lmt108:G9Kashmir,textile,polymer,polymer,The surface is polymer.,-5.9869489669799805,-4.9869489669799805,-11.61194896697998,-0.61194908618927
+"clip, level 0.5",68,lmt108,lmt108:G9RedFleeze,textile,polymer,polymer,The surface is polymer.,-5.711354732513428,-4.898854732513428,-11.805105209350586,-0.5238549113273621
+"clip, level 0.5",69,lmt108,lmt108:G9RedVelvet,textile,polymer,polymer,The surface is polymer.,-6.124544143676758,-5.562044143676758,-10.593294143676758,-0.4370441436767578
+"clip, level 0.5",70,lmt108,lmt108:G4Beech_0,wood,polymer,polymer,The surface is a polymer.,-6.041940212249756,-4.354440212249756,-11.229440689086914,-0.8544403314590454
+"clip, level 0.5",71,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is polymer.,-7.950459003448486,-3.3879592418670654,-11.981709480285645,-0.5754591822624207
+"clip, level 0.5",72,lmt108,lmt108:G4CoreBeech,wood,polymer,polymer,The surface is polymer.,-6.0753607749938965,-3.8878607749938965,-12.387861251831055,-0.5753607749938965
+"clip, level 0.5",73,lmt108,lmt108:G4Larch,wood,polymer,polymer,The surface is polymer.,-7.178513526916504,-4.053513526916504,-11.991013526916504,-0.6160134673118591
+"clip, level 0.5",74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface belongs to the polymer family.,-6.954591751098633,-5.267091751098633,-13.485841751098633,-0.3920917212963104
+"clip, level 0.5",75,lmt108,lmt108:G4Teak,wood,polymer,polymer,The surface is polymer.,-5.754284381866455,-3.941784381866455,-12.910533905029297,-0.9417843818664551
+"clip, level 0.5",76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-6.314833164215088,-3.877333164215088,-10.846083641052246,-0.8148332834243774
+"clip, level 0.5",77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface belongs to the polymer family.,-6.252598285675049,-5.002598285675049,-13.12759780883789,-0.3775981366634369
+"clip, level 0.5",78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface is polymer.,-4.804168701171875,-3.679168462753296,-11.429168701171875,-0.6791685223579407
+"clip, level 0.5",79,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is polymer.,-6.360258102416992,-5.047758102416992,-11.954008102416992,-0.6727582216262817
+"clip, level 0.5",80,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-6.330403804779053,-3.7054038047790527,-11.142904281616211,-0.2679038345813751
+"clip, level 0.5",81,sens3,sens3:33,metal,polymer,polymer,The surface is polymer.,-5.475323677062988,-3.5378236770629883,-11.819073677062988,-0.4128236174583435
+"clip, level 0.5",82,sens3,sens3:34,metal,polymer,invalid,The surface sounds like it's made of plastic.,-8.557125091552734,-5.119624614715576,-12.213375091552734,-0.49462461471557617
+"clip, level 0.5",83,sens3,sens3:35,metal,polymer,polymer,The surface is polymer.,-6.947047233581543,-4.259547233581543,-12.728297233581543,-0.19704705476760864
+"clip, level 0.5",84,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-6.656122207641602,-4.593622207641602,-11.374872207641602,-1.0311222076416016
+"clip, level 0.5",85,sens3,sens3:36,metal,polymer,invalid,The surface sounds like it's made of plastic.,-8.618462562561035,-5.118462562561035,-12.149712562561035,-0.3684627115726471
+"clip, level 0.5",86,sens3,sens3:36,metal,polymer,polymer,The surface is polymer.,-8.811445236206055,-5.311445236206055,-11.373945236206055,-0.24894507229328156
+"clip, level 0.5",87,sens3,sens3:36,metal,polymer,polymer,The surface is polymer.,-8.99980354309082,-5.06230354309082,-11.09355354309082,-0.3123037815093994
+"clip, level 0.5",88,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-8.520512580871582,-5.645512580871582,-10.770512580871582,-0.5205128192901611
+"clip, level 0.5",89,sens3,sens3:32,metal,polymer,polymer,The surface is polymer.,-7.94587516784668,-4.32087516784668,-11.47712516784668,-0.25837504863739014
+"clip, level 0.5",90,sens3,sens3:17,polymer,polymer,polymer,The surface is polymer.,-4.101239204406738,-3.5387392044067383,-11.569989204406738,-0.5387392640113831
+"clip, level 0.5",91,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-8.60400390625,-4.97900390625,-11.94775390625,-0.2290039360523224
+"clip, level 0.5",92,sens3,sens3:19,polymer,polymer,polymer,The surface is a polymer.,-7.582101345062256,-5.019601345062256,-12.675851821899414,-0.5196015238761902
+"clip, level 0.5",93,sens3,sens3:20,polymer,polymer,polymer,The surface belongs to the polymer family.,-5.535913467407227,-5.848413467407227,-11.848413467407227,-0.22341369092464447
+"clip, level 0.5",94,sens3,sens3:21,polymer,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-7.191032409667969,-4.253532409667969,-11.909782409667969,-1.0660321712493896
+"clip, level 0.5",95,sens3,sens3:22,polymer,polymer,invalid,"The surface feels smooth and hard, like plastic.",-6.205217361450195,-4.517717361450195,-12.173967361450195,-0.7052173018455505
+"clip, level 0.5",96,sens3,sens3:25,polymer,polymer,invalid,The surface sounds like plastic.,-5.1919403076171875,-4.4419403076171875,-11.035690307617188,-0.6294404864311218
+"clip, level 0.5",97,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-8.459648132324219,-5.6471476554870605,-11.428398132324219,-0.3971478044986725
+"clip, level 0.5",98,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-6.669309139251709,-4.794309139251709,-12.07555866241455,-0.7943090200424194
+"clip, level 0.5",99,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-8.051281929016113,-5.301281452178955,-10.426281929016113,-0.23878154158592224
+"clip, level 0.5",100,sens3,sens3:1,textile,polymer,polymer,The surface is polymer.,-5.791226863861084,-4.166226863861084,-11.916227340698242,-0.541226863861084
+"clip, level 0.5",101,sens3,sens3:10,textile,polymer,polymer,The surface is polymer.,-7.880650997161865,-3.5681509971618652,-10.505650520324707,-0.5056508779525757
+"clip, level 0.5",102,sens3,sens3:14,textile,polymer,polymer,The surface is a polymer.,-7.706396579742432,-5.206396579742432,-12.112646102905273,-0.7063965201377869
+"clip, level 0.5",103,sens3,sens3:15,textile,polymer,invalid,The surface sounds like it's made of plastic.,-9.010900497436523,-5.385900497436523,-12.729650497436523,-1.0109004974365234
+"clip, level 0.5",104,sens3,sens3:2,textile,polymer,invalid,The surface feels like plastic.,-1.8465328216552734,-4.909032821655273,-9.659032821655273,-0.7215328216552734
+"clip, level 0.5",105,sens3,sens3:3,textile,polymer,polymer,The surface is a polymer.,-9.344961166381836,-5.157460689544678,-12.407461166381836,-1.3449606895446777
+"clip, level 0.5",106,sens3,sens3:4,textile,polymer,polymer,The surface is polymer.,-6.380584716796875,-5.068084716796875,-11.505584716796875,-0.4430849552154541
+"clip, level 0.5",107,sens3,sens3:5,textile,polymer,polymer,The surface is polymer.,-8.263592720031738,-5.076092720031738,-12.232342720031738,-0.701092541217804
+"clip, level 0.5",108,sens3,sens3:6,textile,polymer,polymer,The surface is polymer.,-4.396454811096191,-4.896454811096191,-11.083954811096191,-0.396454781293869
+"clip, level 0.5",109,sens3,sens3:7,textile,polymer,invalid,The surface sounds like it's made of plastic.,-6.84877347946167,-5.97377347946167,-11.692523956298828,-0.9737735986709595
+"clip, level 0.5",110,sens3,sens3:37,wood,polymer,polymer,The surface is a polymer.,-7.023969650268555,-5.211469650268555,-11.836469650268555,-0.5239697098731995
+"clip, level 0.5",111,sens3,sens3:38,wood,polymer,invalid,The surface sounds like it's made of plastic.,-8.56545639038086,-4.815456390380859,-12.06545639038086,-1.0029562711715698
+"clip, level 0.5",112,sens3,sens3:39,wood,polymer,polymer,The surface is a polymer.,-8.092808723449707,-5.280308723449707,-11.186558723449707,-0.7178084850311279
+"clip, level 0.5",113,sens3,sens3:40,wood,polymer,polymer,The surface is a polymer.,-6.690740585327148,-4.753240585327148,-11.284490585327148,-1.1282405853271484
+"clip, level 0.5",114,sens3,sens3:41,wood,polymer,polymer,The surface is a polymer.,-7.019253730773926,-4.956753730773926,-12.363003730773926,-0.9567539095878601
+"clip, level 0.5",115,sens3,sens3:42,wood,polymer,polymer,The surface is polymer.,-7.610437870025635,-4.735437870025635,-10.891688346862793,-0.3604379892349243
+"clip, level 0.5",116,sens3,sens3:37,wood,polymer,polymer,The surface is polymer.,-8.342862129211426,-4.405362129211426,-10.436612129211426,-0.7178620100021362
+"clip, level 0.5",117,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-7.261031150817871,-4.698531150817871,-12.417281150817871,-0.6360312700271606
+"clip, level 0.5",118,sens3,sens3:40,wood,polymer,polymer,The surface is polymer.,-5.932989120483398,-3.8704891204833984,-10.307989120483398,-0.6204890012741089
+"clip, level 0.5",119,sens3,sens3:39,wood,polymer,polymer,The surface is a polymer.,-8.484572410583496,-5.422072410583496,-12.047072410583496,-1.1720722913742065
+8 windows,0,cluster,cluster:65,metal,polymer,n/a,,-45.038424015045166,-36.600924015045166,-89.81967258453369,-9.788423776626587
+8 windows,1,cluster,cluster:66,metal,polymer,n/a,,-16.46913433074951,-13.656634330749512,-35.15663528442383,-3.969134569168091
+8 windows,2,cluster,cluster:67,metal,polymer,n/a,,-11.828376293182373,-9.015876293182373,-22.26587677001953,-2.828376293182373
+8 windows,3,cluster,cluster:68,metal,polymer,n/a,,-28.75316047668457,-23.12816047668457,-56.69066047668457,-6.128160119056702
+8 windows,4,cluster,cluster:69,metal,polymer,n/a,,-26.454050064086914,-22.454050064086914,-56.329050064086914,-5.954050183296204
+8 windows,5,cluster,cluster:70,metal,polymer,n/a,,-11.357767105102539,-9.045267105102539,-23.88901710510254,-3.0452674627304077
+8 windows,6,cluster,cluster:71,metal,polymer,n/a,,-11.374390125274658,-9.186890125274658,-22.655640602111816,-3.0618902444839478
+8 windows,7,cluster,cluster:72,metal,polymer,n/a,,-28.517382621765137,-23.329882621765137,-57.11113166809082,-7.517382383346558
+8 windows,8,cluster,cluster:73,metal,polymer,n/a,,-10.146032333374023,-8.583532333374023,-23.083532333374023,-2.3960323333740234
+8 windows,9,cluster,cluster:65,metal,polymer,n/a,,-25.915249347686768,-22.165249347686768,-56.25899887084961,-6.540248990058899
+8 windows,10,cluster,cluster:49,polymer,polymer,n/a,,-18.690990924835205,-13.878490924835205,-34.25349140167236,-4.628490567207336
+8 windows,11,cluster,cluster:50,polymer,polymer,n/a,,-24.3732967376709,-22.8107967376709,-54.1545467376709,-4.998297452926636
+8 windows,12,cluster,cluster:51,polymer,polymer,n/a,,-11.708161354064941,-8.833161354064941,-22.61441135406494,-2.8331615924835205
+8 windows,13,cluster,cluster:53,polymer,polymer,n/a,,-28.205574989318848,-23.018074989318848,-58.111825942993164,-7.330575227737427
+8 windows,14,cluster,cluster:54,polymer,polymer,n/a,,-45.605101108551025,-36.042601108551025,-90.48009967803955,-9.605101108551025
+8 windows,15,cluster,cluster:55,polymer,polymer,n/a,,-27.747933387756348,-22.872933387756348,-57.81043243408203,-6.5604331493377686
+8 windows,16,cluster,cluster:56,polymer,polymer,n/a,,-10.7799391746521,-9.4674391746521,-23.686189651489258,-2.592439293861389
+8 windows,17,cluster,cluster:57,polymer,polymer,n/a,,-44.31168031692505,-37.24918031692505,-90.12417984008789,-9.186681389808655
+8 windows,18,cluster,cluster:58,polymer,polymer,n/a,,-17.052180767059326,-13.864680767059326,-34.958431243896484,-4.239680886268616
+8 windows,19,cluster,cluster:63,polymer,polymer,n/a,,-43.50439691543579,-35.37939691543579,-93.94189548492432,-10.12939703464508
+8 windows,20,cluster,cluster:102,textile,polymer,n/a,,-40.24297285079956,-34.36797285079956,-93.4617223739624,-9.742972373962402
+8 windows,21,cluster,cluster:103,textile,polymer,n/a,,-11.012343406677246,-9.199843406677246,-22.231093406677246,-2.699843168258667
+8 windows,22,cluster,cluster:104,textile,polymer,n/a,,-28.08962917327881,-22.77712917327881,-58.15212821960449,-7.4646289348602295
+8 windows,23,cluster,cluster:105,textile,polymer,n/a,,-27.16019296646118,-22.91019296646118,-58.75394248962402,-6.847692251205444
+8 windows,24,cluster,cluster:106,textile,polymer,n/a,,-28.167840480804443,-22.792840480804443,-57.6990909576416,-7.292840480804443
+8 windows,25,cluster,cluster:107,textile,polymer,n/a,,-26.409913539886475,-23.284913539886475,-59.566163063049316,-7.847413539886475
+8 windows,26,cluster,cluster:108,textile,polymer,n/a,,-48.770705699920654,-37.020705699920654,-91.9582052230835,-13.583205819129944
+8 windows,27,cluster,cluster:109,textile,polymer,n/a,,-29.853283405303955,-24.228283405303955,-59.54078388214111,-7.6032832860946655
+8 windows,28,cluster,cluster:110,textile,polymer,n/a,,-16.132132530212402,-13.194632530212402,-33.5383825302124,-3.8821325302124023
+8 windows,29,cluster,cluster:112,textile,polymer,n/a,,-17.649742603302002,-13.899742603302002,-34.743492126464844,-4.52474308013916
+8 windows,30,cluster,cluster:0,wood,polymer,n/a,,-29.054030895233154,-23.179030895233154,-56.616530418395996,-7.491530537605286
+8 windows,31,cluster,cluster:1,wood,polymer,n/a,,-15.566964626312256,-12.941964626312256,-33.9107141494751,-4.629464507102966
+8 windows,32,cluster,cluster:10,wood,polymer,n/a,,-10.609588146209717,-9.172088146209717,-22.234588623046875,-2.6095880270004272
+8 windows,33,cluster,cluster:11,wood,polymer,n/a,,-10.731499671936035,-8.731499671936035,-23.012749671936035,-2.856500029563904
+8 windows,34,cluster,cluster:12,wood,polymer,n/a,,-28.691986083984375,-23.566986083984375,-57.348236083984375,-7.066985487937927
+8 windows,35,cluster,cluster:13,wood,polymer,n/a,,-10.03712511062622,-8.91212511062622,-23.56837558746338,-2.9121253490448
+8 windows,36,cluster,cluster:14,wood,polymer,n/a,,-10.25140905380249,-9.00140905380249,-22.18890953063965,-2.5014090538024902
+8 windows,37,cluster,cluster:15,wood,polymer,n/a,,-10.885786056518555,-9.010786056518555,-23.010786056518555,-2.7607860565185547
+8 windows,38,cluster,cluster:16,wood,polymer,n/a,,-15.916155815124512,-13.353655815124512,-34.54115676879883,-4.603656053543091
+8 windows,39,cluster,cluster:17,wood,polymer,n/a,,-10.737201690673828,-8.549701690673828,-22.393452644348145,-2.7372018098831177
+8 windows,40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,n/a,,-34.157329082489014,-32.782329082489014,-92.50107765197754,-14.157328724861145
+8 windows,41,lmt108,lmt108:G3AluminumPlate,metal,polymer,n/a,,-43.68593168258667,-32.62343168258667,-90.06093215942383,-15.060931324958801
+8 windows,42,lmt108,lmt108:G3Brass,metal,polymer,n/a,,-34.69246816635132,-33.12996792793274,-91.03621864318848,-14.37996792793274
+8 windows,43,lmt108,lmt108:G3Copper,metal,polymer,n/a,,-37.21300935745239,-34.27550959587097,-91.55675888061523,-15.15051007270813
+8 windows,44,lmt108,lmt108:G3StainlessSteel,metal,polymer,n/a,,-40.184736251831055,-35.997236251831055,-95.15348625183105,-12.684735894203186
+8 windows,45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,n/a,,-30.122318506240845,-32.122318983078,-87.55981826782227,-11.5598184466362
+8 windows,46,lmt108,lmt108:G3AluminumPlate,metal,polymer,n/a,,-43.05507230758667,-34.61757230758667,-92.30507278442383,-16.11757230758667
+8 windows,47,lmt108,lmt108:G3Brass,metal,polymer,n/a,,-36.74479341506958,-33.74479341506958,-91.27604293823242,-15.86979329586029
+8 windows,48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,n/a,,-29.284215688705444,-31.971715688705444,-91.3467149734497,-13.346715331077576
+8 windows,49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,n/a,,-31.8651282787323,-32.92762804031372,-91.64637851715088,-15.052628755569458
+8 windows,50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,n/a,,-32.417245626449585,-34.354745388031006,-91.04224491119385,-14.667245864868164
+8 windows,51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,n/a,,-34.62129330635071,-33.62129330635071,-89.30879402160645,-14.433793067932129
+8 windows,52,lmt108,lmt108:G5FineRubber,polymer,polymer,n/a,,-32.046568870544434,-32.85906934738159,-91.51531887054443,-14.859068632125854
+8 windows,53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,n/a,,-40.21953535079956,-35.09453535079956,-86.5632848739624,-14.032034993171692
+8 windows,54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,n/a,,-45.78413009643555,-36.97163009643555,-92.75288009643555,-12.971629977226257
+8 windows,55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,n/a,,-32.73902726173401,-34.11402750015259,-86.89527797698975,-15.114027500152588
+8 windows,56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,n/a,,-30.638416528701782,-33.13841676712036,-89.70091819763184,-14.51341688632965
+8 windows,57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,n/a,,-45.82598686218262,-37.70098686218262,-91.26348781585693,-13.700987219810486
+8 windows,58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,n/a,,-45.82044458389282,-37.19544458389282,-92.44544315338135,-13.007944345474243
+8 windows,59,lmt108,lmt108:G5FineRubber,polymer,polymer,n/a,,-44.71035861968994,-37.77285861968994,-92.80410861968994,-12.397858500480652
+8 windows,60,lmt108,lmt108:G6Towel,textile,polymer,n/a,,-38.51544189453125,-36.20294189453125,-88.89044189453125,-16.82794189453125
+8 windows,61,lmt108,lmt108:G9BlueSatin,textile,polymer,n/a,,-37.54443097114563,-35.79443120956421,-88.63818168640137,-17.41943120956421
+8 windows,62,lmt108,lmt108:G9FloorCloth,textile,polymer,n/a,,-31.663379669189453,-35.41337966918945,-84.78837966918945,-18.163379669189453
+8 windows,63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,n/a,,-28.397210359573364,-35.02221059799194,-84.70971012115479,-16.834710240364075
+8 windows,64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,n/a,,-46.058003425598145,-38.620503425598145,-93.27675342559814,-11.495503425598145
+8 windows,65,lmt108,lmt108:G9GreenVelvet,textile,polymer,n/a,,-33.32186007499695,-34.57186007499695,-92.4781084060669,-17.07185924053192
+8 windows,66,lmt108,lmt108:G9Jeans,textile,polymer,n/a,,-22.684847831726074,-33.122347354888916,-85.80984592437744,-15.747347712516785
+8 windows,67,lmt108,lmt108:G9Kashmir,textile,polymer,n/a,,-43.70108890533447,-37.26358890533447,-92.29483890533447,-11.95108950138092
+8 windows,68,lmt108,lmt108:G9RedFleeze,textile,polymer,n/a,,-46.710373878479004,-35.960373878479004,-92.085373878479,-14.897873997688293
+8 windows,69,lmt108,lmt108:G9RedVelvet,textile,polymer,n/a,,-46.23339509963989,-37.98339509963989,-93.48339653015137,-12.483394742012024
+8 windows,70,lmt108,lmt108:G4Beech_0,wood,polymer,n/a,,-34.75758981704712,-33.44508981704712,-94.47634029388428,-17.07008957862854
+8 windows,71,lmt108,lmt108:G4CherryTree,wood,polymer,n/a,,-33.517186641693115,-32.829686641693115,-90.7671890258789,-13.642186999320984
+8 windows,72,lmt108,lmt108:G4CoreBeech,wood,polymer,n/a,,-32.37835717201233,-33.06585693359375,-91.12835597991943,-15.065857529640198
+8 windows,73,lmt108,lmt108:G4Larch,wood,polymer,n/a,,-37.57420492172241,-33.07420468330383,-91.57420349121094,-15.511704683303833
+8 windows,74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,n/a,,-35.96371507644653,-35.96371507644653,-86.15121650695801,-11.08871591091156
+8 windows,75,lmt108,lmt108:G4Teak,wood,polymer,n/a,,-31.311738967895508,-34.12423872947693,-91.96798896789551,-15.061738848686218
+8 windows,76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,n/a,,-31.59814429283142,-33.97314453125,-93.47314357757568,-15.59814441204071
+8 windows,77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,n/a,,-36.934099197387695,-33.871599197387695,-90.3090991973877,-12.559099078178406
+8 windows,78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,n/a,,-32.25543141365051,-33.81793141365051,-93.16168212890625,-15.005431890487671
+8 windows,79,lmt108,lmt108:G4CherryTree,wood,polymer,n/a,,-31.898600101470947,-33.52360010147095,-90.8361005783081,-13.148600339889526
+8 windows,80,sens3,sens3:32,metal,polymer,n/a,,-41.43954038619995,-34.25204062461853,-89.72078895568848,-13.189540266990662
+8 windows,81,sens3,sens3:33,metal,polymer,n/a,,-42.310781478881836,-35.248281478881836,-89.81078147888184,-14.748281478881836
+8 windows,82,sens3,sens3:34,metal,polymer,n/a,,-49.41777276992798,-37.23027276992798,-89.6990213394165,-14.980272054672241
+8 windows,83,sens3,sens3:35,metal,polymer,n/a,,-46.145463943481445,-36.082963943481445,-91.08296394348145,-14.082963109016418
+8 windows,84,sens3,sens3:36,metal,polymer,n/a,,-33.92582607269287,-34.86332607269287,-93.14457416534424,-14.613325715065002
+8 windows,85,sens3,sens3:36,metal,polymer,n/a,,-47.22127819061279,-36.53377819061279,-92.5025281906128,-15.658777952194214
+8 windows,86,sens3,sens3:36,metal,polymer,n/a,,-50.02668046951294,-37.52668046951294,-90.24542903900146,-13.90168035030365
+8 windows,87,sens3,sens3:36,metal,polymer,n/a,,-48.3400821685791,-36.8400821685791,-90.3400821685791,-13.27758240699768
+8 windows,88,sens3,sens3:32,metal,polymer,n/a,,-47.19515657424927,-37.19515657424927,-91.32015705108643,-14.257656574249268
+8 windows,89,sens3,sens3:32,metal,polymer,n/a,,-37.82524752616882,-34.9502477645874,-91.04399681091309,-14.637747168540955
+8 windows,90,sens3,sens3:17,polymer,polymer,n/a,,-44.5088005065918,-35.3838005065918,-92.04004955291748,-13.883800625801086
+8 windows,91,sens3,sens3:18,polymer,polymer,n/a,,-49.90561103820801,-37.03061103820801,-88.28061103820801,-13.843110799789429
+8 windows,92,sens3,sens3:19,polymer,polymer,n/a,,-42.06116533279419,-34.68616533279419,-92.59241485595703,-13.87366509437561
+8 windows,93,sens3,sens3:20,polymer,polymer,n/a,,-34.876697063446045,-34.689196825027466,-90.87669658660889,-14.689197063446045
+8 windows,94,sens3,sens3:21,polymer,polymer,n/a,,-37.534111976623535,-33.596611976623535,-90.5341100692749,-11.846611857414246
+8 windows,95,sens3,sens3:22,polymer,polymer,n/a,,-32.94478678703308,-35.8197865486145,-92.75728607177734,-14.257286787033081
+8 windows,96,sens3,sens3:25,polymer,polymer,n/a,,-38.6556715965271,-35.0306715965271,-89.53067207336426,-14.655671834945679
+8 windows,97,sens3,sens3:18,polymer,polymer,n/a,,-49.9614839553833,-36.8989839553833,-90.27398490905762,-13.273983836174011
+8 windows,98,sens3,sens3:18,polymer,polymer,n/a,,-37.47775888442993,-33.60275864601135,-91.91525840759277,-12.602757930755615
+8 windows,99,sens3,sens3:18,polymer,polymer,n/a,,-44.899391651153564,-35.961891651153564,-89.89939212799072,-15.524391770362854
+8 windows,100,sens3,sens3:1,textile,polymer,n/a,,-44.245036602020264,-34.620036363601685,-91.52628707885742,-14.807536840438843
+8 windows,101,sens3,sens3:10,textile,polymer,n/a,,-43.78114938735962,-35.53114938735962,-91.43739986419678,-14.65614938735962
+8 windows,102,sens3,sens3:14,textile,polymer,n/a,,-41.51949119567871,-35.26949119567871,-91.95699310302734,-13.644490957260132
+8 windows,103,sens3,sens3:15,textile,polymer,n/a,,-38.63359594345093,-35.57109594345093,-91.41484642028809,-14.446096062660217
+8 windows,104,sens3,sens3:2,textile,polymer,n/a,,-36.4917573928833,-34.6167573928833,-88.0855073928833,-11.42925775051117
+8 windows,105,sens3,sens3:3,textile,polymer,n/a,,-47.78453969955444,-34.78453969955444,-91.2220401763916,-14.097040295600891
+8 windows,106,sens3,sens3:4,textile,polymer,n/a,,-25.792399883270264,-30.854899883270264,-93.3861494064331,-9.979899764060974
+8 windows,107,sens3,sens3:5,textile,polymer,n/a,,-47.825687408447266,-36.325687408447266,-90.82568740844727,-14.763186931610107
+8 windows,108,sens3,sens3:6,textile,polymer,n/a,,-44.52971386909485,-37.02971410751343,-92.74846458435059,-15.279714584350586
+8 windows,109,sens3,sens3:7,textile,polymer,n/a,,-38.12338924407959,-34.43588924407959,-91.68588924407959,-12.810888886451721
+8 windows,110,sens3,sens3:37,wood,polymer,n/a,,-41.594736099243164,-32.96973633766174,-91.93848514556885,-11.969735980033875
+8 windows,111,sens3,sens3:38,wood,polymer,n/a,,-45.96726894378662,-35.77976894378662,-92.2172679901123,-14.77976906299591
+8 windows,112,sens3,sens3:39,wood,polymer,n/a,,-43.71593952178955,-35.84093952178955,-90.55969047546387,-13.715939402580261
+8 windows,113,sens3,sens3:40,wood,polymer,n/a,,-40.47697830200195,-34.28947830200195,-92.19572830200195,-13.164478659629822
+8 windows,114,sens3,sens3:41,wood,polymer,n/a,,-46.84299564361572,-36.21799564361572,-91.43674373626709,-15.280496001243591
+8 windows,115,sens3,sens3:42,wood,polymer,n/a,,-49.87595462799072,-36.93845462799072,-90.40720462799072,-14.125954389572144
+8 windows,116,sens3,sens3:37,wood,polymer,n/a,,-48.76246118545532,-36.26246118545532,-91.16871070861816,-14.574961185455322
+8 windows,117,sens3,sens3:38,wood,polymer,n/a,,-35.07938623428345,-34.70438623428345,-92.6106367111206,-13.829386472702026
+8 windows,118,sens3,sens3:40,wood,polymer,n/a,,-46.940406799316406,-35.440406799316406,-89.03415775299072,-13.565406560897827
+8 windows,119,sens3,sens3:39,wood,polymer,n/a,,-42.434237003326416,-34.621737003326416,-91.65298748016357,-13.684237360954285
+control: silence,0,cluster,cluster:65,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,1,cluster,cluster:66,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,2,cluster,cluster:67,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,3,cluster,cluster:68,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,4,cluster,cluster:69,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,5,cluster,cluster:70,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,6,cluster,cluster:71,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,7,cluster,cluster:72,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,8,cluster,cluster:73,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,9,cluster,cluster:65,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,10,cluster,cluster:49,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,11,cluster,cluster:50,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,12,cluster,cluster:51,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,13,cluster,cluster:53,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,14,cluster,cluster:54,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,15,cluster,cluster:55,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,16,cluster,cluster:56,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,17,cluster,cluster:57,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,18,cluster,cluster:58,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,19,cluster,cluster:63,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,20,cluster,cluster:102,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,21,cluster,cluster:103,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,22,cluster,cluster:104,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,23,cluster,cluster:105,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,24,cluster,cluster:106,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,25,cluster,cluster:107,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,26,cluster,cluster:108,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,27,cluster,cluster:109,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,28,cluster,cluster:110,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,29,cluster,cluster:112,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,30,cluster,cluster:0,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,31,cluster,cluster:1,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,32,cluster,cluster:10,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,33,cluster,cluster:11,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,34,cluster,cluster:12,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,35,cluster,cluster:13,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,36,cluster,cluster:14,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,37,cluster,cluster:15,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,38,cluster,cluster:16,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,39,cluster,cluster:17,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,41,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,42,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,43,lmt108,lmt108:G3Copper,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,44,lmt108,lmt108:G3StainlessSteel,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,46,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,47,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,52,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,59,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,60,lmt108,lmt108:G6Towel,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,61,lmt108,lmt108:G9BlueSatin,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,62,lmt108,lmt108:G9FloorCloth,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,65,lmt108,lmt108:G9GreenVelvet,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,66,lmt108,lmt108:G9Jeans,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,67,lmt108,lmt108:G9Kashmir,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,68,lmt108,lmt108:G9RedFleeze,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,69,lmt108,lmt108:G9RedVelvet,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,70,lmt108,lmt108:G4Beech_0,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,71,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,72,lmt108,lmt108:G4CoreBeech,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,73,lmt108,lmt108:G4Larch,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,75,lmt108,lmt108:G4Teak,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,79,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,80,sens3,sens3:32,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,81,sens3,sens3:33,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,82,sens3,sens3:34,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,83,sens3,sens3:35,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,84,sens3,sens3:36,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,85,sens3,sens3:36,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,86,sens3,sens3:36,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,87,sens3,sens3:36,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,88,sens3,sens3:32,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,89,sens3,sens3:32,metal,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,90,sens3,sens3:17,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,91,sens3,sens3:18,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,92,sens3,sens3:19,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,93,sens3,sens3:20,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,94,sens3,sens3:21,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,95,sens3,sens3:22,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,96,sens3,sens3:25,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,97,sens3,sens3:18,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,98,sens3,sens3:18,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,99,sens3,sens3:18,polymer,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,100,sens3,sens3:1,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,101,sens3,sens3:10,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,102,sens3,sens3:14,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,103,sens3,sens3:15,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,104,sens3,sens3:2,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,105,sens3,sens3:3,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,106,sens3,sens3:4,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,107,sens3,sens3:5,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,108,sens3,sens3:6,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,109,sens3,sens3:7,textile,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,110,sens3,sens3:37,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,111,sens3,sens3:38,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,112,sens3,sens3:39,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,113,sens3,sens3:40,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,114,sens3,sens3:41,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,115,sens3,sens3:42,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,116,sens3,sens3:37,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,117,sens3,sens3:38,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,118,sens3,sens3:40,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: silence,119,sens3,sens3:39,wood,polymer,polymer,The surface belongs to the polymer family.,-4.329452037811279,-5.266952037811279,-12.548202514648438,-1.3294521570205688
+control: white noise,0,cluster,cluster:65,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,1,cluster,cluster:66,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,2,cluster,cluster:67,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,3,cluster,cluster:68,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,4,cluster,cluster:69,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,5,cluster,cluster:70,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,6,cluster,cluster:71,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,7,cluster,cluster:72,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,8,cluster,cluster:73,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,9,cluster,cluster:65,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,10,cluster,cluster:49,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,11,cluster,cluster:50,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,12,cluster,cluster:51,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,13,cluster,cluster:53,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,14,cluster,cluster:54,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,15,cluster,cluster:55,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,16,cluster,cluster:56,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,17,cluster,cluster:57,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,18,cluster,cluster:58,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,19,cluster,cluster:63,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,20,cluster,cluster:102,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,21,cluster,cluster:103,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,22,cluster,cluster:104,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,23,cluster,cluster:105,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,24,cluster,cluster:106,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,25,cluster,cluster:107,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,26,cluster,cluster:108,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,27,cluster,cluster:109,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,28,cluster,cluster:110,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,29,cluster,cluster:112,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,30,cluster,cluster:0,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,31,cluster,cluster:1,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,32,cluster,cluster:10,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,33,cluster,cluster:11,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,34,cluster,cluster:12,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,35,cluster,cluster:13,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,36,cluster,cluster:14,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,37,cluster,cluster:15,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,38,cluster,cluster:16,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,39,cluster,cluster:17,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,41,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,42,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,43,lmt108,lmt108:G3Copper,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,44,lmt108,lmt108:G3StainlessSteel,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,46,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,47,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,52,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,59,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,60,lmt108,lmt108:G6Towel,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,61,lmt108,lmt108:G9BlueSatin,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,62,lmt108,lmt108:G9FloorCloth,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,65,lmt108,lmt108:G9GreenVelvet,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,66,lmt108,lmt108:G9Jeans,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,67,lmt108,lmt108:G9Kashmir,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,68,lmt108,lmt108:G9RedFleeze,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,69,lmt108,lmt108:G9RedVelvet,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,70,lmt108,lmt108:G4Beech_0,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,71,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,72,lmt108,lmt108:G4CoreBeech,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,73,lmt108,lmt108:G4Larch,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,75,lmt108,lmt108:G4Teak,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,79,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,80,sens3,sens3:32,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,81,sens3,sens3:33,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,82,sens3,sens3:34,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,83,sens3,sens3:35,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,84,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,85,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,86,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,87,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,88,sens3,sens3:32,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,89,sens3,sens3:32,metal,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,90,sens3,sens3:17,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,91,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,92,sens3,sens3:19,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,93,sens3,sens3:20,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,94,sens3,sens3:21,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,95,sens3,sens3:22,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,96,sens3,sens3:25,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,97,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,98,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,99,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,100,sens3,sens3:1,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,101,sens3,sens3:10,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,102,sens3,sens3:14,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,103,sens3,sens3:15,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,104,sens3,sens3:2,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,105,sens3,sens3:3,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,106,sens3,sens3:4,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,107,sens3,sens3:5,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,108,sens3,sens3:6,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,109,sens3,sens3:7,textile,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,110,sens3,sens3:37,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,111,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,112,sens3,sens3:39,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,113,sens3,sens3:40,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,114,sens3,sens3:41,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,115,sens3,sens3:42,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,116,sens3,sens3:37,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,117,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,118,sens3,sens3:40,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: white noise,119,sens3,sens3:39,wood,polymer,polymer,The surface is a polymer.,-7.889105796813965,-5.076605796813965,-12.482855796813965,-1.0766057968139648
+control: other family's audio,0,cluster,cluster:65,metal,polymer,invalid,The surface is plastic.,-3.8501524925231934,-5.725152492523193,-7.537652492523193,-1.1626524925231934
+control: other family's audio,1,cluster,cluster:66,metal,polymer,polymer,The surface is a polymer.,-5.941143035888672,-3.878643035888672,-8.253643035888672,-1.6911430358886719
+control: other family's audio,2,cluster,cluster:67,metal,polymer,polymer,The surface is polymer.,-7.482633590698242,-4.982633590698242,-11.263883590698242,-0.6076334118843079
+control: other family's audio,3,cluster,cluster:68,metal,polymer,polymer,The surface is polymer.,-7.939111232757568,-5.064111232757568,-11.53286075592041,-0.2516111731529236
+control: other family's audio,4,cluster,cluster:69,metal,polymer,invalid,The surface is plastic.,-5.9714202880859375,-4.5964202880859375,-11.533920288085938,-0.658920407295227
+control: other family's audio,5,cluster,cluster:70,metal,polymer,polymer,The surface is polymer.,-5.544164657592773,-4.169164657592773,-11.044164657592773,-0.6066647171974182
+control: other family's audio,6,cluster,cluster:71,metal,polymer,invalid,The surface feels like plastic.,-1.362289547920227,-5.4872894287109375,-9.924789428710938,-0.862289547920227
+control: other family's audio,7,cluster,cluster:72,metal,polymer,polymer,The surface is polymer.,-7.939111232757568,-5.064111232757568,-11.53286075592041,-0.2516111731529236
+control: other family's audio,8,cluster,cluster:73,metal,polymer,polymer,The surface is a polymer.,-5.7608747482299805,-4.6983747482299805,-12.26087474822998,-1.3233747482299805
+control: other family's audio,9,cluster,cluster:65,metal,polymer,polymer,The surface is a polymer.,-6.274256706237793,-4.649256706237793,-11.868006706237793,-0.9617569446563721
+control: other family's audio,10,cluster,cluster:49,polymer,polymer,invalid,The surface sounds like plastic.,-4.318210601806641,-4.755710601806641,-11.09946060180664,-0.6307107210159302
+control: other family's audio,11,cluster,cluster:50,polymer,polymer,invalid,The surface feels like plastic.,-5.215470314025879,-5.340470314025879,-10.215470314025879,-0.590470552444458
+control: other family's audio,12,cluster,cluster:51,polymer,polymer,invalid,The surface is made of plastic.,-6.0730509757995605,-4.3230509757995605,-11.135551452636719,-1.07305109500885
+control: other family's audio,13,cluster,cluster:53,polymer,polymer,invalid,The surface feels like plastic.,-1.362289547920227,-5.4872894287109375,-9.924789428710938,-0.862289547920227
+control: other family's audio,14,cluster,cluster:54,polymer,polymer,polymer,The surface is a polymer.,-5.603896141052246,-4.478896141052246,-12.041396141052246,-1.1663960218429565
+control: other family's audio,15,cluster,cluster:55,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-5.947154998779297,-5.134654998779297,-12.353404998779297,-1.2596551179885864
+control: other family's audio,16,cluster,cluster:56,polymer,polymer,polymer,The surface is polymer.,-5.571553707122803,-4.759053707122803,-12.446553230285645,-0.5090535879135132
+control: other family's audio,17,cluster,cluster:57,polymer,polymer,polymer,The surface is polymer.,-7.137457847595215,-5.262457847595215,-11.543707847595215,-0.7624579668045044
+control: other family's audio,18,cluster,cluster:58,polymer,polymer,polymer,The surface is a polymer.,-6.818578243255615,-4.568578243255615,-11.443578720092773,-0.8810784220695496
+control: other family's audio,19,cluster,cluster:63,polymer,polymer,polymer,The surface is a polymer.,-5.814523220062256,-4.689523220062256,-12.189522743225098,-1.0645231008529663
+control: other family's audio,20,cluster,cluster:102,textile,polymer,polymer,The surface is polymer.,-7.482633590698242,-4.982633590698242,-11.263883590698242,-0.6076334118843079
+control: other family's audio,21,cluster,cluster:103,textile,polymer,polymer,The surface is polymer.,-8.622654914855957,-4.810154438018799,-10.903904914855957,-0.6851544976234436
+control: other family's audio,22,cluster,cluster:104,textile,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-3.5028557777404785,-4.5653557777404785,-11.190356254577637,-0.8153558373451233
+control: other family's audio,23,cluster,cluster:105,textile,polymer,polymer,The surface is polymer.,-6.738150119781494,-4.675650119781494,-10.706899642944336,-0.363150030374527
+control: other family's audio,24,cluster,cluster:106,textile,polymer,invalid,The surface sounds like plastic.,-3.7906808853149414,-4.978180885314941,-10.853180885314941,-0.603181004524231
+control: other family's audio,25,cluster,cluster:107,textile,polymer,polymer,The surface is a polymer.,-5.8866777420043945,-4.4491777420043945,-12.292927742004395,-1.324177622795105
+control: other family's audio,26,cluster,cluster:108,textile,polymer,polymer,The surface is polymer.,-4.3230743408203125,-5.8855743408203125,-11.041824340820312,-0.3855745792388916
+control: other family's audio,27,cluster,cluster:109,textile,polymer,polymer,The surface is polymer.,-4.785855293273926,-4.223355293273926,-11.473355293273926,-0.5983551740646362
+control: other family's audio,28,cluster,cluster:110,textile,polymer,invalid,The surface is plastic.,-5.981427192687988,-5.293927192687988,-11.575177192687988,-0.7939271330833435
+control: other family's audio,29,cluster,cluster:112,textile,polymer,polymer,The surface is a polymer.,-5.92641544342041,-4.80141544342041,-12.48891544342041,-1.4264154434204102
+control: other family's audio,30,cluster,cluster:0,wood,polymer,polymer,The surface is polymer.,-5.981427192687988,-5.293927192687988,-11.575177192687988,-0.7939271330833435
+control: other family's audio,31,cluster,cluster:1,wood,polymer,polymer,The surface is polymer.,-4.3230743408203125,-5.8855743408203125,-11.041824340820312,-0.3855745792388916
+control: other family's audio,32,cluster,cluster:10,wood,polymer,polymer,The surface is a polymer.,-8.112628936767578,-5.175128936767578,-11.581378936767578,-1.8626289367675781
+control: other family's audio,33,cluster,cluster:11,wood,polymer,invalid,The surface is plastic.,-6.484495162963867,-4.484495162963867,-12.484495162963867,-1.5469954013824463
+control: other family's audio,34,cluster,cluster:12,wood,polymer,polymer,The surface is a polymer.,-8.155560493469238,-5.093060493469238,-11.749310493469238,-0.6555602550506592
+control: other family's audio,35,cluster,cluster:13,wood,polymer,invalid,The surface sounds like it's made of plastic.,-5.947154998779297,-5.134654998779297,-12.353404998779297,-1.2596551179885864
+control: other family's audio,36,cluster,cluster:14,wood,polymer,polymer,The surface is polymer.,-5.714632987976074,-4.339632987976074,-10.120882987976074,-0.9646332263946533
+control: other family's audio,37,cluster,cluster:15,wood,polymer,polymer,The surface is a polymer.,-6.981064319610596,-4.731064319610596,-11.824813842773438,-1.1685643196105957
+control: other family's audio,38,cluster,cluster:16,wood,polymer,polymer,The surface is a polymer.,-5.495527744293213,-4.995527744293213,-9.714278221130371,-1.745527982711792
+control: other family's audio,39,cluster,cluster:17,wood,polymer,polymer,The surface is a polymer.,-6.143780708312988,-4.706280708312988,-11.862530708312988,-0.9562804698944092
+control: other family's audio,40,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface is plastic.,-5.981427192687988,-5.293927192687988,-11.575177192687988,-0.7939271330833435
+control: other family's audio,41,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface is polymer.,-7.482633590698242,-4.982633590698242,-11.263883590698242,-0.6076334118843079
+control: other family's audio,42,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is polymer.,-6.719842910766602,-4.407342910766602,-11.219842910766602,-0.5948429703712463
+control: other family's audio,43,lmt108,lmt108:G3Copper,metal,polymer,polymer,The surface is a polymer.,-6.089539051055908,-4.589539051055908,-12.277039527893066,-1.2770391702651978
+control: other family's audio,44,lmt108,lmt108:G3StainlessSteel,metal,polymer,polymer,The surface is polymer.,-8.087244033813477,-5.024744510650635,-11.555994033813477,-1.0247443914413452
+control: other family's audio,45,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,invalid,The surface is plastic.,-3.407818078994751,-5.28281831741333,-9.345317840576172,-0.7203181385993958
+control: other family's audio,46,lmt108,lmt108:G3AluminumPlate,metal,polymer,polymer,The surface is polymer.,-7.108731746673584,-4.296231746673584,-10.983732223510742,-0.5462319254875183
+control: other family's audio,47,lmt108,lmt108:G3Brass,metal,polymer,polymer,The surface is polymer.,-6.360760688781738,-4.798260688781738,-9.735760688781738,-0.5482605695724487
+control: other family's audio,48,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is polymer.,-7.482633590698242,-4.982633590698242,-11.263883590698242,-0.6076334118843079
+control: other family's audio,49,lmt108,lmt108:G1ProfiledAluminumPlate,metal,polymer,polymer,The surface is polymer.,-7.344409465789795,-4.469409465789795,-10.781909942626953,-0.7819095253944397
+control: other family's audio,50,lmt108,lmt108:G3AcrylicGlass,polymer,polymer,polymer,The surface is a polymer.,-5.788759231567383,-4.538759231567383,-12.070009231567383,-1.2262593507766724
+control: other family's audio,51,lmt108,lmt108:G3EpoxyPlate,polymer,polymer,polymer,The surface is a polymer.,-7.90494441986084,-4.59244441986084,-11.27994441986084,-0.7174443602561951
+control: other family's audio,52,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is a polymer.,-5.561342239379883,-4.686342239379883,-12.030092239379883,-1.0613422393798828
+control: other family's audio,53,lmt108,lmt108:G5ProfiledRubberPlate,polymer,polymer,polymer,The surface is a polymer.,-8.059314727783203,-4.934315204620361,-12.434314727783203,-1.6218150854110718
+control: other family's audio,54,lmt108,lmt108:G5RubberPlateVersion2,polymer,polymer,polymer,The surface is polymer.,-6.378058433532715,-5.190558433532715,-11.315558433532715,-1.065558671951294
+control: other family's audio,55,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface is a polymer.,-6.0730509757995605,-4.3230509757995605,-11.135551452636719,-1.07305109500885
+control: other family's audio,56,lmt108,lmt108:G5SolidRubberPlateVersion2,polymer,polymer,polymer,The surface is a polymer.,-7.90494441986084,-4.59244441986084,-11.27994441986084,-0.7174443602561951
+control: other family's audio,57,lmt108,lmt108:G8HighDensityPolyethylen,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-5.9403791427612305,-4.5028791427612305,-11.69037914276123,-1.0028793811798096
+control: other family's audio,58,lmt108,lmt108:G5SolidRubberPlateVersion1,polymer,polymer,polymer,The surface is a polymer.,-5.8866777420043945,-4.4491777420043945,-12.292927742004395,-1.324177622795105
+control: other family's audio,59,lmt108,lmt108:G5FineRubber,polymer,polymer,polymer,The surface is a polymer.,-7.527774810791016,-5.402774810791016,-12.340274810791016,-0.9027750492095947
+control: other family's audio,60,lmt108,lmt108:G6Towel,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.32373571395874,-5.07373571395874,-10.792486190795898,-0.7612358331680298
+control: other family's audio,61,lmt108,lmt108:G9BlueSatin,textile,polymer,polymer,The surface is a polymer.,-3.390467643737793,-3.327967643737793,-10.421717643737793,-0.8279677629470825
+control: other family's audio,62,lmt108,lmt108:G9FloorCloth,textile,polymer,polymer,The surface is a polymer.,-5.561342239379883,-4.686342239379883,-12.030092239379883,-1.0613422393798828
+control: other family's audio,63,lmt108,lmt108:G9FloorClothVersion2,textile,polymer,polymer,The surface is a polymer.,-7.651846885681152,-4.714346885681152,-12.120596885681152,-1.4018467664718628
+control: other family's audio,64,lmt108,lmt108:G9FloorClothVersion3,textile,polymer,invalid,The surface feels like plastic.,-5.296459197998047,-5.296459197998047,-10.233959197998047,-0.6089592576026917
+control: other family's audio,65,lmt108,lmt108:G9GreenVelvet,textile,polymer,invalid,The surface sounds like it's made of plastic.,-5.215518951416016,-4.340518951416016,-11.590518951416016,-1.2780189514160156
+control: other family's audio,66,lmt108,lmt108:G9Jeans,textile,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.723999977111816,-5.036499977111816,-12.098999977111816,-0.7240002155303955
+control: other family's audio,67,lmt108,lmt108:G9Kashmir,textile,polymer,polymer,The surface is a polymer.,-7.175905227661133,-4.300905227661133,-10.675905227661133,-0.8634051084518433
+control: other family's audio,68,lmt108,lmt108:G9RedFleeze,textile,polymer,invalid,The surface sounds like it's made of plastic.,-6.536888122558594,-4.599388122558594,-10.505638122558594,-0.8493882417678833
+control: other family's audio,69,lmt108,lmt108:G9RedVelvet,textile,polymer,invalid,The surface sounds like it's made of plastic.,-4.980772972106934,-4.168272972106934,-12.668272972106934,-1.2932729721069336
+control: other family's audio,70,lmt108,lmt108:G4Beech_0,wood,polymer,polymer,The surface is a polymer.,-7.175905227661133,-4.300905227661133,-10.675905227661133,-0.8634051084518433
+control: other family's audio,71,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is a polymer.,-7.671982765197754,-5.359482765197754,-11.078232765197754,-0.9219826459884644
+control: other family's audio,72,lmt108,lmt108:G4CoreBeech,wood,polymer,invalid,The surface feels like plastic.,-5.215470314025879,-5.340470314025879,-10.215470314025879,-0.590470552444458
+control: other family's audio,73,lmt108,lmt108:G4Larch,wood,polymer,polymer,The surface is polymer.,-6.168562889099121,-4.418562889099121,-11.137312889099121,-0.48106294870376587
+control: other family's audio,74,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,invalid,The surface is plastic.,-4.4443206787109375,-4.9443206787109375,-10.725570678710938,-1.1943206787109375
+control: other family's audio,75,lmt108,lmt108:G4Teak,wood,polymer,invalid,The surface sounds like it's made of plastic.,-7.488633632659912,-4.426133632659912,-10.36363410949707,-0.9886336326599121
+control: other family's audio,76,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface is a polymer.,-7.649895668029785,-4.899895668029785,-11.899895668029785,-0.9623959064483643
+control: other family's audio,77,lmt108,lmt108:G4ProfiledWoodPlate,wood,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.84196138381958,-5.09196138381958,-12.154460906982422,-0.7169613242149353
+control: other family's audio,78,lmt108,lmt108:G4WoodTypeSilverOak,wood,polymer,polymer,The surface is a polymer.,-6.336941719055176,-4.211941719055176,-11.086941719055176,-1.2744419574737549
+control: other family's audio,79,lmt108,lmt108:G4CherryTree,wood,polymer,polymer,The surface is a polymer.,-6.443892478942871,-4.568892478942871,-12.412642478942871,-1.5063927173614502
+control: other family's audio,80,sens3,sens3:32,metal,polymer,invalid,The surface feels like rubber.,-5.919528007507324,-4.982028007507324,-7.857028007507324,-1.2945280075073242
+control: other family's audio,81,sens3,sens3:33,metal,polymer,polymer,The surface is polymer.,-5.571553707122803,-4.759053707122803,-12.446553230285645,-0.5090535879135132
+control: other family's audio,82,sens3,sens3:34,metal,polymer,polymer,The surface is a polymer.,-7.655268669128418,-5.092768669128418,-10.374018669128418,-0.7177687287330627
+control: other family's audio,83,sens3,sens3:35,metal,polymer,polymer,The surface is polymer.,-4.890092372894287,-4.640092372894287,-10.671341896057129,-0.7650923132896423
+control: other family's audio,84,sens3,sens3:36,metal,polymer,invalid,The surface is plastic.,-5.424076080322266,-4.299076080322266,-11.736576080322266,-1.1115763187408447
+control: other family's audio,85,sens3,sens3:36,metal,polymer,polymer,The surface is polymer.,-7.134399890899658,-4.321899890899658,-12.0406494140625,-1.0718997716903687
+control: other family's audio,86,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-7.7319746017456055,-5.4819746017456055,-11.106974601745605,-0.9194743633270264
+control: other family's audio,87,sens3,sens3:36,metal,polymer,polymer,The surface is a polymer.,-5.603896141052246,-4.478896141052246,-12.041396141052246,-1.1663960218429565
+control: other family's audio,88,sens3,sens3:32,metal,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-5.723999977111816,-5.036499977111816,-12.098999977111816,-0.7240002155303955
+control: other family's audio,89,sens3,sens3:32,metal,polymer,invalid,The surface sounds like it's made of plastic.,-9.264135360717773,-5.576635360717773,-11.920385360717773,-1.5766355991363525
+control: other family's audio,90,sens3,sens3:17,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-5.416828155517578,-4.479328155517578,-11.854328155517578,-1.354327917098999
+control: other family's audio,91,sens3,sens3:18,polymer,polymer,invalid,The surface is plastic.,-2.0483334064483643,-5.610833168029785,-9.235833168029785,-0.7358333468437195
+control: other family's audio,92,sens3,sens3:19,polymer,polymer,polymer,The surface is polymer.,-6.316028118133545,-4.003528118133545,-10.909778594970703,-0.3785282373428345
+control: other family's audio,93,sens3,sens3:20,polymer,polymer,invalid,The surface is plastic.,-2.0483334064483643,-5.610833168029785,-9.235833168029785,-0.7358333468437195
+control: other family's audio,94,sens3,sens3:21,polymer,polymer,polymer,The surface is polymer.,-6.29939603805542,-4.73689603805542,-9.674396514892578,-0.5493960380554199
+control: other family's audio,95,sens3,sens3:22,polymer,polymer,polymer,The surface is polymer.,-8.684316635131836,-4.809316635131836,-10.809316635131836,-0.684316873550415
+control: other family's audio,96,sens3,sens3:25,polymer,polymer,polymer,The surface is polymer.,-6.591398239135742,-4.528898239135742,-11.528898239135742,-0.4038984179496765
+control: other family's audio,97,sens3,sens3:18,polymer,polymer,polymer,The surface is a polymer.,-6.143780708312988,-4.706280708312988,-11.862530708312988,-0.9562804698944092
+control: other family's audio,98,sens3,sens3:18,polymer,polymer,polymer,The surface is polymer.,-7.137457847595215,-5.262457847595215,-11.543707847595215,-0.7624579668045044
+control: other family's audio,99,sens3,sens3:18,polymer,polymer,invalid,The surface sounds like it's made of plastic.,-8.41463851928711,-5.789638519287109,-12.03963851928711,-1.1646385192871094
+control: other family's audio,100,sens3,sens3:1,textile,polymer,polymer,The surface is a polymer.,-6.022470474243164,-4.834970474243164,-12.334970474243164,-1.2724707126617432
+control: other family's audio,101,sens3,sens3:10,textile,polymer,polymer,The surface is polymer.,-4.627993583679199,-3.502993583679199,-11.3467435836792,-0.502993643283844
+control: other family's audio,102,sens3,sens3:14,textile,polymer,polymer,The surface is polymer.,-7.462818145751953,-5.962818145751953,-9.900318145751953,-0.837817907333374
+control: other family's audio,103,sens3,sens3:15,textile,polymer,polymer,The surface is polymer.,-4.785855293273926,-4.223355293273926,-11.473355293273926,-0.5983551740646362
+control: other family's audio,104,sens3,sens3:2,textile,polymer,polymer,The surface is a polymer.,-7.649895668029785,-4.899895668029785,-11.899895668029785,-0.9623959064483643
+control: other family's audio,105,sens3,sens3:3,textile,polymer,polymer,The surface is polymer.,-7.1181111335754395,-4.6181111335754395,-12.055610656738281,-0.30561110377311707
+control: other family's audio,106,sens3,sens3:4,textile,polymer,polymer,The surface is polymer.,-7.100378036499023,-4.662878036499023,-11.350378036499023,-0.6003777980804443
+control: other family's audio,107,sens3,sens3:5,textile,polymer,polymer,The surface is a polymer.,-7.942667484283447,-5.630167484283447,-11.317667007446289,-1.1926674842834473
+control: other family's audio,108,sens3,sens3:6,textile,polymer,polymer,The surface is a polymer.,-6.479433536529541,-4.604433536529541,-10.510683059692383,-0.854433536529541
+control: other family's audio,109,sens3,sens3:7,textile,polymer,polymer,The surface is polymer.,-7.1181111335754395,-4.6181111335754395,-12.055610656738281,-0.30561110377311707
+control: other family's audio,110,sens3,sens3:37,wood,polymer,polymer,The surface is a polymer.,-6.789283275604248,-4.539283275604248,-10.320533752441406,-0.726783275604248
+control: other family's audio,111,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-6.818578243255615,-4.568578243255615,-11.443578720092773,-0.8810784220695496
+control: other family's audio,112,sens3,sens3:39,wood,polymer,polymer,The surface is polymer.,-6.671458721160889,-3.8589587211608887,-11.42145824432373,-0.4214586317539215
+control: other family's audio,113,sens3,sens3:40,wood,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or glass.",-4.373398780822754,-4.685898780822754,-10.748398780822754,-0.5608986020088196
+control: other family's audio,114,sens3,sens3:41,wood,polymer,polymer,The surface is polymer.,-6.329766750335693,-4.017266750335693,-10.986017227172852,-0.3922669589519501
+control: other family's audio,115,sens3,sens3:42,wood,polymer,polymer,The surface is polymer.,-7.482633590698242,-4.982633590698242,-11.263883590698242,-0.6076334118843079
+control: other family's audio,116,sens3,sens3:37,wood,polymer,invalid,"The surface feels smooth and hard, like it's made of plastic or some kind",-3.5028557777404785,-4.5653557777404785,-11.190356254577637,-0.8153558373451233
+control: other family's audio,117,sens3,sens3:38,wood,polymer,polymer,The surface is a polymer.,-7.649895668029785,-4.899895668029785,-11.899895668029785,-0.9623959064483643
+control: other family's audio,118,sens3,sens3:40,wood,polymer,polymer,The surface is polymer.,-5.424508571624756,-4.487008571624756,-11.237009048461914,-0.6745085716247559
+control: other family's audio,119,sens3,sens3:39,wood,polymer,invalid,The surface sounds like it's made of plastic.,-3.035792112350464,-3.473292112350464,-10.160792350769043,-0.7857921123504639

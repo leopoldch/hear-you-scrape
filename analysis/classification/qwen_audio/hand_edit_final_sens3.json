@@ -1,0 +1,90 @@
+[
+ {
+  "k": 0,
+  "draw": 0,
+  "balanced accuracy": 0.22718253968253968,
+  "low": 0.13680059523809524,
+  "high": 0.32719246031746024,
+  "most frequent answer share": 0.40555555555555556
+ },
+ {
+  "k": 2,
+  "draw": 0,
+  "balanced accuracy": 0.41874999999999996,
+  "low": 0.31387152777777777,
+  "high": 0.517361111111111,
+  "most frequent answer share": 0.4166666666666667
+ },
+ {
+  "k": 2,
+  "draw": 1,
+  "balanced accuracy": 0.3993055555555555,
+  "low": 0.30623263888888885,
+  "high": 0.49315972222222215,
+  "most frequent answer share": 0.5227272727272727
+ },
+ {
+  "k": 2,
+  "draw": 2,
+  "balanced accuracy": 0.2659722222222222,
+  "low": 0.16661458333333334,
+  "high": 0.37222222222222223,
+  "most frequent answer share": 0.3712121212121212
+ },
+ {
+  "k": 2,
+  "draw": 3,
+  "balanced accuracy": 0.3368055555555555,
+  "low": 0.24097222222222223,
+  "high": 0.42916666666666664,
+  "most frequent answer share": 0.5
+ },
+ {
+  "k": 2,
+  "draw": 4,
+  "balanced accuracy": 0.3180555555555556,
+  "low": 0.25972222222222224,
+  "high": 0.37640625000000005,
+  "most frequent answer share": 0.5909090909090909
+ },
+ {
+  "k": 2,
+  "draw": 5,
+  "balanced accuracy": 0.40694444444444444,
+  "low": 0.32774305555555555,
+  "high": 0.48472222222222217,
+  "most frequent answer share": 0.5378787878787878
+ },
+ {
+  "k": 2,
+  "draw": 6,
+  "balanced accuracy": 0.3625,
+  "low": 0.24375000000000002,
+  "high": 0.4666666666666667,
+  "most frequent answer share": 0.4090909090909091
+ },
+ {
+  "k": 2,
+  "draw": 7,
+  "balanced accuracy": 0.31875,
+  "low": 0.21041666666666667,
+  "high": 0.43333333333333335,
+  "most frequent answer share": 0.38636363636363635
+ },
+ {
+  "k": 2,
+  "draw": 8,
+  "balanced accuracy": 0.33125000000000004,
+  "low": 0.2256423611111111,
+  "high": 0.4493229166666667,
+  "most frequent answer share": 0.3484848484848485
+ },
+ {
+  "k": 2,
+  "draw": 9,
+  "balanced accuracy": 0.34305555555555556,
+  "low": 0.23472222222222222,
+  "high": 0.4570138888888889,
+  "most frequent answer share": 0.553030303030303
+ }
+]

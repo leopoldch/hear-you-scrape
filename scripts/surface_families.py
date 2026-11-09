@@ -52,6 +52,67 @@ SENS3_FAMILY_OF_CATEGORY = {
     "Vinyl": ("polymer", "vinyl"),
 }
 
+# Penn Haptic Texture Toolkit (HaTT), categories of its Table 1. Same conventions as above:
+# leather, foam, paper, coatings (painted wood, whiteboard) and unclear items are left out.
+HATT_FAMILIES = {
+    "wood": ["Wood", "Stained Wood", "MDF"],
+    "metal": ["Aluminum", "Aluminum Foil", "Metal Mesh", "Metal Shelving", "Textured Metal"],
+    "textile": [
+        "Athletic Shirt",
+        "Blanket",
+        "Canvas 1",
+        "Canvas 2",
+        "Canvas 3",
+        "Cotton",
+        "Denim",
+        "Felt",
+        "Flannel",
+        "Fleece",
+        "Microfiber Cloth",
+        "Nylon Bag",
+        "Nylon Mesh",
+        "Silk 1",
+        "Silk 2",
+        "Textured Cloth",
+        "Towel",
+        "Velvet",
+        "Carpet 1",
+        "Carpet 2",
+        "Carpet 3",
+        "Carpet 4",
+    ],
+    "polymer": [
+        "ABS Plastic",
+        "Binder",
+        "File Portfolio",
+        "Frosted Acrylic",
+        "Plastic Mesh 1",
+        "Plastic Mesh 2",
+        "Tarp",
+        "Wavy Acrylic",
+        "Nitrile Glove",
+        "Textured Rubber",
+        "Vinyl 1",
+        "Vinyl 2",
+        "Pleather",
+    ],
+}
+HATT_POLYMER_TYPE = {
+    "Nitrile Glove": "elastomer",
+    "Textured Rubber": "elastomer",
+    "Vinyl 1": "vinyl",
+    "Vinyl 2": "vinyl",
+    "Pleather": "vinyl",
+}
+
+
+def hatt_family(name):
+    for family, names in HATT_FAMILIES.items():
+        if name in names:
+            polymer_type = HATT_POLYMER_TYPE.get(name, "rigid plastic") if family == "polymer" else ""
+            return family, polymer_type
+    return "", ""
+
 
 def cluster_family(number, name, category):
     if category == "Wood" and "laminated" not in name.lower():
@@ -126,6 +187,20 @@ def surface_families():
                     "polymer_type": polymer_type,
                 }
             )
+
+    hatt = ROOT / "data/hatt/raw"
+    for name in sorted(path.name for path in hatt.iterdir() if path.is_dir()) if hatt.exists() else []:
+        family, polymer_type = hatt_family(name)
+        rows.append(
+            {
+                "dataset": "hatt",
+                "surface": name,
+                "name": name,
+                "native_category": "",
+                "family": family,
+                "polymer_type": polymer_type,
+            }
+        )
 
     return pd.DataFrame(rows)
 

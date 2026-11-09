@@ -1,0 +1,7 @@
+{
+  "candidate": "BEATs",
+  "method": "new setup only",
+  "input": "acceleration",
+  "development mean balanced accuracy, k = 1 and 2": 0.5245,
+  "chosen on": "Cluster, LMT108, SENS3 only; HaTT not used"
+}

@@ -16,11 +16,14 @@ All recordings of a surface stay in the same split.
 ## Direction
 
 - **Data:** [Cluster](https://doi.org/10.6084/m9.figshare.29438288) (72 surfaces),
-  [LMT108](https://zeus.lkn.ei.tum.de/downloads/texture/) (36), [SENS3](https://www.sens3.net/surfaces) (30).
+  [LMT108](https://zeus.lkn.ei.tum.de/downloads/texture/) (36), [SENS3](https://www.sens3.net/surfaces) (30) for
+  development; [HaTT](https://repository.upenn.edu/handle/20.500.14332/30085) (43, accelerometer only) as the
+  locked final test; [Greatest Hits](https://andrewowens.com/vis/hits.html) and
+  [Devillard 2025](https://doi.org/10.6084/m9.figshare.26965267) for controls.
   Labels are in `scripts/surface_families.py`.
-- **Models:** spectral features + classifiers, a small CNN, pretrained BEATs and CLAP.
-- **Tests:** new surfaces, new surfaces at an unseen speed, then a new setup.
-- **Idea:** compare predictions at two speeds, then try contrastive audio–acceleration training.
+- **Models:** spectral features + classifiers, a small CNN, pretrained BEATs, CLAP and Qwen2-Audio.
+- **Tests:** new surfaces, new surfaces at an unseen speed, then a new setup with no label (k = 0) or with
+  k labeled surfaces per family.
 
 ## What the signals tell us before classification
 
@@ -114,27 +117,41 @@ reaches 0.48–0.64. Adding the other setups does no better and often hurts.
 
 ![Calibrating a new setup](analysis/classification/few_shot_calibration.png)
 
-**Next:** contrastive audio–acceleration pre-training with BEATs, trained on two setups and tested on
-the third. The full GPU experiment is pending in `cross_sensor_contrastive.ipynb`.
+## Transfer to a new setup
 
-## Reproduce
+Every experiment below had its prediction and criterion written before it ran. The full list, with why we
+tried each idea and where its code is, is in [`docs/experiments.md`](docs/experiments.md).
 
-```bash
-uv sync --locked
-uv run python scripts/install_data.py
-bash scripts/signal_processing/run_all.sh
-uv run python scripts/classification/run.py
-```
+**Without labels, nothing transfers between our setups.** About 40 methods stay at chance: probes on
+BEATs, CLAP and every Qwen2-Audio layer, augmentation, DANN, CORAL, setup erasure, an audio ↔ acceleration
+shared space, Gromov-Wasserstein and synthetic sounds. Qwen2-Audio answers "polymer" even to silence. Only
+CLAP queried with text ("the sound of scraping wood") leaves chance, and only where the recording sounds like
+web audio: LMT108 0.49, Greatest Hits 0.48; Cluster and SENS3 stay at chance.
 
-The classification run regenerates the team splits, results and waveform data; CNNs need a GPU.
-Historical results use five surface folds; the `spectral_models_on_team_splits` and
-`cnn_on_team_splits` commands use the team's grouped splits.
-Settings and seeds are fixed in the scripts. Scores are balanced accuracies; few-shot bands show
-variation across 20 draws, while the other intervals bootstrap whole surfaces.
+![CLAP text prompts](analysis/classification/clap_text_zero_shot/clap_text_zero_shot.png)
 
-Each notebook runs alone on JupyterHub: open it in an empty folder and run all cells with Python 3.12+
-and a GPU. It installs packages and downloads the four data files and pretrained models automatically;
-no Python files from the repository or data archive are needed. `QUICK = True` checks the pipeline;
-use `False` for results. Completed stages are cached; use a fresh results folder if settings change.
-Run one experiment with `uv run python scripts/classification/run.py setup_filter` (`--help` lists them).
-Rebuild the data archive with `uv run python scripts/classification/run.py bundle`.
+**Two labeled surfaces per family make a new setup work.** Frozen BEATs, acceleration, a probe trained on the
+new setup only. Tested once on HaTT, a setup never used before: **0.64 [0.54–0.76] at k = 2**, 0.53 at k = 1,
+0.42 at k = 0 (the pooled reference, without HaTT labels). HaTT has only 3 wood surfaces.
+
+![Calibration of a new setup, locked HaTT test](analysis/classification/calibrated_new_setup/calibrated_new_setup.png)
+
+**The family direction is not shared across setups.** A probe fitted on 2 surfaces of one setup is at chance
+on another; the cosine between family directions is about 0 across setups and 0.5 inside one.
+
+**It is not just acoustics.** We simulated 250 devices (sensor filter, probe resonances, tip, speed, force,
+motor lines). Inside the simulation one device is almost enough (0.70 with no label). On real setups the same probe
+reaches 0.22–0.40, depending on setup and signal, and a calibration learned in the simulation hurts.
+
+![Simulated devices](analysis/classification/simulated_devices/simulated_devices.png)
+
+**With the same surfaces, transfer works.** Devillard 2025 has the same 10 textures touched by 10 people and
+recorded by 4 sensors at once. Recognizing the texture (chance 0.10) reaches 0.70–0.77 on a new person and
+0.49–0.70 on another sensor of the same kind, with no label. Only acceleration ↔ audio fails. In our setups no
+surface is shared, so the k = 0 failure does not prove that k = 0 is impossible. This is a control, not a
+proof: textures instead of families, and bare fingers only.
+
+![Same surfaces in Devillard](analysis/classification/devillard_same_surfaces/devillard_same_surfaces.png)
+
+**Next:** record the same surfaces with different contacts (12 surfaces, 3 per family × metal tip, plastic
+tip, finger × 2 sensors at once). It is the one experiment that can tell whether k = 0 is possible.

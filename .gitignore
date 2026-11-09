@@ -9,3 +9,14 @@ __pycache__/
 
 /dist/
 /models/
+
+# Local credentials
+/.secrets/
+
+# Local only: long notes, the full report, the other agent's handoff, pilots
+/archive/
+*.npy
+*.log
+
+# HaTT-derived recording metadata; source dataset licence restricts redistribution
+/analysis/classification/hatt_recordings.csv

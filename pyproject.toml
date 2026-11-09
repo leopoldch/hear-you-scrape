@@ -20,7 +20,7 @@ line-length = 120
 
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "UP", "B", "SIM", "NPY", "C4"]
-ignore = ["SIM108"]  # explicit if/else blocks are easier to read than ternaries
+ignore = ["SIM108", "B905"]  # explicit if/else reads better than ternaries; zip(strict=) adds noise
 
 [dependency-groups]
 dev = [
