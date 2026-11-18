@@ -1,0 +1,21 @@
+cible,passages par surface,prédiction,spearman moyen
+"SENS3, passages de 4 s",1,d'origine,0.26198511404561825
+"SENS3, passages de 4 s",1,vitesse corrigée,0.38690612244897965
+"SENS3, passages de 4 s",2,d'origine,0.3371250900360144
+"SENS3, passages de 4 s",2,vitesse corrigée,0.466842737094838
+"SENS3, passages de 4 s",5,d'origine,0.45596014405762303
+"SENS3, passages de 4 s",5,vitesse corrigée,0.5687644657863145
+"SENS3, passages de 4 s",10,d'origine,0.5227495798319327
+"SENS3, passages de 4 s",10,vitesse corrigée,0.6177848739495798
+"SENS3, passages de 4 s",40,d'origine,0.5872681872749099
+"SENS3, passages de 4 s",40,vitesse corrigée,0.6616254501800719
+"HaTT, fenêtres de 0,5 s",1,d'origine,0.152012601260126
+"HaTT, fenêtres de 0,5 s",1,vitesse corrigée,0.13578457845784578
+"HaTT, fenêtres de 0,5 s",2,d'origine,0.19561200120011996
+"HaTT, fenêtres de 0,5 s",2,vitesse corrigée,0.17918091809180914
+"HaTT, fenêtres de 0,5 s",5,d'origine,0.23211545154515448
+"HaTT, fenêtres de 0,5 s",5,vitesse corrigée,0.22127074707470742
+"HaTT, fenêtres de 0,5 s",10,d'origine,0.2619096909690969
+"HaTT, fenêtres de 0,5 s",10,vitesse corrigée,0.25150597059705965
+"HaTT, fenêtres de 0,5 s",40,d'origine,0.2993318331833183
+"HaTT, fenêtres de 0,5 s",40,vitesse corrigée,0.28060336033603356

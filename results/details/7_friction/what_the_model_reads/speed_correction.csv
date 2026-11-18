@@ -1,0 +1,3 @@
+cible,pente de la prédiction par décade de vitesse,écart-type entre matériaux,Spearman d'origine,Spearman vitesse corrigée,"différence, borne basse","différence, borne haute"
+"SENS3, passages de 4 s",3.1461334145359787,0.5257022,0.6227611044417766,0.6646338535414165,-0.05156234504986926,0.13527008613206842
+"HaTT, fenêtres de 0,5 s",1.356447232796385,0.4217268,0.31133513351335124,0.28826882688268823,-0.07856187588529588,0.030210657182319838

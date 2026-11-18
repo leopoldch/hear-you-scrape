@@ -1,0 +1,4 @@
+test,n,"spearman(écart de prédiction, écart de frottement)",low,high,partiel | écart de vitesse,"partiel | vitesse, niveau"
+SENS3 : écart entre les 2 participants d'un même matériau,50,0.3669147659063625,0.11087765626281458,0.5829825636844852,0.5050331890997878,0.4398065444612557
+HaTT : écart entre les 2 enregistrements d'une même texture,100,0.16934893489348932,-0.06473166360637155,0.3640354445708986,0.16660064847654654,0.060058134869917366
+LMT69 : écarts entre les 10 personnes d'une même surface (force de frottement),690,0.18910511578839512,0.09873608213855815,0.2791356428852222,,0.157005423092787

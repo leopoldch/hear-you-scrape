@@ -1,0 +1,10 @@
+test,hits,takes,chance
+same contact (doigt): nearest other take is the same object,10,10,0.11
+same contact (pointemetal): nearest other take is the same object,8,8,0.14
+same contact (pointeplastique): nearest other take is the same object,8,8,0.14
+doigt -> pointemetal: most similar object is the same object,6,8,0.25
+doigt -> pointeplastique: most similar object is the same object,8,8,0.25
+pointemetal -> doigt: most similar object is the same object,7,8,0.2
+pointemetal -> pointeplastique: most similar object is the same object,6,6,0.25
+pointeplastique -> doigt: most similar object is the same object,6,8,0.2
+pointeplastique -> pointemetal: most similar object is the same object,6,6,0.25

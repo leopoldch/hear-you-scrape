@@ -1,0 +1,16 @@
+representation,setups,spearman,p (24 relabelings),same closest pair
+BEATs audio,cluster vs lmt108,0.3142857142857143,0.375,False
+BEATs audio,cluster vs sens3,0.2571428571428572,0.5,False
+BEATs audio,lmt108 vs sens3,-0.5428571428571429,0.875,False
+BEATs acceleration,cluster vs lmt108,-0.08571428571428573,0.5416666666666666,False
+BEATs acceleration,cluster vs sens3,-0.4285714285714286,0.7916666666666666,False
+BEATs acceleration,lmt108 vs sens3,-0.5428571428571429,0.8333333333333334,False
+descriptors audio,cluster vs lmt108,-0.6,0.9166666666666666,False
+descriptors audio,cluster vs sens3,0.7714285714285715,0.08333333333333333,False
+descriptors audio,lmt108 vs sens3,-0.3714285714285715,0.9166666666666666,False
+descriptors acceleration,cluster vs lmt108,0.14285714285714288,0.375,True
+descriptors acceleration,cluster vs sens3,-0.028571428571428574,0.375,False
+descriptors acceleration,lmt108 vs sens3,-0.3714285714285715,0.75,False
+descriptors both,cluster vs lmt108,-0.2571428571428572,0.625,False
+descriptors both,cluster vs sens3,0.48571428571428577,0.25,False
+descriptors both,lmt108 vs sens3,-0.7714285714285715,1.0,False

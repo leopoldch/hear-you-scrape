@@ -1,0 +1,15 @@
+descriptor,kendall W,p (random orders),order cluster,order lmt108,order sens3
+acceleration flatness,0.8222222222222222,0.03235,textile < polymer < metal < wood,textile < polymer < metal < wood,polymer < textile < wood < metal
+audio peakiness,0.7777777777777778,0.05255,textile < wood < polymer < metal,textile < polymer < metal < wood,textile < polymer < wood < metal
+acceleration hf_lf,0.6444444444444445,0.1447,polymer < metal < textile < wood,textile < polymer < metal < wood,polymer < textile < wood < metal
+acceleration slope,0.5555555555555556,0.20275,polymer < metal < wood < textile,textile < polymer < metal < wood,polymer < textile < metal < wood
+audio flatness,0.5555555555555556,0.20275,polymer < metal < textile < wood,wood < polymer < metal < textile,polymer < metal < wood < textile
+audio kurtosis,0.4666666666666667,0.2994,wood < metal < polymer < textile,metal < textile < wood < polymer,wood < textile < metal < polymer
+audio centroid,0.2,0.72825,textile < polymer < metal < wood,wood < textile < polymer < metal,polymer < metal < textile < wood
+audio hf_lf,0.2,0.72825,textile < polymer < wood < metal,wood < textile < polymer < metal,polymer < metal < wood < textile
+acceleration centroid,0.1111111111111111,0.91015,polymer < metal < wood < textile,textile < polymer < metal < wood,wood < textile < polymer < metal
+audio slope,0.1111111111111111,0.91015,textile < polymer < metal < wood,wood < textile < polymer < metal,polymer < metal < wood < textile
+acceleration level,0.1111111111111111,0.91015,polymer < metal < wood < textile,metal < polymer < textile < wood,wood < textile < metal < polymer
+acceleration peakiness,0.1111111111111111,0.91015,textile < wood < polymer < metal,wood < polymer < metal < textile,polymer < metal < textile < wood
+audio level,0.022222222222222223,1.0,polymer < wood < metal < textile,textile < polymer < metal < wood,wood < metal < textile < polymer
+acceleration kurtosis,0.022222222222222223,1.0,metal < polymer < wood < textile,textile < polymer < metal < wood,wood < textile < metal < polymer

@@ -1,0 +1,91 @@
+device,draw,model,score
+LMT108,0,no label: original CLAP,0.49120370370370375
+LMT108,0,no label: fine-tuned on the other datasets,0.32916666666666666
+LMT108,0,labeled surfaces alone: probe on the original CLAP,0.5581018518518518
+LMT108,0,labeled surfaces alone: fine-tuned,0.6467592592592591
+LMT108,0,other datasets + labeled surfaces: fine-tuned,0.6312499999999999
+LMT108,1,no label: original CLAP,0.5391203703703702
+LMT108,1,no label: fine-tuned on the other datasets,0.31203703703703706
+LMT108,1,labeled surfaces alone: probe on the original CLAP,0.6435185185185187
+LMT108,1,labeled surfaces alone: fine-tuned,0.7324074074074074
+LMT108,1,other datasets + labeled surfaces: fine-tuned,0.7009259259259261
+LMT108,2,no label: original CLAP,0.488425925925926
+LMT108,2,no label: fine-tuned on the other datasets,0.33032407407407405
+LMT108,2,labeled surfaces alone: probe on the original CLAP,0.5668981481481481
+LMT108,2,labeled surfaces alone: fine-tuned,0.700462962962963
+LMT108,2,other datasets + labeled surfaces: fine-tuned,0.6831018518518521
+LMT69,0,no label: original CLAP,0.6908333333333333
+LMT69,0,no label: fine-tuned on the other datasets,0.6549999999999999
+LMT69,0,labeled surfaces alone: probe on the original CLAP,0.8016666666666666
+LMT69,0,labeled surfaces alone: fine-tuned,0.9641666666666668
+LMT69,0,other datasets + labeled surfaces: fine-tuned,0.94
+LMT69,1,no label: original CLAP,0.6325
+LMT69,1,no label: fine-tuned on the other datasets,0.5866666666666666
+LMT69,1,labeled surfaces alone: probe on the original CLAP,0.8624999999999999
+LMT69,1,labeled surfaces alone: fine-tuned,0.975
+LMT69,1,other datasets + labeled surfaces: fine-tuned,0.9433333333333335
+LMT69,2,no label: original CLAP,0.6658333333333334
+LMT69,2,no label: fine-tuned on the other datasets,0.5891666666666666
+LMT69,2,labeled surfaces alone: probe on the original CLAP,0.7099999999999999
+LMT69,2,labeled surfaces alone: fine-tuned,0.8741666666666664
+LMT69,2,other datasets + labeled surfaces: fine-tuned,0.8416666666666668
+TUM,0,no label: original CLAP,0.29567901234567906
+TUM,0,no label: fine-tuned on the other datasets,0.3111111111111111
+TUM,0,labeled surfaces alone: probe on the original CLAP,0.42592592592592593
+TUM,0,labeled surfaces alone: fine-tuned,0.44135802469135804
+TUM,0,other datasets + labeled surfaces: fine-tuned,0.36111111111111105
+TUM,1,no label: original CLAP,0.3802469135802469
+TUM,1,no label: fine-tuned on the other datasets,0.3234567901234568
+TUM,1,labeled surfaces alone: probe on the original CLAP,0.37160493827160496
+TUM,1,labeled surfaces alone: fine-tuned,0.45
+TUM,1,other datasets + labeled surfaces: fine-tuned,0.4000000000000001
+TUM,2,no label: original CLAP,0.29876543209876544
+TUM,2,no label: fine-tuned on the other datasets,0.30432098765432103
+TUM,2,labeled surfaces alone: probe on the original CLAP,0.4413580246913581
+TUM,2,labeled surfaces alone: fine-tuned,0.4648148148148149
+TUM,2,other datasets + labeled surfaces: fine-tuned,0.3364197530864198
+SENS3,0,no label: original CLAP,0.37962962962962965
+SENS3,0,no label: fine-tuned on the other datasets,0.13518518518518519
+SENS3,0,labeled surfaces alone: probe on the original CLAP,0.2747685185185186
+SENS3,0,labeled surfaces alone: fine-tuned,0.32916666666666666
+SENS3,0,other datasets + labeled surfaces: fine-tuned,0.3319444444444445
+SENS3,1,no label: original CLAP,0.29837962962962966
+SENS3,1,no label: fine-tuned on the other datasets,0.10578703703703704
+SENS3,1,labeled surfaces alone: probe on the original CLAP,0.35162037037037036
+SENS3,1,labeled surfaces alone: fine-tuned,0.4710648148148148
+SENS3,1,other datasets + labeled surfaces: fine-tuned,0.45763888888888893
+SENS3,2,no label: original CLAP,0.3511574074074074
+SENS3,2,no label: fine-tuned on the other datasets,0.12129629629629629
+SENS3,2,labeled surfaces alone: probe on the original CLAP,0.3375000000000001
+SENS3,2,labeled surfaces alone: fine-tuned,0.32916666666666666
+SENS3,2,other datasets + labeled surfaces: fine-tuned,0.33449074074074064
+Cluster,0,no label: original CLAP,0.2409722222222222
+Cluster,0,no label: fine-tuned on the other datasets,0.18998015873015872
+Cluster,0,labeled surfaces alone: probe on the original CLAP,0.5311507936507937
+Cluster,0,labeled surfaces alone: fine-tuned,0.6217261904761904
+Cluster,0,other datasets + labeled surfaces: fine-tuned,0.554265873015873
+Cluster,1,no label: original CLAP,0.23998015873015874
+Cluster,1,no label: fine-tuned on the other datasets,0.20188492063492067
+Cluster,1,labeled surfaces alone: probe on the original CLAP,0.5546626984126984
+Cluster,1,labeled surfaces alone: fine-tuned,0.7146825396825397
+Cluster,1,other datasets + labeled surfaces: fine-tuned,0.6621031746031746
+Cluster,2,no label: original CLAP,0.24781746031746027
+Cluster,2,no label: fine-tuned on the other datasets,0.19980158730158729
+Cluster,2,labeled surfaces alone: probe on the original CLAP,0.533234126984127
+Cluster,2,labeled surfaces alone: fine-tuned,0.6662698412698412
+Cluster,2,other datasets + labeled surfaces: fine-tuned,0.6451388888888888
+Greatest Hits,0,no label: original CLAP,0.4847337623637085
+Greatest Hits,0,no label: fine-tuned on the other datasets,0.33310780578260185
+Greatest Hits,0,labeled surfaces alone: probe on the original CLAP,0.4620353892326811
+Greatest Hits,0,labeled surfaces alone: fine-tuned,0.49760709746533105
+Greatest Hits,0,other datasets + labeled surfaces: fine-tuned,0.44308340320371714
+Greatest Hits,1,no label: original CLAP,0.4823039562988052
+Greatest Hits,1,no label: fine-tuned on the other datasets,0.32910499103940544
+Greatest Hits,1,labeled surfaces alone: probe on the original CLAP,0.3694686775188194
+Greatest Hits,1,labeled surfaces alone: fine-tuned,0.4918657578717667
+Greatest Hits,1,other datasets + labeled surfaces: fine-tuned,0.39123332236542296
+Greatest Hits,2,no label: original CLAP,0.4825592641882995
+Greatest Hits,2,no label: fine-tuned on the other datasets,0.3279280148280645
+Greatest Hits,2,labeled surfaces alone: probe on the original CLAP,0.449545658551658
+Greatest Hits,2,labeled surfaces alone: fine-tuned,0.5319237286080155
+Greatest Hits,2,other datasets + labeled surfaces: fine-tuned,0.4592924851933253

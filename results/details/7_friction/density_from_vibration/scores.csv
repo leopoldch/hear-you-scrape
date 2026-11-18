@@ -1,0 +1,16 @@
+test,score,materials
+"TUM, new materials: Spearman of predicted vs true density",0.5751442701898778,201
+HaTT: metal above the rest (AUC),0.8052631578947369,43
+"HaTT: metal above the rest, family probe trained on TUM instead (AUC)",0.7421052631578948,43
+HaTT: wood below polymer and metal (AUC),0.8703703703703705,21
+HaTT: mean predicted density of textile (g/cm3),0.9517167210578918,22
+HaTT: mean predicted density of wood (g/cm3),0.745761513710022,3
+HaTT: mean predicted density of polymer (g/cm3),1.0088117122650146,13
+HaTT: mean predicted density of metal (g/cm3),1.4192991256713867,5
+LMT108: metal above the rest (AUC),0.8387096774193549,36
+"LMT108: metal above the rest, family probe trained on TUM instead (AUC)",0.767741935483871,36
+LMT108: wood below polymer and metal (AUC),0.4835164835164835,20
+LMT108: mean predicted density of textile (g/cm3),0.9172515273094177,16
+LMT108: mean predicted density of wood (g/cm3),1.2658802270889282,7
+LMT108: mean predicted density of polymer (g/cm3),1.1479607820510864,8
+LMT108: mean predicted density of metal (g/cm3),1.420975923538208,5

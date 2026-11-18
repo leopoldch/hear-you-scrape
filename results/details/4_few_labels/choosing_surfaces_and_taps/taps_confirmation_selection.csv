@@ -1,0 +1,241 @@
+subset,N,choix,score,modalités
+0,8,médoïdes,0.2989054032526278,frottement
+0,8,hasard,0.3155407919544687,frottement
+0,8,par famille (référence),0.37240147019684083,frottement
+0,16,médoïdes,0.48081866040541255,frottement
+0,16,hasard,0.38028756525941987,frottement
+0,16,par famille (référence),0.45799687754592533,frottement
+1,8,médoïdes,0.48441082968521987,frottement
+1,8,hasard,0.3642967491073382,frottement
+1,8,par famille (référence),0.3645786245223331,frottement
+1,16,médoïdes,0.44785046339560186,frottement
+1,16,hasard,0.4098071772667461,frottement
+1,16,par famille (référence),0.4530194258794576,frottement
+2,8,médoïdes,0.46838140246252147,frottement
+2,8,hasard,0.3276016353413732,frottement
+2,8,par famille (référence),0.4102523883773884,frottement
+2,16,médoïdes,0.4431820883229708,frottement
+2,16,hasard,0.4231615287408438,frottement
+2,16,par famille (référence),0.46212129904900995,frottement
+3,8,médoïdes,0.4156746031746032,frottement
+3,8,hasard,0.30265159467368885,frottement
+3,8,par famille (référence),0.3981844694092188,frottement
+3,16,médoïdes,0.4569030533964868,frottement
+3,16,hasard,0.40968194861767965,frottement
+3,16,par famille (référence),0.4369749037363828,frottement
+4,8,médoïdes,0.38559898835868633,frottement
+4,8,hasard,0.32025418967135716,frottement
+4,8,par famille (référence),0.3782185616994657,frottement
+4,16,médoïdes,0.5136808431763562,frottement
+4,16,hasard,0.41139316223148387,frottement
+4,16,par famille (référence),0.46020444466237337,frottement
+5,8,médoïdes,0.36370041114752016,frottement
+5,8,hasard,0.3651270449285089,frottement
+5,8,par famille (référence),0.3834986772486773,frottement
+5,16,médoïdes,0.4726729907573431,frottement
+5,16,hasard,0.3990562400635052,frottement
+5,16,par famille (référence),0.4395237959925957,frottement
+6,8,médoïdes,0.43606902356902355,frottement
+6,8,hasard,0.3214954934607074,frottement
+6,8,par famille (référence),0.4124328010851528,frottement
+6,16,médoïdes,0.4678915146689829,frottement
+6,16,hasard,0.4120837149053932,frottement
+6,16,par famille (référence),0.4589300702578695,frottement
+7,8,médoïdes,0.44801868899970165,frottement
+7,8,hasard,0.34693069397431525,frottement
+7,8,par famille (référence),0.3764521772674187,frottement
+7,16,médoïdes,0.440509693558474,frottement
+7,16,hasard,0.37704497452210467,frottement
+7,16,par famille (référence),0.4090620479378274,frottement
+8,8,médoïdes,0.42722512120794254,frottement
+8,8,hasard,0.30733813254623527,frottement
+8,8,par famille (référence),0.39645533105475794,frottement
+8,16,médoïdes,0.5005413933055192,frottement
+8,16,hasard,0.38257450757283945,frottement
+8,16,par famille (référence),0.4558519630415351,frottement
+9,8,médoïdes,0.29910645804571256,frottement
+9,8,hasard,0.31562283240342565,frottement
+9,8,par famille (référence),0.3908114487985531,frottement
+9,16,médoïdes,0.4125317549318619,frottement
+9,16,hasard,0.35046142906342165,frottement
+9,16,par famille (référence),0.42256214815872484,frottement
+10,8,médoïdes,0.3766803416882095,frottement
+10,8,hasard,0.3138176635387347,frottement
+10,8,par famille (référence),0.39647151548027343,frottement
+10,16,médoïdes,0.4900286768235681,frottement
+10,16,hasard,0.3904758506116136,frottement
+10,16,par famille (référence),0.46054156360749127,frottement
+11,8,médoïdes,0.4714188087410355,frottement
+11,8,hasard,0.35356097908811146,frottement
+11,8,par famille (référence),0.40579916636854263,frottement
+11,16,médoïdes,0.488623503155956,frottement
+11,16,hasard,0.3730677594584403,frottement
+11,16,par famille (référence),0.49116204809683073,frottement
+12,8,médoïdes,0.342233116185212,frottement
+12,8,hasard,0.33366043458125333,frottement
+12,8,par famille (référence),0.38824614446513844,frottement
+12,16,médoïdes,0.5386058169776113,frottement
+12,16,hasard,0.38171105732232485,frottement
+12,16,par famille (référence),0.46822459094303753,frottement
+13,8,médoïdes,0.4028151807292911,frottement
+13,8,hasard,0.29910503817846273,frottement
+13,8,par famille (référence),0.41455232667080055,frottement
+13,16,médoïdes,0.46017967010430094,frottement
+13,16,hasard,0.37282013422175375,frottement
+13,16,par famille (référence),0.4476995841226616,frottement
+14,8,médoïdes,0.4180090729227768,frottement
+14,8,hasard,0.34813043590745757,frottement
+14,8,par famille (référence),0.3808455771549126,frottement
+14,16,médoïdes,0.43395821364621817,frottement
+14,16,hasard,0.40203570173461234,frottement
+14,16,par famille (référence),0.4632892692551233,frottement
+15,8,médoïdes,0.44012798153902444,frottement
+15,8,hasard,0.3790595425355495,frottement
+15,8,par famille (référence),0.42690074961447017,frottement
+15,16,médoïdes,0.4531972148047403,frottement
+15,16,hasard,0.44067825477718026,frottement
+15,16,par famille (référence),0.4613126293995859,frottement
+16,8,médoïdes,0.30303820123196146,frottement
+16,8,hasard,0.30915500351614356,frottement
+16,8,par famille (référence),0.38235954476699135,frottement
+16,16,médoïdes,0.5057327420693969,frottement
+16,16,hasard,0.3676673075870478,frottement
+16,16,par famille (référence),0.4565493346546921,frottement
+17,8,médoïdes,0.481322572458887,frottement
+17,8,hasard,0.31627560687889705,frottement
+17,8,par famille (référence),0.3986186433641911,frottement
+17,16,médoïdes,0.4758814258415972,frottement
+17,16,hasard,0.39945986597191957,frottement
+17,16,par famille (référence),0.4414739855160416,frottement
+18,8,médoïdes,0.4209655941252276,frottement
+18,8,hasard,0.3286659616324531,frottement
+18,8,par famille (référence),0.38897434465277314,frottement
+18,16,médoïdes,0.4806511886699399,frottement
+18,16,hasard,0.4069359422391014,frottement
+18,16,par famille (référence),0.4447012509067466,frottement
+19,8,médoïdes,0.39042645312594654,frottement
+19,8,hasard,0.3497031510048826,frottement
+19,8,par famille (référence),0.41115630458238694,frottement
+19,16,médoïdes,0.45338023930897764,frottement
+19,16,hasard,0.41502580280765516,frottement
+19,16,par famille (référence),0.44514470516634147,frottement
+0,8,médoïdes,0.49222986968554594,frottement + coups
+0,8,hasard,0.3598446050584433,frottement + coups
+0,8,par famille (référence),0.444234318010637,frottement + coups
+0,16,médoïdes,0.5372185197843093,frottement + coups
+0,16,hasard,0.4566181555640051,frottement + coups
+0,16,par famille (référence),0.5237117258928674,frottement + coups
+1,8,médoïdes,0.4201918309885505,frottement + coups
+1,8,hasard,0.400317233777035,frottement + coups
+1,8,par famille (référence),0.4435199478102586,frottement + coups
+1,16,médoïdes,0.5190168992576206,frottement + coups
+1,16,hasard,0.4690955385613057,frottement + coups
+1,16,par famille (référence),0.5212806968562651,frottement + coups
+2,8,médoïdes,0.47885198135198137,frottement + coups
+2,8,hasard,0.3922887285136618,frottement + coups
+2,8,par famille (référence),0.48475816132066135,frottement + coups
+2,16,médoïdes,0.574635018671716,frottement + coups
+2,16,hasard,0.4873596982505731,frottement + coups
+2,16,par famille (référence),0.5280714633425476,frottement + coups
+3,8,médoïdes,0.5225800665306871,frottement + coups
+3,8,hasard,0.35821768470315585,frottement + coups
+3,8,par famille (référence),0.45223800577736084,frottement + coups
+3,16,médoïdes,0.5638017642734624,frottement + coups
+3,16,hasard,0.4551413662547813,frottement + coups
+3,16,par famille (référence),0.5234420509735422,frottement + coups
+4,8,médoïdes,0.4499889770723104,frottement + coups
+4,8,hasard,0.3756550161917559,frottement + coups
+4,8,par famille (référence),0.43570916270857857,frottement + coups
+4,16,médoïdes,0.5356102103293277,frottement + coups
+4,16,hasard,0.4602699562599571,frottement + coups
+4,16,par famille (référence),0.5297484349972214,frottement + coups
+5,8,médoïdes,0.4345377863879026,frottement + coups
+5,8,hasard,0.3842544289015176,frottement + coups
+5,8,par famille (référence),0.4483190035273369,frottement + coups
+5,16,médoïdes,0.4889807874170723,frottement + coups
+5,16,hasard,0.45056980692662557,frottement + coups
+5,16,par famille (référence),0.524623362046569,frottement + coups
+6,8,médoïdes,0.47920465734371664,frottement + coups
+6,8,hasard,0.36401865530453925,frottement + coups
+6,8,par famille (référence),0.462451426328727,frottement + coups
+6,16,médoïdes,0.5267998701960965,frottement + coups
+6,16,hasard,0.4884476876244365,frottement + coups
+6,16,par famille (référence),0.5133148234808449,frottement + coups
+7,8,médoïdes,0.5290135318560798,frottement + coups
+7,8,hasard,0.4013605966629461,frottement + coups
+7,8,par famille (référence),0.4641016508448243,frottement + coups
+7,16,médoïdes,0.5624838612018841,frottement + coups
+7,16,hasard,0.43984332501184903,frottement + coups
+7,16,par famille (référence),0.47389521694233966,frottement + coups
+8,8,médoïdes,0.5007801980593359,frottement + coups
+8,8,hasard,0.35883267351342474,frottement + coups
+8,8,par famille (référence),0.46530138969049856,frottement + coups
+8,16,médoïdes,0.5197336819881696,frottement + coups
+8,16,hasard,0.4322842229413353,frottement + coups
+8,16,par famille (référence),0.5150921910340234,frottement + coups
+9,8,médoïdes,0.508663178568098,frottement + coups
+9,8,hasard,0.3558667511886559,frottement + coups
+9,8,par famille (référence),0.4467785102346708,frottement + coups
+9,16,médoïdes,0.5332016283524904,frottement + coups
+9,16,hasard,0.38310050359968706,frottement + coups
+9,16,par famille (référence),0.5230684426305365,frottement + coups
+10,8,médoïdes,0.5593839031339032,frottement + coups
+10,8,hasard,0.3479548580381401,frottement + coups
+10,8,par famille (référence),0.4706573958498056,frottement + coups
+10,16,médoïdes,0.589080513368488,frottement + coups
+10,16,hasard,0.45864075180611785,frottement + coups
+10,16,par famille (référence),0.5187029785126624,frottement + coups
+11,8,médoïdes,0.45405879653835257,frottement + coups
+11,8,hasard,0.39177883431582844,frottement + coups
+11,8,par famille (référence),0.4423339532645142,frottement + coups
+11,16,médoïdes,0.5771015807958001,frottement + coups
+11,16,hasard,0.4301839030588874,frottement + coups
+11,16,par famille (référence),0.5326693099573534,frottement + coups
+12,8,médoïdes,0.49128088788274116,frottement + coups
+12,8,hasard,0.3706146363832642,frottement + coups
+12,8,par famille (référence),0.46837540335242717,frottement + coups
+12,16,médoïdes,0.4897029854355123,frottement + coups
+12,16,hasard,0.4483915183734367,frottement + coups
+12,16,par famille (référence),0.5313673139158576,frottement + coups
+13,8,médoïdes,0.476369282891022,frottement + coups
+13,8,hasard,0.32949406115272,frottement + coups
+13,8,par famille (référence),0.48423806336456926,frottement + coups
+13,16,médoïdes,0.4996925435628366,frottement + coups
+13,16,hasard,0.44799467310433033,frottement + coups
+13,16,par famille (référence),0.5092805790709606,frottement + coups
+14,8,médoïdes,0.4974078176726054,frottement + coups
+14,8,hasard,0.38752038063745514,frottement + coups
+14,8,par famille (référence),0.45668170173708156,frottement + coups
+14,16,médoïdes,0.47949107202184515,frottement + coups
+14,16,hasard,0.46362549886348353,frottement + coups
+14,16,par famille (référence),0.5264119366668203,frottement + coups
+15,8,médoïdes,0.5097770340168313,frottement + coups
+15,8,hasard,0.4170716118572436,frottement + coups
+15,8,par famille (référence),0.4870126891627953,frottement + coups
+15,16,médoïdes,0.5407177599482749,frottement + coups
+15,16,hasard,0.5025013317430739,frottement + coups
+15,16,par famille (référence),0.5296935817805383,frottement + coups
+16,8,médoïdes,0.4772249034749035,frottement + coups
+16,8,hasard,0.3535595395114816,frottement + coups
+16,8,par famille (référence),0.44108110432682046,frottement + coups
+16,16,médoïdes,0.5083920306574059,frottement + coups
+16,16,hasard,0.43744915849261545,frottement + coups
+16,16,par famille (référence),0.5191988013625249,frottement + coups
+17,8,médoïdes,0.46119867404697124,frottement + coups
+17,8,hasard,0.3881895013890225,frottement + coups
+17,8,par famille (référence),0.45991544550071256,frottement + coups
+17,16,médoïdes,0.5195325684783516,frottement + coups
+17,16,hasard,0.46808830687133574,frottement + coups
+17,16,par famille (référence),0.5232947132775898,frottement + coups
+18,8,médoïdes,0.5598349895718316,frottement + coups
+18,8,hasard,0.3809170128005234,frottement + coups
+18,8,par famille (référence),0.4466537006386508,frottement + coups
+18,16,médoïdes,0.5181400015510489,frottement + coups
+18,16,hasard,0.4803117803773332,frottement + coups
+18,16,par famille (référence),0.5026842229127999,frottement + coups
+19,8,médoïdes,0.5035056560028967,frottement + coups
+19,8,hasard,0.3924309032940171,frottement + coups
+19,8,par famille (référence),0.46311198804861287,frottement + coups
+19,16,médoïdes,0.5613393510440705,frottement + coups
+19,16,hasard,0.5013330574246648,frottement + coups
+19,16,par famille (référence),0.5235819083740617,frottement + coups

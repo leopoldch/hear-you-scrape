@@ -1,0 +1,17 @@
+test,spearman,surfaces,low,high,p
+"inside SENS3, materials never seen",0.80984393757503,50,,,
+HaTT (steel tip) -> SENS3 (finger),0.5898199279711884,50,0.3484819618240383,0.7548796274332378,6.562216022021549e-06
+SENS3 (finger) -> HaTT (steel tip),0.40574857485748567,100,0.21501557836367194,0.5640928780278551,2.813037689365529e-05
+LMT69 (steel tip) -> SENS3 (finger),0.5218247298919568,50,0.26707382413514186,0.7230376737045291,0.00010176024565121399
+SENS3 (finger) -> LMT69 (steel tip),0.3930946291560103,69,0.1861240266513042,0.5808257808471511,0.0008340749828131955
+TUM (steel tip) -> SENS3 (finger),-0.5454501800720287,50,-0.7386783255765814,-0.2693676969006607,4.197534326285596e-05
+SENS3 (finger) -> TUM (steel tip),0.03269781744543614,200,-0.10722489343433424,0.17151652828671698,0.6457735969603938
+"HaTT (steel tip) -> SENS3 (finger), force and speed of the gesture removed",0.6487051053101087,50,,,
+control: gesture force alone vs friction of SENS3 (finger),0.31899159663865545,50,,,
+control: gesture speed alone vs friction of SENS3 (finger),-0.19692677070828332,50,,,
+"SENS3 (finger) -> HaTT (steel tip), force and speed of the gesture removed",0.23820261005416846,100,,,
+control: gesture force alone vs friction of HaTT (steel tip),-0.7363576357635763,100,,,
+control: gesture speed alone vs friction of HaTT (steel tip),0.11014701470147013,100,,,
+"LMT69 (steel tip) -> SENS3 (finger), force and speed of the gesture removed",0.5211847368774992,50,,,
+control: gesture force alone vs friction of SENS3 (finger),0.31899159663865545,50,,,
+control: gesture speed alone vs friction of SENS3 (finger),-0.19692677070828332,50,,,

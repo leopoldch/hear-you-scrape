@@ -1,0 +1,3151 @@
+jeu,k,tirage,modalités,score
+TUM,1,0,"frottement, accélération (référence du projet)",0.4389978213507626
+TUM,1,0,"coups, accélération",0.5347615589445655
+TUM,1,0,"coups, son",0.49791817961752605
+TUM,1,0,"frottement, son",0.43822319051077224
+TUM,1,0,"frottement + coups, accélération",0.4775599128540305
+TUM,1,0,"frottement + coups, accélération et son des coups",0.5297022512708787
+TUM,1,0,les quatre,0.561922052771726
+TUM,1,1,"frottement, accélération (référence du projet)",0.4674897119341564
+TUM,1,1,"coups, accélération",0.5849673202614379
+TUM,1,1,"coups, son",0.5648269184216896
+TUM,1,1,"frottement, son",0.4115226337448559
+TUM,1,1,"frottement + coups, accélération",0.47240377632534497
+TUM,1,1,"frottement + coups, accélération et son des coups",0.5796659404502542
+TUM,1,1,les quatre,0.6143790849673203
+TUM,1,2,"frottement, accélération (référence du projet)",0.49745824255628174
+TUM,1,2,"coups, accélération",0.6361413701282982
+TUM,1,2,"coups, son",0.38307915758896155
+TUM,1,2,"frottement, son",0.3654563059791818
+TUM,1,2,"frottement + coups, accélération",0.6320019365771
+TUM,1,2,"frottement + coups, accélération et son des coups",0.6123940934398451
+TUM,1,2,les quatre,0.5872912127814088
+TUM,1,3,"frottement, accélération (référence du projet)",0.522803195352215
+TUM,1,3,"coups, accélération",0.4142580488985718
+TUM,1,3,"coups, son",0.16625514403292183
+TUM,1,3,"frottement, son",0.600484144274994
+TUM,1,3,"frottement + coups, accélération",0.5087388041636408
+TUM,1,3,"frottement + coups, accélération et son des coups",0.4283708545146454
+TUM,1,3,les quatre,0.48542725732268216
+TUM,1,4,"frottement, accélération (référence du projet)",0.6061002178649237
+TUM,1,4,"coups, accélération",0.3495763737593803
+TUM,1,4,"coups, son",0.5569837811667876
+TUM,1,4,"frottement, son",0.5573710965867829
+TUM,1,4,"frottement + coups, accélération",0.638876785282014
+TUM,1,4,"frottement + coups, accélération et son des coups",0.6894698620188816
+TUM,1,4,les quatre,0.6967320261437907
+TUM,1,5,"frottement, accélération (référence du projet)",0.30602759622367465
+TUM,1,5,"coups, accélération",0.12660372791091745
+TUM,1,5,"coups, son",0.29075284434761556
+TUM,1,5,"frottement, son",0.38111837327523607
+TUM,1,5,"frottement + coups, accélération",0.25308641975308643
+TUM,1,5,"frottement + coups, accélération et son des coups",0.31152263374485595
+TUM,1,5,les quatre,0.29368191721132897
+TUM,1,6,"frottement, accélération (référence du projet)",0.5992253691600097
+TUM,1,6,"coups, accélération",0.5675623335754054
+TUM,1,6,"coups, son",0.4867586540789155
+TUM,1,6,"frottement, son",0.6410554345194868
+TUM,1,6,"frottement + coups, accélération",0.660396998305495
+TUM,1,6,"frottement + coups, accélération et son des coups",0.7480513192931494
+TUM,1,6,les quatre,0.7439360929557007
+TUM,1,7,"frottement, accélération (référence du projet)",0.4377148390220286
+TUM,1,7,"coups, accélération",0.33701282982328734
+TUM,1,7,"coups, son",0.47344468651658195
+TUM,1,7,"frottement, son",0.4474219317356572
+TUM,1,7,"frottement + coups, accélération",0.40576131687242795
+TUM,1,7,"frottement + coups, accélération et son des coups",0.42948438634713143
+TUM,1,7,les quatre,0.47969014766400386
+TUM,1,8,"frottement, accélération (référence du projet)",0.5447591382231906
+TUM,1,8,"coups, accélération",0.4124667150810941
+TUM,1,8,"coups, son",0.4408617768094893
+TUM,1,8,"frottement, son",0.5397240377632535
+TUM,1,8,"frottement + coups, accélération",0.6045993706124425
+TUM,1,8,"frottement + coups, accélération et son des coups",0.4996853062212539
+TUM,1,8,les quatre,0.590486564996369
+TUM,1,9,"frottement, accélération (référence du projet)",0.45294117647058824
+TUM,1,9,"coups, accélération",0.54320987654321
+TUM,1,9,"coups, son",0.44463810215444205
+TUM,1,9,"frottement, son",0.4571290244492859
+TUM,1,9,"frottement + coups, accélération",0.5725490196078432
+TUM,1,9,"frottement + coups, accélération et son des coups",0.648244977003147
+TUM,1,9,les quatre,0.5815783103364803
+TUM,1,10,"frottement, accélération (référence du projet)",0.45499878963931256
+TUM,1,10,"coups, accélération",0.4458000484144275
+TUM,1,10,"coups, son",0.48637133865892035
+TUM,1,10,"frottement, son",0.5734204793028322
+TUM,1,10,"frottement + coups, accélération",0.5473251028806584
+TUM,1,10,"frottement + coups, accélération et son des coups",0.6112321471798596
+TUM,1,10,les quatre,0.6153473735173082
+TUM,1,11,"frottement, accélération (référence du projet)",0.4856451222464295
+TUM,1,11,"coups, accélération",0.48266763495521664
+TUM,1,11,"coups, son",0.44032921810699593
+TUM,1,11,"frottement, son",0.3813362381989833
+TUM,1,11,"frottement + coups, accélération",0.5003389009924958
+TUM,1,11,"frottement + coups, accélération et son des coups",0.4515371580731058
+TUM,1,11,les quatre,0.3566448801742919
+TUM,1,12,"frottement, accélération (référence du projet)",0.5372549019607843
+TUM,1,12,"coups, accélération",0.5977487291212781
+TUM,1,12,"coups, son",0.2822803195352215
+TUM,1,12,"frottement, son",0.5074800290486565
+TUM,1,12,"frottement + coups, accélération",0.670007262164125
+TUM,1,12,"frottement + coups, accélération et son des coups",0.6951101428225611
+TUM,1,12,les quatre,0.5860808520939239
+TUM,1,13,"frottement, accélération (référence du projet)",0.5439845073832003
+TUM,1,13,"coups, accélération",0.4889130961026386
+TUM,1,13,"coups, son",0.5098523359961269
+TUM,1,13,"frottement, son",0.38460421205519246
+TUM,1,13,"frottement + coups, accélération",0.5886710239651416
+TUM,1,13,"frottement + coups, accélération et son des coups",0.5933672234325829
+TUM,1,13,les quatre,0.611595255386105
+TUM,1,14,"frottement, accélération (référence du projet)",0.45098039215686275
+TUM,1,14,"coups, accélération",0.6180585814572742
+TUM,1,14,"coups, son",0.5580973129992738
+TUM,1,14,"frottement, son",0.46042120551924476
+TUM,1,14,"frottement + coups, accélération",0.4588235294117647
+TUM,1,14,"frottement + coups, accélération et son des coups",0.4980392156862745
+TUM,1,14,les quatre,0.46470588235294114
+TUM,1,15,"frottement, accélération (référence du projet)",0.5645122246429436
+TUM,1,15,"coups, accélération",0.5024207213749697
+TUM,1,15,"coups, son",0.5159767610748003
+TUM,1,15,"frottement, son",0.49866860324376666
+TUM,1,15,"frottement + coups, accélération",0.6352941176470589
+TUM,1,15,"frottement + coups, accélération et son des coups",0.6115710481723554
+TUM,1,15,les quatre,0.6549019607843137
+TUM,1,16,"frottement, accélération (référence du projet)",0.7178649237472766
+TUM,1,16,"coups, accélération",0.5374969740982812
+TUM,1,16,"coups, son",0.5024449285887195
+TUM,1,16,"frottement, son",0.5995158557250061
+TUM,1,16,"frottement + coups, accélération",0.7055192447349311
+TUM,1,16,"frottement + coups, accélération et son des coups",0.6900266279351247
+TUM,1,16,les quatre,0.7470830307431614
+TUM,1,17,"frottement, accélération (référence du projet)",0.6994674412975067
+TUM,1,17,"coups, accélération",0.3954490438150569
+TUM,1,17,"coups, son",0.5961026385862987
+TUM,1,17,"frottement, son",0.4473251028806584
+TUM,1,17,"frottement + coups, accélération",0.6885015734688936
+TUM,1,17,"frottement + coups, accélération et son des coups",0.7502299685306221
+TUM,1,17,les quatre,0.6904381505688696
+TUM,1,18,"frottement, accélération (référence du projet)",0.6524328249818446
+TUM,1,18,"coups, accélération",0.5475429678044058
+TUM,1,18,"coups, son",0.45758896151053013
+TUM,1,18,"frottement, son",0.5959816025175503
+TUM,1,18,"frottement + coups, accélération",0.71360445412733
+TUM,1,18,"frottement + coups, accélération et son des coups",0.6524570321955943
+TUM,1,18,les quatre,0.5977487291212781
+TUM,1,19,"frottement, accélération (référence du projet)",0.51759864439603
+TUM,1,19,"coups, accélération",0.3909222948438635
+TUM,1,19,"coups, son",0.31149842653110627
+TUM,1,19,"frottement, son",0.48663761801016703
+TUM,1,19,"frottement + coups, accélération",0.49210844831759865
+TUM,1,19,"frottement + coups, accélération et son des coups",0.4205277172597434
+TUM,1,19,les quatre,0.4917211328976035
+TUM,1,20,"frottement, accélération (référence du projet)",0.5130476882110869
+TUM,1,20,"coups, accélération",0.6041878479786976
+TUM,1,20,"coups, son",0.48654078915516824
+TUM,1,20,"frottement, son",0.4656499636891794
+TUM,1,20,"frottement + coups, accélération",0.7081094166061487
+TUM,1,20,"frottement + coups, accélération et son des coups",0.6306463326071169
+TUM,1,20,les quatre,0.6479302832244008
+TUM,1,21,"frottement, accélération (référence du projet)",0.5011861534737352
+TUM,1,21,"coups, accélération",0.546961994674413
+TUM,1,21,"coups, son",0.7112079399661099
+TUM,1,21,"frottement, son",0.48012587751149843
+TUM,1,21,"frottement + coups, accélération",0.5563059791817961
+TUM,1,21,"frottement + coups, accélération et son des coups",0.6655047204066812
+TUM,1,21,les quatre,0.6964899540062938
+TUM,1,22,"frottement, accélération (référence du projet)",0.6174776083272815
+TUM,1,22,"coups, accélération",0.5493100944081336
+TUM,1,22,"coups, son",0.48637133865892035
+TUM,1,22,"frottement, son",0.4349552166545631
+TUM,1,22,"frottement + coups, accélération",0.6725974340353424
+TUM,1,22,"frottement + coups, accélération et son des coups",0.7543451948680705
+TUM,1,22,les quatre,0.7470830307431614
+TUM,1,23,"frottement, accélération (référence du projet)",0.5890583393851367
+TUM,1,23,"coups, accélération",0.6145969498910675
+TUM,1,23,"coups, son",0.5511014282256111
+TUM,1,23,"frottement, son",0.4897361413701283
+TUM,1,23,"frottement + coups, accélération",0.7333817477608328
+TUM,1,23,"frottement + coups, accélération et son des coups",0.6912611958363591
+TUM,1,23,les quatre,0.7410554345194869
+TUM,1,24,"frottement, accélération (référence du projet)",0.48196562575647545
+TUM,1,24,"coups, accélération",0.7036068748487049
+TUM,1,24,"coups, son",0.4926652142338417
+TUM,1,24,"frottement, son",0.3333333333333333
+TUM,1,24,"frottement + coups, accélération",0.7051077221011862
+TUM,1,24,"frottement + coups, accélération et son des coups",0.7206003389009924
+TUM,1,24,les quatre,0.668240135560397
+TUM,1,25,"frottement, accélération (référence du projet)",0.6849431130476882
+TUM,1,25,"coups, accélération",0.5349552166545631
+TUM,1,25,"coups, son",0.47707576857903655
+TUM,1,25,"frottement, son",0.48012587751149843
+TUM,1,25,"frottement + coups, accélération",0.7037521181312031
+TUM,1,25,"frottement + coups, accélération et son des coups",0.6623577826192205
+TUM,1,25,les quatre,0.7676591624304043
+TUM,1,26,"frottement, accélération (référence du projet)",0.5398208666182522
+TUM,1,26,"coups, accélération",0.536165577342048
+TUM,1,26,"coups, son",0.4148390220285645
+TUM,1,26,"frottement, son",0.43589929799080124
+TUM,1,26,"frottement + coups, accélération",0.6813846526264827
+TUM,1,26,"frottement + coups, accélération et son des coups",0.7757201646090536
+TUM,1,26,les quatre,0.6990559186637618
+TUM,1,27,"frottement, accélération (référence du projet)",0.4541273299443234
+TUM,1,27,"coups, accélération",0.4401355603969983
+TUM,1,27,"coups, son",0.5159767610748003
+TUM,1,27,"frottement, son",0.35778261922052773
+TUM,1,27,"frottement + coups, accélération",0.5317840716533527
+TUM,1,27,"frottement + coups, accélération et son des coups",0.6253207455821834
+TUM,1,27,les quatre,0.5129750665698377
+TUM,1,28,"frottement, accélération (référence du projet)",0.4357298474945534
+TUM,1,28,"coups, accélération",0.5475429678044058
+TUM,1,28,"coups, son",0.409440813362382
+TUM,1,28,"frottement, son",0.3366497216170419
+TUM,1,28,"frottement + coups, accélération",0.5886710239651416
+TUM,1,28,"frottement + coups, accélération et son des coups",0.5207939966109901
+TUM,1,28,les quatre,0.5621883321229727
+TUM,1,29,"frottement, accélération (référence du projet)",0.5425804889857178
+TUM,1,29,"coups, accélération",0.5371096586782861
+TUM,1,29,"coups, son",0.5775599128540304
+TUM,1,29,"frottement, son",0.44374243524570317
+TUM,1,29,"frottement + coups, accélération",0.622561123214718
+TUM,1,29,"frottement + coups, accélération et son des coups",0.7566932946017912
+TUM,1,29,les quatre,0.7545146453643184
+TUM,1,30,"frottement, accélération (référence du projet)",0.5061002178649238
+TUM,1,30,"coups, accélération",0.2719438392641007
+TUM,1,30,"coups, son",0.5248123940934398
+TUM,1,30,"frottement, son",0.5209392398934883
+TUM,1,30,"frottement + coups, accélération",0.5247397724521908
+TUM,1,30,"frottement + coups, accélération et son des coups",0.5247639796659405
+TUM,1,30,les quatre,0.6498668603243766
+TUM,1,31,"frottement, accélération (référence du projet)",0.5221011861534737
+TUM,1,31,"coups, accélération",0.6147664003873154
+TUM,1,31,"coups, son",0.5486807068506415
+TUM,1,31,"frottement, son",0.32989590898087634
+TUM,1,31,"frottement + coups, accélération",0.7341805858145727
+TUM,1,31,"frottement + coups, accélération et son des coups",0.7424110384894699
+TUM,1,31,les quatre,0.6977003146937788
+TUM,1,32,"frottement, accélération (référence du projet)",0.4856935366739288
+TUM,1,32,"coups, accélération",0.48852578068264335
+TUM,1,32,"coups, son",0.5381263616557734
+TUM,1,32,"frottement, son",0.42604696199467446
+TUM,1,32,"frottement + coups, accélération",0.5809973372064875
+TUM,1,32,"frottement + coups, accélération et son des coups",0.7558944565480514
+TUM,1,32,les quatre,0.635923505204551
+TUM,1,33,"frottement, accélération (référence du projet)",0.5827644638102155
+TUM,1,33,"coups, accélération",0.5399419026870007
+TUM,1,33,"coups, son",0.4514161220043573
+TUM,1,33,"frottement, son",0.43589929799080124
+TUM,1,33,"frottement + coups, accélération",0.649673202614379
+TUM,1,33,"frottement + coups, accélération et son des coups",0.6859114015976763
+TUM,1,33,les quatre,0.6790365528927621
+TUM,1,34,"frottement, accélération (référence du projet)",0.45098039215686275
+TUM,1,34,"coups, accélération",0.5051803437424353
+TUM,1,34,"coups, son",0.6886710239651416
+TUM,1,34,"frottement, son",0.38353909465020575
+TUM,1,34,"frottement + coups, accélération",0.7352941176470589
+TUM,1,34,"frottement + coups, accélération et son des coups",0.6823529411764705
+TUM,1,34,les quatre,0.6235294117647059
+TUM,1,35,"frottement, accélération (référence du projet)",0.48717017671266033
+TUM,1,35,"coups, accélération",0.5242072137496974
+TUM,1,35,"coups, son",0.46032437666424597
+TUM,1,35,"frottement, son",0.36172839506172844
+TUM,1,35,"frottement + coups, accélération",0.6008714596949891
+TUM,1,35,"frottement + coups, accélération et son des coups",0.7287097555071411
+TUM,1,35,les quatre,0.599128540305011
+TUM,1,36,"frottement, accélération (référence du projet)",0.4815783103364803
+TUM,1,36,"coups, accélération",0.249358508835633
+TUM,1,36,"coups, son",0.467755991285403
+TUM,1,36,"frottement, son",0.4960058097312999
+TUM,1,36,"frottement + coups, accélération",0.3412490922294844
+TUM,1,36,"frottement + coups, accélération et son des coups",0.48654078915516824
+TUM,1,36,les quatre,0.5212539336722344
+TUM,1,37,"frottement, accélération (référence du projet)",0.36719922536916
+TUM,1,37,"coups, accélération",0.17487291212781408
+TUM,1,37,"coups, son",0.2542967804405713
+TUM,1,37,"frottement, son",0.2707576857903655
+TUM,1,37,"frottement + coups, accélération",0.40094408133623816
+TUM,1,37,"frottement + coups, accélération et son des coups",0.38448317598644394
+TUM,1,37,les quatre,0.34841442749939483
+TUM,1,38,"frottement, accélération (référence du projet)",0.5053013798111837
+TUM,1,38,"coups, accélération",0.3132413459210845
+TUM,1,38,"coups, son",0.4389494069232631
+TUM,1,38,"frottement, son",0.41781650931977726
+TUM,1,38,"frottement + coups, accélération",0.45824255628177196
+TUM,1,38,"frottement + coups, accélération et son des coups",0.4856935366739288
+TUM,1,38,les quatre,0.4492374727668846
+TUM,1,39,"frottement, accélération (référence du projet)",0.6129508593560881
+TUM,1,39,"coups, accélération",0.46305979181796175
+TUM,1,39,"coups, son",0.5488985717743887
+TUM,1,39,"frottement, son",0.4222222222222222
+TUM,1,39,"frottement + coups, accélération",0.7115710481723553
+TUM,1,39,"frottement + coups, accélération et son des coups",0.6755022996853063
+TUM,1,39,les quatre,0.6819656257564755
+TUM,1,40,"frottement, accélération (référence du projet)",0.5102154442023723
+TUM,1,40,"coups, accélération",0.3101186153473735
+TUM,1,40,"coups, son",0.40931977729363345
+TUM,1,40,"frottement, son",0.5726216412490923
+TUM,1,40,"frottement + coups, accélération",0.3896635197288792
+TUM,1,40,"frottement + coups, accélération et son des coups",0.5047688211086904
+TUM,1,40,les quatre,0.5006535947712418
+TUM,1,41,"frottement, accélération (référence du projet)",0.7076978939724038
+TUM,1,41,"coups, accélération",0.41793754538852584
+TUM,1,41,"coups, son",0.583756959573953
+TUM,1,41,"frottement, son",0.4518518518518519
+TUM,1,41,"frottement + coups, accélération",0.7323892519970951
+TUM,1,41,"frottement + coups, accélération et son des coups",0.7470830307431614
+TUM,1,41,les quatre,0.748462841926894
+TUM,1,42,"frottement, accélération (référence du projet)",0.5992253691600097
+TUM,1,42,"coups, accélération",0.43016218833212294
+TUM,1,42,"coups, son",0.618881626724764
+TUM,1,42,"frottement, son",0.5716291454853546
+TUM,1,42,"frottement + coups, accélération",0.7717743887678529
+TUM,1,42,"frottement + coups, accélération et son des coups",0.7015734688937303
+TUM,1,42,les quatre,0.7188332122972646
+TUM,1,43,"frottement, accélération (référence du projet)",0.7036068748487049
+TUM,1,43,"coups, accélération",0.507358992979908
+TUM,1,43,"coups, son",0.3840474461389494
+TUM,1,43,"frottement, son",0.5410796417332365
+TUM,1,43,"frottement + coups, accélération",0.665359477124183
+TUM,1,43,"frottement + coups, accélération et son des coups",0.6406681190994917
+TUM,1,43,les quatre,0.6977245219075284
+TUM,1,44,"frottement, accélération (référence du projet)",0.6612200435729848
+TUM,1,44,"coups, accélération",0.30094408133623823
+TUM,1,44,"coups, son",0.5693294601791333
+TUM,1,44,"frottement, son",0.45439360929557004
+TUM,1,44,"frottement + coups, accélération",0.5226821592834665
+TUM,1,44,"frottement + coups, accélération et son des coups",0.5218833212297264
+TUM,1,44,les quatre,0.5971677559912855
+TUM,1,45,"frottement, accélération (référence du projet)",0.7110142822561123
+TUM,1,45,"coups, accélération",0.5731784071653353
+TUM,1,45,"coups, son",0.6167029774872912
+TUM,1,45,"frottement, son",0.34991527475187606
+TUM,1,45,"frottement + coups, accélération",0.6425804889857177
+TUM,1,45,"frottement + coups, accélération et son des coups",0.7339385136770757
+TUM,1,45,les quatre,0.702953280077463
+TUM,1,46,"frottement, accélération (référence du projet)",0.43277656741709025
+TUM,1,46,"coups, accélération",0.45499878963931256
+TUM,1,46,"coups, son",0.42696683611716296
+TUM,1,46,"frottement, son",0.4729121278140886
+TUM,1,46,"frottement + coups, accélération",0.5263374485596708
+TUM,1,46,"frottement + coups, accélération et son des coups",0.5582909707092714
+TUM,1,46,les quatre,0.5322198015008474
+TUM,1,47,"frottement, accélération (référence du projet)",0.5541273299443233
+TUM,1,47,"coups, accélération",0.4912611958363593
+TUM,1,47,"coups, son",0.5590898087630114
+TUM,1,47,"frottement, son",0.41546840958605663
+TUM,1,47,"frottement + coups, accélération",0.5114258048898571
+TUM,1,47,"frottement + coups, accélération et son des coups",0.5175018155410313
+TUM,1,47,les quatre,0.6539820866618252
+TUM,1,48,"frottement, accélération (référence du projet)",0.6982570806100218
+TUM,1,48,"coups, accélération",0.38395061728395063
+TUM,1,48,"coups, son",0.5967078189300411
+TUM,1,48,"frottement, son",0.5987170176712661
+TUM,1,48,"frottement + coups, accélération",0.5405954974582425
+TUM,1,48,"frottement + coups, accélération et son des coups",0.5876543209876544
+TUM,1,48,les quatre,0.5794238683127572
+TUM,1,49,"frottement, accélération (référence du projet)",0.5225127087872186
+TUM,1,49,"coups, accélération",0.5339627208908254
+TUM,1,49,"coups, son",0.480077463083999
+TUM,1,49,"frottement, son",0.405277172597434
+TUM,1,49,"frottement + coups, accélération",0.6382958121520214
+TUM,1,49,"frottement + coups, accélération et son des coups",0.6822076978939724
+TUM,1,49,les quatre,0.6683369644153957
+TUM,2,0,"frottement, accélération (référence du projet)",0.6282407407407408
+TUM,2,0,"coups, accélération",0.6967592592592592
+TUM,2,0,"coups, son",0.5351851851851852
+TUM,2,0,"frottement, son",0.5518518518518518
+TUM,2,0,"frottement + coups, accélération",0.6569444444444444
+TUM,2,0,"frottement + coups, accélération et son des coups",0.6402777777777778
+TUM,2,0,les quatre,0.7273148148148149
+TUM,2,1,"frottement, accélération (référence du projet)",0.5592592592592592
+TUM,2,1,"coups, accélération",0.2898148148148148
+TUM,2,1,"coups, son",0.36620370370370375
+TUM,2,1,"frottement, son",0.47685185185185186
+TUM,2,1,"frottement + coups, accélération",0.5046296296296297
+TUM,2,1,"frottement + coups, accélération et son des coups",0.48055555555555546
+TUM,2,1,les quatre,0.4555555555555555
+TUM,2,2,"frottement, accélération (référence du projet)",0.6944444444444443
+TUM,2,2,"coups, accélération",0.3689814814814814
+TUM,2,2,"coups, son",0.5851851851851851
+TUM,2,2,"frottement, son",0.6643518518518519
+TUM,2,2,"frottement + coups, accélération",0.6898148148148149
+TUM,2,2,"frottement + coups, accélération et son des coups",0.6439814814814815
+TUM,2,2,les quatre,0.7268518518518517
+TUM,2,3,"frottement, accélération (référence du projet)",0.7509259259259259
+TUM,2,3,"coups, accélération",0.5976851851851852
+TUM,2,3,"coups, son",0.7166666666666667
+TUM,2,3,"frottement, son",0.6226851851851852
+TUM,2,3,"frottement + coups, accélération",0.8004629629629628
+TUM,2,3,"frottement + coups, accélération et son des coups",0.787962962962963
+TUM,2,3,les quatre,0.8291666666666666
+TUM,2,4,"frottement, accélération (référence du projet)",0.548611111111111
+TUM,2,4,"coups, accélération",0.525925925925926
+TUM,2,4,"coups, son",0.5175925925925926
+TUM,2,4,"frottement, son",0.6180555555555555
+TUM,2,4,"frottement + coups, accélération",0.5189814814814815
+TUM,2,4,"frottement + coups, accélération et son des coups",0.5268518518518519
+TUM,2,4,les quatre,0.5810185185185185
+TUM,2,5,"frottement, accélération (référence du projet)",0.7513888888888888
+TUM,2,5,"coups, accélération",0.5513888888888888
+TUM,2,5,"coups, son",0.5796296296296296
+TUM,2,5,"frottement, son",0.4930555555555555
+TUM,2,5,"frottement + coups, accélération",0.7050925925925925
+TUM,2,5,"frottement + coups, accélération et son des coups",0.7129629629629629
+TUM,2,5,les quatre,0.7374999999999999
+TUM,2,6,"frottement, accélération (référence du projet)",0.6435185185185185
+TUM,2,6,"coups, accélération",0.6421296296296296
+TUM,2,6,"coups, son",0.6129629629629629
+TUM,2,6,"frottement, son",0.6055555555555555
+TUM,2,6,"frottement + coups, accélération",0.7175925925925926
+TUM,2,6,"frottement + coups, accélération et son des coups",0.763425925925926
+TUM,2,6,les quatre,0.762962962962963
+TUM,2,7,"frottement, accélération (référence du projet)",0.6490740740740741
+TUM,2,7,"coups, accélération",0.6513888888888889
+TUM,2,7,"coups, son",0.4393518518518518
+TUM,2,7,"frottement, son",0.47222222222222215
+TUM,2,7,"frottement + coups, accélération",0.7314814814814815
+TUM,2,7,"frottement + coups, accélération et son des coups",0.7601851851851852
+TUM,2,7,les quatre,0.8425925925925926
+TUM,2,8,"frottement, accélération (référence du projet)",0.6523148148148148
+TUM,2,8,"coups, accélération",0.46296296296296297
+TUM,2,8,"coups, son",0.5222222222222221
+TUM,2,8,"frottement, son",0.5314814814814816
+TUM,2,8,"frottement + coups, accélération",0.6842592592592592
+TUM,2,8,"frottement + coups, accélération et son des coups",0.6925925925925925
+TUM,2,8,les quatre,0.6430555555555555
+TUM,2,9,"frottement, accélération (référence du projet)",0.6851851851851851
+TUM,2,9,"coups, accélération",0.7134259259259258
+TUM,2,9,"coups, son",0.6347222222222222
+TUM,2,9,"frottement, son",0.6138888888888888
+TUM,2,9,"frottement + coups, accélération",0.7675925925925925
+TUM,2,9,"frottement + coups, accélération et son des coups",0.7930555555555555
+TUM,2,9,les quatre,0.7722222222222221
+TUM,2,10,"frottement, accélération (référence du projet)",0.7472222222222221
+TUM,2,10,"coups, accélération",0.5569444444444445
+TUM,2,10,"coups, son",0.6930555555555555
+TUM,2,10,"frottement, son",0.5467592592592593
+TUM,2,10,"frottement + coups, accélération",0.6560185185185184
+TUM,2,10,"frottement + coups, accélération et son des coups",0.6851851851851851
+TUM,2,10,les quatre,0.8212962962962962
+TUM,2,11,"frottement, accélération (référence du projet)",0.7064814814814815
+TUM,2,11,"coups, accélération",0.5773148148148147
+TUM,2,11,"coups, son",0.7217592592592593
+TUM,2,11,"frottement, son",0.41574074074074074
+TUM,2,11,"frottement + coups, accélération",0.6773148148148148
+TUM,2,11,"frottement + coups, accélération et son des coups",0.6523148148148148
+TUM,2,11,les quatre,0.6981481481481482
+TUM,2,12,"frottement, accélération (référence du projet)",0.6898148148148149
+TUM,2,12,"coups, accélération",0.562962962962963
+TUM,2,12,"coups, son",0.6430555555555555
+TUM,2,12,"frottement, son",0.6263888888888888
+TUM,2,12,"frottement + coups, accélération",0.6763888888888889
+TUM,2,12,"frottement + coups, accélération et son des coups",0.7222222222222222
+TUM,2,12,les quatre,0.7759259259259258
+TUM,2,13,"frottement, accélération (référence du projet)",0.5226851851851851
+TUM,2,13,"coups, accélération",0.36157407407407405
+TUM,2,13,"coups, son",0.5675925925925925
+TUM,2,13,"frottement, son",0.512962962962963
+TUM,2,13,"frottement + coups, accélération",0.4731481481481481
+TUM,2,13,"frottement + coups, accélération et son des coups",0.6504629629629629
+TUM,2,13,les quatre,0.5384259259259259
+TUM,2,14,"frottement, accélération (référence du projet)",0.6898148148148149
+TUM,2,14,"coups, accélération",0.5388888888888889
+TUM,2,14,"coups, son",0.5541666666666667
+TUM,2,14,"frottement, son",0.34722222222222215
+TUM,2,14,"frottement + coups, accélération",0.6893518518518519
+TUM,2,14,"frottement + coups, accélération et son des coups",0.6884259259259259
+TUM,2,14,les quatre,0.6013888888888889
+TUM,2,15,"frottement, accélération (référence du projet)",0.5986111111111111
+TUM,2,15,"coups, accélération",0.3685185185185185
+TUM,2,15,"coups, son",0.5138888888888888
+TUM,2,15,"frottement, son",0.5236111111111111
+TUM,2,15,"frottement + coups, accélération",0.6685185185185185
+TUM,2,15,"frottement + coups, accélération et son des coups",0.6226851851851852
+TUM,2,15,les quatre,0.6680555555555555
+TUM,2,16,"frottement, accélération (référence du projet)",0.7185185185185184
+TUM,2,16,"coups, accélération",0.6175925925925926
+TUM,2,16,"coups, son",0.48055555555555546
+TUM,2,16,"frottement, son",0.6222222222222221
+TUM,2,16,"frottement + coups, accélération",0.7759259259259258
+TUM,2,16,"frottement + coups, accélération et son des coups",0.7675925925925925
+TUM,2,16,les quatre,0.812962962962963
+TUM,2,17,"frottement, accélération (référence du projet)",0.7231481481481481
+TUM,2,17,"coups, accélération",0.6060185185185185
+TUM,2,17,"coups, son",0.6921296296296297
+TUM,2,17,"frottement, son",0.5499999999999999
+TUM,2,17,"frottement + coups, accélération",0.7722222222222221
+TUM,2,17,"frottement + coups, accélération et son des coups",0.7759259259259258
+TUM,2,17,les quatre,0.8087962962962963
+TUM,2,18,"frottement, accélération (référence du projet)",0.6398148148148147
+TUM,2,18,"coups, accélération",0.46342592592592596
+TUM,2,18,"coups, son",0.46064814814814814
+TUM,2,18,"frottement, son",0.5939814814814816
+TUM,2,18,"frottement + coups, accélération",0.625462962962963
+TUM,2,18,"frottement + coups, accélération et son des coups",0.6796296296296296
+TUM,2,18,les quatre,0.6342592592592592
+TUM,2,19,"frottement, accélération (référence du projet)",0.6777777777777777
+TUM,2,19,"coups, accélération",0.3726851851851852
+TUM,2,19,"coups, son",0.6171296296296296
+TUM,2,19,"frottement, son",0.6884259259259259
+TUM,2,19,"frottement + coups, accélération",0.48981481481481487
+TUM,2,19,"frottement + coups, accélération et son des coups",0.5935185185185184
+TUM,2,19,les quatre,0.700925925925926
+TUM,2,20,"frottement, accélération (référence du projet)",0.673611111111111
+TUM,2,20,"coups, accélération",0.4842592592592592
+TUM,2,20,"coups, son",0.5675925925925925
+TUM,2,20,"frottement, son",0.4597222222222222
+TUM,2,20,"frottement + coups, accélération",0.7023148148148147
+TUM,2,20,"frottement + coups, accélération et son des coups",0.7680555555555554
+TUM,2,20,les quatre,0.7342592592592592
+TUM,2,21,"frottement, accélération (référence du projet)",0.7935185185185185
+TUM,2,21,"coups, accélération",0.6439814814814815
+TUM,2,21,"coups, son",0.7092592592592593
+TUM,2,21,"frottement, son",0.6069444444444444
+TUM,2,21,"frottement + coups, accélération",0.7273148148148149
+TUM,2,21,"frottement + coups, accélération et son des coups",0.7148148148148148
+TUM,2,21,les quatre,0.7768518518518519
+TUM,2,22,"frottement, accélération (référence du projet)",0.7305555555555555
+TUM,2,22,"coups, accélération",0.46759259259259256
+TUM,2,22,"coups, son",0.4893518518518518
+TUM,2,22,"frottement, son",0.5152777777777778
+TUM,2,22,"frottement + coups, accélération",0.6555555555555556
+TUM,2,22,"frottement + coups, accélération et son des coups",0.7138888888888889
+TUM,2,22,les quatre,0.7717592592592593
+TUM,2,23,"frottement, accélération (référence du projet)",0.5861111111111111
+TUM,2,23,"coups, accélération",0.45555555555555555
+TUM,2,23,"coups, son",0.31527777777777777
+TUM,2,23,"frottement, son",0.5962962962962962
+TUM,2,23,"frottement + coups, accélération",0.5393518518518519
+TUM,2,23,"frottement + coups, accélération et son des coups",0.5930555555555556
+TUM,2,23,les quatre,0.5888888888888889
+TUM,2,24,"frottement, accélération (référence du projet)",0.6976851851851852
+TUM,2,24,"coups, accélération",0.34861111111111115
+TUM,2,24,"coups, son",0.5180555555555556
+TUM,2,24,"frottement, son",0.6046296296296296
+TUM,2,24,"frottement + coups, accélération",0.6851851851851851
+TUM,2,24,"frottement + coups, accélération et son des coups",0.6685185185185185
+TUM,2,24,les quatre,0.7425925925925926
+TUM,2,25,"frottement, accélération (référence du projet)",0.7106481481481483
+TUM,2,25,"coups, accélération",0.6884259259259259
+TUM,2,25,"coups, son",0.5851851851851851
+TUM,2,25,"frottement, son",0.4962962962962963
+TUM,2,25,"frottement + coups, accélération",0.7601851851851852
+TUM,2,25,"frottement + coups, accélération et son des coups",0.8004629629629628
+TUM,2,25,les quatre,0.775
+TUM,2,26,"frottement, accélération (référence du projet)",0.6277777777777778
+TUM,2,26,"coups, accélération",0.6925925925925925
+TUM,2,26,"coups, son",0.625462962962963
+TUM,2,26,"frottement, son",0.5615740740740741
+TUM,2,26,"frottement + coups, accélération",0.6898148148148149
+TUM,2,26,"frottement + coups, accélération et son des coups",0.7430555555555555
+TUM,2,26,les quatre,0.7888888888888888
+TUM,2,27,"frottement, accélération (référence du projet)",0.6032407407407407
+TUM,2,27,"coups, accélération",0.5810185185185185
+TUM,2,27,"coups, son",0.6921296296296297
+TUM,2,27,"frottement, son",0.5513888888888888
+TUM,2,27,"frottement + coups, accélération",0.5824074074074074
+TUM,2,27,"frottement + coups, accélération et son des coups",0.8134259259259259
+TUM,2,27,les quatre,0.8666666666666667
+TUM,2,28,"frottement, accélération (référence du projet)",0.7189814814814816
+TUM,2,28,"coups, accélération",0.5111111111111111
+TUM,2,28,"coups, son",0.5921296296296296
+TUM,2,28,"frottement, son",0.4976851851851852
+TUM,2,28,"frottement + coups, accélération",0.7680555555555554
+TUM,2,28,"frottement + coups, accélération et son des coups",0.787962962962963
+TUM,2,28,les quatre,0.7754629629629629
+TUM,2,29,"frottement, accélération (référence du projet)",0.6449074074074074
+TUM,2,29,"coups, accélération",0.6421296296296296
+TUM,2,29,"coups, son",0.5472222222222222
+TUM,2,29,"frottement, son",0.5356481481481481
+TUM,2,29,"frottement + coups, accélération",0.7847222222222222
+TUM,2,29,"frottement + coups, accélération et son des coups",0.8138888888888888
+TUM,2,29,les quatre,0.8550925925925926
+TUM,2,30,"frottement, accélération (référence du projet)",0.49120370370370375
+TUM,2,30,"coups, accélération",0.4310185185185185
+TUM,2,30,"coups, son",0.48981481481481487
+TUM,2,30,"frottement, son",0.5555555555555555
+TUM,2,30,"frottement + coups, accélération",0.5226851851851851
+TUM,2,30,"frottement + coups, accélération et son des coups",0.4611111111111111
+TUM,2,30,les quatre,0.4527777777777778
+TUM,2,31,"frottement, accélération (référence du projet)",0.5
+TUM,2,31,"coups, accélération",0.5837962962962963
+TUM,2,31,"coups, son",0.6583333333333333
+TUM,2,31,"frottement, son",0.5513888888888889
+TUM,2,31,"frottement + coups, accélération",0.43657407407407406
+TUM,2,31,"frottement + coups, accélération et son des coups",0.5472222222222222
+TUM,2,31,les quatre,0.5472222222222222
+TUM,2,32,"frottement, accélération (référence du projet)",0.7314814814814815
+TUM,2,32,"coups, accélération",0.6180555555555555
+TUM,2,32,"coups, son",0.5462962962962963
+TUM,2,32,"frottement, son",0.5314814814814816
+TUM,2,32,"frottement + coups, accélération",0.8138888888888888
+TUM,2,32,"frottement + coups, accélération et son des coups",0.8050925925925926
+TUM,2,32,les quatre,0.7962962962962963
+TUM,2,33,"frottement, accélération (référence du projet)",0.5796296296296296
+TUM,2,33,"coups, accélération",0.41898148148148145
+TUM,2,33,"coups, son",0.48888888888888893
+TUM,2,33,"frottement, son",0.4101851851851852
+TUM,2,33,"frottement + coups, accélération",0.5226851851851851
+TUM,2,33,"frottement + coups, accélération et son des coups",0.6587962962962962
+TUM,2,33,les quatre,0.5925925925925926
+TUM,2,34,"frottement, accélération (référence du projet)",0.5203703703703704
+TUM,2,34,"coups, accélération",0.5
+TUM,2,34,"coups, son",0.4199074074074074
+TUM,2,34,"frottement, son",0.46296296296296297
+TUM,2,34,"frottement + coups, accélération",0.6171296296296296
+TUM,2,34,"frottement + coups, accélération et son des coups",0.588425925925926
+TUM,2,34,les quatre,0.575462962962963
+TUM,2,35,"frottement, accélération (référence du projet)",0.549074074074074
+TUM,2,35,"coups, accélération",0.3194444444444444
+TUM,2,35,"coups, son",0.5009259259259259
+TUM,2,35,"frottement, son",0.6472222222222221
+TUM,2,35,"frottement + coups, accélération",0.4810185185185185
+TUM,2,35,"frottement + coups, accélération et son des coups",0.4930555555555555
+TUM,2,35,les quatre,0.5388888888888889
+TUM,2,36,"frottement, accélération (référence du projet)",0.6981481481481482
+TUM,2,36,"coups, accélération",0.6087962962962963
+TUM,2,36,"coups, son",0.6259259259259259
+TUM,2,36,"frottement, son",0.6259259259259259
+TUM,2,36,"frottement + coups, accélération",0.7134259259259258
+TUM,2,36,"frottement + coups, accélération et son des coups",0.7337962962962963
+TUM,2,36,les quatre,0.7666666666666666
+TUM,2,37,"frottement, accélération (référence du projet)",0.686111111111111
+TUM,2,37,"coups, accélération",0.6347222222222222
+TUM,2,37,"coups, son",0.5097222222222222
+TUM,2,37,"frottement, son",0.7087962962962963
+TUM,2,37,"frottement + coups, accélération",0.7189814814814816
+TUM,2,37,"frottement + coups, accélération et son des coups",0.7226851851851852
+TUM,2,37,les quatre,0.7847222222222222
+TUM,2,38,"frottement, accélération (référence du projet)",0.673611111111111
+TUM,2,38,"coups, accélération",0.41805555555555557
+TUM,2,38,"coups, son",0.45138888888888884
+TUM,2,38,"frottement, son",0.6421296296296296
+TUM,2,38,"frottement + coups, accélération",0.5898148148148148
+TUM,2,38,"frottement + coups, accélération et son des coups",0.5972222222222222
+TUM,2,38,les quatre,0.5972222222222222
+TUM,2,39,"frottement, accélération (référence du projet)",0.599074074074074
+TUM,2,39,"coups, accélération",0.5763888888888888
+TUM,2,39,"coups, son",0.5393518518518519
+TUM,2,39,"frottement, son",0.3527777777777777
+TUM,2,39,"frottement + coups, accélération",0.6851851851851851
+TUM,2,39,"frottement + coups, accélération et son des coups",0.6976851851851852
+TUM,2,39,les quatre,0.6893518518518519
+TUM,2,40,"frottement, accélération (référence du projet)",0.7564814814814814
+TUM,2,40,"coups, accélération",0.49490740740740735
+TUM,2,40,"coups, son",0.6134259259259259
+TUM,2,40,"frottement, son",0.48657407407407405
+TUM,2,40,"frottement + coups, accélération",0.7277777777777777
+TUM,2,40,"frottement + coups, accélération et son des coups",0.7439814814814815
+TUM,2,40,les quatre,0.7189814814814816
+TUM,2,41,"frottement, accélération (référence du projet)",0.5319444444444444
+TUM,2,41,"coups, accélération",0.7092592592592593
+TUM,2,41,"coups, son",0.5805555555555555
+TUM,2,41,"frottement, son",0.3490740740740741
+TUM,2,41,"frottement + coups, accélération",0.6768518518518518
+TUM,2,41,"frottement + coups, accélération et son des coups",0.7847222222222222
+TUM,2,41,les quatre,0.7722222222222221
+TUM,2,42,"frottement, accélération (référence du projet)",0.6819444444444445
+TUM,2,42,"coups, accélération",0.5773148148148147
+TUM,2,42,"coups, son",0.687962962962963
+TUM,2,42,"frottement, son",0.5069444444444444
+TUM,2,42,"frottement + coups, accélération",0.6856481481481481
+TUM,2,42,"frottement + coups, accélération et son des coups",0.7597222222222223
+TUM,2,42,les quatre,0.7273148148148149
+TUM,2,43,"frottement, accélération (référence du projet)",0.6648148148148149
+TUM,2,43,"coups, accélération",0.6259259259259259
+TUM,2,43,"coups, son",0.5231481481481481
+TUM,2,43,"frottement, son",0.6680555555555555
+TUM,2,43,"frottement + coups, accélération",0.7138888888888889
+TUM,2,43,"frottement + coups, accélération et son des coups",0.7134259259259258
+TUM,2,43,les quatre,0.7342592592592592
+TUM,2,44,"frottement, accélération (référence du projet)",0.7805555555555556
+TUM,2,44,"coups, accélération",0.46388888888888885
+TUM,2,44,"coups, son",0.5
+TUM,2,44,"frottement, son",0.6124999999999999
+TUM,2,44,"frottement + coups, accélération",0.6185185185185186
+TUM,2,44,"frottement + coups, accélération et son des coups",0.6583333333333333
+TUM,2,44,les quatre,0.625
+TUM,2,45,"frottement, accélération (référence du projet)",0.6935185185185185
+TUM,2,45,"coups, accélération",0.5236111111111111
+TUM,2,45,"coups, son",0.5296296296296296
+TUM,2,45,"frottement, son",0.35648148148148145
+TUM,2,45,"frottement + coups, accélération",0.7555555555555555
+TUM,2,45,"frottement + coups, accélération et son des coups",0.7342592592592592
+TUM,2,45,les quatre,0.6967592592592592
+TUM,2,46,"frottement, accélération (référence du projet)",0.5981481481481481
+TUM,2,46,"coups, accélération",0.4615740740740741
+TUM,2,46,"coups, son",0.5851851851851851
+TUM,2,46,"frottement, son",0.5685185185185185
+TUM,2,46,"frottement + coups, accélération",0.6393518518518518
+TUM,2,46,"frottement + coups, accélération et son des coups",0.7384259259259259
+TUM,2,46,les quatre,0.7592592592592592
+TUM,2,47,"frottement, accélération (référence du projet)",0.6074074074074075
+TUM,2,47,"coups, accélération",0.537962962962963
+TUM,2,47,"coups, son",0.5300925925925926
+TUM,2,47,"frottement, son",0.4310185185185185
+TUM,2,47,"frottement + coups, accélération",0.6217592592592592
+TUM,2,47,"frottement + coups, accélération et son des coups",0.637962962962963
+TUM,2,47,les quatre,0.6583333333333333
+TUM,2,48,"frottement, accélération (référence du projet)",0.7273148148148149
+TUM,2,48,"coups, accélération",0.6263888888888889
+TUM,2,48,"coups, son",0.5638888888888888
+TUM,2,48,"frottement, son",0.7342592592592592
+TUM,2,48,"frottement + coups, accélération",0.7273148148148149
+TUM,2,48,"frottement + coups, accélération et son des coups",0.7518518518518519
+TUM,2,48,les quatre,0.7972222222222222
+TUM,2,49,"frottement, accélération (référence du projet)",0.5699074074074074
+TUM,2,49,"coups, accélération",0.5597222222222222
+TUM,2,49,"coups, son",0.4773148148148148
+TUM,2,49,"frottement, son",0.5388888888888889
+TUM,2,49,"frottement + coups, accélération",0.6277777777777778
+TUM,2,49,"frottement + coups, accélération et son des coups",0.7222222222222222
+TUM,2,49,les quatre,0.6592592592592592
+TUM,4,0,"frottement, accélération (référence du projet)",0.6843711843711843
+TUM,4,0,"coups, accélération",0.6202686202686203
+TUM,4,0,"coups, son",0.6092796092796092
+TUM,4,0,"frottement, son",0.6398046398046398
+TUM,4,0,"frottement + coups, accélération",0.7362637362637363
+TUM,4,0,"frottement + coups, accélération et son des coups",0.788156288156288
+TUM,4,0,les quatre,0.8357753357753358
+TUM,4,1,"frottement, accélération (référence du projet)",0.703907203907204
+TUM,4,1,"coups, accélération",0.394993894993895
+TUM,4,1,"coups, son",0.4993894993894994
+TUM,4,1,"frottement, son",0.6703296703296703
+TUM,4,1,"frottement + coups, accélération",0.7124542124542126
+TUM,4,1,"frottement + coups, accélération et son des coups",0.6886446886446885
+TUM,4,1,les quatre,0.7643467643467643
+TUM,4,2,"frottement, accélération (référence du projet)",0.6843711843711843
+TUM,4,2,"coups, accélération",0.6086691086691087
+TUM,4,2,"coups, son",0.695970695970696
+TUM,4,2,"frottement, son",0.8131868131868131
+TUM,4,2,"frottement + coups, accélération",0.8162393162393163
+TUM,4,2,"frottement + coups, accélération et son des coups",0.7924297924297923
+TUM,4,2,les quatre,0.788156288156288
+TUM,4,3,"frottement, accélération (référence du projet)",0.7106227106227107
+TUM,4,3,"coups, accélération",0.6459096459096458
+TUM,4,3,"coups, son",0.7191697191697192
+TUM,4,3,"frottement, son",0.5311355311355311
+TUM,4,3,"frottement + coups, accélération",0.7924297924297924
+TUM,4,3,"frottement + coups, accélération et son des coups",0.8009768009768009
+TUM,4,3,les quatre,0.8443223443223443
+TUM,4,4,"frottement, accélération (référence du projet)",0.703907203907204
+TUM,4,4,"coups, accélération",0.6330891330891331
+TUM,4,4,"coups, son",0.5818070818070818
+TUM,4,4,"frottement, son",0.6813186813186812
+TUM,4,4,"frottement + coups, accélération",0.7252747252747253
+TUM,4,4,"frottement + coups, accélération et son des coups",0.7295482295482296
+TUM,4,4,les quatre,0.7686202686202686
+TUM,4,5,"frottement, accélération (référence du projet)",0.6477411477411478
+TUM,4,5,"coups, accélération",0.5836385836385837
+TUM,4,5,"coups, son",0.5518925518925518
+TUM,4,5,"frottement, son",0.5873015873015872
+TUM,4,5,"frottement + coups, accélération",0.5744810744810745
+TUM,4,5,"frottement + coups, accélération et son des coups",0.5744810744810745
+TUM,4,5,les quatre,0.7735042735042734
+TUM,4,6,"frottement, accélération (référence du projet)",0.6929181929181928
+TUM,4,6,"coups, accélération",0.6245421245421245
+TUM,4,6,"coups, son",0.782051282051282
+TUM,4,6,"frottement, son",0.5262515262515263
+TUM,4,6,"frottement + coups, accélération",0.8009768009768009
+TUM,4,6,"frottement + coups, accélération et son des coups",0.8247863247863249
+TUM,4,6,les quatre,0.8876678876678876
+TUM,4,7,"frottement, accélération (référence du projet)",0.7515262515262515
+TUM,4,7,"coups, accélération",0.5641025641025641
+TUM,4,7,"coups, son",0.5744810744810745
+TUM,4,7,"frottement, son",0.48840048840048844
+TUM,4,7,"frottement + coups, accélération",0.8076923076923078
+TUM,4,7,"frottement + coups, accélération et son des coups",0.7643467643467643
+TUM,4,7,les quatre,0.7362637362637363
+TUM,4,8,"frottement, accélération (référence du projet)",0.6367521367521367
+TUM,4,8,"coups, accélération",0.7045177045177046
+TUM,4,8,"coups, son",0.5732600732600732
+TUM,4,8,"frottement, son",0.503052503052503
+TUM,4,8,"frottement + coups, accélération",0.8162393162393163
+TUM,4,8,"frottement + coups, accélération et son des coups",0.8119658119658121
+TUM,4,8,les quatre,0.8119658119658121
+TUM,4,9,"frottement, accélération (référence du projet)",0.5067155067155067
+TUM,4,9,"coups, accélération",0.7112332112332113
+TUM,4,9,"coups, son",0.6843711843711843
+TUM,4,9,"frottement, son",0.553113553113553
+TUM,4,9,"frottement + coups, accélération",0.7014652014652015
+TUM,4,9,"frottement + coups, accélération et son des coups",0.7057387057387058
+TUM,4,9,les quatre,0.7533577533577533
+TUM,4,10,"frottement, accélération (référence du projet)",0.7344322344322345
+TUM,4,10,"coups, accélération",0.510989010989011
+TUM,4,10,"coups, son",0.5824175824175825
+TUM,4,10,"frottement, son",0.5494505494505494
+TUM,4,10,"frottement + coups, accélération",0.6807081807081806
+TUM,4,10,"frottement + coups, accélération et son des coups",0.7002442002442003
+TUM,4,10,les quatre,0.7649572649572649
+TUM,4,11,"frottement, accélération (référence du projet)",0.7106227106227107
+TUM,4,11,"coups, accélération",0.6373626373626373
+TUM,4,11,"coups, son",0.7716727716727716
+TUM,4,11,"frottement, son",0.5543345543345544
+TUM,4,11,"frottement + coups, accélération",0.7692307692307692
+TUM,4,11,"frottement + coups, accélération et son des coups",0.7991452991452991
+TUM,4,11,les quatre,0.8272283272283273
+TUM,4,12,"frottement, accélération (référence du projet)",0.6886446886446885
+TUM,4,12,"coups, accélération",0.6227106227106227
+TUM,4,12,"coups, son",0.4945054945054945
+TUM,4,12,"frottement, son",0.547008547008547
+TUM,4,12,"frottement + coups, accélération",0.7557997557997558
+TUM,4,12,"frottement + coups, accélération et son des coups",0.8162393162393163
+TUM,4,12,les quatre,0.9114774114774115
+TUM,4,13,"frottement, accélération (référence du projet)",0.7191697191697192
+TUM,4,13,"coups, accélération",0.7026862026862027
+TUM,4,13,"coups, son",0.615995115995116
+TUM,4,13,"frottement, son",0.39316239316239315
+TUM,4,13,"frottement + coups, accélération",0.8253968253968255
+TUM,4,13,"frottement + coups, accélération et son des coups",0.8186813186813188
+TUM,4,13,les quatre,0.8467643467643468
+TUM,4,14,"frottement, accélération (référence du projet)",0.6672771672771672
+TUM,4,14,"coups, accélération",0.5018315018315018
+TUM,4,14,"coups, son",0.6477411477411478
+TUM,4,14,"frottement, son",0.5842490842490843
+TUM,4,14,"frottement + coups, accélération",0.7796092796092796
+TUM,4,14,"frottement + coups, accélération et son des coups",0.8595848595848595
+TUM,4,14,les quatre,0.7643467643467643
+TUM,4,15,"frottement, accélération (référence du projet)",0.7081807081807082
+TUM,4,15,"coups, accélération",0.6593406593406593
+TUM,4,15,"coups, son",0.6782661782661782
+TUM,4,15,"frottement, son",0.6990231990231991
+TUM,4,15,"frottement + coups, accélération",0.7405372405372406
+TUM,4,15,"frottement + coups, accélération et son des coups",0.7210012210012211
+TUM,4,15,les quatre,0.703907203907204
+TUM,4,16,"frottement, accélération (référence du projet)",0.6996336996336997
+TUM,4,16,"coups, accélération",0.3778998778998779
+TUM,4,16,"coups, son",0.6843711843711843
+TUM,4,16,"frottement, son",0.5256410256410257
+TUM,4,16,"frottement + coups, accélération",0.6043956043956044
+TUM,4,16,"frottement + coups, accélération et son des coups",0.7405372405372406
+TUM,4,16,les quatre,0.76007326007326
+TUM,4,17,"frottement, accélération (référence du projet)",0.753968253968254
+TUM,4,17,"coups, accélération",0.7045177045177046
+TUM,4,17,"coups, son",0.5439560439560439
+TUM,4,17,"frottement, son",0.6336996336996337
+TUM,4,17,"frottement + coups, accélération",0.822954822954823
+TUM,4,17,"frottement + coups, accélération et son des coups",0.788156288156288
+TUM,4,17,les quatre,0.8748473748473748
+TUM,4,18,"frottement, accélération (référence du projet)",0.6562881562881563
+TUM,4,18,"coups, accélération",0.6593406593406593
+TUM,4,18,"coups, son",0.6208791208791208
+TUM,4,18,"frottement, son",0.5671550671550671
+TUM,4,18,"frottement + coups, accélération",0.7557997557997558
+TUM,4,18,"frottement + coups, accélération et son des coups",0.8119658119658121
+TUM,4,18,les quatre,0.81013431013431
+TUM,4,19,"frottement, accélération (référence du projet)",0.6758241758241758
+TUM,4,19,"coups, accélération",0.525030525030525
+TUM,4,19,"coups, son",0.5244200244200243
+TUM,4,19,"frottement, son",0.5586080586080585
+TUM,4,19,"frottement + coups, accélération",0.7081807081807082
+TUM,4,19,"frottement + coups, accélération et son des coups",0.6452991452991453
+TUM,4,19,les quatre,0.6886446886446885
+TUM,4,20,"frottement, accélération (référence du projet)",0.7081807081807082
+TUM,4,20,"coups, accélération",0.7081807081807082
+TUM,4,20,"coups, son",0.6446886446886447
+TUM,4,20,"frottement, son",0.6184371184371185
+TUM,4,20,"frottement + coups, accélération",0.7728937728937729
+TUM,4,20,"frottement + coups, accélération et son des coups",0.8205128205128206
+TUM,4,20,les quatre,0.9157509157509157
+TUM,4,21,"frottement, accélération (référence du projet)",0.6819291819291818
+TUM,4,21,"coups, accélération",0.6373626373626373
+TUM,4,21,"coups, son",0.6593406593406593
+TUM,4,21,"frottement, son",0.5555555555555555
+TUM,4,21,"frottement + coups, accélération",0.7057387057387058
+TUM,4,21,"frottement + coups, accélération et son des coups",0.7533577533577533
+TUM,4,21,les quatre,0.7771672771672772
+TUM,4,22,"frottement, accélération (référence du projet)",0.6996336996336995
+TUM,4,22,"coups, accélération",0.6233211233211233
+TUM,4,22,"coups, son",0.5573870573870573
+TUM,4,22,"frottement, son",0.7722832722832723
+TUM,4,22,"frottement + coups, accélération",0.7435897435897436
+TUM,4,22,"frottement + coups, accélération et son des coups",0.7222222222222222
+TUM,4,22,les quatre,0.7783882783882783
+TUM,4,23,"frottement, accélération (référence du projet)",0.6715506715506715
+TUM,4,23,"coups, accélération",0.6031746031746031
+TUM,4,23,"coups, son",0.6416361416361416
+TUM,4,23,"frottement, son",0.5512820512820512
+TUM,4,23,"frottement + coups, accélération",0.7991452991452991
+TUM,4,23,"frottement + coups, accélération et son des coups",0.76007326007326
+TUM,4,23,les quatre,0.851037851037851
+TUM,4,24,"frottement, accélération (référence du projet)",0.5506715506715506
+TUM,4,24,"coups, accélération",0.7136752136752137
+TUM,4,24,"coups, son",0.5567765567765567
+TUM,4,24,"frottement, son",0.6837606837606837
+TUM,4,24,"frottement + coups, accélération",0.6416361416361416
+TUM,4,24,"frottement + coups, accélération et son des coups",0.7081807081807082
+TUM,4,24,les quatre,0.7191697191697192
+TUM,4,25,"frottement, accélération (référence du projet)",0.703907203907204
+TUM,4,25,"coups, accélération",0.6166056166056165
+TUM,4,25,"coups, son",0.5592185592185591
+TUM,4,25,"frottement, son",0.6507936507936507
+TUM,4,25,"frottement + coups, accélération",0.6544566544566545
+TUM,4,25,"frottement + coups, accélération et son des coups",0.8162393162393163
+TUM,4,25,les quatre,0.8315018315018315
+TUM,4,26,"frottement, accélération (référence du projet)",0.6953601953601952
+TUM,4,26,"coups, accélération",0.706959706959707
+TUM,4,26,"coups, son",0.6678876678876678
+TUM,4,26,"frottement, son",0.5451770451770451
+TUM,4,26,"frottement + coups, accélération",0.703907203907204
+TUM,4,26,"frottement + coups, accélération et son des coups",0.8119658119658121
+TUM,4,26,les quatre,0.8424908424908425
+TUM,4,27,"frottement, accélération (référence du projet)",0.6410256410256411
+TUM,4,27,"coups, accélération",0.4841269841269842
+TUM,4,27,"coups, son",0.7667887667887667
+TUM,4,27,"frottement, son",0.7210012210012211
+TUM,4,27,"frottement + coups, accélération",0.782051282051282
+TUM,4,27,"frottement + coups, accélération et son des coups",0.8119658119658121
+TUM,4,27,les quatre,0.7643467643467643
+TUM,4,28,"frottement, accélération (référence du projet)",0.7753357753357752
+TUM,4,28,"coups, accélération",0.6550671550671551
+TUM,4,28,"coups, son",0.7301587301587302
+TUM,4,28,"frottement, son",0.6752136752136751
+TUM,4,28,"frottement + coups, accélération",0.771062271062271
+TUM,4,28,"frottement + coups, accélération et son des coups",0.8205128205128206
+TUM,4,28,les quatre,0.8162393162393163
+TUM,4,29,"frottement, accélération (référence du projet)",0.7405372405372406
+TUM,4,29,"coups, accélération",0.615995115995116
+TUM,4,29,"coups, son",0.5879120879120879
+TUM,4,29,"frottement, son",0.5158730158730158
+TUM,4,29,"frottement + coups, accélération",0.7490842490842491
+TUM,4,29,"frottement + coups, accélération et son des coups",0.7533577533577533
+TUM,4,29,les quatre,0.7448107448107448
+TUM,4,30,"frottement, accélération (référence du projet)",0.6019536019536019
+TUM,4,30,"coups, accélération",0.547008547008547
+TUM,4,30,"coups, son",0.5366300366300366
+TUM,4,30,"frottement, son",0.5836385836385837
+TUM,4,30,"frottement + coups, accélération",0.7106227106227107
+TUM,4,30,"frottement + coups, accélération et son des coups",0.7106227106227107
+TUM,4,30,les quatre,0.7472527472527473
+TUM,4,31,"frottement, accélération (référence du projet)",0.6758241758241758
+TUM,4,31,"coups, accélération",0.5567765567765567
+TUM,4,31,"coups, son",0.6221001221001221
+TUM,4,31,"frottement, son",0.6678876678876678
+TUM,4,31,"frottement + coups, accélération",0.6929181929181928
+TUM,4,31,"frottement + coups, accélération et son des coups",0.7490842490842491
+TUM,4,31,les quatre,0.8009768009768009
+TUM,4,32,"frottement, accélération (référence du projet)",0.7081807081807082
+TUM,4,32,"coups, accélération",0.6373626373626373
+TUM,4,32,"coups, son",0.5946275946275946
+TUM,4,32,"frottement, son",0.6733821733821733
+TUM,4,32,"frottement + coups, accélération",0.697191697191697
+TUM,4,32,"frottement + coups, accélération et son des coups",0.7490842490842491
+TUM,4,32,les quatre,0.7881562881562881
+TUM,4,33,"frottement, accélération (référence du projet)",0.68009768009768
+TUM,4,33,"coups, accélération",0.594017094017094
+TUM,4,33,"coups, son",0.695970695970696
+TUM,4,33,"frottement, son",0.539072039072039
+TUM,4,33,"frottement + coups, accélération",0.7362637362637363
+TUM,4,33,"frottement + coups, accélération et son des coups",0.7490842490842491
+TUM,4,33,les quatre,0.7490842490842491
+TUM,4,34,"frottement, accélération (référence du projet)",0.7087912087912088
+TUM,4,34,"coups, accélération",0.6678876678876678
+TUM,4,34,"coups, son",0.6202686202686203
+TUM,4,34,"frottement, son",0.6037851037851037
+TUM,4,34,"frottement + coups, accélération",0.8186813186813188
+TUM,4,34,"frottement + coups, accélération et son des coups",0.8272283272283273
+TUM,4,34,les quatre,0.8901098901098901
+TUM,4,35,"frottement, accélération (référence du projet)",0.7191697191697192
+TUM,4,35,"coups, accélération",0.6892551892551891
+TUM,4,35,"coups, son",0.724053724053724
+TUM,4,35,"frottement, son",0.677045177045177
+TUM,4,35,"frottement + coups, accélération",0.7124542124542125
+TUM,4,35,"frottement + coups, accélération et son des coups",0.7838827838827839
+TUM,4,35,les quatre,0.8791208791208792
+TUM,4,36,"frottement, accélération (référence du projet)",0.6953601953601952
+TUM,4,36,"coups, accélération",0.6117216117216117
+TUM,4,36,"coups, son",0.5421245421245421
+TUM,4,36,"frottement, son",0.3553113553113553
+TUM,4,36,"frottement + coups, accélération",0.8553113553113553
+TUM,4,36,"frottement + coups, accélération et son des coups",0.8400488400488401
+TUM,4,36,les quatre,0.8272283272283273
+TUM,4,37,"frottement, accélération (référence du projet)",0.6568986568986569
+TUM,4,37,"coups, accélération",0.5683760683760685
+TUM,4,37,"coups, son",0.576923076923077
+TUM,4,37,"frottement, son",0.5274725274725274
+TUM,4,37,"frottement + coups, accélération",0.7478632478632479
+TUM,4,37,"frottement + coups, accélération et son des coups",0.6935286935286934
+TUM,4,37,les quatre,0.7197802197802198
+TUM,4,38,"frottement, accélération (référence du projet)",0.6672771672771672
+TUM,4,38,"coups, accélération",0.6721611721611721
+TUM,4,38,"coups, son",0.6843711843711843
+TUM,4,38,"frottement, son",0.6965811965811967
+TUM,4,38,"frottement + coups, accélération",0.8119658119658121
+TUM,4,38,"frottement + coups, accélération et son des coups",0.8162393162393163
+TUM,4,38,les quatre,0.8162393162393163
+TUM,4,39,"frottement, accélération (référence du projet)",0.6324786324786325
+TUM,4,39,"coups, accélération",0.6568986568986569
+TUM,4,39,"coups, son",0.7087912087912088
+TUM,4,39,"frottement, son",0.5702075702075703
+TUM,4,39,"frottement + coups, accélération",0.7448107448107448
+TUM,4,39,"frottement + coups, accélération et son des coups",0.8009768009768009
+TUM,4,39,les quatre,0.7967032967032966
+TUM,4,40,"frottement, accélération (référence du projet)",0.6868131868131869
+TUM,4,40,"coups, accélération",0.6416361416361416
+TUM,4,40,"coups, son",0.6562881562881563
+TUM,4,40,"frottement, son",0.7051282051282052
+TUM,4,40,"frottement + coups, accélération",0.8443223443223443
+TUM,4,40,"frottement + coups, accélération et son des coups",0.8638583638583638
+TUM,4,40,les quatre,0.8443223443223443
+TUM,4,41,"frottement, accélération (référence du projet)",0.68009768009768
+TUM,4,41,"coups, accélération",0.5396825396825397
+TUM,4,41,"coups, son",0.5854700854700855
+TUM,4,41,"frottement, son",0.5775335775335776
+TUM,4,41,"frottement + coups, accélération",0.7643467643467643
+TUM,4,41,"frottement + coups, accélération et son des coups",0.7686202686202686
+TUM,4,41,les quatre,0.92002442002442
+TUM,4,42,"frottement, accélération (référence du projet)",0.7106227106227107
+TUM,4,42,"coups, accélération",0.6166056166056165
+TUM,4,42,"coups, son",0.6678876678876678
+TUM,4,42,"frottement, son",0.5555555555555555
+TUM,4,42,"frottement + coups, accélération",0.7515262515262515
+TUM,4,42,"frottement + coups, accélération et son des coups",0.7991452991452991
+TUM,4,42,les quatre,0.822954822954823
+TUM,4,43,"frottement, accélération (référence du projet)",0.7606837606837606
+TUM,4,43,"coups, accélération",0.6092796092796092
+TUM,4,43,"coups, son",0.5818070818070818
+TUM,4,43,"frottement, son",0.6098901098901099
+TUM,4,43,"frottement + coups, accélération",0.7405372405372406
+TUM,4,43,"frottement + coups, accélération et son des coups",0.7319902319902319
+TUM,4,43,les quatre,0.782051282051282
+TUM,4,44,"frottement, accélération (référence du projet)",0.6538461538461539
+TUM,4,44,"coups, accélération",0.6074481074481074
+TUM,4,44,"coups, son",0.6477411477411478
+TUM,4,44,"frottement, son",0.6398046398046399
+TUM,4,44,"frottement + coups, accélération",0.6581196581196581
+TUM,4,44,"frottement + coups, accélération et son des coups",0.6105006105006104
+TUM,4,44,les quatre,0.6581196581196581
+TUM,4,45,"frottement, accélération (référence du projet)",0.6111111111111112
+TUM,4,45,"coups, accélération",0.6788766788766788
+TUM,4,45,"coups, son",0.7454212454212454
+TUM,4,45,"frottement, son",0.6452991452991453
+TUM,4,45,"frottement + coups, accélération",0.7753357753357754
+TUM,4,45,"frottement + coups, accélération et son des coups",0.8791208791208792
+TUM,4,45,les quatre,0.8791208791208792
+TUM,4,46,"frottement, accélération (référence du projet)",0.7191697191697192
+TUM,4,46,"coups, accélération",0.683150183150183
+TUM,4,46,"coups, son",0.6282051282051282
+TUM,4,46,"frottement, son",0.6056166056166057
+TUM,4,46,"frottement + coups, accélération",0.7759462759462759
+TUM,4,46,"frottement + coups, accélération et son des coups",0.8638583638583638
+TUM,4,46,les quatre,0.8357753357753358
+TUM,4,47,"frottement, accélération (référence du projet)",0.7148962148962149
+TUM,4,47,"coups, accélération",0.5750915750915752
+TUM,4,47,"coups, son",0.644078144078144
+TUM,4,47,"frottement, son",0.6001221001221001
+TUM,4,47,"frottement + coups, accélération",0.7435897435897436
+TUM,4,47,"frottement + coups, accélération et son des coups",0.7411477411477411
+TUM,4,47,les quatre,0.7887667887667887
+TUM,4,48,"frottement, accélération (référence du projet)",0.6495726495726496
+TUM,4,48,"coups, accélération",0.5854700854700855
+TUM,4,48,"coups, son",0.6715506715506715
+TUM,4,48,"frottement, son",0.5976800976800977
+TUM,4,48,"frottement + coups, accélération",0.7252747252747254
+TUM,4,48,"frottement + coups, accélération et son des coups",0.7728937728937729
+TUM,4,48,les quatre,0.7728937728937729
+TUM,4,49,"frottement, accélération (référence du projet)",0.7924297924297924
+TUM,4,49,"coups, accélération",0.5989010989010989
+TUM,4,49,"coups, son",0.6526251526251526
+TUM,4,49,"frottement, son",0.6642246642246642
+TUM,4,49,"frottement + coups, accélération",0.7967032967032966
+TUM,4,49,"frottement + coups, accélération et son des coups",0.8247863247863249
+TUM,4,49,les quatre,0.8485958485958486
+LMT108,1,0,"frottement, accélération (référence du projet)",0.5863095238095238
+LMT108,1,0,"coups, accélération",0.5696428571428571
+LMT108,1,0,"coups, son",0.6232142857142857
+LMT108,1,0,"frottement, son",0.4720238095238095
+LMT108,1,0,"frottement + coups, accélération",0.6053571428571428
+LMT108,1,0,"frottement + coups, accélération et son des coups",0.5696428571428571
+LMT108,1,0,les quatre,0.6053571428571428
+LMT108,1,1,"frottement, accélération (référence du projet)",0.7779761904761905
+LMT108,1,1,"coups, accélération",0.5678571428571428
+LMT108,1,1,"coups, son",0.6922619047619047
+LMT108,1,1,"frottement, son",0.4607142857142857
+LMT108,1,1,"frottement + coups, accélération",0.8160714285714286
+LMT108,1,1,"frottement + coups, accélération et son des coups",0.8160714285714286
+LMT108,1,1,les quatre,0.7803571428571427
+LMT108,1,2,"frottement, accélération (référence du projet)",0.575595238095238
+LMT108,1,2,"coups, accélération",0.8214285714285714
+LMT108,1,2,"coups, son",0.8327380952380953
+LMT108,1,2,"frottement, son",0.45416666666666666
+LMT108,1,2,"frottement + coups, accélération",0.7303571428571428
+LMT108,1,2,"frottement + coups, accélération et son des coups",0.861904761904762
+LMT108,1,2,les quatre,0.8095238095238095
+LMT108,1,3,"frottement, accélération (référence du projet)",0.5
+LMT108,1,3,"coups, accélération",0.45
+LMT108,1,3,"coups, son",0.4625
+LMT108,1,3,"frottement, son",0.45
+LMT108,1,3,"frottement + coups, accélération",0.5
+LMT108,1,3,"frottement + coups, accélération et son des coups",0.5
+LMT108,1,3,les quatre,0.5
+LMT108,1,4,"frottement, accélération (référence du projet)",0.581547619047619
+LMT108,1,4,"coups, accélération",0.5535714285714286
+LMT108,1,4,"coups, son",0.6
+LMT108,1,4,"frottement, son",0.4875
+LMT108,1,4,"frottement + coups, accélération",0.7803571428571427
+LMT108,1,4,"frottement + coups, accélération et son des coups",0.6732142857142858
+LMT108,1,4,les quatre,0.6375
+LMT108,1,5,"frottement, accélération (référence du projet)",0.581547619047619
+LMT108,1,5,"coups, accélération",0.6714285714285714
+LMT108,1,5,"coups, son",0.7
+LMT108,1,5,"frottement, son",0.5416666666666667
+LMT108,1,5,"frottement + coups, accélération",0.6964285714285714
+LMT108,1,5,"frottement + coups, accélération et son des coups",0.75
+LMT108,1,5,les quatre,0.75
+LMT108,1,6,"frottement, accélération (référence du projet)",0.6732142857142858
+LMT108,1,6,"coups, accélération",0.6714285714285714
+LMT108,1,6,"coups, son",0.7238095238095238
+LMT108,1,6,"frottement, son",0.5922619047619048
+LMT108,1,6,"frottement + coups, accélération",0.6922619047619047
+LMT108,1,6,"frottement + coups, accélération et son des coups",0.7904761904761906
+LMT108,1,6,les quatre,0.7547619047619047
+LMT108,1,7,"frottement, accélération (référence du projet)",0.4880952380952381
+LMT108,1,7,"coups, accélération",0.3839285714285714
+LMT108,1,7,"coups, son",0.525
+LMT108,1,7,"frottement, son",0.5505952380952381
+LMT108,1,7,"frottement + coups, accélération",0.4857142857142857
+LMT108,1,7,"frottement + coups, accélération et son des coups",0.45
+LMT108,1,7,les quatre,0.45
+LMT108,1,8,"frottement, accélération (référence du projet)",0.5
+LMT108,1,8,"coups, accélération",0.4928571428571429
+LMT108,1,8,"coups, son",0.5125
+LMT108,1,8,"frottement, son",0.45
+LMT108,1,8,"frottement + coups, accélération",0.5357142857142857
+LMT108,1,8,"frottement + coups, accélération et son des coups",0.5357142857142857
+LMT108,1,8,les quatre,0.5
+LMT108,1,9,"frottement, accélération (référence du projet)",0.581547619047619
+LMT108,1,9,"coups, accélération",0.7571428571428572
+LMT108,1,9,"coups, son",0.6375
+LMT108,1,9,"frottement, son",0.5916666666666667
+LMT108,1,9,"frottement + coups, accélération",0.6964285714285714
+LMT108,1,9,"frottement + coups, accélération et son des coups",0.6875
+LMT108,1,9,les quatre,0.625
+LMT108,1,10,"frottement, accélération (référence du projet)",0.5839285714285715
+LMT108,1,10,"coups, accélération",0.6357142857142857
+LMT108,1,10,"coups, son",0.65
+LMT108,1,10,"frottement, son",0.47738095238095235
+LMT108,1,10,"frottement + coups, accélération",0.7446428571428572
+LMT108,1,10,"frottement + coups, accélération et son des coups",0.7357142857142858
+LMT108,1,10,les quatre,0.6857142857142857
+LMT108,1,11,"frottement, accélération (référence du projet)",0.43154761904761907
+LMT108,1,11,"coups, accélération",0.5529761904761905
+LMT108,1,11,"coups, son",0.7428571428571429
+LMT108,1,11,"frottement, son",0.4529761904761904
+LMT108,1,11,"frottement + coups, accélération",0.5910714285714286
+LMT108,1,11,"frottement + coups, accélération et son des coups",0.6220238095238095
+LMT108,1,11,les quatre,0.6077380952380953
+LMT108,1,12,"frottement, accélération (référence du projet)",0.6107142857142858
+LMT108,1,12,"coups, accélération",0.7511904761904762
+LMT108,1,12,"coups, son",0.6511904761904762
+LMT108,1,12,"frottement, son",0.5797619047619047
+LMT108,1,12,"frottement + coups, accélération",0.6363095238095238
+LMT108,1,12,"frottement + coups, accélération et son des coups",0.7077380952380953
+LMT108,1,12,les quatre,0.7345238095238096
+LMT108,1,13,"frottement, accélération (référence du projet)",0.5785714285714285
+LMT108,1,13,"coups, accélération",0.6285714285714286
+LMT108,1,13,"coups, son",0.7178571428571429
+LMT108,1,13,"frottement, son",0.5464285714285714
+LMT108,1,13,"frottement + coups, accélération",0.611904761904762
+LMT108,1,13,"frottement + coups, accélération et son des coups",0.5952380952380953
+LMT108,1,13,les quatre,0.5952380952380953
+LMT108,1,14,"frottement, accélération (référence du projet)",0.7279761904761904
+LMT108,1,14,"coups, accélération",0.6547619047619048
+LMT108,1,14,"coups, son",0.7095238095238096
+LMT108,1,14,"frottement, son",0.6333333333333333
+LMT108,1,14,"frottement + coups, accélération",0.7113095238095237
+LMT108,1,14,"frottement + coups, accélération et son des coups",0.8095238095238095
+LMT108,1,14,les quatre,0.7738095238095237
+LMT108,1,15,"frottement, accélération (référence du projet)",0.7089285714285714
+LMT108,1,15,"coups, accélération",0.6547619047619048
+LMT108,1,15,"coups, son",0.6261904761904762
+LMT108,1,15,"frottement, son",0.5630952380952381
+LMT108,1,15,"frottement + coups, accélération",0.7279761904761906
+LMT108,1,15,"frottement + coups, accélération et son des coups",0.7571428571428571
+LMT108,1,15,les quatre,0.7571428571428571
+LMT108,1,16,"frottement, accélération (référence du projet)",0.4583333333333333
+LMT108,1,16,"coups, accélération",0.4625
+LMT108,1,16,"coups, son",0.525
+LMT108,1,16,"frottement, son",0.37916666666666665
+LMT108,1,16,"frottement + coups, accélération",0.5625
+LMT108,1,16,"frottement + coups, accélération et son des coups",0.625
+LMT108,1,16,les quatre,0.5625
+LMT108,1,17,"frottement, accélération (référence du projet)",0.5863095238095238
+LMT108,1,17,"coups, accélération",0.5392857142857143
+LMT108,1,17,"coups, son",0.6208333333333333
+LMT108,1,17,"frottement, son",0.6041666666666667
+LMT108,1,17,"frottement + coups, accélération",0.6869047619047619
+LMT108,1,17,"frottement + coups, accélération et son des coups",0.6589285714285714
+LMT108,1,17,les quatre,0.675595238095238
+LMT108,1,18,"frottement, accélération (référence du projet)",0.7446428571428572
+LMT108,1,18,"coups, accélération",0.7785714285714286
+LMT108,1,18,"coups, son",0.799404761904762
+LMT108,1,18,"frottement, son",0.7761904761904761
+LMT108,1,18,"frottement + coups, accélération",0.8660714285714286
+LMT108,1,18,"frottement + coups, accélération et son des coups",0.8660714285714286
+LMT108,1,18,les quatre,0.9285714285714286
+LMT108,1,19,"frottement, accélération (référence du projet)",0.4666666666666667
+LMT108,1,19,"coups, accélération",0.45
+LMT108,1,19,"coups, son",0.4625
+LMT108,1,19,"frottement, son",0.5
+LMT108,1,19,"frottement + coups, accélération",0.5
+LMT108,1,19,"frottement + coups, accélération et son des coups",0.5
+LMT108,1,19,les quatre,0.5
+LMT108,1,20,"frottement, accélération (référence du projet)",0.7422619047619048
+LMT108,1,20,"coups, accélération",0.6589285714285714
+LMT108,1,20,"coups, son",0.7255952380952381
+LMT108,1,20,"frottement, son",0.6607142857142857
+LMT108,1,20,"frottement + coups, accélération",0.8303571428571428
+LMT108,1,20,"frottement + coups, accélération et son des coups",0.8660714285714286
+LMT108,1,20,les quatre,0.8303571428571428
+LMT108,1,21,"frottement, accélération (référence du projet)",0.46904761904761905
+LMT108,1,21,"coups, accélération",0.5976190476190476
+LMT108,1,21,"coups, son",0.6511904761904762
+LMT108,1,21,"frottement, son",0.5797619047619048
+LMT108,1,21,"frottement + coups, accélération",0.5785714285714285
+LMT108,1,21,"frottement + coups, accélération et son des coups",0.6678571428571429
+LMT108,1,21,les quatre,0.5785714285714285
+LMT108,1,22,"frottement, accélération (référence du projet)",0.6708333333333334
+LMT108,1,22,"coups, accélération",0.5589285714285714
+LMT108,1,22,"coups, son",0.5875
+LMT108,1,22,"frottement, son",0.525
+LMT108,1,22,"frottement + coups, accélération",0.7589285714285714
+LMT108,1,22,"frottement + coups, accélération et son des coups",0.6875
+LMT108,1,22,les quatre,0.75
+LMT108,1,23,"frottement, accélération (référence du projet)",0.6029761904761904
+LMT108,1,23,"coups, accélération",0.6553571428571429
+LMT108,1,23,"coups, son",0.6511904761904761
+LMT108,1,23,"frottement, son",0.6077380952380953
+LMT108,1,23,"frottement + coups, accélération",0.8035714285714286
+LMT108,1,23,"frottement + coups, accélération et son des coups",0.8136904761904762
+LMT108,1,23,les quatre,0.6910714285714286
+LMT108,1,24,"frottement, accélération (référence du projet)",0.494047619047619
+LMT108,1,24,"coups, accélération",0.7279761904761906
+LMT108,1,24,"coups, son",0.7636904761904761
+LMT108,1,24,"frottement, son",0.5464285714285715
+LMT108,1,24,"frottement + coups, accélération",0.7636904761904761
+LMT108,1,24,"frottement + coups, accélération et son des coups",0.7446428571428572
+LMT108,1,24,les quatre,0.7470238095238095
+LMT108,1,25,"frottement, accélération (référence du projet)",0.6946428571428571
+LMT108,1,25,"coups, accélération",0.5875
+LMT108,1,25,"coups, son",0.7857142857142857
+LMT108,1,25,"frottement, son",0.6303571428571428
+LMT108,1,25,"frottement + coups, accélération",0.8303571428571428
+LMT108,1,25,"frottement + coups, accélération et son des coups",0.8303571428571428
+LMT108,1,25,les quatre,0.8160714285714286
+LMT108,1,26,"frottement, accélération (référence du projet)",0.5916666666666667
+LMT108,1,26,"coups, accélération",0.4125
+LMT108,1,26,"coups, son",0.525
+LMT108,1,26,"frottement, son",0.4291666666666667
+LMT108,1,26,"frottement + coups, accélération",0.4982142857142857
+LMT108,1,26,"frottement + coups, accélération et son des coups",0.4625
+LMT108,1,26,les quatre,0.4625
+LMT108,1,27,"frottement, accélération (référence du projet)",0.581547619047619
+LMT108,1,27,"coups, accélération",0.6714285714285714
+LMT108,1,27,"coups, son",0.65
+LMT108,1,27,"frottement, son",0.475
+LMT108,1,27,"frottement + coups, accélération",0.7446428571428572
+LMT108,1,27,"frottement + coups, accélération et son des coups",0.7714285714285714
+LMT108,1,27,les quatre,0.6589285714285714
+LMT108,1,28,"frottement, accélération (référence du projet)",0.6279761904761905
+LMT108,1,28,"coups, accélération",0.6375
+LMT108,1,28,"coups, son",0.8071428571428572
+LMT108,1,28,"frottement, son",0.5297619047619048
+LMT108,1,28,"frottement + coups, accélération",0.7946428571428572
+LMT108,1,28,"frottement + coups, accélération et son des coups",0.8571428571428572
+LMT108,1,28,les quatre,0.8928571428571428
+LMT108,1,29,"frottement, accélération (référence du projet)",0.6464285714285715
+LMT108,1,29,"coups, accélération",0.6678571428571428
+LMT108,1,29,"coups, son",0.786904761904762
+LMT108,1,29,"frottement, son",0.6630952380952381
+LMT108,1,29,"frottement + coups, accélération",0.7678571428571428
+LMT108,1,29,"frottement + coups, accélération et son des coups",0.8660714285714286
+LMT108,1,29,les quatre,0.8660714285714286
+LMT108,1,30,"frottement, accélération (référence du projet)",0.45
+LMT108,1,30,"coups, accélération",0.3
+LMT108,1,30,"coups, son",0.4625
+LMT108,1,30,"frottement, son",0.3
+LMT108,1,30,"frottement + coups, accélération",0.45
+LMT108,1,30,"frottement + coups, accélération et son des coups",0.5125
+LMT108,1,30,les quatre,0.35
+LMT108,1,31,"frottement, accélération (référence du projet)",0.7422619047619048
+LMT108,1,31,"coups, accélération",0.7928571428571428
+LMT108,1,31,"coups, son",0.7470238095238095
+LMT108,1,31,"frottement, son",0.7303571428571429
+LMT108,1,31,"frottement + coups, accélération",0.8303571428571428
+LMT108,1,31,"frottement + coups, accélération et son des coups",0.8660714285714286
+LMT108,1,31,les quatre,0.9285714285714286
+LMT108,1,32,"frottement, accélération (référence du projet)",0.575
+LMT108,1,32,"coups, accélération",0.6755952380952381
+LMT108,1,32,"coups, son",0.5875
+LMT108,1,32,"frottement, son",0.5083333333333333
+LMT108,1,32,"frottement + coups, accélération",0.6083333333333334
+LMT108,1,32,"frottement + coups, accélération et son des coups",0.6708333333333334
+LMT108,1,32,les quatre,0.6708333333333334
+LMT108,1,33,"frottement, accélération (référence du projet)",0.7255952380952381
+LMT108,1,33,"coups, accélération",0.8428571428571427
+LMT108,1,33,"coups, son",0.7589285714285714
+LMT108,1,33,"frottement, son",0.7178571428571429
+LMT108,1,33,"frottement + coups, accélération",0.7946428571428572
+LMT108,1,33,"frottement + coups, accélération et son des coups",0.8928571428571428
+LMT108,1,33,les quatre,0.7946428571428572
+LMT108,1,34,"frottement, accélération (référence du projet)",0.6607142857142857
+LMT108,1,34,"coups, accélération",0.6321428571428571
+LMT108,1,34,"coups, son",0.6607142857142857
+LMT108,1,34,"frottement, son",0.656547619047619
+LMT108,1,34,"frottement + coups, accélération",0.7232142857142857
+LMT108,1,34,"frottement + coups, accélération et son des coups",0.7232142857142857
+LMT108,1,34,les quatre,0.7232142857142857
+LMT108,1,35,"frottement, accélération (référence du projet)",0.48333333333333334
+LMT108,1,35,"coups, accélération",0.6821428571428572
+LMT108,1,35,"coups, son",0.6178571428571429
+LMT108,1,35,"frottement, son",0.5863095238095238
+LMT108,1,35,"frottement + coups, accélération",0.6428571428571428
+LMT108,1,35,"frottement + coups, accélération et son des coups",0.7803571428571427
+LMT108,1,35,les quatre,0.6910714285714286
+LMT108,1,36,"frottement, accélération (référence du projet)",0.5648809523809524
+LMT108,1,36,"coups, accélération",0.5119047619047619
+LMT108,1,36,"coups, son",0.5910714285714286
+LMT108,1,36,"frottement, son",0.6363095238095238
+LMT108,1,36,"frottement + coups, accélération",0.6910714285714286
+LMT108,1,36,"frottement + coups, accélération et son des coups",0.6910714285714286
+LMT108,1,36,les quatre,0.7077380952380953
+LMT108,1,37,"frottement, accélération (référence du projet)",0.5625
+LMT108,1,37,"coups, accélération",0.6196428571428572
+LMT108,1,37,"coups, son",0.7613095238095238
+LMT108,1,37,"frottement, son",0.5648809523809524
+LMT108,1,37,"frottement + coups, accélération",0.6696428571428572
+LMT108,1,37,"frottement + coups, accélération et son des coups",0.7053571428571428
+LMT108,1,37,les quatre,0.7053571428571428
+LMT108,1,38,"frottement, accélération (référence du projet)",0.6208333333333333
+LMT108,1,38,"coups, accélération",0.6244047619047619
+LMT108,1,38,"coups, son",0.7636904761904761
+LMT108,1,38,"frottement, son",0.6755952380952381
+LMT108,1,38,"frottement + coups, accélération",0.7946428571428572
+LMT108,1,38,"frottement + coups, accélération et son des coups",0.7613095238095238
+LMT108,1,38,les quatre,0.7613095238095238
+LMT108,1,39,"frottement, accélération (référence du projet)",0.6630952380952381
+LMT108,1,39,"coups, accélération",0.6732142857142858
+LMT108,1,39,"coups, son",0.8785714285714286
+LMT108,1,39,"frottement, son",0.6630952380952381
+LMT108,1,39,"frottement + coups, accélération",0.7678571428571428
+LMT108,1,39,"frottement + coups, accélération et son des coups",0.9285714285714286
+LMT108,1,39,les quatre,0.8660714285714286
+LMT108,1,40,"frottement, accélération (référence du projet)",0.5761904761904761
+LMT108,1,40,"coups, accélération",0.4285714285714286
+LMT108,1,40,"coups, son",0.6910714285714286
+LMT108,1,40,"frottement, son",0.6029761904761906
+LMT108,1,40,"frottement + coups, accélération",0.6910714285714286
+LMT108,1,40,"frottement + coups, accélération et son des coups",0.6910714285714286
+LMT108,1,40,les quatre,0.7410714285714286
+LMT108,1,41,"frottement, accélération (référence du projet)",0.644047619047619
+LMT108,1,41,"coups, accélération",0.6190476190476191
+LMT108,1,41,"coups, son",0.5898809523809524
+LMT108,1,41,"frottement, son",0.494047619047619
+LMT108,1,41,"frottement + coups, accélération",0.6875
+LMT108,1,41,"frottement + coups, accélération et son des coups",0.6541666666666667
+LMT108,1,41,les quatre,0.7
+LMT108,1,42,"frottement, accélération (référence du projet)",0.6398809523809523
+LMT108,1,42,"coups, accélération",0.8404761904761905
+LMT108,1,42,"coups, son",0.6803571428571429
+LMT108,1,42,"frottement, son",0.6130952380952381
+LMT108,1,42,"frottement + coups, accélération",0.7446428571428572
+LMT108,1,42,"frottement + coups, accélération et son des coups",0.8071428571428572
+LMT108,1,42,les quatre,0.8595238095238096
+LMT108,1,43,"frottement, accélération (référence du projet)",0.575
+LMT108,1,43,"coups, accélération",0.4125
+LMT108,1,43,"coups, son",0.525
+LMT108,1,43,"frottement, son",0.5125
+LMT108,1,43,"frottement + coups, accélération",0.5125
+LMT108,1,43,"frottement + coups, accélération et son des coups",0.5625
+LMT108,1,43,les quatre,0.5625
+LMT108,1,44,"frottement, accélération (référence du projet)",0.5119047619047619
+LMT108,1,44,"coups, accélération",0.5196428571428572
+LMT108,1,44,"coups, son",0.525
+LMT108,1,44,"frottement, son",0.5505952380952381
+LMT108,1,44,"frottement + coups, accélération",0.7410714285714286
+LMT108,1,44,"frottement + coups, accélération et son des coups",0.6696428571428572
+LMT108,1,44,les quatre,0.5839285714285714
+LMT108,1,45,"frottement, accélération (référence du projet)",0.6273809523809524
+LMT108,1,45,"coups, accélération",0.7232142857142857
+LMT108,1,45,"coups, son",0.6541666666666667
+LMT108,1,45,"frottement, son",0.7511904761904762
+LMT108,1,45,"frottement + coups, accélération",0.6607142857142857
+LMT108,1,45,"frottement + coups, accélération et son des coups",0.625
+LMT108,1,45,les quatre,0.6964285714285714
+LMT108,1,46,"frottement, accélération (référence du projet)",0.5047619047619047
+LMT108,1,46,"coups, accélération",0.4910714285714286
+LMT108,1,46,"coups, son",0.525
+LMT108,1,46,"frottement, son",0.5125
+LMT108,1,46,"frottement + coups, accélération",0.6285714285714286
+LMT108,1,46,"frottement + coups, accélération et son des coups",0.6285714285714286
+LMT108,1,46,les quatre,0.5571428571428572
+LMT108,1,47,"frottement, accélération (référence du projet)",0.4666666666666667
+LMT108,1,47,"coups, accélération",0.5964285714285714
+LMT108,1,47,"coups, son",0.6922619047619047
+LMT108,1,47,"frottement, son",0.5482142857142858
+LMT108,1,47,"frottement + coups, accélération",0.6428571428571428
+LMT108,1,47,"frottement + coups, accélération et son des coups",0.7803571428571427
+LMT108,1,47,les quatre,0.6196428571428572
+LMT108,1,48,"frottement, accélération (référence du projet)",0.6136904761904762
+LMT108,1,48,"coups, accélération",0.6321428571428571
+LMT108,1,48,"coups, son",0.7178571428571429
+LMT108,1,48,"frottement, son",0.49702380952380953
+LMT108,1,48,"frottement + coups, accélération",0.7470238095238095
+LMT108,1,48,"frottement + coups, accélération et son des coups",0.849404761904762
+LMT108,1,48,les quatre,0.7517857142857143
+LMT108,1,49,"frottement, accélération (référence du projet)",0.5422619047619047
+LMT108,1,49,"coups, accélération",0.7214285714285714
+LMT108,1,49,"coups, son",0.8095238095238095
+LMT108,1,49,"frottement, son",0.45357142857142857
+LMT108,1,49,"frottement + coups, accélération",0.6136904761904762
+LMT108,1,49,"frottement + coups, accélération et son des coups",0.699404761904762
+LMT108,1,49,les quatre,0.7642857142857143
+LMT108,2,0,"frottement, accélération (référence du projet)",0.6666666666666666
+LMT108,2,0,"coups, accélération",0.5833333333333333
+LMT108,2,0,"coups, son",0.6875
+LMT108,2,0,"frottement, son",0.5625
+LMT108,2,0,"frottement + coups, accélération",0.6458333333333333
+LMT108,2,0,"frottement + coups, accélération et son des coups",0.6875
+LMT108,2,0,les quatre,0.5625
+LMT108,2,1,"frottement, accélération (référence du projet)",0.5892857142857143
+LMT108,2,1,"coups, accélération",0.7916666666666666
+LMT108,2,1,"coups, son",0.6666666666666666
+LMT108,2,1,"frottement, son",0.4375
+LMT108,2,1,"frottement + coups, accélération",0.7083333333333333
+LMT108,2,1,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,1,les quatre,0.7083333333333333
+LMT108,2,2,"frottement, accélération (référence du projet)",0.5952380952380952
+LMT108,2,2,"coups, accélération",0.6875
+LMT108,2,2,"coups, son",0.7916666666666667
+LMT108,2,2,"frottement, son",0.738095238095238
+LMT108,2,2,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,2,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,2,les quatre,0.7916666666666666
+LMT108,2,3,"frottement, accélération (référence du projet)",0.75
+LMT108,2,3,"coups, accélération",0.7708333333333333
+LMT108,2,3,"coups, son",0.8333333333333333
+LMT108,2,3,"frottement, son",0.7321428571428572
+LMT108,2,3,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,3,"frottement + coups, accélération et son des coups",0.8333333333333333
+LMT108,2,3,les quatre,0.8333333333333333
+LMT108,2,4,"frottement, accélération (référence du projet)",0.613095238095238
+LMT108,2,4,"coups, accélération",0.7916666666666666
+LMT108,2,4,"coups, son",0.7916666666666666
+LMT108,2,4,"frottement, son",0.5595238095238095
+LMT108,2,4,"frottement + coups, accélération",0.75
+LMT108,2,4,"frottement + coups, accélération et son des coups",0.7083333333333333
+LMT108,2,4,les quatre,0.7142857142857143
+LMT108,2,5,"frottement, accélération (référence du projet)",0.6785714285714286
+LMT108,2,5,"coups, accélération",0.7113095238095237
+LMT108,2,5,"coups, son",0.8154761904761905
+LMT108,2,5,"frottement, son",0.5327380952380952
+LMT108,2,5,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,5,"frottement + coups, accélération et son des coups",0.8154761904761905
+LMT108,2,5,les quatre,0.8154761904761905
+LMT108,2,6,"frottement, accélération (référence du projet)",0.46130952380952384
+LMT108,2,6,"coups, accélération",0.7083333333333333
+LMT108,2,6,"coups, son",0.7083333333333333
+LMT108,2,6,"frottement, son",0.4017857142857143
+LMT108,2,6,"frottement + coups, accélération",0.7916666666666666
+LMT108,2,6,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,6,les quatre,0.7916666666666666
+LMT108,2,7,"frottement, accélération (référence du projet)",0.613095238095238
+LMT108,2,7,"coups, accélération",0.6458333333333333
+LMT108,2,7,"coups, son",0.8392857142857143
+LMT108,2,7,"frottement, son",0.7559523809523809
+LMT108,2,7,"frottement + coups, accélération",0.7797619047619048
+LMT108,2,7,"frottement + coups, accélération et son des coups",0.863095238095238
+LMT108,2,7,les quatre,0.863095238095238
+LMT108,2,8,"frottement, accélération (référence du projet)",0.7142857142857143
+LMT108,2,8,"coups, accélération",0.75
+LMT108,2,8,"coups, son",0.875
+LMT108,2,8,"frottement, son",0.6309523809523809
+LMT108,2,8,"frottement + coups, accélération",0.75
+LMT108,2,8,"frottement + coups, accélération et son des coups",0.9166666666666666
+LMT108,2,8,les quatre,0.9166666666666666
+LMT108,2,9,"frottement, accélération (référence du projet)",0.7559523809523809
+LMT108,2,9,"coups, accélération",0.5833333333333333
+LMT108,2,9,"coups, son",0.75
+LMT108,2,9,"frottement, son",0.6696428571428572
+LMT108,2,9,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,9,"frottement + coups, accélération et son des coups",0.8333333333333333
+LMT108,2,9,les quatre,0.8333333333333333
+LMT108,2,10,"frottement, accélération (référence du projet)",0.7142857142857143
+LMT108,2,10,"coups, accélération",0.6875
+LMT108,2,10,"coups, son",0.875
+LMT108,2,10,"frottement, son",0.7916666666666666
+LMT108,2,10,"frottement + coups, accélération",0.75
+LMT108,2,10,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,10,les quatre,0.75
+LMT108,2,11,"frottement, accélération (référence du projet)",0.5476190476190477
+LMT108,2,11,"coups, accélération",0.5625
+LMT108,2,11,"coups, son",0.6666666666666666
+LMT108,2,11,"frottement, son",0.4642857142857143
+LMT108,2,11,"frottement + coups, accélération",0.625
+LMT108,2,11,"frottement + coups, accélération et son des coups",0.625
+LMT108,2,11,les quatre,0.625
+LMT108,2,12,"frottement, accélération (référence du projet)",0.5833333333333333
+LMT108,2,12,"coups, accélération",0.8125
+LMT108,2,12,"coups, son",0.6875
+LMT108,2,12,"frottement, son",0.5654761904761905
+LMT108,2,12,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,12,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,12,les quatre,0.7083333333333333
+LMT108,2,13,"frottement, accélération (référence du projet)",0.5
+LMT108,2,13,"coups, accélération",0.5833333333333333
+LMT108,2,13,"coups, son",0.6666666666666666
+LMT108,2,13,"frottement, son",0.5833333333333333
+LMT108,2,13,"frottement + coups, accélération",0.75
+LMT108,2,13,"frottement + coups, accélération et son des coups",0.7083333333333333
+LMT108,2,13,les quatre,0.5416666666666667
+LMT108,2,14,"frottement, accélération (référence du projet)",0.8154761904761905
+LMT108,2,14,"coups, accélération",0.7083333333333333
+LMT108,2,14,"coups, son",0.738095238095238
+LMT108,2,14,"frottement, son",0.7559523809523809
+LMT108,2,14,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,14,"frottement + coups, accélération et son des coups",0.8333333333333333
+LMT108,2,14,les quatre,0.8333333333333333
+LMT108,2,15,"frottement, accélération (référence du projet)",0.5297619047619048
+LMT108,2,15,"coups, accélération",0.6458333333333333
+LMT108,2,15,"coups, son",0.6666666666666666
+LMT108,2,15,"frottement, son",0.4642857142857143
+LMT108,2,15,"frottement + coups, accélération",0.5833333333333333
+LMT108,2,15,"frottement + coups, accélération et son des coups",0.5833333333333333
+LMT108,2,15,les quatre,0.625
+LMT108,2,16,"frottement, accélération (référence du projet)",0.7321428571428572
+LMT108,2,16,"coups, accélération",0.7083333333333333
+LMT108,2,16,"coups, son",0.7083333333333333
+LMT108,2,16,"frottement, son",0.6101190476190476
+LMT108,2,16,"frottement + coups, accélération",0.8541666666666666
+LMT108,2,16,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,16,les quatre,0.8125
+LMT108,2,17,"frottement, accélération (référence du projet)",0.7440476190476191
+LMT108,2,17,"coups, accélération",0.5029761904761905
+LMT108,2,17,"coups, son",0.675595238095238
+LMT108,2,17,"frottement, son",0.5892857142857143
+LMT108,2,17,"frottement + coups, accélération",0.8125
+LMT108,2,17,"frottement + coups, accélération et son des coups",0.7291666666666666
+LMT108,2,17,les quatre,0.7916666666666666
+LMT108,2,18,"frottement, accélération (référence du projet)",0.5833333333333333
+LMT108,2,18,"coups, accélération",0.6041666666666666
+LMT108,2,18,"coups, son",0.6875
+LMT108,2,18,"frottement, son",0.5
+LMT108,2,18,"frottement + coups, accélération",0.6666666666666666
+LMT108,2,18,"frottement + coups, accélération et son des coups",0.6666666666666666
+LMT108,2,18,les quatre,0.6666666666666666
+LMT108,2,19,"frottement, accélération (référence du projet)",0.4880952380952381
+LMT108,2,19,"coups, accélération",0.8125
+LMT108,2,19,"coups, son",0.8125
+LMT108,2,19,"frottement, son",0.4375
+LMT108,2,19,"frottement + coups, accélération",0.9166666666666666
+LMT108,2,19,"frottement + coups, accélération et son des coups",0.9166666666666666
+LMT108,2,19,les quatre,0.8571428571428572
+LMT108,2,20,"frottement, accélération (référence du projet)",0.7083333333333333
+LMT108,2,20,"coups, accélération",0.6875
+LMT108,2,20,"coups, son",0.675595238095238
+LMT108,2,20,"frottement, son",0.5178571428571428
+LMT108,2,20,"frottement + coups, accélération",0.7083333333333333
+LMT108,2,20,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,20,les quatre,0.7916666666666666
+LMT108,2,21,"frottement, accélération (référence du projet)",0.7142857142857143
+LMT108,2,21,"coups, accélération",0.7916666666666666
+LMT108,2,21,"coups, son",0.6875
+LMT108,2,21,"frottement, son",0.5208333333333333
+LMT108,2,21,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,21,"frottement + coups, accélération et son des coups",0.7976190476190476
+LMT108,2,21,les quatre,0.7976190476190476
+LMT108,2,22,"frottement, accélération (référence du projet)",0.5833333333333333
+LMT108,2,22,"coups, accélération",0.6041666666666667
+LMT108,2,22,"coups, son",0.625
+LMT108,2,22,"frottement, son",0.5208333333333333
+LMT108,2,22,"frottement + coups, accélération",0.6666666666666666
+LMT108,2,22,"frottement + coups, accélération et son des coups",0.6041666666666666
+LMT108,2,22,les quatre,0.6041666666666666
+LMT108,2,23,"frottement, accélération (référence du projet)",0.5416666666666667
+LMT108,2,23,"coups, accélération",0.6041666666666666
+LMT108,2,23,"coups, son",0.6875
+LMT108,2,23,"frottement, son",0.5416666666666667
+LMT108,2,23,"frottement + coups, accélération",0.625
+LMT108,2,23,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,23,les quatre,0.6666666666666666
+LMT108,2,24,"frottement, accélération (référence du projet)",0.5208333333333333
+LMT108,2,24,"coups, accélération",0.6041666666666666
+LMT108,2,24,"coups, son",0.5833333333333333
+LMT108,2,24,"frottement, son",0.5625
+LMT108,2,24,"frottement + coups, accélération",0.6041666666666666
+LMT108,2,24,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,24,les quatre,0.5625
+LMT108,2,25,"frottement, accélération (référence du projet)",0.5
+LMT108,2,25,"coups, accélération",0.6488095238095238
+LMT108,2,25,"coups, son",0.7440476190476191
+LMT108,2,25,"frottement, son",0.6130952380952381
+LMT108,2,25,"frottement + coups, accélération",0.875
+LMT108,2,25,"frottement + coups, accélération et son des coups",0.875
+LMT108,2,25,les quatre,0.8571428571428572
+LMT108,2,26,"frottement, accélération (référence du projet)",0.5505952380952381
+LMT108,2,26,"coups, accélération",0.6041666666666666
+LMT108,2,26,"coups, son",0.6369047619047619
+LMT108,2,26,"frottement, son",0.625
+LMT108,2,26,"frottement + coups, accélération",0.7738095238095237
+LMT108,2,26,"frottement + coups, accélération et son des coups",0.8154761904761905
+LMT108,2,26,les quatre,0.8333333333333333
+LMT108,2,27,"frottement, accélération (référence du projet)",0.6726190476190476
+LMT108,2,27,"coups, accélération",0.6101190476190476
+LMT108,2,27,"coups, son",0.7083333333333333
+LMT108,2,27,"frottement, son",0.6369047619047619
+LMT108,2,27,"frottement + coups, accélération",0.7559523809523809
+LMT108,2,27,"frottement + coups, accélération et son des coups",0.7559523809523809
+LMT108,2,27,les quatre,0.7797619047619048
+LMT108,2,28,"frottement, accélération (référence du projet)",0.6309523809523809
+LMT108,2,28,"coups, accélération",0.8333333333333333
+LMT108,2,28,"coups, son",0.7916666666666667
+LMT108,2,28,"frottement, son",0.5
+LMT108,2,28,"frottement + coups, accélération",0.75
+LMT108,2,28,"frottement + coups, accélération et son des coups",0.7083333333333333
+LMT108,2,28,les quatre,0.7083333333333333
+LMT108,2,29,"frottement, accélération (référence du projet)",0.6666666666666666
+LMT108,2,29,"coups, accélération",0.7083333333333333
+LMT108,2,29,"coups, son",0.625
+LMT108,2,29,"frottement, son",0.7142857142857143
+LMT108,2,29,"frottement + coups, accélération",0.75
+LMT108,2,29,"frottement + coups, accélération et son des coups",0.7291666666666667
+LMT108,2,29,les quatre,0.7916666666666667
+LMT108,2,30,"frottement, accélération (référence du projet)",0.4791666666666667
+LMT108,2,30,"coups, accélération",0.41666666666666663
+LMT108,2,30,"coups, son",0.6875
+LMT108,2,30,"frottement, son",0.5625
+LMT108,2,30,"frottement + coups, accélération",0.6458333333333333
+LMT108,2,30,"frottement + coups, accélération et son des coups",0.8125
+LMT108,2,30,les quatre,0.6458333333333333
+LMT108,2,31,"frottement, accélération (référence du projet)",0.75
+LMT108,2,31,"coups, accélération",0.7083333333333333
+LMT108,2,31,"coups, son",0.75
+LMT108,2,31,"frottement, son",0.5863095238095238
+LMT108,2,31,"frottement + coups, accélération",0.7916666666666666
+LMT108,2,31,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,31,les quatre,0.8541666666666666
+LMT108,2,32,"frottement, accélération (référence du projet)",0.6309523809523809
+LMT108,2,32,"coups, accélération",0.7291666666666666
+LMT108,2,32,"coups, son",0.8125
+LMT108,2,32,"frottement, son",0.6726190476190476
+LMT108,2,32,"frottement + coups, accélération",0.7916666666666666
+LMT108,2,32,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,32,les quatre,0.75
+LMT108,2,33,"frottement, accélération (référence du projet)",0.5446428571428572
+LMT108,2,33,"coups, accélération",0.5208333333333333
+LMT108,2,33,"coups, son",0.625
+LMT108,2,33,"frottement, son",0.6696428571428572
+LMT108,2,33,"frottement + coups, accélération",0.7916666666666666
+LMT108,2,33,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,33,les quatre,0.75
+LMT108,2,34,"frottement, accélération (référence du projet)",0.5892857142857143
+LMT108,2,34,"coups, accélération",0.8125
+LMT108,2,34,"coups, son",0.7023809523809523
+LMT108,2,34,"frottement, son",0.5416666666666666
+LMT108,2,34,"frottement + coups, accélération",0.875
+LMT108,2,34,"frottement + coups, accélération et son des coups",0.8809523809523809
+LMT108,2,34,les quatre,0.8809523809523809
+LMT108,2,35,"frottement, accélération (référence du projet)",0.5714285714285714
+LMT108,2,35,"coups, accélération",0.7708333333333333
+LMT108,2,35,"coups, son",0.8214285714285714
+LMT108,2,35,"frottement, son",0.6309523809523809
+LMT108,2,35,"frottement + coups, accélération",0.7321428571428572
+LMT108,2,35,"frottement + coups, accélération et son des coups",0.7142857142857143
+LMT108,2,35,les quatre,0.7142857142857143
+LMT108,2,36,"frottement, accélération (référence du projet)",0.6547619047619048
+LMT108,2,36,"coups, accélération",0.6666666666666667
+LMT108,2,36,"coups, son",0.7470238095238095
+LMT108,2,36,"frottement, son",0.5446428571428572
+LMT108,2,36,"frottement + coups, accélération",0.9166666666666666
+LMT108,2,36,"frottement + coups, accélération et son des coups",0.8541666666666666
+LMT108,2,36,les quatre,0.8779761904761905
+LMT108,2,37,"frottement, accélération (référence du projet)",0.5297619047619048
+LMT108,2,37,"coups, accélération",0.6666666666666667
+LMT108,2,37,"coups, son",0.75
+LMT108,2,37,"frottement, son",0.5029761904761905
+LMT108,2,37,"frottement + coups, accélération",0.75
+LMT108,2,37,"frottement + coups, accélération et son des coups",0.6666666666666666
+LMT108,2,37,les quatre,0.6458333333333333
+LMT108,2,38,"frottement, accélération (référence du projet)",0.6309523809523809
+LMT108,2,38,"coups, accélération",0.7708333333333333
+LMT108,2,38,"coups, son",0.7202380952380952
+LMT108,2,38,"frottement, son",0.75
+LMT108,2,38,"frottement + coups, accélération",0.75
+LMT108,2,38,"frottement + coups, accélération et son des coups",0.7321428571428572
+LMT108,2,38,les quatre,0.8154761904761905
+LMT108,2,39,"frottement, accélération (référence du projet)",0.5714285714285714
+LMT108,2,39,"coups, accélération",0.6666666666666666
+LMT108,2,39,"coups, son",0.7916666666666666
+LMT108,2,39,"frottement, son",0.5565476190476191
+LMT108,2,39,"frottement + coups, accélération",0.75
+LMT108,2,39,"frottement + coups, accélération et son des coups",0.7916666666666666
+LMT108,2,39,les quatre,0.75
+LMT108,2,40,"frottement, accélération (référence du projet)",0.5714285714285714
+LMT108,2,40,"coups, accélération",0.7291666666666666
+LMT108,2,40,"coups, son",0.75
+LMT108,2,40,"frottement, son",0.6309523809523809
+LMT108,2,40,"frottement + coups, accélération",0.7083333333333333
+LMT108,2,40,"frottement + coups, accélération et son des coups",0.8333333333333333
+LMT108,2,40,les quatre,0.7083333333333333
+LMT108,2,41,"frottement, accélération (référence du projet)",0.5654761904761905
+LMT108,2,41,"coups, accélération",0.625
+LMT108,2,41,"coups, son",0.75
+LMT108,2,41,"frottement, son",0.6696428571428572
+LMT108,2,41,"frottement + coups, accélération",0.75
+LMT108,2,41,"frottement + coups, accélération et son des coups",0.7083333333333333
+LMT108,2,41,les quatre,0.7916666666666667
+LMT108,2,42,"frottement, accélération (référence du projet)",0.6369047619047619
+LMT108,2,42,"coups, accélération",0.75
+LMT108,2,42,"coups, son",0.7678571428571428
+LMT108,2,42,"frottement, son",0.6964285714285714
+LMT108,2,42,"frottement + coups, accélération",0.7321428571428572
+LMT108,2,42,"frottement + coups, accélération et son des coups",0.8809523809523809
+LMT108,2,42,les quatre,0.8809523809523809
+LMT108,2,43,"frottement, accélération (référence du projet)",0.6488095238095238
+LMT108,2,43,"coups, accélération",0.5416666666666666
+LMT108,2,43,"coups, son",0.738095238095238
+LMT108,2,43,"frottement, son",0.5684523809523809
+LMT108,2,43,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,43,"frottement + coups, accélération et son des coups",0.8333333333333333
+LMT108,2,43,les quatre,0.7738095238095237
+LMT108,2,44,"frottement, accélération (référence du projet)",0.6904761904761905
+LMT108,2,44,"coups, accélération",0.875
+LMT108,2,44,"coups, son",0.8452380952380952
+LMT108,2,44,"frottement, son",0.7797619047619048
+LMT108,2,44,"frottement + coups, accélération",0.8333333333333333
+LMT108,2,44,"frottement + coups, accélération et son des coups",0.9583333333333334
+LMT108,2,44,les quatre,0.9583333333333334
+LMT108,2,45,"frottement, accélération (référence du projet)",0.6875
+LMT108,2,45,"coups, accélération",0.7708333333333333
+LMT108,2,45,"coups, son",0.8035714285714286
+LMT108,2,45,"frottement, son",0.6875
+LMT108,2,45,"frottement + coups, accélération",0.7708333333333333
+LMT108,2,45,"frottement + coups, accélération et son des coups",0.9166666666666666
+LMT108,2,45,les quatre,0.8541666666666666
+LMT108,2,46,"frottement, accélération (référence du projet)",0.6488095238095238
+LMT108,2,46,"coups, accélération",0.7916666666666666
+LMT108,2,46,"coups, son",0.7916666666666667
+LMT108,2,46,"frottement, son",0.6904761904761905
+LMT108,2,46,"frottement + coups, accélération",0.7916666666666666
+LMT108,2,46,"frottement + coups, accélération et son des coups",0.75
+LMT108,2,46,les quatre,0.75
+LMT108,2,47,"frottement, accélération (référence du projet)",0.7321428571428572
+LMT108,2,47,"coups, accélération",0.7916666666666666
+LMT108,2,47,"coups, son",0.8541666666666666
+LMT108,2,47,"frottement, son",0.7738095238095238
+LMT108,2,47,"frottement + coups, accélération",0.7916666666666666
+LMT108,2,47,"frottement + coups, accélération et son des coups",0.9166666666666666
+LMT108,2,47,les quatre,0.875
+LMT108,2,48,"frottement, accélération (référence du projet)",0.5833333333333333
+LMT108,2,48,"coups, accélération",0.75
+LMT108,2,48,"coups, son",0.625
+LMT108,2,48,"frottement, son",0.6666666666666666
+LMT108,2,48,"frottement + coups, accélération",0.625
+LMT108,2,48,"frottement + coups, accélération et son des coups",0.625
+LMT108,2,48,les quatre,0.625
+LMT108,2,49,"frottement, accélération (référence du projet)",0.6130952380952381
+LMT108,2,49,"coups, accélération",0.6488095238095238
+LMT108,2,49,"coups, son",0.6785714285714286
+LMT108,2,49,"frottement, son",0.5208333333333333
+LMT108,2,49,"frottement + coups, accélération",0.7559523809523809
+LMT108,2,49,"frottement + coups, accélération et son des coups",0.7142857142857143
+LMT108,2,49,les quatre,0.7559523809523809
+LMT108,4,0,"frottement, accélération (référence du projet)",0.5625
+LMT108,4,0,"coups, accélération",0.5
+LMT108,4,0,"coups, son",0.8125
+LMT108,4,0,"frottement, son",0.5
+LMT108,4,0,"frottement + coups, accélération",0.6875
+LMT108,4,0,"frottement + coups, accélération et son des coups",0.6875
+LMT108,4,0,les quatre,0.6875
+LMT108,4,1,"frottement, accélération (référence du projet)",0.5625
+LMT108,4,1,"coups, accélération",0.625
+LMT108,4,1,"coups, son",0.75
+LMT108,4,1,"frottement, son",0.5
+LMT108,4,1,"frottement + coups, accélération",0.875
+LMT108,4,1,"frottement + coups, accélération et son des coups",0.8125
+LMT108,4,1,les quatre,0.8125
+LMT108,4,2,"frottement, accélération (référence du projet)",0.5
+LMT108,4,2,"coups, accélération",0.8125
+LMT108,4,2,"coups, son",0.75
+LMT108,4,2,"frottement, son",0.75
+LMT108,4,2,"frottement + coups, accélération",0.8125
+LMT108,4,2,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,2,les quatre,0.9375
+LMT108,4,3,"frottement, accélération (référence du projet)",0.7916666666666666
+LMT108,4,3,"coups, accélération",0.75
+LMT108,4,3,"coups, son",0.75
+LMT108,4,3,"frottement, son",0.7708333333333334
+LMT108,4,3,"frottement + coups, accélération",0.9375
+LMT108,4,3,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,3,les quatre,0.9375
+LMT108,4,4,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,4,"coups, accélération",0.8125
+LMT108,4,4,"coups, son",0.6875
+LMT108,4,4,"frottement, son",0.7708333333333334
+LMT108,4,4,"frottement + coups, accélération",0.9375
+LMT108,4,4,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,4,les quatre,0.9375
+LMT108,4,5,"frottement, accélération (référence du projet)",0.5416666666666666
+LMT108,4,5,"coups, accélération",0.75
+LMT108,4,5,"coups, son",0.75
+LMT108,4,5,"frottement, son",0.5
+LMT108,4,5,"frottement + coups, accélération",0.625
+LMT108,4,5,"frottement + coups, accélération et son des coups",0.625
+LMT108,4,5,les quatre,0.625
+LMT108,4,6,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,6,"coups, accélération",0.9375
+LMT108,4,6,"coups, son",0.8125
+LMT108,4,6,"frottement, son",0.5625
+LMT108,4,6,"frottement + coups, accélération",0.9375
+LMT108,4,6,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,6,les quatre,0.9375
+LMT108,4,7,"frottement, accélération (référence du projet)",0.5416666666666666
+LMT108,4,7,"coups, accélération",0.625
+LMT108,4,7,"coups, son",0.5
+LMT108,4,7,"frottement, son",0.5
+LMT108,4,7,"frottement + coups, accélération",0.625
+LMT108,4,7,"frottement + coups, accélération et son des coups",0.625
+LMT108,4,7,les quatre,0.5625
+LMT108,4,8,"frottement, accélération (référence du projet)",0.8333333333333334
+LMT108,4,8,"coups, accélération",0.6875
+LMT108,4,8,"coups, son",0.7708333333333334
+LMT108,4,8,"frottement, son",0.7083333333333333
+LMT108,4,8,"frottement + coups, accélération",0.875
+LMT108,4,8,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,8,les quatre,0.8333333333333334
+LMT108,4,9,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,9,"coups, accélération",0.8125
+LMT108,4,9,"coups, son",0.7708333333333334
+LMT108,4,9,"frottement, son",0.7291666666666666
+LMT108,4,9,"frottement + coups, accélération",0.9375
+LMT108,4,9,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,9,les quatre,0.9375
+LMT108,4,10,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,10,"coups, accélération",0.8125
+LMT108,4,10,"coups, son",0.8125
+LMT108,4,10,"frottement, son",0.75
+LMT108,4,10,"frottement + coups, accélération",0.9375
+LMT108,4,10,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,10,les quatre,0.9375
+LMT108,4,11,"frottement, accélération (référence du projet)",0.7083333333333334
+LMT108,4,11,"coups, accélération",0.75
+LMT108,4,11,"coups, son",0.875
+LMT108,4,11,"frottement, son",0.7291666666666666
+LMT108,4,11,"frottement + coups, accélération",0.875
+LMT108,4,11,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,11,les quatre,0.9375
+LMT108,4,12,"frottement, accélération (référence du projet)",0.5
+LMT108,4,12,"coups, accélération",0.8125
+LMT108,4,12,"coups, son",0.6875
+LMT108,4,12,"frottement, son",0.5
+LMT108,4,12,"frottement + coups, accélération",0.6875
+LMT108,4,12,"frottement + coups, accélération et son des coups",0.6875
+LMT108,4,12,les quatre,0.6875
+LMT108,4,13,"frottement, accélération (référence du projet)",0.75
+LMT108,4,13,"coups, accélération",0.625
+LMT108,4,13,"coups, son",0.6875
+LMT108,4,13,"frottement, son",0.4375
+LMT108,4,13,"frottement + coups, accélération",0.9375
+LMT108,4,13,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,13,les quatre,0.9375
+LMT108,4,14,"frottement, accélération (référence du projet)",0.875
+LMT108,4,14,"coups, accélération",0.8541666666666666
+LMT108,4,14,"coups, son",0.7916666666666666
+LMT108,4,14,"frottement, son",0.9166666666666666
+LMT108,4,14,"frottement + coups, accélération",0.9375
+LMT108,4,14,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,14,les quatre,0.9375
+LMT108,4,15,"frottement, accélération (référence du projet)",0.7291666666666666
+LMT108,4,15,"coups, accélération",0.8125
+LMT108,4,15,"coups, son",0.875
+LMT108,4,15,"frottement, son",0.8125
+LMT108,4,15,"frottement + coups, accélération",0.9375
+LMT108,4,15,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,15,les quatre,0.9375
+LMT108,4,16,"frottement, accélération (référence du projet)",0.8541666666666666
+LMT108,4,16,"coups, accélération",0.6875
+LMT108,4,16,"coups, son",0.875
+LMT108,4,16,"frottement, son",0.8333333333333334
+LMT108,4,16,"frottement + coups, accélération",0.875
+LMT108,4,16,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,16,les quatre,0.875
+LMT108,4,17,"frottement, accélération (référence du projet)",0.5625
+LMT108,4,17,"coups, accélération",0.8125
+LMT108,4,17,"coups, son",0.875
+LMT108,4,17,"frottement, son",0.5208333333333334
+LMT108,4,17,"frottement + coups, accélération",0.9375
+LMT108,4,17,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,17,les quatre,0.9375
+LMT108,4,18,"frottement, accélération (référence du projet)",0.625
+LMT108,4,18,"coups, accélération",0.75
+LMT108,4,18,"coups, son",0.8333333333333334
+LMT108,4,18,"frottement, son",0.5416666666666666
+LMT108,4,18,"frottement + coups, accélération",0.625
+LMT108,4,18,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,18,les quatre,0.875
+LMT108,4,19,"frottement, accélération (référence du projet)",0.45833333333333337
+LMT108,4,19,"coups, accélération",0.875
+LMT108,4,19,"coups, son",0.7291666666666666
+LMT108,4,19,"frottement, son",0.5208333333333334
+LMT108,4,19,"frottement + coups, accélération",0.625
+LMT108,4,19,"frottement + coups, accélération et son des coups",0.6875
+LMT108,4,19,les quatre,0.6875
+LMT108,4,20,"frottement, accélération (référence du projet)",0.7291666666666666
+LMT108,4,20,"coups, accélération",0.6875
+LMT108,4,20,"coups, son",0.75
+LMT108,4,20,"frottement, son",0.5
+LMT108,4,20,"frottement + coups, accélération",0.8125
+LMT108,4,20,"frottement + coups, accélération et son des coups",0.8125
+LMT108,4,20,les quatre,0.8125
+LMT108,4,21,"frottement, accélération (référence du projet)",0.5625
+LMT108,4,21,"coups, accélération",0.5
+LMT108,4,21,"coups, son",0.7291666666666666
+LMT108,4,21,"frottement, son",0.45833333333333337
+LMT108,4,21,"frottement + coups, accélération",0.6875
+LMT108,4,21,"frottement + coups, accélération et son des coups",0.6875
+LMT108,4,21,les quatre,0.6875
+LMT108,4,22,"frottement, accélération (référence du projet)",0.75
+LMT108,4,22,"coups, accélération",0.8125
+LMT108,4,22,"coups, son",0.75
+LMT108,4,22,"frottement, son",0.5
+LMT108,4,22,"frottement + coups, accélération",0.8125
+LMT108,4,22,"frottement + coups, accélération et son des coups",0.8125
+LMT108,4,22,les quatre,0.8125
+LMT108,4,23,"frottement, accélération (référence du projet)",0.45833333333333337
+LMT108,4,23,"coups, accélération",0.5625
+LMT108,4,23,"coups, son",0.6875
+LMT108,4,23,"frottement, son",0.47916666666666663
+LMT108,4,23,"frottement + coups, accélération",0.625
+LMT108,4,23,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,23,les quatre,0.875
+LMT108,4,24,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,24,"coups, accélération",0.9375
+LMT108,4,24,"coups, son",0.75
+LMT108,4,24,"frottement, son",0.8541666666666666
+LMT108,4,24,"frottement + coups, accélération",0.9375
+LMT108,4,24,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,24,les quatre,0.9375
+LMT108,4,25,"frottement, accélération (référence du projet)",0.5416666666666666
+LMT108,4,25,"coups, accélération",0.75
+LMT108,4,25,"coups, son",0.875
+LMT108,4,25,"frottement, son",0.45833333333333337
+LMT108,4,25,"frottement + coups, accélération",0.625
+LMT108,4,25,"frottement + coups, accélération et son des coups",0.625
+LMT108,4,25,les quatre,0.625
+LMT108,4,26,"frottement, accélération (référence du projet)",0.7708333333333334
+LMT108,4,26,"coups, accélération",0.75
+LMT108,4,26,"coups, son",0.8333333333333334
+LMT108,4,26,"frottement, son",0.8125
+LMT108,4,26,"frottement + coups, accélération",0.875
+LMT108,4,26,"frottement + coups, accélération et son des coups",0.8541666666666666
+LMT108,4,26,les quatre,0.8541666666666666
+LMT108,4,27,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,27,"coups, accélération",0.75
+LMT108,4,27,"coups, son",0.875
+LMT108,4,27,"frottement, son",0.8125
+LMT108,4,27,"frottement + coups, accélération",0.9375
+LMT108,4,27,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,27,les quatre,0.9375
+LMT108,4,28,"frottement, accélération (référence du projet)",0.7291666666666666
+LMT108,4,28,"coups, accélération",0.6875
+LMT108,4,28,"coups, son",0.75
+LMT108,4,28,"frottement, son",0.7916666666666666
+LMT108,4,28,"frottement + coups, accélération",0.8125
+LMT108,4,28,"frottement + coups, accélération et son des coups",0.8125
+LMT108,4,28,les quatre,0.8125
+LMT108,4,29,"frottement, accélération (référence du projet)",0.47916666666666663
+LMT108,4,29,"coups, accélération",0.75
+LMT108,4,29,"coups, son",0.7083333333333334
+LMT108,4,29,"frottement, son",0.4375
+LMT108,4,29,"frottement + coups, accélération",0.625
+LMT108,4,29,"frottement + coups, accélération et son des coups",0.625
+LMT108,4,29,les quatre,0.625
+LMT108,4,30,"frottement, accélération (référence du projet)",0.45833333333333337
+LMT108,4,30,"coups, accélération",0.75
+LMT108,4,30,"coups, son",0.8125
+LMT108,4,30,"frottement, son",0.5
+LMT108,4,30,"frottement + coups, accélération",0.8125
+LMT108,4,30,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,30,les quatre,0.875
+LMT108,4,31,"frottement, accélération (référence du projet)",0.625
+LMT108,4,31,"coups, accélération",0.625
+LMT108,4,31,"coups, son",0.75
+LMT108,4,31,"frottement, son",0.8125
+LMT108,4,31,"frottement + coups, accélération",0.8125
+LMT108,4,31,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,31,les quatre,0.875
+LMT108,4,32,"frottement, accélération (référence du projet)",0.6875
+LMT108,4,32,"coups, accélération",0.625
+LMT108,4,32,"coups, son",0.8958333333333334
+LMT108,4,32,"frottement, son",0.5416666666666666
+LMT108,4,32,"frottement + coups, accélération",0.6875
+LMT108,4,32,"frottement + coups, accélération et son des coups",0.6875
+LMT108,4,32,les quatre,0.9375
+LMT108,4,33,"frottement, accélération (référence du projet)",0.875
+LMT108,4,33,"coups, accélération",0.6875
+LMT108,4,33,"coups, son",0.8333333333333334
+LMT108,4,33,"frottement, son",0.7916666666666666
+LMT108,4,33,"frottement + coups, accélération",0.875
+LMT108,4,33,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,33,les quatre,0.9375
+LMT108,4,34,"frottement, accélération (référence du projet)",0.8541666666666666
+LMT108,4,34,"coups, accélération",0.6875
+LMT108,4,34,"coups, son",0.8125
+LMT108,4,34,"frottement, son",0.7291666666666666
+LMT108,4,34,"frottement + coups, accélération",0.875
+LMT108,4,34,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,34,les quatre,0.875
+LMT108,4,35,"frottement, accélération (référence du projet)",0.7708333333333334
+LMT108,4,35,"coups, accélération",0.6875
+LMT108,4,35,"coups, son",0.8125
+LMT108,4,35,"frottement, son",0.8333333333333334
+LMT108,4,35,"frottement + coups, accélération",0.875
+LMT108,4,35,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,35,les quatre,0.875
+LMT108,4,36,"frottement, accélération (référence du projet)",0.8125
+LMT108,4,36,"coups, accélération",0.9375
+LMT108,4,36,"coups, son",0.75
+LMT108,4,36,"frottement, son",0.8125
+LMT108,4,36,"frottement + coups, accélération",0.875
+LMT108,4,36,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,36,les quatre,0.875
+LMT108,4,37,"frottement, accélération (référence du projet)",0.5416666666666666
+LMT108,4,37,"coups, accélération",0.8125
+LMT108,4,37,"coups, son",0.7916666666666666
+LMT108,4,37,"frottement, son",0.8125
+LMT108,4,37,"frottement + coups, accélération",0.875
+LMT108,4,37,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,37,les quatre,0.9375
+LMT108,4,38,"frottement, accélération (référence du projet)",0.75
+LMT108,4,38,"coups, accélération",0.6875
+LMT108,4,38,"coups, son",0.8125
+LMT108,4,38,"frottement, son",0.75
+LMT108,4,38,"frottement + coups, accélération",1.0
+LMT108,4,38,"frottement + coups, accélération et son des coups",1.0
+LMT108,4,38,les quatre,1.0
+LMT108,4,39,"frottement, accélération (référence du projet)",0.875
+LMT108,4,39,"coups, accélération",0.8125
+LMT108,4,39,"coups, son",0.7916666666666666
+LMT108,4,39,"frottement, son",0.75
+LMT108,4,39,"frottement + coups, accélération",0.875
+LMT108,4,39,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,39,les quatre,0.875
+LMT108,4,40,"frottement, accélération (référence du projet)",0.5
+LMT108,4,40,"coups, accélération",0.8125
+LMT108,4,40,"coups, son",0.625
+LMT108,4,40,"frottement, son",0.75
+LMT108,4,40,"frottement + coups, accélération",0.875
+LMT108,4,40,"frottement + coups, accélération et son des coups",0.8125
+LMT108,4,40,les quatre,0.8125
+LMT108,4,41,"frottement, accélération (référence du projet)",0.75
+LMT108,4,41,"coups, accélération",0.6875
+LMT108,4,41,"coups, son",0.75
+LMT108,4,41,"frottement, son",0.5625
+LMT108,4,41,"frottement + coups, accélération",0.9375
+LMT108,4,41,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,41,les quatre,0.9375
+LMT108,4,42,"frottement, accélération (référence du projet)",0.7083333333333334
+LMT108,4,42,"coups, accélération",0.8125
+LMT108,4,42,"coups, son",0.8125
+LMT108,4,42,"frottement, son",0.7708333333333334
+LMT108,4,42,"frottement + coups, accélération",0.875
+LMT108,4,42,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,42,les quatre,0.875
+LMT108,4,43,"frottement, accélération (référence du projet)",0.8333333333333334
+LMT108,4,43,"coups, accélération",0.6875
+LMT108,4,43,"coups, son",0.75
+LMT108,4,43,"frottement, son",0.7708333333333334
+LMT108,4,43,"frottement + coups, accélération",0.7916666666666666
+LMT108,4,43,"frottement + coups, accélération et son des coups",0.8333333333333334
+LMT108,4,43,les quatre,0.8333333333333334
+LMT108,4,44,"frottement, accélération (référence du projet)",0.5416666666666666
+LMT108,4,44,"coups, accélération",0.8125
+LMT108,4,44,"coups, son",0.875
+LMT108,4,44,"frottement, son",0.5
+LMT108,4,44,"frottement + coups, accélération",0.625
+LMT108,4,44,"frottement + coups, accélération et son des coups",0.625
+LMT108,4,44,les quatre,0.625
+LMT108,4,45,"frottement, accélération (référence du projet)",0.75
+LMT108,4,45,"coups, accélération",0.875
+LMT108,4,45,"coups, son",0.875
+LMT108,4,45,"frottement, son",0.7708333333333334
+LMT108,4,45,"frottement + coups, accélération",0.9375
+LMT108,4,45,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,45,les quatre,0.9375
+LMT108,4,46,"frottement, accélération (référence du projet)",0.8541666666666666
+LMT108,4,46,"coups, accélération",0.8125
+LMT108,4,46,"coups, son",0.625
+LMT108,4,46,"frottement, son",0.7916666666666666
+LMT108,4,46,"frottement + coups, accélération",0.9375
+LMT108,4,46,"frottement + coups, accélération et son des coups",0.875
+LMT108,4,46,les quatre,0.9375
+LMT108,4,47,"frottement, accélération (référence du projet)",0.7916666666666666
+LMT108,4,47,"coups, accélération",0.8125
+LMT108,4,47,"coups, son",0.8125
+LMT108,4,47,"frottement, son",0.5208333333333334
+LMT108,4,47,"frottement + coups, accélération",1.0
+LMT108,4,47,"frottement + coups, accélération et son des coups",1.0
+LMT108,4,47,les quatre,0.9375
+LMT108,4,48,"frottement, accélération (référence du projet)",0.75
+LMT108,4,48,"coups, accélération",0.8125
+LMT108,4,48,"coups, son",0.8125
+LMT108,4,48,"frottement, son",0.75
+LMT108,4,48,"frottement + coups, accélération",0.875
+LMT108,4,48,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,48,les quatre,1.0
+LMT108,4,49,"frottement, accélération (référence du projet)",0.6458333333333334
+LMT108,4,49,"coups, accélération",0.75
+LMT108,4,49,"coups, son",0.875
+LMT108,4,49,"frottement, son",0.5416666666666666
+LMT108,4,49,"frottement + coups, accélération",0.8541666666666666
+LMT108,4,49,"frottement + coups, accélération et son des coups",0.9375
+LMT108,4,49,les quatre,0.9375
+SENS3,1,0,"frottement, accélération (référence du projet)",0.3416666666666666
+SENS3,1,0,"coups, accélération",0.525
+SENS3,1,0,"coups, son",0.4837121212121212
+SENS3,1,0,"frottement, son",0.553030303030303
+SENS3,1,0,"frottement + coups, accélération",0.693939393939394
+SENS3,1,0,"frottement + coups, accélération et son des coups",0.7231060606060606
+SENS3,1,0,les quatre,0.6712121212121213
+SENS3,1,1,"frottement, accélération (référence du projet)",0.24431818181818182
+SENS3,1,1,"coups, accélération",0.6670454545454546
+SENS3,1,1,"coups, son",0.24886363636363634
+SENS3,1,1,"frottement, son",0.2409090909090909
+SENS3,1,1,"frottement + coups, accélération",0.3625
+SENS3,1,1,"frottement + coups, accélération et son des coups",0.2670454545454546
+SENS3,1,1,les quatre,0.4397727272727273
+SENS3,1,2,"frottement, accélération (référence du projet)",0.45984848484848484
+SENS3,1,2,"coups, accélération",0.6174242424242424
+SENS3,1,2,"coups, son",0.22348484848484848
+SENS3,1,2,"frottement, son",0.5007575757575758
+SENS3,1,2,"frottement + coups, accélération",0.7424242424242424
+SENS3,1,2,"frottement + coups, accélération et son des coups",0.6856060606060606
+SENS3,1,2,les quatre,0.7462121212121212
+SENS3,1,3,"frottement, accélération (référence du projet)",0.43712121212121213
+SENS3,1,3,"coups, accélération",0.5636363636363637
+SENS3,1,3,"coups, son",0.26022727272727275
+SENS3,1,3,"frottement, son",0.3833333333333333
+SENS3,1,3,"frottement + coups, accélération",0.5825757575757575
+SENS3,1,3,"frottement + coups, accélération et son des coups",0.6223484848484848
+SENS3,1,3,les quatre,0.6348484848484848
+SENS3,1,4,"frottement, accélération (référence du projet)",0.365530303030303
+SENS3,1,4,"coups, accélération",0.6382575757575757
+SENS3,1,4,"coups, son",0.20340909090909093
+SENS3,1,4,"frottement, son",0.36818181818181817
+SENS3,1,4,"frottement + coups, accélération",0.6424242424242425
+SENS3,1,4,"frottement + coups, accélération et son des coups",0.5734848484848485
+SENS3,1,4,les quatre,0.4553030303030303
+SENS3,1,5,"frottement, accélération (référence du projet)",0.38030303030303025
+SENS3,1,5,"coups, accélération",0.6443181818181818
+SENS3,1,5,"coups, son",0.5647727272727273
+SENS3,1,5,"frottement, son",0.2215909090909091
+SENS3,1,5,"frottement + coups, accélération",0.4799242424242424
+SENS3,1,5,"frottement + coups, accélération et son des coups",0.4712121212121212
+SENS3,1,5,les quatre,0.3776515151515151
+SENS3,1,6,"frottement, accélération (référence du projet)",0.2496212121212121
+SENS3,1,6,"coups, accélération",0.6087121212121213
+SENS3,1,6,"coups, son",0.42386363636363633
+SENS3,1,6,"frottement, son",0.44886363636363635
+SENS3,1,6,"frottement + coups, accélération",0.6151515151515151
+SENS3,1,6,"frottement + coups, accélération et son des coups",0.5507575757575757
+SENS3,1,6,les quatre,0.6212121212121212
+SENS3,1,7,"frottement, accélération (référence du projet)",0.17689393939393938
+SENS3,1,7,"coups, accélération",0.5549242424242424
+SENS3,1,7,"coups, son",0.39886363636363636
+SENS3,1,7,"frottement, son",0.365530303030303
+SENS3,1,7,"frottement + coups, accélération",0.5946969696969697
+SENS3,1,7,"frottement + coups, accélération et son des coups",0.42348484848484846
+SENS3,1,7,les quatre,0.40075757575757576
+SENS3,1,8,"frottement, accélération (référence du projet)",0.4268939393939393
+SENS3,1,8,"coups, accélération",0.5049242424242424
+SENS3,1,8,"coups, son",0.26969696969696966
+SENS3,1,8,"frottement, son",0.46590909090909094
+SENS3,1,8,"frottement + coups, accélération",0.6007575757575757
+SENS3,1,8,"frottement + coups, accélération et son des coups",0.48409090909090907
+SENS3,1,8,les quatre,0.5507575757575757
+SENS3,1,9,"frottement, accélération (référence du projet)",0.39734848484848484
+SENS3,1,9,"coups, accélération",0.7670454545454546
+SENS3,1,9,"coups, son",0.3386363636363636
+SENS3,1,9,"frottement, son",0.35
+SENS3,1,9,"frottement + coups, accélération",0.6526515151515151
+SENS3,1,9,"frottement + coups, accélération et son des coups",0.6007575757575758
+SENS3,1,9,les quatre,0.43257575757575756
+SENS3,1,10,"frottement, accélération (référence du projet)",0.4340909090909091
+SENS3,1,10,"coups, accélération",0.5333333333333333
+SENS3,1,10,"coups, son",0.3215909090909091
+SENS3,1,10,"frottement, son",0.36363636363636365
+SENS3,1,10,"frottement + coups, accélération",0.5958333333333333
+SENS3,1,10,"frottement + coups, accélération et son des coups",0.543939393939394
+SENS3,1,10,les quatre,0.5962121212121212
+SENS3,1,11,"frottement, accélération (référence du projet)",0.5223484848484848
+SENS3,1,11,"coups, accélération",0.571590909090909
+SENS3,1,11,"coups, son",0.4041666666666666
+SENS3,1,11,"frottement, son",0.4431818181818182
+SENS3,1,11,"frottement + coups, accélération",0.5196969696969698
+SENS3,1,11,"frottement + coups, accélération et son des coups",0.6776515151515151
+SENS3,1,11,les quatre,0.6901515151515152
+SENS3,1,12,"frottement, accélération (référence du projet)",0.29734848484848486
+SENS3,1,12,"coups, accélération",0.6924242424242424
+SENS3,1,12,"coups, son",0.24242424242424243
+SENS3,1,12,"frottement, son",0.49242424242424243
+SENS3,1,12,"frottement + coups, accélération",0.7321969696969697
+SENS3,1,12,"frottement + coups, accélération et son des coups",0.5526515151515152
+SENS3,1,12,les quatre,0.6484848484848484
+SENS3,1,13,"frottement, accélération (référence du projet)",0.3549242424242424
+SENS3,1,13,"coups, accélération",0.5030303030303029
+SENS3,1,13,"coups, son",0.16856060606060605
+SENS3,1,13,"frottement, son",0.4806818181818182
+SENS3,1,13,"frottement + coups, accélération",0.6174242424242424
+SENS3,1,13,"frottement + coups, accélération et son des coups",0.6071969696969697
+SENS3,1,13,les quatre,0.6071969696969697
+SENS3,1,14,"frottement, accélération (référence du projet)",0.3640151515151515
+SENS3,1,14,"coups, accélération",0.4147727272727273
+SENS3,1,14,"coups, son",0.4352272727272727
+SENS3,1,14,"frottement, son",0.5007575757575757
+SENS3,1,14,"frottement + coups, accélération",0.6462121212121212
+SENS3,1,14,"frottement + coups, accélération et son des coups",0.5818181818181818
+SENS3,1,14,les quatre,0.6189393939393939
+SENS3,1,15,"frottement, accélération (référence du projet)",0.4496212121212121
+SENS3,1,15,"coups, accélération",0.5734848484848485
+SENS3,1,15,"coups, son",0.35113636363636364
+SENS3,1,15,"frottement, son",0.38636363636363635
+SENS3,1,15,"frottement + coups, accélération",0.6549242424242424
+SENS3,1,15,"frottement + coups, accélération et son des coups",0.590530303030303
+SENS3,1,15,les quatre,0.5359848484848484
+SENS3,1,16,"frottement, accélération (référence du projet)",0.3643939393939393
+SENS3,1,16,"coups, accélération",0.6837121212121212
+SENS3,1,16,"coups, son",0.44166666666666665
+SENS3,1,16,"frottement, son",0.46969696969696967
+SENS3,1,16,"frottement + coups, accélération",0.6450757575757575
+SENS3,1,16,"frottement + coups, accélération et son des coups",0.7587121212121213
+SENS3,1,16,les quatre,0.8087121212121212
+SENS3,1,17,"frottement, accélération (référence du projet)",0.2787878787878788
+SENS3,1,17,"coups, accélération",0.6526515151515152
+SENS3,1,17,"coups, son",0.37007575757575756
+SENS3,1,17,"frottement, son",0.3984848484848485
+SENS3,1,17,"frottement + coups, accélération",0.5049242424242424
+SENS3,1,17,"frottement + coups, accélération et son des coups",0.49242424242424243
+SENS3,1,17,les quatre,0.5674242424242424
+SENS3,1,18,"frottement, accélération (référence du projet)",0.38863636363636367
+SENS3,1,18,"coups, accélération",0.6776515151515151
+SENS3,1,18,"coups, son",0.44280303030303025
+SENS3,1,18,"frottement, son",0.2897727272727273
+SENS3,1,18,"frottement + coups, accélération",0.6318181818181818
+SENS3,1,18,"frottement + coups, accélération et son des coups",0.5590909090909091
+SENS3,1,18,les quatre,0.6356060606060605
+SENS3,1,19,"frottement, accélération (référence du projet)",0.35795454545454547
+SENS3,1,19,"coups, accélération",0.5340909090909091
+SENS3,1,19,"coups, son",0.32727272727272727
+SENS3,1,19,"frottement, son",0.5113636363636364
+SENS3,1,19,"frottement + coups, accélération",0.5428030303030302
+SENS3,1,19,"frottement + coups, accélération et son des coups",0.48409090909090907
+SENS3,1,19,les quatre,0.7359848484848484
+SENS3,1,20,"frottement, accélération (référence du projet)",0.3215909090909091
+SENS3,1,20,"coups, accélération",0.4109848484848485
+SENS3,1,20,"coups, son",0.3386363636363636
+SENS3,1,20,"frottement, son",0.19545454545454544
+SENS3,1,20,"frottement + coups, accélération",0.46931818181818186
+SENS3,1,20,"frottement + coups, accélération et son des coups",0.5128787878787878
+SENS3,1,20,les quatre,0.5609848484848485
+SENS3,1,21,"frottement, accélération (référence du projet)",0.10416666666666666
+SENS3,1,21,"coups, accélération",0.5113636363636364
+SENS3,1,21,"coups, son",0.045454545454545456
+SENS3,1,21,"frottement, son",0.49886363636363634
+SENS3,1,21,"frottement + coups, accélération",0.49924242424242427
+SENS3,1,21,"frottement + coups, accélération et son des coups",0.28863636363636364
+SENS3,1,21,les quatre,0.3159090909090909
+SENS3,1,22,"frottement, accélération (référence du projet)",0.26590909090909093
+SENS3,1,22,"coups, accélération",0.65
+SENS3,1,22,"coups, son",0.20454545454545456
+SENS3,1,22,"frottement, son",0.39659090909090905
+SENS3,1,22,"frottement + coups, accélération",0.4484848484848485
+SENS3,1,22,"frottement + coups, accélération et son des coups",0.49204545454545456
+SENS3,1,22,les quatre,0.40681818181818186
+SENS3,1,23,"frottement, accélération (référence du projet)",0.303030303030303
+SENS3,1,23,"coups, accélération",0.5958333333333333
+SENS3,1,23,"coups, son",0.2670454545454546
+SENS3,1,23,"frottement, son",0.42613636363636365
+SENS3,1,23,"frottement + coups, accélération",0.6416666666666666
+SENS3,1,23,"frottement + coups, accélération et son des coups",0.5916666666666667
+SENS3,1,23,les quatre,0.5189393939393939
+SENS3,1,24,"frottement, accélération (référence du projet)",0.2791666666666667
+SENS3,1,24,"coups, accélération",0.6041666666666666
+SENS3,1,24,"coups, son",0.32575757575757575
+SENS3,1,24,"frottement, son",0.47613636363636364
+SENS3,1,24,"frottement + coups, accélération",0.5640151515151516
+SENS3,1,24,"frottement + coups, accélération et son des coups",0.5450757575757575
+SENS3,1,24,les quatre,0.6803030303030303
+SENS3,1,25,"frottement, accélération (référence du projet)",0.5306818181818181
+SENS3,1,25,"coups, accélération",0.6291666666666667
+SENS3,1,25,"coups, son",0.4193181818181818
+SENS3,1,25,"frottement, son",0.5079545454545454
+SENS3,1,25,"frottement + coups, accélération",0.6587121212121212
+SENS3,1,25,"frottement + coups, accélération et son des coups",0.6958333333333334
+SENS3,1,25,les quatre,0.7439393939393939
+SENS3,1,26,"frottement, accélération (référence du projet)",0.5098484848484848
+SENS3,1,26,"coups, accélération",0.6045454545454546
+SENS3,1,26,"coups, son",0.40037878787878783
+SENS3,1,26,"frottement, son",0.4579545454545455
+SENS3,1,26,"frottement + coups, accélération",0.7359848484848484
+SENS3,1,26,"frottement + coups, accélération et son des coups",0.6814393939393939
+SENS3,1,26,les quatre,0.6984848484848484
+SENS3,1,27,"frottement, accélération (référence du projet)",0.42840909090909096
+SENS3,1,27,"coups, accélération",0.42840909090909096
+SENS3,1,27,"coups, son",0.2318181818181818
+SENS3,1,27,"frottement, son",0.38636363636363635
+SENS3,1,27,"frottement + coups, accélération",0.521969696969697
+SENS3,1,27,"frottement + coups, accélération et son des coups",0.4965909090909091
+SENS3,1,27,les quatre,0.5507575757575758
+SENS3,1,28,"frottement, accélération (référence du projet)",0.25
+SENS3,1,28,"coups, accélération",0.6791666666666667
+SENS3,1,28,"coups, son",0.5420454545454546
+SENS3,1,28,"frottement, son",0.30492424242424243
+SENS3,1,28,"frottement + coups, accélération",0.6734848484848485
+SENS3,1,28,"frottement + coups, accélération et son des coups",0.7606060606060607
+SENS3,1,28,les quatre,0.6772727272727272
+SENS3,1,29,"frottement, accélération (référence du projet)",0.38030303030303025
+SENS3,1,29,"coups, accélération",0.6962121212121213
+SENS3,1,29,"coups, son",0.3246212121212121
+SENS3,1,29,"frottement, son",0.4564393939393939
+SENS3,1,29,"frottement + coups, accélération",0.687878787878788
+SENS3,1,29,"frottement + coups, accélération et son des coups",0.675378787878788
+SENS3,1,29,les quatre,0.687878787878788
+SENS3,1,30,"frottement, accélération (référence du projet)",0.3996212121212121
+SENS3,1,30,"coups, accélération",0.5958333333333333
+SENS3,1,30,"coups, son",0.3068181818181818
+SENS3,1,30,"frottement, son",0.515909090909091
+SENS3,1,30,"frottement + coups, accélération",0.47916666666666663
+SENS3,1,30,"frottement + coups, accélération et son des coups",0.375
+SENS3,1,30,les quatre,0.6666666666666666
+SENS3,1,31,"frottement, accélération (référence du projet)",0.2727272727272727
+SENS3,1,31,"coups, accélération",0.65
+SENS3,1,31,"coups, son",0.3522727272727273
+SENS3,1,31,"frottement, son",0.3522727272727273
+SENS3,1,31,"frottement + coups, accélération",0.5045454545454546
+SENS3,1,31,"frottement + coups, accélération et son des coups",0.4875
+SENS3,1,31,les quatre,0.5
+SENS3,1,32,"frottement, accélération (référence du projet)",0.4617424242424242
+SENS3,1,32,"coups, accélération",0.6125
+SENS3,1,32,"coups, son",0.484469696969697
+SENS3,1,32,"frottement, son",0.26856060606060606
+SENS3,1,32,"frottement + coups, accélération",0.5981060606060605
+SENS3,1,32,"frottement + coups, accélération et son des coups",0.6151515151515151
+SENS3,1,32,les quatre,0.6196969696969696
+SENS3,1,33,"frottement, accélération (référence du projet)",0.2992424242424242
+SENS3,1,33,"coups, accélération",0.7416666666666667
+SENS3,1,33,"coups, son",0.4799242424242424
+SENS3,1,33,"frottement, son",0.4109848484848485
+SENS3,1,33,"frottement + coups, accélération",0.49810606060606055
+SENS3,1,33,"frottement + coups, accélération et son des coups",0.631439393939394
+SENS3,1,33,les quatre,0.6541666666666667
+SENS3,1,34,"frottement, accélération (référence du projet)",0.43560606060606055
+SENS3,1,34,"coups, accélération",0.6628787878787878
+SENS3,1,34,"coups, son",0.40909090909090906
+SENS3,1,34,"frottement, son",0.4871212121212122
+SENS3,1,34,"frottement + coups, accélération",0.6708333333333333
+SENS3,1,34,"frottement + coups, accélération et son des coups",0.6208333333333332
+SENS3,1,34,les quatre,0.5981060606060605
+SENS3,1,35,"frottement, accélération (référence du projet)",0.37462121212121213
+SENS3,1,35,"coups, accélération",0.5946969696969697
+SENS3,1,35,"coups, son",0.1590909090909091
+SENS3,1,35,"frottement, son",0.35757575757575755
+SENS3,1,35,"frottement + coups, accélération",0.571969696969697
+SENS3,1,35,"frottement + coups, accélération et son des coups",0.6174242424242424
+SENS3,1,35,les quatre,0.553030303030303
+SENS3,1,36,"frottement, accélération (référence du projet)",0.3162878787878788
+SENS3,1,36,"coups, accélération",0.5340909090909091
+SENS3,1,36,"coups, son",0.35
+SENS3,1,36,"frottement, son",0.42803030303030304
+SENS3,1,36,"frottement + coups, accélération",0.521969696969697
+SENS3,1,36,"frottement + coups, accélération et son des coups",0.5295454545454545
+SENS3,1,36,les quatre,0.6526515151515151
+SENS3,1,37,"frottement, accélération (référence du projet)",0.3871212121212121
+SENS3,1,37,"coups, accélération",0.5628787878787879
+SENS3,1,37,"coups, son",0.45227272727272727
+SENS3,1,37,"frottement, son",0.40984848484848485
+SENS3,1,37,"frottement + coups, accélération",0.5507575757575757
+SENS3,1,37,"frottement + coups, accélération et son des coups",0.6462121212121212
+SENS3,1,37,les quatre,0.7212121212121212
+SENS3,1,38,"frottement, accélération (référence du projet)",0.2803030303030303
+SENS3,1,38,"coups, accélération",0.7208333333333334
+SENS3,1,38,"coups, son",0.41287878787878785
+SENS3,1,38,"frottement, son",0.42007575757575755
+SENS3,1,38,"frottement + coups, accélération",0.568939393939394
+SENS3,1,38,"frottement + coups, accélération et son des coups",0.4772727272727273
+SENS3,1,38,les quatre,0.49810606060606055
+SENS3,1,39,"frottement, accélération (référence du projet)",0.40719696969696967
+SENS3,1,39,"coups, accélération",0.7068181818181819
+SENS3,1,39,"coups, son",0.5200757575757575
+SENS3,1,39,"frottement, son",0.26325757575757575
+SENS3,1,39,"frottement + coups, accélération",0.5526515151515151
+SENS3,1,39,"frottement + coups, accélération et son des coups",0.5901515151515151
+SENS3,1,39,les quatre,0.6128787878787878
+SENS3,1,40,"frottement, accélération (référence du projet)",0.35113636363636364
+SENS3,1,40,"coups, accélération",0.6962121212121213
+SENS3,1,40,"coups, son",0.42386363636363633
+SENS3,1,40,"frottement, son",0.40719696969696967
+SENS3,1,40,"frottement + coups, accélération",0.5712121212121213
+SENS3,1,40,"frottement + coups, accélération et son des coups",0.5837121212121212
+SENS3,1,40,les quatre,0.6670454545454546
+SENS3,1,41,"frottement, accélération (référence du projet)",0.41287878787878785
+SENS3,1,41,"coups, accélération",0.7420454545454546
+SENS3,1,41,"coups, son",0.35113636363636364
+SENS3,1,41,"frottement, son",0.5981060606060605
+SENS3,1,41,"frottement + coups, accélération",0.7606060606060605
+SENS3,1,41,"frottement + coups, accélération et son des coups",0.6708333333333333
+SENS3,1,41,les quatre,0.7333333333333333
+SENS3,1,42,"frottement, accélération (référence du projet)",0.5371212121212121
+SENS3,1,42,"coups, accélération",0.5946969696969697
+SENS3,1,42,"coups, son",0.32727272727272727
+SENS3,1,42,"frottement, son",0.4507575757575758
+SENS3,1,42,"frottement + coups, accélération",0.696969696969697
+SENS3,1,42,"frottement + coups, accélération et son des coups",0.5340909090909091
+SENS3,1,42,les quatre,0.7026515151515151
+SENS3,1,43,"frottement, accélération (référence du projet)",0.36742424242424243
+SENS3,1,43,"coups, accélération",0.6299242424242424
+SENS3,1,43,"coups, son",0.21780303030303028
+SENS3,1,43,"frottement, son",0.5477272727272727
+SENS3,1,43,"frottement + coups, accélération",0.6484848484848484
+SENS3,1,43,"frottement + coups, accélération et son des coups",0.47348484848484845
+SENS3,1,43,les quatre,0.5568181818181819
+SENS3,1,44,"frottement, accélération (référence du projet)",0.25946969696969696
+SENS3,1,44,"coups, accélération",0.5465909090909091
+SENS3,1,44,"coups, son",0.28409090909090906
+SENS3,1,44,"frottement, son",0.33409090909090905
+SENS3,1,44,"frottement + coups, accélération",0.4901515151515151
+SENS3,1,44,"frottement + coups, accélération et son des coups",0.4712121212121212
+SENS3,1,44,les quatre,0.3984848484848485
+SENS3,1,45,"frottement, accélération (référence du projet)",0.3912878787878788
+SENS3,1,45,"coups, accélération",0.5734848484848485
+SENS3,1,45,"coups, son",0.5678030303030303
+SENS3,1,45,"frottement, son",0.546969696969697
+SENS3,1,45,"frottement + coups, accélération",0.6488636363636364
+SENS3,1,45,"frottement + coups, accélération et son des coups",0.6261363636363637
+SENS3,1,45,les quatre,0.5613636363636364
+SENS3,1,46,"frottement, accélération (référence du projet)",0.1625
+SENS3,1,46,"coups, accélération",0.4053030303030303
+SENS3,1,46,"coups, son",0.2852272727272728
+SENS3,1,46,"frottement, son",0.4678030303030303
+SENS3,1,46,"frottement + coups, accélération",0.46590909090909094
+SENS3,1,46,"frottement + coups, accélération et son des coups",0.3098484848484848
+SENS3,1,46,les quatre,0.3325757575757576
+SENS3,1,47,"frottement, accélération (référence du projet)",0.38863636363636367
+SENS3,1,47,"coups, accélération",0.615530303030303
+SENS3,1,47,"coups, son",0.37803030303030305
+SENS3,1,47,"frottement, son",0.31780303030303025
+SENS3,1,47,"frottement + coups, accélération",0.5303030303030303
+SENS3,1,47,"frottement + coups, accélération et son des coups",0.5113636363636364
+SENS3,1,47,les quatre,0.5113636363636364
+SENS3,1,48,"frottement, accélération (référence du projet)",0.3958333333333333
+SENS3,1,48,"coups, accélération",0.6109848484848486
+SENS3,1,48,"coups, son",0.3068181818181818
+SENS3,1,48,"frottement, son",0.5969696969696969
+SENS3,1,48,"frottement + coups, accélération",0.6068181818181819
+SENS3,1,48,"frottement + coups, accélération et son des coups",0.693939393939394
+SENS3,1,48,les quatre,0.6666666666666666
+SENS3,1,49,"frottement, accélération (référence du projet)",0.42840909090909096
+SENS3,1,49,"coups, accélération",0.6458333333333334
+SENS3,1,49,"coups, son",0.3734848484848485
+SENS3,1,49,"frottement, son",0.33939393939393936
+SENS3,1,49,"frottement + coups, accélération",0.5375
+SENS3,1,49,"frottement + coups, accélération et son des coups",0.668939393939394
+SENS3,1,49,les quatre,0.568939393939394
+SENS3,2,0,"frottement, accélération (référence du projet)",0.55
+SENS3,2,0,"coups, accélération",0.6583333333333333
+SENS3,2,0,"coups, son",0.23333333333333334
+SENS3,2,0,"frottement, son",0.4083333333333333
+SENS3,2,0,"frottement + coups, accélération",0.6041666666666666
+SENS3,2,0,"frottement + coups, accélération et son des coups",0.6041666666666666
+SENS3,2,0,les quatre,0.6291666666666667
+SENS3,2,1,"frottement, accélération (référence du projet)",0.375
+SENS3,2,1,"coups, accélération",0.6958333333333333
+SENS3,2,1,"coups, son",0.5708333333333333
+SENS3,2,1,"frottement, son",0.3416666666666667
+SENS3,2,1,"frottement + coups, accélération",0.7041666666666666
+SENS3,2,1,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,2,1,les quatre,0.7416666666666667
+SENS3,2,2,"frottement, accélération (référence du projet)",0.33333333333333337
+SENS3,2,2,"coups, accélération",0.7083333333333333
+SENS3,2,2,"coups, son",0.5416666666666666
+SENS3,2,2,"frottement, son",0.4166666666666667
+SENS3,2,2,"frottement + coups, accélération",0.6333333333333333
+SENS3,2,2,"frottement + coups, accélération et son des coups",0.5916666666666667
+SENS3,2,2,les quatre,0.5625
+SENS3,2,3,"frottement, accélération (référence du projet)",0.6499999999999999
+SENS3,2,3,"coups, accélération",0.7333333333333334
+SENS3,2,3,"coups, son",0.35833333333333334
+SENS3,2,3,"frottement, son",0.39166666666666666
+SENS3,2,3,"frottement + coups, accélération",0.7666666666666666
+SENS3,2,3,"frottement + coups, accélération et son des coups",0.5958333333333333
+SENS3,2,3,les quatre,0.5583333333333333
+SENS3,2,4,"frottement, accélération (référence du projet)",0.25833333333333336
+SENS3,2,4,"coups, accélération",0.5875
+SENS3,2,4,"coups, son",0.5166666666666666
+SENS3,2,4,"frottement, son",0.5625
+SENS3,2,4,"frottement + coups, accélération",0.6666666666666666
+SENS3,2,4,"frottement + coups, accélération et son des coups",0.6875
+SENS3,2,4,les quatre,0.625
+SENS3,2,5,"frottement, accélération (référence du projet)",0.5
+SENS3,2,5,"coups, accélération",0.5875
+SENS3,2,5,"coups, son",0.325
+SENS3,2,5,"frottement, son",0.5291666666666667
+SENS3,2,5,"frottement + coups, accélération",0.6291666666666667
+SENS3,2,5,"frottement + coups, accélération et son des coups",0.6083333333333334
+SENS3,2,5,les quatre,0.6916666666666667
+SENS3,2,6,"frottement, accélération (référence du projet)",0.48333333333333334
+SENS3,2,6,"coups, accélération",0.7333333333333334
+SENS3,2,6,"coups, son",0.44166666666666665
+SENS3,2,6,"frottement, son",0.6
+SENS3,2,6,"frottement + coups, accélération",0.6708333333333334
+SENS3,2,6,"frottement + coups, accélération et son des coups",0.7291666666666666
+SENS3,2,6,les quatre,0.8125
+SENS3,2,7,"frottement, accélération (référence du projet)",0.625
+SENS3,2,7,"coups, accélération",0.8041666666666667
+SENS3,2,7,"coups, son",0.2375
+SENS3,2,7,"frottement, son",0.5208333333333334
+SENS3,2,7,"frottement + coups, accélération",0.8041666666666667
+SENS3,2,7,"frottement + coups, accélération et son des coups",0.7541666666666667
+SENS3,2,7,les quatre,0.9
+SENS3,2,8,"frottement, accélération (référence du projet)",0.45833333333333337
+SENS3,2,8,"coups, accélération",0.7916666666666666
+SENS3,2,8,"coups, son",0.4291666666666667
+SENS3,2,8,"frottement, son",0.625
+SENS3,2,8,"frottement + coups, accélération",0.6666666666666667
+SENS3,2,8,"frottement + coups, accélération et son des coups",0.6333333333333333
+SENS3,2,8,les quatre,0.75
+SENS3,2,9,"frottement, accélération (référence du projet)",0.4625
+SENS3,2,9,"coups, accélération",0.6333333333333333
+SENS3,2,9,"coups, son",0.3666666666666667
+SENS3,2,9,"frottement, son",0.5375
+SENS3,2,9,"frottement + coups, accélération",0.5791666666666666
+SENS3,2,9,"frottement + coups, accélération et son des coups",0.5791666666666666
+SENS3,2,9,les quatre,0.5375
+SENS3,2,10,"frottement, accélération (référence du projet)",0.4875
+SENS3,2,10,"coups, accélération",0.6208333333333333
+SENS3,2,10,"coups, son",0.38749999999999996
+SENS3,2,10,"frottement, son",0.525
+SENS3,2,10,"frottement + coups, accélération",0.8500000000000001
+SENS3,2,10,"frottement + coups, accélération et son des coups",0.5583333333333333
+SENS3,2,10,les quatre,0.7875
+SENS3,2,11,"frottement, accélération (référence du projet)",0.39583333333333337
+SENS3,2,11,"coups, accélération",0.8041666666666667
+SENS3,2,11,"coups, son",0.4625
+SENS3,2,11,"frottement, son",0.575
+SENS3,2,11,"frottement + coups, accélération",0.6708333333333334
+SENS3,2,11,"frottement + coups, accélération et son des coups",0.6208333333333333
+SENS3,2,11,les quatre,0.7041666666666666
+SENS3,2,12,"frottement, accélération (référence du projet)",0.5375
+SENS3,2,12,"coups, accélération",0.6041666666666667
+SENS3,2,12,"coups, son",0.25
+SENS3,2,12,"frottement, son",0.6291666666666667
+SENS3,2,12,"frottement + coups, accélération",0.6666666666666666
+SENS3,2,12,"frottement + coups, accélération et son des coups",0.8375
+SENS3,2,12,les quatre,0.6916666666666667
+SENS3,2,13,"frottement, accélération (référence du projet)",0.47916666666666663
+SENS3,2,13,"coups, accélération",0.6083333333333334
+SENS3,2,13,"coups, son",0.5041666666666667
+SENS3,2,13,"frottement, son",0.5041666666666667
+SENS3,2,13,"frottement + coups, accélération",0.7041666666666666
+SENS3,2,13,"frottement + coups, accélération et son des coups",0.6416666666666666
+SENS3,2,13,les quatre,0.49583333333333335
+SENS3,2,14,"frottement, accélération (référence du projet)",0.5166666666666666
+SENS3,2,14,"coups, accélération",0.5083333333333333
+SENS3,2,14,"coups, son",0.44583333333333336
+SENS3,2,14,"frottement, son",0.38333333333333336
+SENS3,2,14,"frottement + coups, accélération",0.5708333333333333
+SENS3,2,14,"frottement + coups, accélération et son des coups",0.6291666666666667
+SENS3,2,14,les quatre,0.6208333333333333
+SENS3,2,15,"frottement, accélération (référence du projet)",0.39166666666666666
+SENS3,2,15,"coups, accélération",0.5875
+SENS3,2,15,"coups, son",0.3333333333333333
+SENS3,2,15,"frottement, son",0.5625
+SENS3,2,15,"frottement + coups, accélération",0.7125
+SENS3,2,15,"frottement + coups, accélération et son des coups",0.775
+SENS3,2,15,les quatre,0.775
+SENS3,2,16,"frottement, accélération (référence du projet)",0.30833333333333335
+SENS3,2,16,"coups, accélération",0.7833333333333333
+SENS3,2,16,"coups, son",0.3416666666666667
+SENS3,2,16,"frottement, son",0.39583333333333337
+SENS3,2,16,"frottement + coups, accélération",0.7208333333333333
+SENS3,2,16,"frottement + coups, accélération et son des coups",0.7791666666666667
+SENS3,2,16,les quatre,0.6458333333333334
+SENS3,2,17,"frottement, accélération (référence du projet)",0.5958333333333333
+SENS3,2,17,"coups, accélération",0.5875
+SENS3,2,17,"coups, son",0.39583333333333337
+SENS3,2,17,"frottement, son",0.6
+SENS3,2,17,"frottement + coups, accélération",0.6708333333333334
+SENS3,2,17,"frottement + coups, accélération et son des coups",0.6458333333333334
+SENS3,2,17,les quatre,0.6916666666666667
+SENS3,2,18,"frottement, accélération (référence du projet)",0.5416666666666666
+SENS3,2,18,"coups, accélération",0.48750000000000004
+SENS3,2,18,"coups, son",0.6125
+SENS3,2,18,"frottement, son",0.425
+SENS3,2,18,"frottement + coups, accélération",0.7291666666666667
+SENS3,2,18,"frottement + coups, accélération et son des coups",0.7541666666666667
+SENS3,2,18,les quatre,0.6875
+SENS3,2,19,"frottement, accélération (référence du projet)",0.42916666666666664
+SENS3,2,19,"coups, accélération",0.6541666666666667
+SENS3,2,19,"coups, son",0.6041666666666667
+SENS3,2,19,"frottement, son",0.6875
+SENS3,2,19,"frottement + coups, accélération",0.6791666666666667
+SENS3,2,19,"frottement + coups, accélération et son des coups",0.6791666666666667
+SENS3,2,19,les quatre,0.7875000000000001
+SENS3,2,20,"frottement, accélération (référence du projet)",0.5041666666666667
+SENS3,2,20,"coups, accélération",0.6458333333333333
+SENS3,2,20,"coups, son",0.4083333333333333
+SENS3,2,20,"frottement, son",0.25
+SENS3,2,20,"frottement + coups, accélération",0.6458333333333333
+SENS3,2,20,"frottement + coups, accélération et son des coups",0.7291666666666667
+SENS3,2,20,les quatre,0.5958333333333333
+SENS3,2,21,"frottement, accélération (référence du projet)",0.42083333333333334
+SENS3,2,21,"coups, accélération",0.6375
+SENS3,2,21,"coups, son",0.4666666666666667
+SENS3,2,21,"frottement, son",0.49583333333333335
+SENS3,2,21,"frottement + coups, accélération",0.5875
+SENS3,2,21,"frottement + coups, accélération et son des coups",0.6083333333333334
+SENS3,2,21,les quatre,0.6291666666666667
+SENS3,2,22,"frottement, accélération (référence du projet)",0.3916666666666667
+SENS3,2,22,"coups, accélération",0.6833333333333333
+SENS3,2,22,"coups, son",0.30833333333333335
+SENS3,2,22,"frottement, son",0.575
+SENS3,2,22,"frottement + coups, accélération",0.6541666666666667
+SENS3,2,22,"frottement + coups, accélération et son des coups",0.6791666666666667
+SENS3,2,22,les quatre,0.675
+SENS3,2,23,"frottement, accélération (référence du projet)",0.4708333333333333
+SENS3,2,23,"coups, accélération",0.575
+SENS3,2,23,"coups, son",0.25
+SENS3,2,23,"frottement, son",0.5375
+SENS3,2,23,"frottement + coups, accélération",0.55
+SENS3,2,23,"frottement + coups, accélération et son des coups",0.525
+SENS3,2,23,les quatre,0.6916666666666667
+SENS3,2,24,"frottement, accélération (référence du projet)",0.5416666666666666
+SENS3,2,24,"coups, accélération",0.65
+SENS3,2,24,"coups, son",0.2
+SENS3,2,24,"frottement, son",0.5
+SENS3,2,24,"frottement + coups, accélération",0.65
+SENS3,2,24,"frottement + coups, accélération et son des coups",0.6833333333333333
+SENS3,2,24,les quatre,0.7916666666666666
+SENS3,2,25,"frottement, accélération (référence du projet)",0.39166666666666666
+SENS3,2,25,"coups, accélération",0.8041666666666667
+SENS3,2,25,"coups, son",0.35
+SENS3,2,25,"frottement, son",0.41666666666666663
+SENS3,2,25,"frottement + coups, accélération",0.8375
+SENS3,2,25,"frottement + coups, accélération et son des coups",0.775
+SENS3,2,25,les quatre,0.7541666666666667
+SENS3,2,26,"frottement, accélération (référence du projet)",0.38333333333333336
+SENS3,2,26,"coups, accélération",0.55
+SENS3,2,26,"coups, son",0.5541666666666667
+SENS3,2,26,"frottement, son",0.625
+SENS3,2,26,"frottement + coups, accélération",0.5
+SENS3,2,26,"frottement + coups, accélération et son des coups",0.55
+SENS3,2,26,les quatre,0.825
+SENS3,2,27,"frottement, accélération (référence du projet)",0.575
+SENS3,2,27,"coups, accélération",0.7833333333333333
+SENS3,2,27,"coups, son",0.37083333333333335
+SENS3,2,27,"frottement, son",0.39166666666666666
+SENS3,2,27,"frottement + coups, accélération",0.7083333333333334
+SENS3,2,27,"frottement + coups, accélération et son des coups",0.7333333333333334
+SENS3,2,27,les quatre,0.7333333333333334
+SENS3,2,28,"frottement, accélération (référence du projet)",0.43333333333333335
+SENS3,2,28,"coups, accélération",0.7041666666666666
+SENS3,2,28,"coups, son",0.55
+SENS3,2,28,"frottement, son",0.55
+SENS3,2,28,"frottement + coups, accélération",0.5541666666666667
+SENS3,2,28,"frottement + coups, accélération et son des coups",0.6875
+SENS3,2,28,les quatre,0.8125
+SENS3,2,29,"frottement, accélération (référence du projet)",0.5916666666666667
+SENS3,2,29,"coups, accélération",0.6333333333333333
+SENS3,2,29,"coups, son",0.425
+SENS3,2,29,"frottement, son",0.6375
+SENS3,2,29,"frottement + coups, accélération",0.8875
+SENS3,2,29,"frottement + coups, accélération et son des coups",0.8125
+SENS3,2,29,les quatre,0.8125
+SENS3,2,30,"frottement, accélération (référence du projet)",0.1875
+SENS3,2,30,"coups, accélération",0.6333333333333333
+SENS3,2,30,"coups, son",0.2625
+SENS3,2,30,"frottement, son",0.2583333333333333
+SENS3,2,30,"frottement + coups, accélération",0.3375
+SENS3,2,30,"frottement + coups, accélération et son des coups",0.3375
+SENS3,2,30,les quatre,0.45833333333333337
+SENS3,2,31,"frottement, accélération (référence du projet)",0.5083333333333333
+SENS3,2,31,"coups, accélération",0.65
+SENS3,2,31,"coups, son",0.6875
+SENS3,2,31,"frottement, son",0.475
+SENS3,2,31,"frottement + coups, accélération",0.6208333333333333
+SENS3,2,31,"frottement + coups, accélération et son des coups",0.7041666666666666
+SENS3,2,31,les quatre,0.6625
+SENS3,2,32,"frottement, accélération (référence du projet)",0.5041666666666667
+SENS3,2,32,"coups, accélération",0.5875
+SENS3,2,32,"coups, son",0.6000000000000001
+SENS3,2,32,"frottement, son",0.5625
+SENS3,2,32,"frottement + coups, accélération",0.5
+SENS3,2,32,"frottement + coups, accélération et son des coups",0.6416666666666666
+SENS3,2,32,les quatre,0.7250000000000001
+SENS3,2,33,"frottement, accélération (référence du projet)",0.30833333333333335
+SENS3,2,33,"coups, accélération",0.5
+SENS3,2,33,"coups, son",0.4791666666666667
+SENS3,2,33,"frottement, son",0.4
+SENS3,2,33,"frottement + coups, accélération",0.6583333333333333
+SENS3,2,33,"frottement + coups, accélération et son des coups",0.5375
+SENS3,2,33,les quatre,0.6875
+SENS3,2,34,"frottement, accélération (référence du projet)",0.325
+SENS3,2,34,"coups, accélération",0.7208333333333333
+SENS3,2,34,"coups, son",0.43333333333333335
+SENS3,2,34,"frottement, son",0.45
+SENS3,2,34,"frottement + coups, accélération",0.6708333333333334
+SENS3,2,34,"frottement + coups, accélération et son des coups",0.6083333333333334
+SENS3,2,34,les quatre,0.5583333333333333
+SENS3,2,35,"frottement, accélération (référence du projet)",0.3875
+SENS3,2,35,"coups, accélération",0.7333333333333333
+SENS3,2,35,"coups, son",0.5958333333333333
+SENS3,2,35,"frottement, son",0.35833333333333334
+SENS3,2,35,"frottement + coups, accélération",0.4625
+SENS3,2,35,"frottement + coups, accélération et son des coups",0.4875
+SENS3,2,35,les quatre,0.5333333333333333
+SENS3,2,36,"frottement, accélération (référence du projet)",0.3416666666666667
+SENS3,2,36,"coups, accélération",0.7583333333333333
+SENS3,2,36,"coups, son",0.44583333333333336
+SENS3,2,36,"frottement, son",0.30833333333333335
+SENS3,2,36,"frottement + coups, accélération",0.5958333333333333
+SENS3,2,36,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,2,36,les quatre,0.75
+SENS3,2,37,"frottement, accélération (référence du projet)",0.37083333333333335
+SENS3,2,37,"coups, accélération",0.6458333333333333
+SENS3,2,37,"coups, son",0.5416666666666666
+SENS3,2,37,"frottement, son",0.5208333333333334
+SENS3,2,37,"frottement + coups, accélération",0.6208333333333333
+SENS3,2,37,"frottement + coups, accélération et son des coups",0.6166666666666667
+SENS3,2,37,les quatre,0.5541666666666667
+SENS3,2,38,"frottement, accélération (référence du projet)",0.3
+SENS3,2,38,"coups, accélération",0.7208333333333333
+SENS3,2,38,"coups, son",0.6416666666666666
+SENS3,2,38,"frottement, son",0.475
+SENS3,2,38,"frottement + coups, accélération",0.5708333333333333
+SENS3,2,38,"frottement + coups, accélération et son des coups",0.6208333333333333
+SENS3,2,38,les quatre,0.675
+SENS3,2,39,"frottement, accélération (référence du projet)",0.325
+SENS3,2,39,"coups, accélération",0.6708333333333334
+SENS3,2,39,"coups, son",0.44166666666666665
+SENS3,2,39,"frottement, son",0.45
+SENS3,2,39,"frottement + coups, accélération",0.575
+SENS3,2,39,"frottement + coups, accélération et son des coups",0.7041666666666666
+SENS3,2,39,les quatre,0.5541666666666667
+SENS3,2,40,"frottement, accélération (référence du projet)",0.3458333333333333
+SENS3,2,40,"coups, accélération",0.6666666666666667
+SENS3,2,40,"coups, son",0.4708333333333333
+SENS3,2,40,"frottement, son",0.525
+SENS3,2,40,"frottement + coups, accélération",0.7124999999999999
+SENS3,2,40,"frottement + coups, accélération et son des coups",0.675
+SENS3,2,40,les quatre,0.7
+SENS3,2,41,"frottement, accélération (référence du projet)",0.55
+SENS3,2,41,"coups, accélération",0.6583333333333333
+SENS3,2,41,"coups, son",0.35833333333333334
+SENS3,2,41,"frottement, son",0.5625
+SENS3,2,41,"frottement + coups, accélération",0.5958333333333333
+SENS3,2,41,"frottement + coups, accélération et son des coups",0.5958333333333333
+SENS3,2,41,les quatre,0.6791666666666667
+SENS3,2,42,"frottement, accélération (référence du projet)",0.4666666666666667
+SENS3,2,42,"coups, accélération",0.6916666666666667
+SENS3,2,42,"coups, son",0.3208333333333333
+SENS3,2,42,"frottement, son",0.6
+SENS3,2,42,"frottement + coups, accélération",0.7541666666666667
+SENS3,2,42,"frottement + coups, accélération et son des coups",0.6458333333333334
+SENS3,2,42,les quatre,0.6625000000000001
+SENS3,2,43,"frottement, accélération (référence du projet)",0.5916666666666667
+SENS3,2,43,"coups, accélération",0.6916666666666667
+SENS3,2,43,"coups, son",0.6375
+SENS3,2,43,"frottement, son",0.4666666666666667
+SENS3,2,43,"frottement + coups, accélération",0.7541666666666667
+SENS3,2,43,"frottement + coups, accélération et son des coups",0.6916666666666667
+SENS3,2,43,les quatre,0.75
+SENS3,2,44,"frottement, accélération (référence du projet)",0.3666666666666667
+SENS3,2,44,"coups, accélération",0.5625
+SENS3,2,44,"coups, son",0.47916666666666663
+SENS3,2,44,"frottement, son",0.44999999999999996
+SENS3,2,44,"frottement + coups, accélération",0.48750000000000004
+SENS3,2,44,"frottement + coups, accélération et son des coups",0.6791666666666667
+SENS3,2,44,les quatre,0.5041666666666667
+SENS3,2,45,"frottement, accélération (référence du projet)",0.33333333333333337
+SENS3,2,45,"coups, accélération",0.7833333333333333
+SENS3,2,45,"coups, son",0.3208333333333333
+SENS3,2,45,"frottement, son",0.5249999999999999
+SENS3,2,45,"frottement + coups, accélération",0.7208333333333333
+SENS3,2,45,"frottement + coups, accélération et son des coups",0.48750000000000004
+SENS3,2,45,les quatre,0.6958333333333333
+SENS3,2,46,"frottement, accélération (référence du projet)",0.37083333333333335
+SENS3,2,46,"coups, accélération",0.6791666666666667
+SENS3,2,46,"coups, son",0.4916666666666667
+SENS3,2,46,"frottement, son",0.55
+SENS3,2,46,"frottement + coups, accélération",0.6416666666666667
+SENS3,2,46,"frottement + coups, accélération et son des coups",0.7291666666666667
+SENS3,2,46,les quatre,0.625
+SENS3,2,47,"frottement, accélération (référence du projet)",0.41666666666666663
+SENS3,2,47,"coups, accélération",0.5875
+SENS3,2,47,"coups, son",0.5
+SENS3,2,47,"frottement, son",0.33333333333333337
+SENS3,2,47,"frottement + coups, accélération",0.6916666666666667
+SENS3,2,47,"frottement + coups, accélération et son des coups",0.5541666666666667
+SENS3,2,47,les quatre,0.5791666666666666
+SENS3,2,48,"frottement, accélération (référence du projet)",0.375
+SENS3,2,48,"coups, accélération",0.5583333333333333
+SENS3,2,48,"coups, son",0.5291666666666667
+SENS3,2,48,"frottement, son",0.4916666666666667
+SENS3,2,48,"frottement + coups, accélération",0.5375
+SENS3,2,48,"frottement + coups, accélération et son des coups",0.6458333333333334
+SENS3,2,48,les quatre,0.6416666666666666
+SENS3,2,49,"frottement, accélération (référence du projet)",0.3458333333333333
+SENS3,2,49,"coups, accélération",0.7083333333333333
+SENS3,2,49,"coups, son",0.4083333333333333
+SENS3,2,49,"frottement, son",0.5041666666666667
+SENS3,2,49,"frottement + coups, accélération",0.6916666666666667
+SENS3,2,49,"frottement + coups, accélération et son des coups",0.6541666666666667
+SENS3,2,49,les quatre,0.7041666666666666
+SENS3,4,0,"frottement, accélération (référence du projet)",0.21875
+SENS3,4,0,"coups, accélération",0.6666666666666666
+SENS3,4,0,"coups, son",0.3333333333333333
+SENS3,4,0,"frottement, son",0.40625
+SENS3,4,0,"frottement + coups, accélération",0.5833333333333333
+SENS3,4,0,"frottement + coups, accélération et son des coups",0.375
+SENS3,4,0,les quatre,0.5
+SENS3,4,1,"frottement, accélération (référence du projet)",0.5520833333333333
+SENS3,4,1,"coups, accélération",0.9166666666666666
+SENS3,4,1,"coups, son",0.4375
+SENS3,4,1,"frottement, son",0.5416666666666666
+SENS3,4,1,"frottement + coups, accélération",0.9166666666666666
+SENS3,4,1,"frottement + coups, accélération et son des coups",0.8020833333333333
+SENS3,4,1,les quatre,0.6145833333333333
+SENS3,4,2,"frottement, accélération (référence du projet)",0.5416666666666666
+SENS3,4,2,"coups, accélération",0.53125
+SENS3,4,2,"coups, son",0.5625
+SENS3,4,2,"frottement, son",0.7291666666666666
+SENS3,4,2,"frottement + coups, accélération",0.78125
+SENS3,4,2,"frottement + coups, accélération et son des coups",0.8541666666666666
+SENS3,4,2,les quatre,0.8854166666666666
+SENS3,4,3,"frottement, accélération (référence du projet)",0.5416666666666666
+SENS3,4,3,"coups, accélération",0.6666666666666666
+SENS3,4,3,"coups, son",0.59375
+SENS3,4,3,"frottement, son",0.5729166666666666
+SENS3,4,3,"frottement + coups, accélération",0.7916666666666666
+SENS3,4,3,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,4,3,les quatre,0.7916666666666666
+SENS3,4,4,"frottement, accélération (référence du projet)",0.46875
+SENS3,4,4,"coups, accélération",0.6666666666666666
+SENS3,4,4,"coups, son",0.2708333333333333
+SENS3,4,4,"frottement, son",0.4375
+SENS3,4,4,"frottement + coups, accélération",0.6979166666666666
+SENS3,4,4,"frottement + coups, accélération et son des coups",0.6770833333333333
+SENS3,4,4,les quatre,0.6458333333333333
+SENS3,4,5,"frottement, accélération (référence du projet)",0.65625
+SENS3,4,5,"coups, accélération",0.75
+SENS3,4,5,"coups, son",0.35416666666666663
+SENS3,4,5,"frottement, son",0.65625
+SENS3,4,5,"frottement + coups, accélération",0.75
+SENS3,4,5,"frottement + coups, accélération et son des coups",0.625
+SENS3,4,5,les quatre,0.75
+SENS3,4,6,"frottement, accélération (référence du projet)",0.44791666666666663
+SENS3,4,6,"coups, accélération",0.75
+SENS3,4,6,"coups, son",0.5
+SENS3,4,6,"frottement, son",0.38541666666666663
+SENS3,4,6,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,6,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,4,6,les quatre,0.5416666666666666
+SENS3,4,7,"frottement, accélération (référence du projet)",0.32291666666666663
+SENS3,4,7,"coups, accélération",0.5416666666666666
+SENS3,4,7,"coups, son",0.6354166666666666
+SENS3,4,7,"frottement, son",0.7291666666666666
+SENS3,4,7,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,7,"frottement + coups, accélération et son des coups",0.5416666666666666
+SENS3,4,7,les quatre,0.7916666666666666
+SENS3,4,8,"frottement, accélération (référence du projet)",0.32291666666666663
+SENS3,4,8,"coups, accélération",0.7916666666666666
+SENS3,4,8,"coups, son",0.59375
+SENS3,4,8,"frottement, son",0.3020833333333333
+SENS3,4,8,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,8,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,4,8,les quatre,0.7916666666666666
+SENS3,4,9,"frottement, accélération (référence du projet)",0.5520833333333333
+SENS3,4,9,"coups, accélération",0.875
+SENS3,4,9,"coups, son",0.34375
+SENS3,4,9,"frottement, son",0.6145833333333333
+SENS3,4,9,"frottement + coups, accélération",0.8854166666666666
+SENS3,4,9,"frottement + coups, accélération et son des coups",0.8020833333333333
+SENS3,4,9,les quatre,0.6770833333333333
+SENS3,4,10,"frottement, accélération (référence du projet)",0.6145833333333333
+SENS3,4,10,"coups, accélération",0.5416666666666666
+SENS3,4,10,"coups, son",0.6875
+SENS3,4,10,"frottement, son",0.4375
+SENS3,4,10,"frottement + coups, accélération",0.5416666666666666
+SENS3,4,10,"frottement + coups, accélération et son des coups",0.7395833333333333
+SENS3,4,10,les quatre,0.6145833333333333
+SENS3,4,11,"frottement, accélération (référence du projet)",0.7291666666666666
+SENS3,4,11,"coups, accélération",0.875
+SENS3,4,11,"coups, son",0.6458333333333333
+SENS3,4,11,"frottement, son",0.6666666666666666
+SENS3,4,11,"frottement + coups, accélération",0.9166666666666666
+SENS3,4,11,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,4,11,les quatre,0.9166666666666666
+SENS3,4,12,"frottement, accélération (référence du projet)",0.625
+SENS3,4,12,"coups, accélération",0.625
+SENS3,4,12,"coups, son",0.2708333333333333
+SENS3,4,12,"frottement, son",0.6354166666666666
+SENS3,4,12,"frottement + coups, accélération",0.625
+SENS3,4,12,"frottement + coups, accélération et son des coups",0.59375
+SENS3,4,12,les quatre,0.84375
+SENS3,4,13,"frottement, accélération (référence du projet)",0.625
+SENS3,4,13,"coups, accélération",1.0
+SENS3,4,13,"coups, son",0.4375
+SENS3,4,13,"frottement, son",0.875
+SENS3,4,13,"frottement + coups, accélération",0.84375
+SENS3,4,13,"frottement + coups, accélération et son des coups",0.875
+SENS3,4,13,les quatre,0.875
+SENS3,4,14,"frottement, accélération (référence du projet)",0.44791666666666663
+SENS3,4,14,"coups, accélération",0.6666666666666666
+SENS3,4,14,"coups, son",0.5729166666666666
+SENS3,4,14,"frottement, son",0.41666666666666663
+SENS3,4,14,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,14,"frottement + coups, accélération et son des coups",0.9166666666666666
+SENS3,4,14,les quatre,0.5416666666666666
+SENS3,4,15,"frottement, accélération (référence du projet)",0.5520833333333333
+SENS3,4,15,"coups, accélération",0.7916666666666666
+SENS3,4,15,"coups, son",0.3645833333333333
+SENS3,4,15,"frottement, son",0.5833333333333333
+SENS3,4,15,"frottement + coups, accélération",0.9166666666666666
+SENS3,4,15,"frottement + coups, accélération et son des coups",0.8854166666666666
+SENS3,4,15,les quatre,0.7291666666666666
+SENS3,4,16,"frottement, accélération (référence du projet)",0.71875
+SENS3,4,16,"coups, accélération",0.71875
+SENS3,4,16,"coups, son",0.375
+SENS3,4,16,"frottement, son",0.38541666666666663
+SENS3,4,16,"frottement + coups, accélération",1.0
+SENS3,4,16,"frottement + coups, accélération et son des coups",1.0
+SENS3,4,16,les quatre,1.0
+SENS3,4,17,"frottement, accélération (référence du projet)",0.3645833333333333
+SENS3,4,17,"coups, accélération",0.5416666666666666
+SENS3,4,17,"coups, son",0.59375
+SENS3,4,17,"frottement, son",0.8333333333333333
+SENS3,4,17,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,17,"frottement + coups, accélération et son des coups",0.8333333333333333
+SENS3,4,17,les quatre,0.9166666666666666
+SENS3,4,18,"frottement, accélération (référence du projet)",0.6041666666666666
+SENS3,4,18,"coups, accélération",0.5416666666666666
+SENS3,4,18,"coups, son",0.38541666666666663
+SENS3,4,18,"frottement, son",0.5104166666666666
+SENS3,4,18,"frottement + coups, accélération",0.5416666666666666
+SENS3,4,18,"frottement + coups, accélération et son des coups",0.5416666666666666
+SENS3,4,18,les quatre,0.6666666666666666
+SENS3,4,19,"frottement, accélération (référence du projet)",0.8541666666666666
+SENS3,4,19,"coups, accélération",0.6666666666666666
+SENS3,4,19,"coups, son",0.3333333333333333
+SENS3,4,19,"frottement, son",0.5833333333333333
+SENS3,4,19,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,19,"frottement + coups, accélération et son des coups",0.5416666666666666
+SENS3,4,19,les quatre,0.5416666666666666
+SENS3,4,20,"frottement, accélération (référence du projet)",0.38541666666666663
+SENS3,4,20,"coups, accélération",0.71875
+SENS3,4,20,"coups, son",0.5104166666666666
+SENS3,4,20,"frottement, son",0.78125
+SENS3,4,20,"frottement + coups, accélération",0.75
+SENS3,4,20,"frottement + coups, accélération et son des coups",1.0
+SENS3,4,20,les quatre,0.96875
+SENS3,4,21,"frottement, accélération (référence du projet)",0.4583333333333333
+SENS3,4,21,"coups, accélération",0.4583333333333333
+SENS3,4,21,"coups, son",0.3958333333333333
+SENS3,4,21,"frottement, son",0.7083333333333333
+SENS3,4,21,"frottement + coups, accélération",0.5833333333333333
+SENS3,4,21,"frottement + coups, accélération et son des coups",0.5833333333333333
+SENS3,4,21,les quatre,0.8333333333333333
+SENS3,4,22,"frottement, accélération (référence du projet)",0.7708333333333333
+SENS3,4,22,"coups, accélération",0.9166666666666666
+SENS3,4,22,"coups, son",0.625
+SENS3,4,22,"frottement, son",0.6354166666666666
+SENS3,4,22,"frottement + coups, accélération",0.9166666666666666
+SENS3,4,22,"frottement + coups, accélération et son des coups",0.8333333333333333
+SENS3,4,22,les quatre,0.9166666666666666
+SENS3,4,23,"frottement, accélération (référence du projet)",0.22916666666666666
+SENS3,4,23,"coups, accélération",0.6666666666666666
+SENS3,4,23,"coups, son",0.3958333333333333
+SENS3,4,23,"frottement, son",0.6354166666666666
+SENS3,4,23,"frottement + coups, accélération",0.5416666666666666
+SENS3,4,23,"frottement + coups, accélération et son des coups",0.5416666666666666
+SENS3,4,23,les quatre,0.7916666666666666
+SENS3,4,24,"frottement, accélération (référence du projet)",0.7604166666666666
+SENS3,4,24,"coups, accélération",0.9166666666666666
+SENS3,4,24,"coups, son",0.5833333333333333
+SENS3,4,24,"frottement, son",0.4895833333333333
+SENS3,4,24,"frottement + coups, accélération",0.9166666666666666
+SENS3,4,24,"frottement + coups, accélération et son des coups",0.9166666666666666
+SENS3,4,24,les quatre,0.7916666666666666
+SENS3,4,25,"frottement, accélération (référence du projet)",0.5416666666666666
+SENS3,4,25,"coups, accélération",0.5416666666666666
+SENS3,4,25,"coups, son",0.3333333333333333
+SENS3,4,25,"frottement, son",0.7291666666666666
+SENS3,4,25,"frottement + coups, accélération",0.5416666666666666
+SENS3,4,25,"frottement + coups, accélération et son des coups",0.5416666666666666
+SENS3,4,25,les quatre,0.5416666666666666
+SENS3,4,26,"frottement, accélération (référence du projet)",0.75
+SENS3,4,26,"coups, accélération",0.625
+SENS3,4,26,"coups, son",0.71875
+SENS3,4,26,"frottement, son",0.4375
+SENS3,4,26,"frottement + coups, accélération",1.0
+SENS3,4,26,"frottement + coups, accélération et son des coups",1.0
+SENS3,4,26,les quatre,1.0
+SENS3,4,27,"frottement, accélération (référence du projet)",0.625
+SENS3,4,27,"coups, accélération",1.0
+SENS3,4,27,"coups, son",0.5520833333333333
+SENS3,4,27,"frottement, son",0.6354166666666666
+SENS3,4,27,"frottement + coups, accélération",1.0
+SENS3,4,27,"frottement + coups, accélération et son des coups",1.0
+SENS3,4,27,les quatre,0.875
+SENS3,4,28,"frottement, accélération (référence du projet)",0.6666666666666666
+SENS3,4,28,"coups, accélération",0.6666666666666666
+SENS3,4,28,"coups, son",0.25
+SENS3,4,28,"frottement, son",0.7604166666666666
+SENS3,4,28,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,28,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,4,28,les quatre,0.9166666666666666
+SENS3,4,29,"frottement, accélération (référence du projet)",0.4583333333333333
+SENS3,4,29,"coups, accélération",0.5833333333333333
+SENS3,4,29,"coups, son",0.23958333333333331
+SENS3,4,29,"frottement, son",0.6458333333333333
+SENS3,4,29,"frottement + coups, accélération",0.5833333333333333
+SENS3,4,29,"frottement + coups, accélération et son des coups",0.3333333333333333
+SENS3,4,29,les quatre,0.4583333333333333
+SENS3,4,30,"frottement, accélération (référence du projet)",0.5416666666666666
+SENS3,4,30,"coups, accélération",0.75
+SENS3,4,30,"coups, son",0.6458333333333333
+SENS3,4,30,"frottement, son",0.5104166666666666
+SENS3,4,30,"frottement + coups, accélération",0.75
+SENS3,4,30,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,4,30,les quatre,0.84375
+SENS3,4,31,"frottement, accélération (référence du projet)",0.47916666666666663
+SENS3,4,31,"coups, accélération",0.75
+SENS3,4,31,"coups, son",0.5208333333333333
+SENS3,4,31,"frottement, son",0.4583333333333333
+SENS3,4,31,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,31,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,4,31,les quatre,0.7916666666666666
+SENS3,4,32,"frottement, accélération (référence du projet)",0.6041666666666666
+SENS3,4,32,"coups, accélération",0.6666666666666666
+SENS3,4,32,"coups, son",0.8125
+SENS3,4,32,"frottement, son",0.47916666666666663
+SENS3,4,32,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,32,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,4,32,les quatre,0.7604166666666666
+SENS3,4,33,"frottement, accélération (référence du projet)",0.3333333333333333
+SENS3,4,33,"coups, accélération",0.5833333333333333
+SENS3,4,33,"coups, son",0.5833333333333333
+SENS3,4,33,"frottement, son",0.20833333333333331
+SENS3,4,33,"frottement + coups, accélération",0.4583333333333333
+SENS3,4,33,"frottement + coups, accélération et son des coups",0.7083333333333333
+SENS3,4,33,les quatre,0.4583333333333333
+SENS3,4,34,"frottement, accélération (référence du projet)",0.26041666666666663
+SENS3,4,34,"coups, accélération",0.75
+SENS3,4,34,"coups, son",0.23958333333333331
+SENS3,4,34,"frottement, son",0.3333333333333333
+SENS3,4,34,"frottement + coups, accélération",1.0
+SENS3,4,34,"frottement + coups, accélération et son des coups",1.0
+SENS3,4,34,les quatre,0.875
+SENS3,4,35,"frottement, accélération (référence du projet)",0.3645833333333333
+SENS3,4,35,"coups, accélération",0.5833333333333333
+SENS3,4,35,"coups, son",0.5833333333333333
+SENS3,4,35,"frottement, son",0.6145833333333333
+SENS3,4,35,"frottement + coups, accélération",0.5833333333333333
+SENS3,4,35,"frottement + coups, accélération et son des coups",0.8333333333333333
+SENS3,4,35,les quatre,0.8333333333333333
+SENS3,4,36,"frottement, accélération (référence du projet)",0.40625
+SENS3,4,36,"coups, accélération",0.75
+SENS3,4,36,"coups, son",0.59375
+SENS3,4,36,"frottement, son",0.7291666666666666
+SENS3,4,36,"frottement + coups, accélération",0.75
+SENS3,4,36,"frottement + coups, accélération et son des coups",1.0
+SENS3,4,36,les quatre,1.0
+SENS3,4,37,"frottement, accélération (référence du projet)",0.5104166666666666
+SENS3,4,37,"coups, accélération",1.0
+SENS3,4,37,"coups, son",0.6666666666666666
+SENS3,4,37,"frottement, son",0.5416666666666666
+SENS3,4,37,"frottement + coups, accélération",0.8854166666666666
+SENS3,4,37,"frottement + coups, accélération et son des coups",0.8854166666666666
+SENS3,4,37,les quatre,0.6354166666666666
+SENS3,4,38,"frottement, accélération (référence du projet)",0.29166666666666663
+SENS3,4,38,"coups, accélération",0.75
+SENS3,4,38,"coups, son",0.7916666666666666
+SENS3,4,38,"frottement, son",0.5520833333333333
+SENS3,4,38,"frottement + coups, accélération",0.625
+SENS3,4,38,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,4,38,les quatre,0.7916666666666666
+SENS3,4,39,"frottement, accélération (référence du projet)",0.5104166666666666
+SENS3,4,39,"coups, accélération",0.7916666666666666
+SENS3,4,39,"coups, son",0.41666666666666663
+SENS3,4,39,"frottement, son",0.6041666666666666
+SENS3,4,39,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,39,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,4,39,les quatre,0.7916666666666666
+SENS3,4,40,"frottement, accélération (référence du projet)",0.6041666666666666
+SENS3,4,40,"coups, accélération",0.6041666666666666
+SENS3,4,40,"coups, son",0.5
+SENS3,4,40,"frottement, son",0.5416666666666666
+SENS3,4,40,"frottement + coups, accélération",0.7604166666666666
+SENS3,4,40,"frottement + coups, accélération et son des coups",0.7916666666666666
+SENS3,4,40,les quatre,0.6666666666666666
+SENS3,4,41,"frottement, accélération (référence du projet)",0.3958333333333333
+SENS3,4,41,"coups, accélération",0.7916666666666666
+SENS3,4,41,"coups, son",0.59375
+SENS3,4,41,"frottement, son",0.8541666666666666
+SENS3,4,41,"frottement + coups, accélération",0.5833333333333333
+SENS3,4,41,"frottement + coups, accélération et son des coups",0.8333333333333333
+SENS3,4,41,les quatre,0.9166666666666666
+SENS3,4,42,"frottement, accélération (référence du projet)",0.6979166666666666
+SENS3,4,42,"coups, accélération",0.6041666666666666
+SENS3,4,42,"coups, son",0.4583333333333333
+SENS3,4,42,"frottement, son",0.6354166666666666
+SENS3,4,42,"frottement + coups, accélération",0.8541666666666666
+SENS3,4,42,"frottement + coups, accélération et son des coups",0.8854166666666666
+SENS3,4,42,les quatre,0.7916666666666666
+SENS3,4,43,"frottement, accélération (référence du projet)",0.5104166666666666
+SENS3,4,43,"coups, accélération",0.5729166666666666
+SENS3,4,43,"coups, son",0.6354166666666666
+SENS3,4,43,"frottement, son",0.7604166666666666
+SENS3,4,43,"frottement + coups, accélération",0.7916666666666666
+SENS3,4,43,"frottement + coups, accélération et son des coups",0.8541666666666666
+SENS3,4,43,les quatre,0.8854166666666666
+SENS3,4,44,"frottement, accélération (référence du projet)",0.3020833333333333
+SENS3,4,44,"coups, accélération",0.625
+SENS3,4,44,"coups, son",0.21875
+SENS3,4,44,"frottement, son",0.6770833333333333
+SENS3,4,44,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,44,"frottement + coups, accélération et son des coups",0.5416666666666666
+SENS3,4,44,les quatre,0.6666666666666666
+SENS3,4,45,"frottement, accélération (référence du projet)",0.7916666666666666
+SENS3,4,45,"coups, accélération",0.44791666666666663
+SENS3,4,45,"coups, son",0.59375
+SENS3,4,45,"frottement, son",0.7291666666666666
+SENS3,4,45,"frottement + coups, accélération",0.6979166666666666
+SENS3,4,45,"frottement + coups, accélération et son des coups",0.8541666666666666
+SENS3,4,45,les quatre,0.8541666666666666
+SENS3,4,46,"frottement, accélération (référence du projet)",0.5
+SENS3,4,46,"coups, accélération",1.0
+SENS3,4,46,"coups, son",0.4895833333333333
+SENS3,4,46,"frottement, son",0.46875
+SENS3,4,46,"frottement + coups, accélération",0.7916666666666666
+SENS3,4,46,"frottement + coups, accélération et son des coups",0.7083333333333333
+SENS3,4,46,les quatre,0.5833333333333333
+SENS3,4,47,"frottement, accélération (référence du projet)",0.3333333333333333
+SENS3,4,47,"coups, accélération",0.71875
+SENS3,4,47,"coups, son",0.59375
+SENS3,4,47,"frottement, son",0.6145833333333333
+SENS3,4,47,"frottement + coups, accélération",0.47916666666666663
+SENS3,4,47,"frottement + coups, accélération et son des coups",0.6770833333333333
+SENS3,4,47,les quatre,0.7708333333333333
+SENS3,4,48,"frottement, accélération (référence du projet)",0.5729166666666666
+SENS3,4,48,"coups, accélération",0.6666666666666666
+SENS3,4,48,"coups, son",0.1875
+SENS3,4,48,"frottement, son",0.35416666666666663
+SENS3,4,48,"frottement + coups, accélération",0.8854166666666666
+SENS3,4,48,"frottement + coups, accélération et son des coups",0.8854166666666666
+SENS3,4,48,les quatre,0.7916666666666666
+SENS3,4,49,"frottement, accélération (référence du projet)",0.44791666666666663
+SENS3,4,49,"coups, accélération",0.6354166666666666
+SENS3,4,49,"coups, son",0.6458333333333333
+SENS3,4,49,"frottement, son",0.5208333333333333
+SENS3,4,49,"frottement + coups, accélération",0.6666666666666666
+SENS3,4,49,"frottement + coups, accélération et son des coups",0.6666666666666666
+SENS3,4,49,les quatre,0.6666666666666666

@@ -1,0 +1,31 @@
+test,dataset,score
+"(a) synthetic sounds, original CLAP + text",synthetic,0.38499999999999995
+original CLAP + text (reference),LMT108,0.5293055555555555
+original CLAP + text (reference),LMT69,0.6511111111111111
+original CLAP + text (reference),TUM,0.34393939393939393
+original CLAP + text (reference),SENS3,0.31611111111111106
+original CLAP + text (reference),Cluster,0.23657407407407408
+original CLAP + text (reference),Greatest Hits,0.484585545083455
+original CLAP + text (reference),Phone pilot,0.8333333333333334
+(b) probe trained on synthetic sounds,LMT108,0.4040277777777777
+(b) probe trained on synthetic sounds,LMT69,0.4758333333333332
+(b) probe trained on synthetic sounds,TUM,0.25707070707070706
+(b) probe trained on synthetic sounds,SENS3,0.2491666666666667
+(b) probe trained on synthetic sounds,Cluster,0.42708333333333337
+(b) probe trained on synthetic sounds,Greatest Hits,0.3796231530210966
+(b) probe trained on synthetic sounds,Phone pilot,0.31249999999999994
+"(c) CLAP fine-tuned on synthetic sounds, seen",synthetic,1.0
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",LMT108,0.45708333333333334
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",LMT69,0.6538888888888886
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",TUM,0.3191919191919191
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",SENS3,0.27458333333333335
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",Cluster,0.36543209876543215
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",Greatest Hits,0.4737200164551832
+"(c) CLAP fine-tuned on synthetic sounds, alpha 0.5",Phone pilot,0.4583333333333334
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",LMT108,0.3865277777777779
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",LMT69,0.6416666666666665
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",TUM,0.3631313131313131
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",SENS3,0.2322222222222222
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",Cluster,0.3687500000000001
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",Greatest Hits,0.4413997526975252
+"(c) CLAP fine-tuned on synthetic sounds, alpha 1.0",Phone pilot,0.375

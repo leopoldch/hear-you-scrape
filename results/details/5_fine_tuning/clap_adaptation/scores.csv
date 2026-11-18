@@ -1,0 +1,50 @@
+tested on,method,score
+LMT108,M0 CLAP as it is,0.5184722222222222
+LMT108,"M1 linear map, alpha 0.25",0.5179166666666667
+LMT108,"M1 linear map, alpha 0.5",0.4756944444444444
+LMT108,"M1 linear map, alpha 1.0",0.2702777777777778
+LMT108,M2 class vectors + 0.5 x source prototypes,0.3923611111111111
+LMT108,M2 class vectors + 2.0 x source prototypes,0.3644444444444445
+LMT108,"M3 probe on source datasets, no text",0.35402777777777783
+LMT69,M0 CLAP as it is,0.6374999999999998
+LMT69,"M1 linear map, alpha 0.25",0.6741666666666667
+LMT69,"M1 linear map, alpha 0.5",0.6991666666666667
+LMT69,"M1 linear map, alpha 1.0",0.5786111111111109
+LMT69,M2 class vectors + 0.5 x source prototypes,0.4436111111111111
+LMT69,M2 class vectors + 2.0 x source prototypes,0.3663888888888888
+LMT69,"M3 probe on source datasets, no text",0.4172222222222222
+TUM,M0 CLAP as it is,0.3505050505050505
+TUM,"M1 linear map, alpha 0.25",0.3555555555555555
+TUM,"M1 linear map, alpha 0.5",0.3621212121212121
+TUM,"M1 linear map, alpha 1.0",0.3560606060606059
+TUM,M2 class vectors + 0.5 x source prototypes,0.3717171717171717
+TUM,M2 class vectors + 2.0 x source prototypes,0.38232323232323234
+TUM,"M3 probe on source datasets, no text",0.3378787878787879
+SENS3,M0 CLAP as it is,0.3145833333333333
+SENS3,"M1 linear map, alpha 0.25",0.30736111111111114
+SENS3,"M1 linear map, alpha 0.5",0.29097222222222224
+SENS3,"M1 linear map, alpha 1.0",0.15458333333333335
+SENS3,M2 class vectors + 0.5 x source prototypes,0.1758333333333333
+SENS3,M2 class vectors + 2.0 x source prototypes,0.15750000000000003
+SENS3,"M3 probe on source datasets, no text",0.15069444444444444
+Cluster,M0 CLAP as it is,0.23888888888888887
+Cluster,"M1 linear map, alpha 0.25",0.23719135802469135
+Cluster,"M1 linear map, alpha 0.5",0.24706790123456787
+Cluster,"M1 linear map, alpha 1.0",0.21473765432098763
+Cluster,M2 class vectors + 0.5 x source prototypes,0.2672839506172839
+Cluster,M2 class vectors + 2.0 x source prototypes,0.2744598765432099
+Cluster,"M3 probe on source datasets, no text",0.27554012345679013
+Greatest Hits,M0 CLAP as it is,0.48005135977294666
+Greatest Hits,"M1 linear map, alpha 0.25",0.45870717068826566
+Greatest Hits,"M1 linear map, alpha 0.5",0.4145040735565088
+Greatest Hits,"M1 linear map, alpha 1.0",0.26170265997231495
+Greatest Hits,M2 class vectors + 0.5 x source prototypes,0.4203469117183239
+Greatest Hits,M2 class vectors + 2.0 x source prototypes,0.3743823600352031
+Greatest Hits,"M3 probe on source datasets, no text",0.3336961080973051
+Phone pilot,M0 CLAP as it is,0.7499999999999998
+Phone pilot,"M1 linear map, alpha 0.25",0.7916666666666664
+Phone pilot,"M1 linear map, alpha 0.5",0.7083333333333334
+Phone pilot,"M1 linear map, alpha 1.0",0.7083333333333336
+Phone pilot,M2 class vectors + 0.5 x source prototypes,0.7916666666666666
+Phone pilot,M2 class vectors + 2.0 x source prototypes,0.6041666666666665
+Phone pilot,"M3 probe on source datasets, no text",0.75

@@ -11,6 +11,7 @@ How to read the tables:
 - **Rule first?** `locked` = pass mark written before, on data never scored before, read once.
   `yes` = pass mark written before the run. `no` = exploratory.
 - **Worked?** is about the pass mark when there was one.
+- The score tables behind every line are in [results/details/](results/details/README.md).
 
 Datasets: Cluster (machine), LMT108 and LMT69 (steel tip held by hand), HaTT (steel tip), TUM building materials
 (steel tooltip), SENS3 (bare finger), Devillard (bare finger), Greatest Hits (drumstick, video sound), YCB (robot),

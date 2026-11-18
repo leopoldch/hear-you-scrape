@@ -1,0 +1,803 @@
+surface,group,family,predicted,name,tooltip
+C1_S1_M10_P3_X1,1,wood,textile,vavona,steel tooltip
+C1_S1_M10_P3_X1,2,wood,polymer,vavona,steel tooltip
+C1_S1_M11_P1_X1,1,wood,metal,gaboon,steel tooltip
+C1_S1_M11_P1_X1,2,wood,polymer,gaboon,steel tooltip
+C1_S1_M1_P1_X1,1,wood,polymer,spruce,steel tooltip
+C1_S1_M1_P1_X1,2,wood,polymer,spruce,steel tooltip
+C1_S1_M2_P1_X1,1,wood,metal,douglasy,steel tooltip
+C1_S1_M2_P1_X1,2,wood,metal,douglasy,steel tooltip
+C1_S1_M3_P1_X1,1,wood,textile,arolla pine,steel tooltip
+C1_S1_M3_P1_X1,2,wood,polymer,arolla pine,steel tooltip
+C1_S1_M4_P1_X1,1,wood,metal,silver fir,steel tooltip
+C1_S1_M4_P1_X1,2,wood,wood,silver fir,steel tooltip
+C1_S1_M5_P1_X1,1,wood,textile,larch,steel tooltip
+C1_S1_M5_P1_X1,2,wood,textile,larch,steel tooltip
+C1_S1_M6_P2_X1,1,wood,metal,pine,steel tooltip
+C1_S1_M6_P2_X1,2,wood,wood,pine,steel tooltip
+C1_S1_M7_P3_X1,1,wood,textile,cedar,steel tooltip
+C1_S1_M7_P3_X1,2,wood,metal,cedar,steel tooltip
+C1_S1_M8_P2_X1,1,wood,textile,hemlock pine,steel tooltip
+C1_S1_M8_P2_X1,2,wood,textile,hemlock pine,steel tooltip
+C1_S1_M9_P2_X1,1,wood,metal,sequoia,steel tooltip
+C1_S1_M9_P2_X1,2,wood,metal,sequoia,steel tooltip
+C1_S2_M10_P1_X1,1,wood,textile,plane,steel tooltip
+C1_S2_M10_P1_X1,2,wood,textile,plane,steel tooltip
+C1_S2_M11_P1_X1,1,wood,metal,elm,steel tooltip
+C1_S2_M11_P1_X1,2,wood,metal,elm,steel tooltip
+C1_S2_M12_P1_X1,1,wood,metal,ash,steel tooltip
+C1_S2_M12_P1_X1,2,wood,metal,ash,steel tooltip
+C1_S2_M13_P3_X1,1,wood,metal,birch,steel tooltip
+C1_S2_M13_P3_X1,2,wood,polymer,birch,steel tooltip
+C1_S2_M14_P1_X1,1,wood,textile,field maple,steel tooltip
+C1_S2_M14_P1_X1,2,wood,polymer,field maple,steel tooltip
+C1_S2_M15_P1_X1,1,wood,polymer,boxwood,steel tooltip
+C1_S2_M15_P1_X1,2,wood,polymer,boxwood,steel tooltip
+C1_S2_M16_P1_X1,1,wood,textile,oak,steel tooltip
+C1_S2_M16_P1_X1,2,wood,polymer,oak,steel tooltip
+C1_S2_M17_P1_X1,1,wood,textile,robinia,steel tooltip
+C1_S2_M17_P1_X1,2,wood,textile,robinia,steel tooltip
+C1_S2_M18_P1_X1,1,wood,metal,chestnut,steel tooltip
+C1_S2_M18_P1_X1,2,wood,metal,chestnut,steel tooltip
+C1_S2_M19_P3_X1,1,wood,textile,yang,steel tooltip
+C1_S2_M19_P3_X1,2,wood,textile,yang,steel tooltip
+C1_S2_M1_P2_X1,1,wood,metal,alder,steel tooltip
+C1_S2_M1_P2_X1,2,wood,metal,alder,steel tooltip
+C1_S2_M20_P2_X1,1,wood,polymer,khaya,steel tooltip
+C1_S2_M20_P2_X1,2,wood,textile,khaya,steel tooltip
+C1_S2_M21_P1_X1,1,wood,wood,dao,steel tooltip
+C1_S2_M21_P1_X1,2,wood,wood,dao,steel tooltip
+C1_S2_M22_P1_X1,1,wood,textile,mansonia,steel tooltip
+C1_S2_M22_P1_X1,2,wood,textile,mansonia,steel tooltip
+C1_S2_M23_P1_X1,1,wood,polymer,obeche,steel tooltip
+C1_S2_M23_P1_X1,2,wood,textile,obeche,steel tooltip
+C1_S2_M24_P1_X1,1,wood,polymer,idigbo,steel tooltip
+C1_S2_M24_P1_X1,2,wood,wood,idigbo,steel tooltip
+C1_S2_M25_P2_X1,1,wood,textile,rosewood,steel tooltip
+C1_S2_M25_P2_X1,2,wood,textile,rosewood,steel tooltip
+C1_S2_M26_P1_X1,1,wood,textile,avodire,steel tooltip
+C1_S2_M26_P1_X1,2,wood,textile,avodire,steel tooltip
+C1_S2_M27_P1_X1,1,wood,metal,sen,steel tooltip
+C1_S2_M27_P1_X1,2,wood,metal,sen,steel tooltip
+C1_S2_M28_P2_X1,1,wood,metal,bubinga,steel tooltip
+C1_S2_M28_P2_X1,2,wood,wood,bubinga,steel tooltip
+C1_S2_M29_P3_X1,1,wood,metal,eucalypt,steel tooltip
+C1_S2_M29_P3_X1,2,wood,metal,eucalypt,steel tooltip
+C1_S2_M2_P3_X1,1,wood,polymer,cottonwood,steel tooltip
+C1_S2_M2_P3_X1,2,wood,polymer,cottonwood,steel tooltip
+C1_S2_M30_P1_X1,1,wood,textile,padauk,steel tooltip
+C1_S2_M30_P1_X1,2,wood,textile,padauk,steel tooltip
+C1_S2_M31_P1_X1,1,wood,textile,opepe,steel tooltip
+C1_S2_M31_P1_X1,2,wood,metal,opepe,steel tooltip
+C1_S2_M32_P3_X1,1,wood,polymer,teak,steel tooltip
+C1_S2_M32_P3_X1,2,wood,wood,teak,steel tooltip
+C1_S2_M33_P3_X1,1,wood,metal,myrtle,steel tooltip
+C1_S2_M33_P3_X1,2,wood,metal,myrtle,steel tooltip
+C1_S2_M34_P3_X1,1,wood,textile,limba,steel tooltip
+C1_S2_M34_P3_X1,2,wood,metal,limba,steel tooltip
+C1_S2_M35_P1_X1,1,wood,metal,pepper palm,steel tooltip
+C1_S2_M35_P1_X1,2,wood,metal,pepper palm,steel tooltip
+C1_S2_M36_P3_X1,1,wood,metal,abura,steel tooltip
+C1_S2_M36_P3_X1,2,wood,textile,abura,steel tooltip
+C1_S2_M37_P1_X1,1,wood,metal,zapatero,steel tooltip
+C1_S2_M37_P1_X1,2,wood,metal,zapatero,steel tooltip
+C1_S2_M38_P1_X1,1,wood,polymer,makore,steel tooltip
+C1_S2_M38_P1_X1,2,wood,polymer,makore,steel tooltip
+C1_S2_M39_P1_X1,1,wood,wood,mahagony,steel tooltip
+C1_S2_M39_P1_X1,2,wood,polymer,mahagony,steel tooltip
+C1_S2_M3_P2_X1,1,wood,polymer,lime,steel tooltip
+C1_S2_M3_P2_X1,2,wood,textile,lime,steel tooltip
+C1_S2_M40_P3_X1,1,wood,wood,muninga,steel tooltip
+C1_S2_M40_P3_X1,2,wood,wood,muninga,steel tooltip
+C1_S2_M41_P3_X1,1,wood,wood,wenge,steel tooltip
+C1_S2_M41_P3_X1,2,wood,wood,wenge,steel tooltip
+C1_S2_M42_P1_X1,1,wood,metal,macassar ebony,steel tooltip
+C1_S2_M42_P1_X1,2,wood,metal,macassar ebony,steel tooltip
+C1_S2_M43_P1_X1,1,wood,metal,afromosia,steel tooltip
+C1_S2_M43_P1_X1,2,wood,textile,afromosia,steel tooltip
+C1_S2_M44_P2_X1,1,wood,wood,zebrano,steel tooltip
+C1_S2_M44_P2_X1,2,wood,wood,zebrano,steel tooltip
+C1_S2_M45_P1_X1,1,wood,polymer,okume,steel tooltip
+C1_S2_M45_P1_X1,2,wood,metal,okume,steel tooltip
+C1_S2_M46_P1_X1,1,wood,wood,bintangor,steel tooltip
+C1_S2_M46_P1_X1,2,wood,polymer,bintangor,steel tooltip
+C1_S2_M47_P3_X1,1,wood,textile,madrona,steel tooltip
+C1_S2_M47_P3_X1,2,wood,textile,madrona,steel tooltip
+C1_S2_M48_P1_X1,1,wood,wood,coubaril,steel tooltip
+C1_S2_M48_P1_X1,2,wood,wood,coubaril,steel tooltip
+C1_S2_M49_P1_X1,1,wood,wood,purpleheart,steel tooltip
+C1_S2_M49_P1_X1,2,wood,wood,purpleheart,steel tooltip
+C1_S2_M4_P1_X1,1,wood,polymer,beech,steel tooltip
+C1_S2_M4_P1_X1,2,wood,metal,beech,steel tooltip
+C1_S2_M50_P2_X1,1,wood,wood,ramin,steel tooltip
+C1_S2_M50_P2_X1,2,wood,wood,ramin,steel tooltip
+C1_S2_M51_P1_X1,1,wood,textile,iroko,steel tooltip
+C1_S2_M51_P1_X1,2,wood,metal,iroko,steel tooltip
+C1_S2_M52_P3_X1,1,wood,polymer,white cedar,steel tooltip
+C1_S2_M52_P3_X1,2,wood,polymer,white cedar,steel tooltip
+C1_S2_M53_P1_X1,1,wood,metal,ceylon satinwood,steel tooltip
+C1_S2_M53_P1_X1,2,wood,metal,ceylon satinwood,steel tooltip
+C1_S2_M54_P1_X1,1,wood,textile,willow,steel tooltip
+C1_S2_M54_P1_X1,2,wood,textile,willow,steel tooltip
+C1_S2_M55_P1_X1,1,wood,metal,jacaranda,steel tooltip
+C1_S2_M55_P1_X1,2,wood,metal,jacaranda,steel tooltip
+C1_S2_M56_P1_X1,1,wood,metal,niangon,steel tooltip
+C1_S2_M56_P1_X1,2,wood,wood,niangon,steel tooltip
+C1_S2_M57_P1_X1,1,wood,polymer,afr. walnut,steel tooltip
+C1_S2_M57_P1_X1,2,wood,polymer,afr. walnut,steel tooltip
+C1_S2_M58_P2_X1,1,wood,polymer,iroko,steel tooltip
+C1_S2_M58_P2_X1,2,wood,polymer,iroko,steel tooltip
+C1_S2_M59_P1_X1,1,wood,textile,utile,steel tooltip
+C1_S2_M59_P1_X1,2,wood,textile,utile,steel tooltip
+C1_S2_M5_P1_X1,1,wood,polymer,walnut,steel tooltip
+C1_S2_M5_P1_X1,2,wood,textile,walnut,steel tooltip
+C1_S2_M60_P1_X1,1,wood,wood,hickory,steel tooltip
+C1_S2_M60_P1_X1,2,wood,polymer,hickory,steel tooltip
+C1_S2_M61_P1_X1,1,wood,textile,meranti,steel tooltip
+C1_S2_M61_P1_X1,2,wood,textile,meranti,steel tooltip
+C1_S2_M62_P1_X1,1,wood,metal,ekki,steel tooltip
+C1_S2_M62_P1_X1,2,wood,metal,ekki,steel tooltip
+C1_S2_M63_P1_X1,1,wood,textile,cocobolo,steel tooltip
+C1_S2_M63_P1_X1,2,wood,textile,cocobolo,steel tooltip
+C1_S2_M64_P1_X1,1,wood,textile,sapele,steel tooltip
+C1_S2_M64_P1_X1,2,wood,textile,sapele,steel tooltip
+C1_S2_M65_P1_X1,1,wood,metal,mutenye,steel tooltip
+C1_S2_M65_P1_X1,2,wood,metal,mutenye,steel tooltip
+C1_S2_M66_P1_X1,1,wood,polymer,balau,steel tooltip
+C1_S2_M66_P1_X1,2,wood,polymer,balau,steel tooltip
+C1_S2_M67_P1_X1,1,wood,textile,afzelia,steel tooltip
+C1_S2_M67_P1_X1,2,wood,polymer,afzelia,steel tooltip
+C1_S2_M68_P2_X1,1,wood,polymer,zebrano,steel tooltip
+C1_S2_M68_P2_X1,2,wood,polymer,zebrano,steel tooltip
+C1_S2_M69_P2_X1,1,wood,textile,whitewood,steel tooltip
+C1_S2_M69_P2_X1,2,wood,textile,whitewood,steel tooltip
+C1_S2_M6_P1_X1,1,wood,textile,pear,steel tooltip
+C1_S2_M6_P1_X1,2,wood,textile,pear,steel tooltip
+C1_S2_M70_P2_X1,1,wood,polymer,balsa,steel tooltip
+C1_S2_M70_P2_X1,2,wood,polymer,balsa,steel tooltip
+C1_S2_M71_P2_X1,1,wood,textile,bamboo,steel tooltip
+C1_S2_M71_P2_X1,2,wood,textile,bamboo,steel tooltip
+C1_S2_M7_P1_X1,1,wood,wood,cherry,steel tooltip
+C1_S2_M7_P1_X1,2,wood,wood,cherry,steel tooltip
+C1_S2_M8_P1_X1,1,wood,polymer,apple,steel tooltip
+C1_S2_M8_P1_X1,2,wood,textile,apple,steel tooltip
+C1_S2_M9_P1_X1,1,wood,metal,plum,steel tooltip
+C1_S2_M9_P1_X1,2,wood,metal,plum,steel tooltip
+C1_S3_M1_P1_X1,1,,polymer,cork,steel tooltip
+C1_S3_M1_P1_X1,2,,polymer,cork,steel tooltip
+C1_S4_M1_P1_X1,1,,textile,cardboard,steel tooltip
+C1_S4_M1_P1_X1,2,,textile,cardboard,steel tooltip
+C1_S4_M2_P1_X2,1,,textile,paper,steel tooltip
+C1_S4_M2_P1_X2,2,,textile,paper,steel tooltip
+C1_S5_M1_P1_X1,1,,polymer,compressed wood,steel tooltip
+C1_S5_M1_P1_X1,2,,polymer,compressed wood,steel tooltip
+C1_S5_M2_P1_X1,1,,metal,wood shavings,steel tooltip
+C1_S5_M2_P1_X1,2,,textile,wood shavings,steel tooltip
+C1_S5_M3_P1_X1,1,,wood,wood fibers,steel tooltip
+C1_S5_M3_P1_X1,2,,wood,wood fibers,steel tooltip
+C2_S1_M1_P1_X1,1,textile,polymer,hemp,steel tooltip
+C2_S1_M1_P1_X1,2,textile,textile,hemp,steel tooltip
+C2_S1_M2_P1_X1,1,textile,polymer,flax,steel tooltip
+C2_S1_M2_P1_X1,2,textile,polymer,flax,steel tooltip
+C2_S1_M3_P1_X1,1,textile,polymer,coconut,steel tooltip
+C2_S1_M3_P1_X1,2,textile,polymer,coconut,steel tooltip
+C2_S1_M4_P1_X1,1,textile,polymer,jute,steel tooltip
+C2_S1_M4_P1_X1,2,textile,polymer,jute,steel tooltip
+C2_S2_M1_P2_X1,1,,textile,wool,steel tooltip
+C2_S2_M1_P2_X1,2,,textile,wool,steel tooltip
+C2_S2_M2_P1_X1,1,,textile,merino wool,steel tooltip
+C2_S2_M2_P1_X1,2,,textile,merino wool,steel tooltip
+C2_S2_M3_P2_X1,1,,polymer,cashmere wool,steel tooltip
+C2_S2_M3_P2_X1,2,,polymer,cashmere wool,steel tooltip
+C2_S2_M4_P3_X1,1,,textile,rabbit fur,steel tooltip
+C2_S2_M4_P3_X1,2,,textile,rabbit fur,steel tooltip
+C2_S2_M5_P3_X1,1,,polymer,goat fur,steel tooltip
+C2_S2_M5_P3_X1,2,,textile,goat fur,steel tooltip
+C2_S2_M6_P3_X1,1,,polymer,cow fur,steel tooltip
+C2_S2_M6_P3_X1,2,,polymer,cow fur,steel tooltip
+C2_S2_M7_P3_X1,1,,wood,calf fur,steel tooltip
+C2_S2_M7_P3_X1,2,,polymer,calf fur,steel tooltip
+C2_S3_M10_P1_X1,1,,textile,artificial crocodile leather,steel tooltip
+C2_S3_M10_P1_X1,2,,polymer,artificial crocodile leather,steel tooltip
+C2_S3_M11_P1_X1,1,,polymer,artificial turtle leather,steel tooltip
+C2_S3_M11_P1_X1,2,,polymer,artificial turtle leather,steel tooltip
+C2_S3_M12_P1_X1,1,,textile,artificial snake leather,steel tooltip
+C2_S3_M12_P1_X1,2,,textile,artificial snake leather,steel tooltip
+C2_S3_M13_P1_X1,1,,textile,boar leather,steel tooltip
+C2_S3_M13_P1_X1,2,,textile,boar leather,steel tooltip
+C2_S3_M1_P1_X1,1,,textile,cow leather,steel tooltip
+C2_S3_M1_P1_X1,2,,textile,cow leather,steel tooltip
+C2_S3_M2_P1_X1,1,,textile,reindeer leather,steel tooltip
+C2_S3_M2_P1_X1,2,,textile,reindeer leather,steel tooltip
+C2_S3_M3_P1_X1,1,,polymer,calf leather,steel tooltip
+C2_S3_M3_P1_X1,2,,polymer,calf leather,steel tooltip
+C2_S3_M4_P1_X1,1,,polymer,goat leather,steel tooltip
+C2_S3_M4_P1_X1,2,,polymer,goat leather,steel tooltip
+C2_S3_M5_P1_X1,1,,textile,deer leather,steel tooltip
+C2_S3_M5_P1_X1,2,,polymer,deer leather,steel tooltip
+C2_S3_M6_P1_X1,1,,polymer,lamb leather,steel tooltip
+C2_S3_M6_P1_X1,2,,polymer,lamb leather,steel tooltip
+C2_S3_M7_P1_X1,1,,textile,pig leather,steel tooltip
+C2_S3_M7_P1_X1,2,,textile,pig leather,steel tooltip
+C2_S3_M8_P1_X1,1,,polymer,yak leather,steel tooltip
+C2_S3_M8_P1_X1,2,,polymer,yak leather,steel tooltip
+C2_S3_M9_P1_X1,1,,polymer,bison leather,steel tooltip
+C2_S3_M9_P1_X1,2,,polymer,bison leather,steel tooltip
+C3_S1_M10_P3_X1,1,polymer,polymer,pmma,steel tooltip
+C3_S1_M10_P3_X1,2,polymer,polymer,pmma,steel tooltip
+C3_S1_M11_P2_X1,1,polymer,wood,pc,steel tooltip
+C3_S1_M11_P2_X1,2,polymer,wood,pc,steel tooltip
+C3_S1_M12_P5_X1,1,polymer,polymer,pa,steel tooltip
+C3_S1_M12_P5_X1,2,polymer,polymer,pa,steel tooltip
+C3_S1_M13_P1_X1,1,polymer,polymer,pet,steel tooltip
+C3_S1_M13_P1_X1,2,polymer,polymer,pet,steel tooltip
+C3_S1_M14_P1_X1,1,polymer,textile,pla,steel tooltip
+C3_S1_M14_P1_X1,2,polymer,textile,pla,steel tooltip
+C3_S1_M19_P3_X1,1,polymer,polymer,glass fiber reinforced polymer,steel tooltip
+C3_S1_M19_P3_X1,2,polymer,textile,glass fiber reinforced polymer,steel tooltip
+C3_S1_M1_P1_X1,1,polymer,polymer,pe hd,steel tooltip
+C3_S1_M1_P1_X1,2,polymer,polymer,pe hd,steel tooltip
+C3_S1_M20_P1_X1,1,polymer,polymer,polyaramids,steel tooltip
+C3_S1_M20_P1_X1,2,polymer,polymer,polyaramids,steel tooltip
+C3_S1_M21_P6_X1,1,polymer,polymer,tar,steel tooltip
+C3_S1_M21_P6_X1,2,polymer,polymer,tar,steel tooltip
+C3_S1_M2_P4_X1,1,polymer,polymer,pe ld,steel tooltip
+C3_S1_M2_P4_X1,2,polymer,polymer,pe ld,steel tooltip
+C3_S1_M3_P5_X1,1,polymer,polymer,pp,steel tooltip
+C3_S1_M3_P5_X1,2,polymer,polymer,pp,steel tooltip
+C3_S1_M4_P4_X1,1,polymer,polymer,ps,steel tooltip
+C3_S1_M4_P4_X1,2,polymer,textile,ps,steel tooltip
+C3_S1_M5_P4_X1,1,polymer,textile,eps,steel tooltip
+C3_S1_M5_P4_X1,2,polymer,textile,eps,steel tooltip
+C3_S1_M6_P3_X1,1,polymer,polymer,abs,steel tooltip
+C3_S1_M6_P3_X1,2,polymer,polymer,abs,steel tooltip
+C3_S1_M7_P3_X1,1,polymer,textile,pvc u,steel tooltip
+C3_S1_M7_P3_X1,2,polymer,polymer,pvc u,steel tooltip
+C3_S1_M8_P3_X1,1,polymer,textile,pvc p,steel tooltip
+C3_S1_M8_P3_X1,2,polymer,textile,pvc p,steel tooltip
+C3_S1_M9_P1_X1,1,polymer,wood,ptfe,steel tooltip
+C3_S1_M9_P1_X1,2,polymer,wood,ptfe,steel tooltip
+C3_S2_M1_P1_X1,1,polymer,polymer,pf,steel tooltip
+C3_S2_M1_P1_X1,2,polymer,polymer,pf,steel tooltip
+C3_S2_M2_P1_X1,1,polymer,polymer,mf,steel tooltip
+C3_S2_M2_P1_X1,2,polymer,polymer,mf,steel tooltip
+C3_S2_M4_P2_X1,1,polymer,polymer,"epoxy resin (ep), perforated",steel tooltip
+C3_S2_M4_P2_X1,2,polymer,polymer,"epoxy resin (ep), perforated",steel tooltip
+C3_S3_M1_P1_X1,1,polymer,polymer,rubber,steel tooltip
+C3_S3_M1_P1_X1,2,polymer,polymer,rubber,steel tooltip
+C3_S3_M2_P2_X1,1,polymer,polymer,foam,steel tooltip
+C3_S3_M2_P2_X1,2,polymer,textile,foam,steel tooltip
+C3_S3_M3_P2_X1,1,polymer,polymer,solid foam,steel tooltip
+C3_S3_M3_P2_X1,2,polymer,polymer,solid foam,steel tooltip
+C3_S3_M4_P1_X1,1,polymer,polymer,silicon,steel tooltip
+C3_S3_M4_P1_X1,2,polymer,polymer,silicon,steel tooltip
+C3_S4_M1_P1_X1,1,,polymer,carbon fiber,steel tooltip
+C3_S4_M1_P1_X1,2,,polymer,carbon fiber,steel tooltip
+C3_S5_M1_P1_X60,1,,textile,etfe,steel tooltip
+C3_S5_M1_P1_X60,2,,polymer,etfe,steel tooltip
+C3_S5_M2_P1_X65,1,,textile,pe,steel tooltip
+C3_S5_M2_P1_X65,2,,polymer,pe,steel tooltip
+C3_S5_M3_P1_X55,1,,textile,pe/pp,steel tooltip
+C3_S5_M3_P1_X55,2,,textile,pe/pp,steel tooltip
+C4_S1_M1_P1_X1,1,,metal,structural ceramic,steel tooltip
+C4_S1_M1_P1_X1,2,,metal,structural ceramic,steel tooltip
+C4_S1_M2_P1_X1,1,,textile,refractory material,steel tooltip
+C4_S1_M2_P1_X1,2,,textile,refractory material,steel tooltip
+C4_S1_M3_P1_X1,1,,metal,crockery,steel tooltip
+C4_S1_M3_P1_X1,2,,metal,crockery,steel tooltip
+C4_S2_M1_P2_X1,1,,textile,stoneware coarse,steel tooltip
+C4_S2_M1_P2_X1,2,,textile,stoneware coarse,steel tooltip
+C4_S2_M2_P1_X1,1,,metal,stoneware fine,steel tooltip
+C4_S2_M2_P1_X1,2,,metal,stoneware fine,steel tooltip
+C4_S2_M3_P2_X1,1,,metal,porcellaine,steel tooltip
+C4_S2_M3_P2_X1,2,,textile,porcellaine,steel tooltip
+C4_S3_M1_P1_X1,1,,textile,high-temp ceramic,steel tooltip
+C4_S3_M1_P1_X1,2,,textile,high-temp ceramic,steel tooltip
+C5_S1_M10_P4_X2,1,,polymer,glass wool,steel tooltip
+C5_S1_M10_P4_X2,2,,polymer,glass wool,steel tooltip
+C5_S1_M1_P1_X1,1,,polymer,float glass,steel tooltip
+C5_S1_M1_P1_X1,2,,polymer,float glass,steel tooltip
+C5_S1_M8_P2_X50,1,,textile,glass fibers,steel tooltip
+C5_S1_M8_P2_X50,2,,textile,glass fibers,steel tooltip
+C5_S1_M9_P3_X2,1,,metal,foam glass,steel tooltip
+C5_S1_M9_P3_X2,2,,metal,foam glass,steel tooltip
+C6_S1_M10_P5_X1,1,,textile,volcanic tuff,steel tooltip
+C6_S1_M10_P5_X1,2,,textile,volcanic tuff,steel tooltip
+C6_S1_M1_P1_X1,1,,metal,granite,steel tooltip
+C6_S1_M1_P1_X1,2,,polymer,granite,steel tooltip
+C6_S1_M2_P1_X1,1,,polymer,syenite,steel tooltip
+C6_S1_M2_P1_X1,2,,textile,syenite,steel tooltip
+C6_S1_M3_P1_X1,1,,metal,diorite,steel tooltip
+C6_S1_M3_P1_X1,2,,textile,diorite,steel tooltip
+C6_S1_M4_P2_X1,1,,metal,gabbro,steel tooltip
+C6_S1_M4_P2_X1,2,,textile,gabbro,steel tooltip
+C6_S1_M5_P1_X1,1,,metal,rhyolite,steel tooltip
+C6_S1_M5_P1_X1,2,,metal,rhyolite,steel tooltip
+C6_S1_M6_P3_X1,1,,textile,trachyte,steel tooltip
+C6_S1_M6_P3_X1,2,,textile,trachyte,steel tooltip
+C6_S1_M7_P4_X1,1,,textile,basalt,steel tooltip
+C6_S1_M7_P4_X1,2,,textile,basalt,steel tooltip
+C6_S1_M8_P4_X1,1,,textile,diabase,steel tooltip
+C6_S1_M8_P4_X1,2,,metal,diabase,steel tooltip
+C6_S1_M9_P3_X1,1,,metal,igneous rocks,steel tooltip
+C6_S1_M9_P3_X1,2,,metal,igneous rocks,steel tooltip
+C6_S2_M10_P1_X1,1,,textile,lithographic limestone,steel tooltip
+C6_S2_M10_P1_X1,2,,textile,lithographic limestone,steel tooltip
+C6_S2_M11_P5_X1,1,,textile,dolomite,steel tooltip
+C6_S2_M11_P5_X1,2,,textile,dolomite,steel tooltip
+C6_S2_M12_P2_X1,1,,wood,travertin red,steel tooltip
+C6_S2_M12_P2_X1,2,,wood,travertin red,steel tooltip
+C6_S2_M1_P1_X60,1,,metal,conglomerate,steel tooltip
+C6_S2_M1_P1_X60,2,,metal,conglomerate,steel tooltip
+C6_S2_M2_P2_X55,1,,polymer,brekcie,steel tooltip
+C6_S2_M2_P2_X55,2,,polymer,brekcie,steel tooltip
+C6_S2_M3_P3_X1,1,,textile,sand stone,steel tooltip
+C6_S2_M3_P3_X1,2,,textile,sand stone,steel tooltip
+C6_S2_M4_P3_X1,1,,textile,rubblestone,steel tooltip
+C6_S2_M4_P3_X1,2,,textile,rubblestone,steel tooltip
+C6_S2_M5_P4_X1,1,,metal,clay shale,steel tooltip
+C6_S2_M5_P4_X1,2,,textile,clay shale,steel tooltip
+C6_S2_M6_P4_X1,1,,metal,chalk,steel tooltip
+C6_S2_M6_P4_X1,2,,metal,chalk,steel tooltip
+C6_S2_M7_P4_X1,1,,polymer,shell limestone,steel tooltip
+C6_S2_M7_P4_X1,2,,polymer,shell limestone,steel tooltip
+C6_S2_M8_P5_X1,1,,polymer,travertine,steel tooltip
+C6_S2_M8_P5_X1,2,,metal,travertine,steel tooltip
+C6_S2_M9_P5_X1,1,,textile,clay tuff,steel tooltip
+C6_S2_M9_P5_X1,2,,wood,clay tuff,steel tooltip
+C6_S3_M1_P1_X1,1,,textile,orthogneiss,steel tooltip
+C6_S3_M1_P1_X1,2,,textile,orthogneiss,steel tooltip
+C6_S3_M2_P2_X1,1,,metal,quartzite,steel tooltip
+C6_S3_M2_P2_X1,2,,metal,quartzite,steel tooltip
+C6_S3_M3_P2_X1,1,,metal,mica slate,steel tooltip
+C6_S3_M3_P2_X1,2,,textile,mica slate,steel tooltip
+C6_S3_M4_P2_X1,1,,wood,chlorite slate,steel tooltip
+C6_S3_M4_P2_X1,2,,textile,chlorite slate,steel tooltip
+C6_S3_M5_P3_X1,1,,metal,serpentinite,steel tooltip
+C6_S3_M5_P3_X1,2,,metal,serpentinite,steel tooltip
+C6_S3_M6_P3_X1,1,,metal,marble,steel tooltip
+C6_S3_M6_P3_X1,2,,metal,marble,steel tooltip
+C6_S3_M7_P4_X1,1,,metal,migmatite,steel tooltip
+C6_S3_M7_P4_X1,2,,metal,migmatite,steel tooltip
+C6_S4_M1_P1_X1,1,,textile,concrete,steel tooltip
+C6_S4_M1_P1_X1,2,,textile,concrete,steel tooltip
+C6_S5_M1_P1_X1,1,,metal,coral,steel tooltip
+C6_S5_M1_P1_X1,2,,metal,coral,steel tooltip
+C7_S1_M1_P1_X98,1,metal,polymer,steel,steel tooltip
+C7_S1_M1_P1_X98,2,metal,polymer,steel,steel tooltip
+C7_S1_M2_P1_X90,1,metal,polymer,stainless steel,steel tooltip
+C7_S1_M2_P1_X90,2,metal,polymer,stainless steel,steel tooltip
+C7_S1_M3_P2_X90,1,metal,metal,noncorroding steel,steel tooltip
+C7_S1_M3_P2_X90,2,metal,metal,noncorroding steel,steel tooltip
+C7_S1_M4_P3_X99,1,metal,textile,cast iron,steel tooltip
+C7_S1_M4_P3_X99,2,metal,polymer,cast iron,steel tooltip
+C7_S2_M1_P1_X1,1,metal,polymer,aluminum,steel tooltip
+C7_S2_M1_P1_X1,2,metal,polymer,aluminum,steel tooltip
+C7_S2_M2_P1_X1,1,metal,polymer,zinc,steel tooltip
+C7_S2_M2_P1_X1,2,metal,wood,zinc,steel tooltip
+C7_S2_M3_P3_X1,1,metal,polymer,lead,steel tooltip
+C7_S2_M3_P3_X1,2,metal,polymer,lead,steel tooltip
+C7_S2_M4_P2_X1,1,metal,polymer,copper,steel tooltip
+C7_S2_M4_P2_X1,2,metal,metal,copper,steel tooltip
+C7_S3_M1_P1_X50,1,metal,polymer,galvanized metals,steel tooltip
+C7_S3_M1_P1_X50,2,metal,polymer,galvanized metals,steel tooltip
+C7_S3_M2_P1_X40,1,metal,metal,brass,steel tooltip
+C7_S3_M2_P1_X40,2,metal,metal,brass,steel tooltip
+C7_S3_M3_P1_X60,1,metal,metal,bronce,steel tooltip
+C7_S3_M3_P1_X60,2,metal,wood,bronce,steel tooltip
+C7_S4_M1_P13_X1,1,,polymer,steelwool,steel tooltip
+C7_S4_M1_P13_X1,2,,polymer,steelwool,steel tooltip
+C8_S1_M1_P1_X30,1,,polymer,linoleum,steel tooltip
+C8_S1_M1_P1_X30,2,,polymer,linoleum,steel tooltip
+C8_S1_M2_P1_X50,1,,metal,heat insulating materials,steel tooltip
+C8_S1_M2_P1_X50,2,,metal,heat insulating materials,steel tooltip
+C8_S2_M1_P1_X50,1,,wood,tar with stones,steel tooltip
+C8_S2_M1_P1_X50,2,,wood,tar with stones,steel tooltip
+C8_S3_M1_P3_X50,1,,polymer,aluminum polymer,steel tooltip
+C8_S3_M1_P3_X50,2,,polymer,aluminum polymer,steel tooltip
+C8_S4_M1_P1_X15,1,,textile,sandpaper,steel tooltip
+C8_S4_M1_P1_X15,2,,metal,sandpaper,steel tooltip
+C8_S5_M1_P1_X60,1,,polymer,woodchip paper,steel tooltip
+C8_S5_M1_P1_X60,2,,textile,woodchip paper,steel tooltip
+tmpC1_S5_M3,2,,wood,wood fibers,steel tooltip
+C1_S1_M10_P3_X1,1,wood,polymer,vavona,default tooltip
+C1_S1_M10_P3_X1,2,wood,polymer,vavona,default tooltip
+C1_S1_M11_P1_X1,1,wood,polymer,gaboon,default tooltip
+C1_S1_M11_P1_X1,2,wood,textile,gaboon,default tooltip
+C1_S1_M1_P1_X1,1,wood,polymer,spruce,default tooltip
+C1_S1_M1_P1_X1,2,wood,metal,spruce,default tooltip
+C1_S1_M2_P1_X1,1,wood,polymer,douglasy,default tooltip
+C1_S1_M2_P1_X1,2,wood,polymer,douglasy,default tooltip
+C1_S1_M3_P1_X1,1,wood,polymer,arolla pine,default tooltip
+C1_S1_M3_P1_X1,2,wood,polymer,arolla pine,default tooltip
+C1_S1_M4_P1_X1,1,wood,textile,silver fir,default tooltip
+C1_S1_M4_P1_X1,2,wood,polymer,silver fir,default tooltip
+C1_S1_M5_P1_X1,1,wood,wood,larch,default tooltip
+C1_S1_M5_P1_X1,2,wood,wood,larch,default tooltip
+C1_S1_M6_P2_X1,1,wood,polymer,pine,default tooltip
+C1_S1_M6_P2_X1,2,wood,polymer,pine,default tooltip
+C1_S1_M7_P3_X1,1,wood,polymer,cedar,default tooltip
+C1_S1_M7_P3_X1,2,wood,polymer,cedar,default tooltip
+C1_S1_M8_P2_X1,1,wood,metal,hemlock pine,default tooltip
+C1_S1_M8_P2_X1,2,wood,textile,hemlock pine,default tooltip
+C1_S1_M9_P2_X1,1,wood,textile,sequoia,default tooltip
+C1_S1_M9_P2_X1,2,wood,textile,sequoia,default tooltip
+C1_S2_M10_P1_X1,1,wood,polymer,plane,default tooltip
+C1_S2_M10_P1_X1,2,wood,polymer,plane,default tooltip
+C1_S2_M11_P1_X1,1,wood,wood,elm,default tooltip
+C1_S2_M11_P1_X1,2,wood,wood,elm,default tooltip
+C1_S2_M12_P1_X1,1,wood,textile,ash,default tooltip
+C1_S2_M12_P1_X1,2,wood,polymer,ash,default tooltip
+C1_S2_M13_P3_X1,1,wood,textile,birch,default tooltip
+C1_S2_M13_P3_X1,2,wood,textile,birch,default tooltip
+C1_S2_M14_P1_X1,1,wood,metal,field maple,default tooltip
+C1_S2_M14_P1_X1,2,wood,metal,field maple,default tooltip
+C1_S2_M15_P1_X1,1,wood,polymer,boxwood,default tooltip
+C1_S2_M15_P1_X1,2,wood,polymer,boxwood,default tooltip
+C1_S2_M16_P1_X1,1,wood,textile,oak,default tooltip
+C1_S2_M16_P1_X1,2,wood,wood,oak,default tooltip
+C1_S2_M17_P1_X1,1,wood,wood,robinia,default tooltip
+C1_S2_M17_P1_X1,2,wood,wood,robinia,default tooltip
+C1_S2_M18_P1_X1,1,wood,textile,chestnut,default tooltip
+C1_S2_M18_P1_X1,2,wood,polymer,chestnut,default tooltip
+C1_S2_M19_P3_X1,1,wood,wood,yang,default tooltip
+C1_S2_M19_P3_X1,2,wood,polymer,yang,default tooltip
+C1_S2_M1_P2_X1,1,wood,textile,alder,default tooltip
+C1_S2_M1_P2_X1,2,wood,textile,alder,default tooltip
+C1_S2_M20_P2_X1,1,wood,polymer,khaya,default tooltip
+C1_S2_M20_P2_X1,2,wood,polymer,khaya,default tooltip
+C1_S2_M21_P1_X1,1,wood,wood,dao,default tooltip
+C1_S2_M21_P1_X1,2,wood,wood,dao,default tooltip
+C1_S2_M22_P1_X1,1,wood,textile,mansonia,default tooltip
+C1_S2_M22_P1_X1,2,wood,textile,mansonia,default tooltip
+C1_S2_M23_P1_X1,1,wood,metal,obeche,default tooltip
+C1_S2_M23_P1_X1,2,wood,metal,obeche,default tooltip
+C1_S2_M24_P1_X1,1,wood,textile,idigbo,default tooltip
+C1_S2_M24_P1_X1,2,wood,textile,idigbo,default tooltip
+C1_S2_M25_P2_X1,1,wood,polymer,rosewood,default tooltip
+C1_S2_M25_P2_X1,2,wood,polymer,rosewood,default tooltip
+C1_S2_M26_P1_X1,1,wood,textile,avodire,default tooltip
+C1_S2_M26_P1_X1,2,wood,textile,avodire,default tooltip
+C1_S2_M27_P1_X1,1,wood,textile,sen,default tooltip
+C1_S2_M27_P1_X1,2,wood,textile,sen,default tooltip
+C1_S2_M28_P2_X1,1,wood,polymer,bubinga,default tooltip
+C1_S2_M28_P2_X1,2,wood,textile,bubinga,default tooltip
+C1_S2_M29_P3_X1,1,wood,polymer,eucalypt,default tooltip
+C1_S2_M29_P3_X1,2,wood,textile,eucalypt,default tooltip
+C1_S2_M2_P3_X1,1,wood,polymer,cottonwood,default tooltip
+C1_S2_M2_P3_X1,2,wood,polymer,cottonwood,default tooltip
+C1_S2_M30_P1_X1,1,wood,textile,padauk,default tooltip
+C1_S2_M30_P1_X1,2,wood,textile,padauk,default tooltip
+C1_S2_M31_P1_X1,1,wood,polymer,opepe,default tooltip
+C1_S2_M31_P1_X1,2,wood,textile,opepe,default tooltip
+C1_S2_M32_P3_X1,1,wood,textile,teak,default tooltip
+C1_S2_M32_P3_X1,2,wood,textile,teak,default tooltip
+C1_S2_M33_P3_X1,1,wood,textile,myrtle,default tooltip
+C1_S2_M33_P3_X1,2,wood,textile,myrtle,default tooltip
+C1_S2_M34_P3_X1,1,wood,textile,limba,default tooltip
+C1_S2_M34_P3_X1,2,wood,textile,limba,default tooltip
+C1_S2_M35_P1_X1,1,wood,polymer,pepper palm,default tooltip
+C1_S2_M35_P1_X1,2,wood,polymer,pepper palm,default tooltip
+C1_S2_M36_P3_X1,1,wood,polymer,abura,default tooltip
+C1_S2_M36_P3_X1,2,wood,polymer,abura,default tooltip
+C1_S2_M37_P1_X1,1,wood,textile,zapatero,default tooltip
+C1_S2_M37_P1_X1,2,wood,textile,zapatero,default tooltip
+C1_S2_M38_P1_X1,1,wood,textile,makore,default tooltip
+C1_S2_M38_P1_X1,2,wood,polymer,makore,default tooltip
+C1_S2_M39_P1_X1,1,wood,polymer,mahagony,default tooltip
+C1_S2_M39_P1_X1,2,wood,polymer,mahagony,default tooltip
+C1_S2_M3_P2_X1,1,wood,textile,lime,default tooltip
+C1_S2_M3_P2_X1,2,wood,textile,lime,default tooltip
+C1_S2_M40_P3_X1,1,wood,textile,muninga,default tooltip
+C1_S2_M40_P3_X1,2,wood,textile,muninga,default tooltip
+C1_S2_M41_P3_X1,1,wood,metal,wenge,default tooltip
+C1_S2_M41_P3_X1,2,wood,wood,wenge,default tooltip
+C1_S2_M42_P1_X1,1,wood,metal,macassar ebony,default tooltip
+C1_S2_M42_P1_X1,2,wood,metal,macassar ebony,default tooltip
+C1_S2_M43_P1_X1,1,wood,metal,afromosia,default tooltip
+C1_S2_M43_P1_X1,2,wood,metal,afromosia,default tooltip
+C1_S2_M44_P2_X1,1,wood,textile,zebrano,default tooltip
+C1_S2_M44_P2_X1,2,wood,textile,zebrano,default tooltip
+C1_S2_M45_P1_X1,1,wood,polymer,okume,default tooltip
+C1_S2_M45_P1_X1,2,wood,wood,okume,default tooltip
+C1_S2_M46_P1_X1,1,wood,textile,bintangor,default tooltip
+C1_S2_M46_P1_X1,2,wood,polymer,bintangor,default tooltip
+C1_S2_M47_P3_X1,1,wood,polymer,madrona,default tooltip
+C1_S2_M47_P3_X1,2,wood,textile,madrona,default tooltip
+C1_S2_M48_P1_X1,1,wood,metal,coubaril,default tooltip
+C1_S2_M48_P1_X1,2,wood,textile,coubaril,default tooltip
+C1_S2_M49_P1_X1,1,wood,textile,purpleheart,default tooltip
+C1_S2_M49_P1_X1,2,wood,polymer,purpleheart,default tooltip
+C1_S2_M4_P1_X1,1,wood,polymer,beech,default tooltip
+C1_S2_M4_P1_X1,2,wood,polymer,beech,default tooltip
+C1_S2_M50_P2_X1,1,wood,textile,ramin,default tooltip
+C1_S2_M50_P2_X1,2,wood,polymer,ramin,default tooltip
+C1_S2_M51_P1_X1,1,wood,polymer,iroko,default tooltip
+C1_S2_M51_P1_X1,2,wood,wood,iroko,default tooltip
+C1_S2_M52_P3_X1,1,wood,wood,white cedar,default tooltip
+C1_S2_M52_P3_X1,2,wood,wood,white cedar,default tooltip
+C1_S2_M53_P1_X1,1,wood,polymer,ceylon satinwood,default tooltip
+C1_S2_M53_P1_X1,2,wood,metal,ceylon satinwood,default tooltip
+C1_S2_M54_P1_X1,1,wood,polymer,willow,default tooltip
+C1_S2_M54_P1_X1,2,wood,polymer,willow,default tooltip
+C1_S2_M55_P1_X1,1,wood,polymer,jacaranda,default tooltip
+C1_S2_M55_P1_X1,2,wood,wood,jacaranda,default tooltip
+C1_S2_M56_P1_X1,1,wood,polymer,niangon,default tooltip
+C1_S2_M56_P1_X1,2,wood,polymer,niangon,default tooltip
+C1_S2_M57_P1_X1,1,wood,polymer,afr. walnut,default tooltip
+C1_S2_M57_P1_X1,2,wood,polymer,afr. walnut,default tooltip
+C1_S2_M58_P2_X1,1,wood,polymer,iroko,default tooltip
+C1_S2_M58_P2_X1,2,wood,textile,iroko,default tooltip
+C1_S2_M59_P1_X1,1,wood,textile,utile,default tooltip
+C1_S2_M59_P1_X1,2,wood,polymer,utile,default tooltip
+C1_S2_M5_P1_X1,1,wood,textile,walnut,default tooltip
+C1_S2_M5_P1_X1,2,wood,textile,walnut,default tooltip
+C1_S2_M60_P1_X1,1,wood,polymer,hickory,default tooltip
+C1_S2_M60_P1_X1,2,wood,polymer,hickory,default tooltip
+C1_S2_M61_P1_X1,1,wood,wood,meranti,default tooltip
+C1_S2_M61_P1_X1,2,wood,polymer,meranti,default tooltip
+C1_S2_M62_P1_X1,1,wood,polymer,ekki,default tooltip
+C1_S2_M62_P1_X1,2,wood,polymer,ekki,default tooltip
+C1_S2_M63_P1_X1,1,wood,wood,cocobolo,default tooltip
+C1_S2_M63_P1_X1,2,wood,polymer,cocobolo,default tooltip
+C1_S2_M64_P1_X1,1,wood,textile,sapele,default tooltip
+C1_S2_M64_P1_X1,2,wood,polymer,sapele,default tooltip
+C1_S2_M65_P1_X1,1,wood,polymer,mutenye,default tooltip
+C1_S2_M65_P1_X1,2,wood,textile,mutenye,default tooltip
+C1_S2_M66_P1_X1,1,wood,polymer,balau,default tooltip
+C1_S2_M66_P1_X1,2,wood,polymer,balau,default tooltip
+C1_S2_M67_P1_X1,1,wood,polymer,afzelia,default tooltip
+C1_S2_M67_P1_X1,2,wood,polymer,afzelia,default tooltip
+C1_S2_M68_P2_X1,1,wood,polymer,zebrano,default tooltip
+C1_S2_M68_P2_X1,2,wood,polymer,zebrano,default tooltip
+C1_S2_M69_P2_X1,1,wood,textile,whitewood,default tooltip
+C1_S2_M69_P2_X1,2,wood,textile,whitewood,default tooltip
+C1_S2_M6_P1_X1,1,wood,polymer,pear,default tooltip
+C1_S2_M6_P1_X1,2,wood,polymer,pear,default tooltip
+C1_S2_M70_P2_X1,1,wood,textile,balsa,default tooltip
+C1_S2_M70_P2_X1,2,wood,textile,balsa,default tooltip
+C1_S2_M71_P2_X1,1,wood,textile,bamboo,default tooltip
+C1_S2_M71_P2_X1,2,wood,polymer,bamboo,default tooltip
+C1_S2_M7_P1_X1,1,wood,polymer,cherry,default tooltip
+C1_S2_M7_P1_X1,2,wood,metal,cherry,default tooltip
+C1_S2_M8_P1_X1,1,wood,polymer,apple,default tooltip
+C1_S2_M8_P1_X1,2,wood,polymer,apple,default tooltip
+C1_S2_M9_P1_X1,1,wood,textile,plum,default tooltip
+C1_S2_M9_P1_X1,2,wood,polymer,plum,default tooltip
+C1_S3_M1_P1_X1,1,,wood,cork,default tooltip
+C1_S3_M1_P1_X1,2,,textile,cork,default tooltip
+C1_S4_M1_P1_X1,1,,polymer,cardboard,default tooltip
+C1_S4_M1_P1_X1,2,,polymer,cardboard,default tooltip
+C1_S4_M2_P1_X2,1,,polymer,paper,default tooltip
+C1_S4_M2_P1_X2,2,,polymer,paper,default tooltip
+C1_S5_M1_P1_X1,1,,polymer,compressed wood,default tooltip
+C1_S5_M1_P1_X1,2,,polymer,compressed wood,default tooltip
+C1_S5_M2_P1_X1,1,,wood,wood shavings,default tooltip
+C1_S5_M2_P1_X1,2,,wood,wood shavings,default tooltip
+C1_S5_M3_P1_X1,1,,polymer,wood fibers,default tooltip
+C1_S5_M3_P1_X1,2,,polymer,wood fibers,default tooltip
+C2_S1_M1_P1_X1,1,textile,textile,hemp,default tooltip
+C2_S1_M1_P1_X1,2,textile,textile,hemp,default tooltip
+C2_S1_M2_P1_X1,1,textile,metal,flax,default tooltip
+C2_S1_M2_P1_X1,2,textile,metal,flax,default tooltip
+C2_S1_M3_P1_X1,1,textile,metal,coconut,default tooltip
+C2_S1_M3_P1_X1,2,textile,metal,coconut,default tooltip
+C2_S1_M4_P1_X1,1,textile,wood,jute,default tooltip
+C2_S1_M4_P1_X1,2,textile,wood,jute,default tooltip
+C2_S2_M1_P2_X1,1,,textile,wool,default tooltip
+C2_S2_M1_P2_X1,2,,textile,wool,default tooltip
+C2_S2_M2_P1_X1,1,,polymer,merino wool,default tooltip
+C2_S2_M2_P1_X1,2,,wood,merino wool,default tooltip
+C2_S2_M3_P2_X1,1,,polymer,cashmere wool,default tooltip
+C2_S2_M3_P2_X1,2,,polymer,cashmere wool,default tooltip
+C2_S2_M4_P3_X1,1,,polymer,rabbit fur,default tooltip
+C2_S2_M4_P3_X1,2,,polymer,rabbit fur,default tooltip
+C2_S2_M5_P3_X1,1,,textile,goat fur,default tooltip
+C2_S2_M5_P3_X1,2,,textile,goat fur,default tooltip
+C2_S2_M6_P3_X1,1,,textile,cow fur,default tooltip
+C2_S2_M6_P3_X1,2,,textile,cow fur,default tooltip
+C2_S2_M7_P3_X1,1,,polymer,calf fur,default tooltip
+C2_S2_M7_P3_X1,2,,textile,calf fur,default tooltip
+C2_S3_M10_P1_X1,1,,textile,artificial crocodile leather,default tooltip
+C2_S3_M10_P1_X1,2,,polymer,artificial crocodile leather,default tooltip
+C2_S3_M11_P1_X1,1,,textile,artificial turtle leather,default tooltip
+C2_S3_M11_P1_X1,2,,textile,artificial turtle leather,default tooltip
+C2_S3_M12_P1_X1,1,,polymer,artificial snake leather,default tooltip
+C2_S3_M12_P1_X1,2,,polymer,artificial snake leather,default tooltip
+C2_S3_M13_P1_X1,1,,polymer,boar leather,default tooltip
+C2_S3_M13_P1_X1,2,,polymer,boar leather,default tooltip
+C2_S3_M1_P1_X1,1,,textile,cow leather,default tooltip
+C2_S3_M1_P1_X1,2,,textile,cow leather,default tooltip
+C2_S3_M2_P1_X1,1,,textile,reindeer leather,default tooltip
+C2_S3_M2_P1_X1,2,,polymer,reindeer leather,default tooltip
+C2_S3_M3_P1_X1,1,,polymer,calf leather,default tooltip
+C2_S3_M3_P1_X1,2,,textile,calf leather,default tooltip
+C2_S3_M4_P1_X1,1,,polymer,goat leather,default tooltip
+C2_S3_M4_P1_X1,2,,polymer,goat leather,default tooltip
+C2_S3_M5_P1_X1,1,,polymer,deer leather,default tooltip
+C2_S3_M5_P1_X1,2,,polymer,deer leather,default tooltip
+C2_S3_M6_P1_X1,1,,polymer,lamb leather,default tooltip
+C2_S3_M6_P1_X1,2,,polymer,lamb leather,default tooltip
+C2_S3_M7_P1_X1,1,,polymer,pig leather,default tooltip
+C2_S3_M7_P1_X1,2,,textile,pig leather,default tooltip
+C2_S3_M8_P1_X1,1,,polymer,yak leather,default tooltip
+C2_S3_M8_P1_X1,2,,wood,yak leather,default tooltip
+C2_S3_M9_P1_X1,1,,textile,bison leather,default tooltip
+C2_S3_M9_P1_X1,2,,textile,bison leather,default tooltip
+C3_S1_M10_P3_X1,1,polymer,textile,pmma,default tooltip
+C3_S1_M10_P3_X1,2,polymer,polymer,pmma,default tooltip
+C3_S1_M11_P2_X1,1,polymer,polymer,pc,default tooltip
+C3_S1_M11_P2_X1,2,polymer,polymer,pc,default tooltip
+C3_S1_M12_P5_X1,1,polymer,wood,pa,default tooltip
+C3_S1_M12_P5_X1,2,polymer,polymer,pa,default tooltip
+C3_S1_M13_P1_X1,1,polymer,metal,pet,default tooltip
+C3_S1_M13_P1_X1,2,polymer,polymer,pet,default tooltip
+C3_S1_M14_P1_X1,1,polymer,textile,pla,default tooltip
+C3_S1_M14_P1_X1,2,polymer,textile,pla,default tooltip
+C3_S1_M19_P3_X1,1,polymer,polymer,glass fiber reinforced polymer,default tooltip
+C3_S1_M19_P3_X1,2,polymer,textile,glass fiber reinforced polymer,default tooltip
+C3_S1_M1_P1_X1,1,polymer,polymer,pe hd,default tooltip
+C3_S1_M1_P1_X1,2,polymer,textile,pe hd,default tooltip
+C3_S1_M20_P1_X1,1,polymer,wood,polyaramids,default tooltip
+C3_S1_M20_P1_X1,2,polymer,wood,polyaramids,default tooltip
+C3_S1_M21_P6_X1,1,polymer,wood,tar,default tooltip
+C3_S1_M21_P6_X1,2,polymer,wood,tar,default tooltip
+C3_S1_M2_P4_X1,1,polymer,polymer,pe ld,default tooltip
+C3_S1_M2_P4_X1,2,polymer,metal,pe ld,default tooltip
+C3_S1_M3_P5_X1,1,polymer,wood,pp,default tooltip
+C3_S1_M3_P5_X1,2,polymer,wood,pp,default tooltip
+C3_S1_M4_P4_X1,1,polymer,textile,ps,default tooltip
+C3_S1_M4_P4_X1,2,polymer,textile,ps,default tooltip
+C3_S1_M5_P4_X1,1,polymer,polymer,eps,default tooltip
+C3_S1_M5_P4_X1,2,polymer,polymer,eps,default tooltip
+C3_S1_M6_P3_X1,1,polymer,wood,abs,default tooltip
+C3_S1_M6_P3_X1,2,polymer,wood,abs,default tooltip
+C3_S1_M7_P3_X1,1,polymer,textile,pvc u,default tooltip
+C3_S1_M7_P3_X1,2,polymer,textile,pvc u,default tooltip
+C3_S1_M8_P3_X1,1,polymer,textile,pvc p,default tooltip
+C3_S1_M8_P3_X1,2,polymer,polymer,pvc p,default tooltip
+C3_S1_M9_P1_X1,1,polymer,textile,ptfe,default tooltip
+C3_S1_M9_P1_X1,2,polymer,metal,ptfe,default tooltip
+C3_S2_M1_P1_X1,1,polymer,textile,pf,default tooltip
+C3_S2_M1_P1_X1,2,polymer,wood,pf,default tooltip
+C3_S2_M2_P1_X1,1,polymer,polymer,mf,default tooltip
+C3_S2_M2_P1_X1,2,polymer,polymer,mf,default tooltip
+C3_S2_M4_P2_X1,1,polymer,metal,"epoxy resin (ep), perforated",default tooltip
+C3_S2_M4_P2_X1,2,polymer,textile,"epoxy resin (ep), perforated",default tooltip
+C3_S3_M1_P1_X1,1,polymer,textile,rubber,default tooltip
+C3_S3_M1_P1_X1,2,polymer,textile,rubber,default tooltip
+C3_S3_M2_P2_X1,1,polymer,textile,foam,default tooltip
+C3_S3_M2_P2_X1,2,polymer,textile,foam,default tooltip
+C3_S3_M3_P2_X1,1,polymer,textile,solid foam,default tooltip
+C3_S3_M3_P2_X1,2,polymer,textile,solid foam,default tooltip
+C3_S3_M4_P1_X1,1,polymer,textile,silicon,default tooltip
+C3_S3_M4_P1_X1,2,polymer,textile,silicon,default tooltip
+C3_S4_M1_P1_X1,1,,textile,carbon fiber,default tooltip
+C3_S4_M1_P1_X1,2,,metal,carbon fiber,default tooltip
+C3_S5_M1_P1_X60,1,,textile,etfe,default tooltip
+C3_S5_M1_P1_X60,2,,textile,etfe,default tooltip
+C3_S5_M2_P1_X65,1,,metal,pe,default tooltip
+C3_S5_M2_P1_X65,2,,metal,pe,default tooltip
+C3_S5_M3_P1_X55,1,,textile,pe/pp,default tooltip
+C3_S5_M3_P1_X55,2,,textile,pe/pp,default tooltip
+C4_S1_M1_P1_X1,1,,metal,structural ceramic,default tooltip
+C4_S1_M1_P1_X1,2,,wood,structural ceramic,default tooltip
+C4_S1_M2_P1_X1,1,,metal,refractory material,default tooltip
+C4_S1_M2_P1_X1,2,,wood,refractory material,default tooltip
+C4_S1_M3_P1_X1,1,,wood,crockery,default tooltip
+C4_S1_M3_P1_X1,2,,metal,crockery,default tooltip
+C4_S2_M1_P2_X1,1,,polymer,stoneware coarse,default tooltip
+C4_S2_M1_P2_X1,2,,metal,stoneware coarse,default tooltip
+C4_S2_M2_P1_X1,1,,textile,stoneware fine,default tooltip
+C4_S2_M2_P1_X1,2,,textile,stoneware fine,default tooltip
+C4_S2_M3_P2_X1,1,,textile,porcellaine,default tooltip
+C4_S2_M3_P2_X1,2,,wood,porcellaine,default tooltip
+C4_S3_M1_P1_X1,1,,wood,high-temp ceramic,default tooltip
+C4_S3_M1_P1_X1,2,,wood,high-temp ceramic,default tooltip
+C5_S1_M10_P4_X2,1,,polymer,glass wool,default tooltip
+C5_S1_M10_P4_X2,2,,textile,glass wool,default tooltip
+C5_S1_M1_P1_X1,1,,textile,float glass,default tooltip
+C5_S1_M1_P1_X1,2,,textile,float glass,default tooltip
+C5_S1_M8_P2_X50,1,,polymer,glass fibers,default tooltip
+C5_S1_M8_P2_X50,2,,wood,glass fibers,default tooltip
+C5_S1_M9_P3_X2,1,,wood,foam glass,default tooltip
+C5_S1_M9_P3_X2,2,,wood,foam glass,default tooltip
+C6_S1_M10_P5_X1,1,,wood,volcanic tuff,default tooltip
+C6_S1_M10_P5_X1,2,,textile,volcanic tuff,default tooltip
+C6_S1_M1_P1_X1,1,,polymer,granite,default tooltip
+C6_S1_M1_P1_X1,2,,textile,granite,default tooltip
+C6_S1_M2_P1_X1,1,,textile,syenite,default tooltip
+C6_S1_M2_P1_X1,2,,textile,syenite,default tooltip
+C6_S1_M3_P1_X1,1,,metal,diorite,default tooltip
+C6_S1_M3_P1_X1,2,,polymer,diorite,default tooltip
+C6_S1_M4_P2_X1,1,,polymer,gabbro,default tooltip
+C6_S1_M4_P2_X1,2,,polymer,gabbro,default tooltip
+C6_S1_M5_P1_X1,1,,metal,rhyolite,default tooltip
+C6_S1_M5_P1_X1,2,,metal,rhyolite,default tooltip
+C6_S1_M6_P3_X1,1,,metal,trachyte,default tooltip
+C6_S1_M6_P3_X1,2,,metal,trachyte,default tooltip
+C6_S1_M7_P4_X1,1,,metal,basalt,default tooltip
+C6_S1_M7_P4_X1,2,,wood,basalt,default tooltip
+C6_S1_M8_P4_X1,1,,textile,diabase,default tooltip
+C6_S1_M8_P4_X1,2,,textile,diabase,default tooltip
+C6_S1_M9_P3_X1,1,,wood,igneous rocks,default tooltip
+C6_S1_M9_P3_X1,2,,wood,igneous rocks,default tooltip
+C6_S2_M10_P1_X1,1,,wood,lithographic limestone,default tooltip
+C6_S2_M10_P1_X1,2,,wood,lithographic limestone,default tooltip
+C6_S2_M11_P5_X1,1,,textile,dolomite,default tooltip
+C6_S2_M11_P5_X1,2,,polymer,dolomite,default tooltip
+C6_S2_M12_P2_X1,1,,polymer,travertin red,default tooltip
+C6_S2_M12_P2_X1,2,,textile,travertin red,default tooltip
+C6_S2_M1_P1_X60,1,,polymer,conglomerate,default tooltip
+C6_S2_M1_P1_X60,2,,polymer,conglomerate,default tooltip
+C6_S2_M2_P2_X55,1,,textile,brekcie,default tooltip
+C6_S2_M2_P2_X55,2,,textile,brekcie,default tooltip
+C6_S2_M3_P3_X1,1,,metal,sand stone,default tooltip
+C6_S2_M3_P3_X1,2,,metal,sand stone,default tooltip
+C6_S2_M4_P3_X1,1,,textile,rubblestone,default tooltip
+C6_S2_M4_P3_X1,2,,wood,rubblestone,default tooltip
+C6_S2_M5_P4_X1,1,,polymer,clay shale,default tooltip
+C6_S2_M5_P4_X1,2,,polymer,clay shale,default tooltip
+C6_S2_M6_P4_X1,1,,polymer,chalk,default tooltip
+C6_S2_M6_P4_X1,2,,polymer,chalk,default tooltip
+C6_S2_M7_P4_X1,1,,textile,shell limestone,default tooltip
+C6_S2_M7_P4_X1,2,,textile,shell limestone,default tooltip
+C6_S2_M8_P5_X1,1,,textile,travertine,default tooltip
+C6_S2_M8_P5_X1,2,,textile,travertine,default tooltip
+C6_S2_M9_P5_X1,1,,metal,clay tuff,default tooltip
+C6_S2_M9_P5_X1,2,,metal,clay tuff,default tooltip
+C6_S3_M1_P1_X1,1,,metal,orthogneiss,default tooltip
+C6_S3_M1_P1_X1,2,,metal,orthogneiss,default tooltip
+C6_S3_M2_P2_X1,1,,wood,quartzite,default tooltip
+C6_S3_M2_P2_X1,2,,textile,quartzite,default tooltip
+C6_S3_M3_P2_X1,1,,polymer,mica slate,default tooltip
+C6_S3_M3_P2_X1,2,,polymer,mica slate,default tooltip
+C6_S3_M4_P2_X1,1,,textile,chlorite slate,default tooltip
+C6_S3_M4_P2_X1,2,,textile,chlorite slate,default tooltip
+C6_S3_M5_P3_X1,1,,textile,serpentinite,default tooltip
+C6_S3_M5_P3_X1,2,,textile,serpentinite,default tooltip
+C6_S3_M6_P3_X1,1,,textile,marble,default tooltip
+C6_S3_M6_P3_X1,2,,polymer,marble,default tooltip
+C6_S3_M7_P4_X1,1,,polymer,migmatite,default tooltip
+C6_S3_M7_P4_X1,2,,polymer,migmatite,default tooltip
+C6_S4_M1_P1_X1,1,,textile,concrete,default tooltip
+C6_S4_M1_P1_X1,2,,textile,concrete,default tooltip
+C6_S5_M1_P1_X1,1,,polymer,coral,default tooltip
+C6_S5_M1_P1_X1,2,,polymer,coral,default tooltip
+C7_S1_M1_P1_X98,1,metal,wood,steel,default tooltip
+C7_S1_M1_P1_X98,2,metal,metal,steel,default tooltip
+C7_S1_M2_P1_X90,1,metal,textile,stainless steel,default tooltip
+C7_S1_M2_P1_X90,2,metal,textile,stainless steel,default tooltip
+C7_S1_M3_P2_X90,1,metal,wood,noncorroding steel,default tooltip
+C7_S1_M3_P2_X90,2,metal,wood,noncorroding steel,default tooltip
+C7_S1_M4_P3_X99,1,metal,polymer,cast iron,default tooltip
+C7_S1_M4_P3_X99,2,metal,textile,cast iron,default tooltip
+C7_S2_M1_P1_X1,1,metal,textile,aluminum,default tooltip
+C7_S2_M1_P1_X1,2,metal,textile,aluminum,default tooltip
+C7_S2_M2_P1_X1,1,metal,textile,zinc,default tooltip
+C7_S2_M2_P1_X1,2,metal,textile,zinc,default tooltip
+C7_S2_M3_P3_X1,1,metal,textile,lead,default tooltip
+C7_S2_M3_P3_X1,2,metal,textile,lead,default tooltip
+C7_S2_M4_P2_X1,1,metal,polymer,copper,default tooltip
+C7_S2_M4_P2_X1,2,metal,metal,copper,default tooltip
+C7_S3_M1_P1_X50,1,metal,textile,galvanized metals,default tooltip
+C7_S3_M1_P1_X50,2,metal,polymer,galvanized metals,default tooltip
+C7_S3_M2_P1_X40,1,metal,metal,brass,default tooltip
+C7_S3_M2_P1_X40,2,metal,metal,brass,default tooltip
+C7_S3_M3_P1_X60,1,metal,polymer,bronce,default tooltip
+C7_S3_M3_P1_X60,2,metal,metal,bronce,default tooltip
+C7_S4_M1_P13_X1,1,,textile,steelwool,default tooltip
+C7_S4_M1_P13_X1,2,,textile,steelwool,default tooltip
+C8_S1_M1_P1_X30,1,,polymer,linoleum,default tooltip
+C8_S1_M1_P1_X30,2,,polymer,linoleum,default tooltip
+C8_S1_M2_P1_X50,1,,polymer,heat insulating materials,default tooltip
+C8_S1_M2_P1_X50,2,,polymer,heat insulating materials,default tooltip
+C8_S2_M1_P1_X50,1,,wood,tar with stones,default tooltip
+C8_S2_M1_P1_X50,2,,polymer,tar with stones,default tooltip
+C8_S3_M1_P3_X50,1,,metal,aluminum polymer,default tooltip
+C8_S3_M1_P3_X50,2,,textile,aluminum polymer,default tooltip
+C8_S4_M1_P1_X15,1,,wood,sandpaper,default tooltip
+C8_S4_M1_P1_X15,2,,metal,sandpaper,default tooltip
+C8_S5_M1_P1_X60,1,,textile,woodchip paper,default tooltip
+C8_S5_M1_P1_X60,2,,textile,woodchip paper,default tooltip
+tmpC1_S5_M3,2,,polymer,wood fibers,default tooltip

@@ -1,0 +1,4 @@
+cible,source,toutes surfaces,partiel | famille,dans « polymer » (n = 13),dans « sans famille » (n = 57),dans « textile » (n = 22),dans « sans famille » (n = 20),dans « textile » (n = 12),dans « metal » (n = 9),dans « polymer » (n = 10),dans « textile » (n = 18),dans « wood » (n = 35)
+HaTT,LMT69 + SENS3,0.3101470147014701,0.3631367669045318,0.4340659340659341,0.22381384495722065,0.6939582156973463,,,,,,
+SENS3,HaTT + LMT69,0.6232412965186074,0.585400313286206,,,,0.7488721804511278,0.6923076923076924,,,,
+Cluster,HaTT + LMT69 + SENS3,-0.6009261346645054,-0.16561736507585034,,,,,,-0.8166666666666667,-0.03039527718400323,-0.20949432404540763,-0.18739495798319328

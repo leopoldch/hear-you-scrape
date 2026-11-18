@@ -1,0 +1,12 @@
+comparison,sensor,cosine
+across people,left microphone,0.68475044
+"same person, different trials",left microphone,0.68336946
+across people,right microphone,0.56322855
+"same person, different trials",right microphone,0.7020861
+across people,nail accelerometer,0.5734972
+"same person, different trials",nail accelerometer,0.6226019
+across people,phalanx accelerometer,0.57814556
+"same person, different trials",phalanx accelerometer,0.63928974
+across sensors,nail accelerometer vs phalanx accelerometer,0.70976895
+across sensors,left microphone vs right microphone,0.8264456
+across sensors,nail accelerometer vs left microphone,0.06711404

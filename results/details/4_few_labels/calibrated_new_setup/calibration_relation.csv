@@ -1,0 +1,31 @@
+check,trained on,tested on,value,family
+transfer matrix,cluster,cluster,0.565436507936508,
+transfer matrix,cluster,lmt108,0.2515625,
+transfer matrix,cluster,sens3,0.2519717261904762,
+transfer matrix,lmt108,cluster,0.21875992063492064,
+transfer matrix,lmt108,lmt108,0.6829017857142857,
+transfer matrix,lmt108,sens3,0.24858630952380956,
+transfer matrix,sens3,cluster,0.18774801587301587,
+transfer matrix,sens3,lmt108,0.21281250000000002,
+transfer matrix,sens3,sens3,0.5658705357142857,
+family direction cosine,cluster,lmt108,-0.262073814868927,wood
+family direction cosine,cluster,lmt108,0.06538231670856476,metal
+family direction cosine,cluster,lmt108,-0.23004800081253052,textile
+family direction cosine,cluster,lmt108,-0.03136373311281204,polymer
+family direction cosine,cluster,sens3,0.2761673331260681,wood
+family direction cosine,cluster,sens3,-0.05493937060236931,metal
+family direction cosine,cluster,sens3,-0.08416347950696945,textile
+family direction cosine,cluster,sens3,0.04783080145716667,polymer
+family direction cosine,lmt108,sens3,-0.1401166319847107,wood
+family direction cosine,lmt108,sens3,-0.2904306948184967,metal
+family direction cosine,lmt108,sens3,0.074040487408638,textile
+family direction cosine,lmt108,sens3,-0.3626168966293335,polymer
+"family direction cosine, same setup halves",cluster,cluster,0.5372530817985535,
+"family direction cosine, same setup halves",lmt108,lmt108,0.48830437660217285,
+"family direction cosine, same setup halves",sens3,sens3,0.4883224368095398,
+"k = 0, standardized",other two,cluster,0.24075396825396825,
+"k = 0, standardized + CORAL",other two,cluster,0.2554464285714286,
+"k = 0, standardized",other two,lmt108,0.04486607142857143,
+"k = 0, standardized + CORAL",other two,lmt108,0.16468750000000001,
+"k = 0, standardized",other two,sens3,0.2806473214285714,
+"k = 0, standardized + CORAL",other two,sens3,0.27877232142857145,

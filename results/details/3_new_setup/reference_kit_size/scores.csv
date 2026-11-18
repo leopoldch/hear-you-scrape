@@ -1,0 +1,7 @@
+test,score
+"Cluster probe on HaTT, relative to the 37 twins, no map",0.3942307692307692
+"Cluster probe on LMT108, relative to the 37 twins, no map",0.395625
+"TUM probe on Cluster (non-twins), no map",0.3333333333333333
+"TUM probe on Cluster (non-twins), translated",0.6957671957671957
+"TUM probe on Cluster: control, all pairs shuffled",0.2964285714285714
+"TUM probe on Cluster: control, pairs shuffled inside each family",0.6415343915343914

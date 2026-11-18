@@ -1,0 +1,25 @@
+dataset,weights,score
+LMT108,original CLAP,0.632638888888889
+LMT69,original CLAP,0.6741666666666664
+TUM,original CLAP,0.3814814814814815
+SENS3,original CLAP,0.36354166666666665
+Cluster,original CLAP,0.199537037037037
+Greatest Hits,original CLAP,0.5538250059678196
+LMT108,fine-tuned on the sources together,0.7232638888888888
+LMT69,fine-tuned on the sources together,0.9774999999999999
+TUM,fine-tuned on the sources together,0.6314814814814814
+SENS3,fine-tuned on the sources together,0.590625
+Cluster,fine-tuned on the sources together,0.7150462962962959
+Greatest Hits,fine-tuned on the sources together,0.6532640373681815
+LMT108,by stage: fine-tuned low stages only,0.5611111111111111
+LMT69,by stage: fine-tuned low stages only,0.9525000000000001
+TUM,by stage: fine-tuned low stages only,0.4037037037037037
+SENS3,by stage: fine-tuned low stages only,0.3795138888888889
+Cluster,by stage: fine-tuned low stages only,0.2652777777777778
+Greatest Hits,by stage: fine-tuned low stages only,0.5911045953490076
+LMT108,by stage: fine-tuned high stages only,0.7100694444444443
+LMT69,by stage: fine-tuned high stages only,0.9625
+TUM,by stage: fine-tuned high stages only,0.6777777777777778
+SENS3,by stage: fine-tuned high stages only,0.6145833333333333
+Cluster,by stage: fine-tuned high stages only,0.7534722222222225
+Greatest Hits,by stage: fine-tuned high stages only,0.6645988527329204

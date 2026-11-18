@@ -1,0 +1,19 @@
+test,score,low,high
+"twin percentile on left-out twins, no map",0.4372972972972974,,
+"twin percentile on left-out twins, with the map",0.632027027027027,,
+"family on TUM (twins excluded): Cluster probe, no map",0.35934065934065934,0.29241355866355867,0.5412524452269168
+"family on TUM (twins excluded): Cluster probe, translated",0.761050061050061,0.6338890999016866,0.8397472365286244
+"family on LMT108: Cluster probe, no map",0.25109375,0.17222265625,0.34842956349206344
+"family on LMT108: Cluster probe, translated",0.37642857142857145,0.25578050595238094,0.47592897727272726
+"family on HaTT: Cluster probe, no map",0.2368881118881119,0.10154891304347827,0.37566631863506866
+"family on HaTT: Cluster probe, translated",0.5097319347319348,0.3603325320512821,0.6283558238636362
+"family on TUM (twins excluded): control, all pairs shuffled (mean of 20)",0.32386446886446885,,
+"family on LMT108: control, all pairs shuffled (mean of 20)",0.23838950892857141,,
+"family on HaTT: control, all pairs shuffled (mean of 20)",0.27278263403263403,,
+"family on TUM (twins excluded): control, pairs shuffled inside each family (mean of 20)",0.6289072039072038,,
+"family on LMT108: control, pairs shuffled inside each family (mean of 20)",0.2777879464285714,,
+"family on HaTT: control, pairs shuffled inside each family (mean of 20)",0.33126456876456883,,
+family on HaTT: hand-held libraries,0.5692599067599068,0.46403645833333335,0.6782074175824175
+family on HaTT: hand-held libraries + translated Cluster,0.6407925407925408,0.5409129457942597,0.7416700053418803
+family on LMT108: hand-held libraries,0.4440625,0.33248910984848484,0.5540520833333332
+family on LMT108: hand-held libraries + translated Cluster,0.38511160714285714,0.2596428571428571,0.49936383928571426

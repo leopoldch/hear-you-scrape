@@ -1,0 +1,18 @@
+test,score,low,high
+stiffness from sliding (Spearman),0.3970708283313325,,
+stiffness from taps (Spearman),0.29834333733493396,,
+stiffness from sliding + taps (Spearman),0.3839135654261705,,
+heat flow from sliding (Spearman),0.5101080432172869,,
+heat flow from taps (Spearman),0.7192797118847538,,
+heat flow from sliding + taps (Spearman),0.5693637454981992,,
+tap from sliding (Spearman),0.14929171668667465,,
+tap from taps (Spearman),0.2327490996398559,,
+tap from sliding + taps (Spearman),0.34972388955582234,,
+friction from sliding (Spearman),0.80984393757503,,
+friction from taps (Spearman),0.3463625450180072,,
+friction from sliding + taps (Spearman),0.7942857142857143,,
+family from 4 measured quantities,0.7363095238095237,0.5511809269162211,0.8960850279106857
+family from 4 quantities predicted from sliding + taps,0.34464285714285714,0.21810606060606058,0.48926167582417585
+family from sliding vibration directly,0.5136904761904761,0.32417613636363635,0.7092466020499109
+family from taps vibration directly,0.6392857142857142,0.47958603896103896,0.8059201388888889
+family from sliding + taps vibration directly,0.718452380952381,0.5367460317460317,0.8879464285714286

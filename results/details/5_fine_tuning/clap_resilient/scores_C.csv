@@ -1,0 +1,41 @@
+variant,target,dataset,alpha,score
+C,LMT108,LMT108,0.0,0.5293055555555555
+C,LMT108,LMT108,0.5,0.3080555555555556
+C,LMT108,LMT108,1.0,0.20180555555555554
+C,LMT69,LMT69,0.0,0.6511111111111111
+C,LMT69,LMT69,0.5,0.6288888888888888
+C,LMT69,LMT69,1.0,0.5622222222222223
+C,TUM,TUM,0.0,0.34393939393939393
+C,TUM,TUM,0.5,0.3782828282828283
+C,TUM,TUM,1.0,0.37121212121212116
+C,SENS3,SENS3,0.0,0.31611111111111106
+C,SENS3,SENS3,0.5,0.20041666666666666
+C,SENS3,SENS3,1.0,0.20625000000000002
+C,Cluster,Cluster,0.0,0.23657407407407408
+C,Cluster,Cluster,0.5,0.22283950617283954
+C,Cluster,Cluster,1.0,0.17638888888888887
+C,Greatest Hits,Greatest Hits,0.0,0.484585545083455
+C,Greatest Hits,Greatest Hits,0.5,0.386436349671363
+C,Greatest Hits,Greatest Hits,1.0,0.299797856328894
+C,Phone pilot,Phone pilot,0.0,0.8333333333333334
+C,Phone pilot,Phone pilot,0.5,0.5416666666666667
+C,Phone pilot,Phone pilot,1.0,0.29166666666666663
+C,"seen datasets, new surfaces",LMT108,0.0,0.7986111111111109
+C,"seen datasets, new surfaces",LMT69,0.0,0.5111111111111111
+C,"seen datasets, new surfaces",TUM,0.0,0.3981481481481482
+C,"seen datasets, new surfaces",SENS3,0.0,0.13541666666666666
+C,"seen datasets, new surfaces",Cluster,0.0,0.32638888888888895
+C,"seen datasets, new surfaces",Greatest Hits,0.0,0.4918683153328809
+C,"seen datasets, new surfaces",LMT108,0.5,0.6812499999999999
+C,"seen datasets, new surfaces",LMT69,0.5,0.9555555555555555
+C,"seen datasets, new surfaces",TUM,0.5,0.5703703703703703
+C,"seen datasets, new surfaces",SENS3,0.5,0.2652777777777777
+C,"seen datasets, new surfaces",Cluster,0.5,0.726388888888889
+C,"seen datasets, new surfaces",Greatest Hits,0.5,0.6706639444336383
+C,"seen datasets, new surfaces",LMT108,1.0,0.6631944444444444
+C,"seen datasets, new surfaces",LMT69,1.0,0.9777777777777776
+C,"seen datasets, new surfaces",TUM,1.0,0.6925925925925925
+C,"seen datasets, new surfaces",SENS3,1.0,0.4270833333333333
+C,"seen datasets, new surfaces",Cluster,1.0,0.6819444444444444
+C,"seen datasets, new surfaces",Greatest Hits,1.0,0.6691468606048735
+C,everything,,1.0,

@@ -1,0 +1,18 @@
+test,score,low,high
+inside TUM: scrape -> log density (Spearman),0.5308938490866318,,
+inside TUM: scrape -> tap centroid (acceleration) (Spearman),0.12979487720623725,,
+inside TUM: scrape -> tap decay (acceleration) (Spearman),0.21059646645600247,,
+inside TUM: scrape -> tap centroid (sound) (Spearman),0.3627163744972096,,
+inside TUM: scrape -> tap decay (sound) (Spearman),0.10580468085928257,,
+"inside TUM, new materials: family from measured attributes",0.6336536092633653,0.5366104078762307,0.7272934173669469
+"inside TUM, new materials: family from attributes predicted from the scrape",0.6538145684487148,0.5112515549883474,0.7844391014719913
+"inside TUM, new materials: family from scrape directly",0.7396320932906298,0.6183438944683565,0.866692162004662
+"HaTT (21 materials), no label: direct probe",0.4666666666666666,0.2237500000000001,0.6152777777777776
+"HaTT (21 materials), no label: through physical attributes",0.4393162393162393,0.20496031746031748,0.7486950549450548
+"HaTT (21 materials), no label: product of the two",0.5333333333333333,0.3333333333333333,0.6666666666666666
+"LMT108 (20 materials), no label: direct probe",0.4607142857142857,0.26666666666666666,0.6579059829059829
+"LMT108 (20 materials), no label: through physical attributes",0.4904761904761905,0.2896825396825397,0.7103571428571428
+"LMT108 (20 materials), no label: product of the two",0.5023809523809524,0.31317460317460316,0.6925595238095237
+"LMT69 (11 materials), no label: direct probe",0.3611111111111111,0.1111111111111111,0.6666666666666666
+"LMT69 (11 materials), no label: through physical attributes",0.8333333333333334,0.5777777777777777,1.0
+"LMT69 (11 materials), no label: product of the two",0.47222222222222215,0.19708333333333333,0.6666666666666666

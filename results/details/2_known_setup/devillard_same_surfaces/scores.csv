@@ -1,0 +1,21 @@
+test,trained on,tested on,score
+"known people, new trial",left microphone,left microphone,0.805
+"new person, k = 0",left microphone,left microphone,0.7185
+"known people, new trial",right microphone,right microphone,0.8850000000000001
+"new person, k = 0",right microphone,right microphone,0.7745
+"known people, new trial",nail accelerometer,nail accelerometer,0.8025
+"new person, k = 0",nail accelerometer,nail accelerometer,0.7244999999999999
+"known people, new trial",phalanx accelerometer,phalanx accelerometer,0.82
+"new person, k = 0",phalanx accelerometer,phalanx accelerometer,0.7
+"new sensor, k = 0, same people",nail accelerometer,phalanx accelerometer,0.5645
+"new sensor and new person, k = 0",nail accelerometer,phalanx accelerometer,0.5149999999999999
+"new sensor, k = 0, same people",phalanx accelerometer,nail accelerometer,0.533
+"new sensor and new person, k = 0",phalanx accelerometer,nail accelerometer,0.491
+"new sensor, k = 0, same people",left microphone,right microphone,0.6945
+"new sensor and new person, k = 0",left microphone,right microphone,0.6345
+"new sensor, k = 0, same people",right microphone,left microphone,0.7
+"new sensor and new person, k = 0",right microphone,left microphone,0.6325
+"new sensor, k = 0, same people",nail accelerometer,left microphone,0.174
+"new sensor and new person, k = 0",nail accelerometer,left microphone,0.1685
+"new sensor, k = 0, same people",left microphone,nail accelerometer,0.20500000000000002
+"new sensor and new person, k = 0",left microphone,nail accelerometer,0.20249999999999999

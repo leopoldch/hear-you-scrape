@@ -1,0 +1,22 @@
+representation,protocol,new setup,setup readable
+BEATs audio,-,all,0.9736666666666667
+BEATs acceleration,-,all,0.9706666666666667
+BEATs audio + acceleration,-,all,0.9856666666666667
+audio projected,strict,cluster,0.6856666666666666
+acceleration projected,strict,cluster,0.7046666666666667
+shared (mean of both),strict,cluster,0.696
+audio projected,transductive,cluster,0.4713333333333333
+acceleration projected,transductive,cluster,0.4176666666666667
+shared (mean of both),transductive,cluster,0.42866666666666664
+audio projected,strict,lmt108,0.5116666666666667
+acceleration projected,strict,lmt108,0.563
+shared (mean of both),strict,lmt108,0.5183333333333333
+audio projected,transductive,lmt108,0.4713333333333333
+acceleration projected,transductive,lmt108,0.4176666666666667
+shared (mean of both),transductive,lmt108,0.42866666666666664
+audio projected,strict,sens3,0.715
+acceleration projected,strict,sens3,0.7123333333333334
+shared (mean of both),strict,sens3,0.6876666666666666
+audio projected,transductive,sens3,0.4713333333333333
+acceleration projected,transductive,sens3,0.4176666666666667
+shared (mean of both),transductive,sens3,0.42866666666666664
