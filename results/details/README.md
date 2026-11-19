@@ -16,4 +16,7 @@ Not included: the recordings, the lists of recordings, and the values measured b
 | `6_synthetic/` | synthetic scrapes: 200, 2000, with the real datasets, and the volume curve |
 | `7_friction/` | friction and other physical quantities between setups, and what the friction model reads |
 
+A few experiments were run twice: an earlier run, kept here, and the run of the notebook, in `results/`. The two
+agree; when a number differs slightly, RESULTS.md gives the one of the notebook.
+
 Most tables have one row per test, with the score and, when we computed it, a 95 % interval (`low`, `high`).

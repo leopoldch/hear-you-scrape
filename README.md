@@ -48,7 +48,7 @@ steel tip and the machine.
 
 ## 4. Training on other setups makes it worse
 
-We fine-tuned CLAP on the other datasets. It gets better on setups it has seen (0.47 to 0.72) and worse on the
+We fine-tuned CLAP on the other datasets. It gets better on setups it has seen (0.45 to 0.70) and worse on the
 one it has not (0.43 to 0.31). The score falls from the first training steps and never comes back.
 
 ![Score on the new setup while fine-tuning on the others](results/fine_tuning_curve.png)

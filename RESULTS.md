@@ -80,7 +80,7 @@ and our own phone recordings.
 | Locked test on HaTT: 2 labeled surfaces per family | **0.64 [0.54-0.76]** (k = 1: 0.53; no label: 0.42). Mark 0.45 | yes | locked |
 | Same on TUM (three families) | k = 2: 0.61 [0.44-0.77]; k = 8: 0.76 | yes | no |
 | CLAP: 2 labels alone, or with the other datasets? | Alone 0.61, with the others 0.56, frozen probe 0.51 | no | yes |
-| CLAP: one dataset alone, or the six merged? (new surfaces) | Alone 0.76, merged 0.71 | no | yes |
+| CLAP: one dataset alone, or the six merged? (new surfaces) | Alone 0.75, merged 0.70 | no | yes |
 | Choose which surfaces to label with k-means | +0.15 to +0.17 at 8 labels on HaTT, LMT108, TUM; +0.03 Cluster; -0.05 SENS3. Greatest Hits +0.08 [0.00-0.15] | yes | yes |
 | Add taps to the scrapes, k = 2 | LMT108 0.62 to 0.76, SENS3 0.44 to 0.65, TUM +0.01. Greatest Hits +0.06 | yes | yes |
 | Both together, 8 then 12 chosen surfaces | LMT108 0.86 / 0.91, SENS3 0.61 / 0.67, TUM 0.64 / 0.72. No locked test | yes | no |
@@ -93,7 +93,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
 | Light adaptation on frozen vectors | 0.47 to 0.48 at best, 0.36 at full strength | no | yes |
-| Fine-tune the whole sound encoder on the other datasets | Unseen setup **0.43 to 0.31**. New surfaces of seen setups 0.47 to 0.72 | no | yes |
+| Fine-tune the whole sound encoder on the other datasets | Unseen setup **0.43 to 0.31**. New surfaces of seen setups 0.45 to 0.70 | no | yes |
 | 20 ways to edit the fine-tuned weights without gradients | Best 0.68 seen / 0.37 unseen. None keeps both | no | yes |
 | Mix original and fine-tuned weights (0, 25, 50, 75, 100 %) | Unseen 0.43 / 0.41 / 0.37 / 0.34 / 0.32. Every edit sits on this curve | no | yes |
 | Which dataset hurts which? | No dataset helps another. SENS3 -0.14, TUM -0.10, Cluster -0.10 | no | yes |
@@ -101,7 +101,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | Equalize each setup's frequency bands | 0.32 to 0.34 | no | yes |
 | Many augmentations, layers unfrozen step by step | 0.30 with either or both, 0.38 with neither (original 0.49 on 7 targets) | no | yes |
 | Which families does fine-tuning destroy? | Metal and textile first; each source destroys a different family | - | no |
-| Fine-tune on 1, 2, 3, 4 setups | 0.32 / 0.29 / 0.29 / 0.29 | no | yes |
+| Fine-tune on 1, 2, 3, 4 setups | 0.35 / 0.32 / 0.32 / 0.31 | no | yes |
 | Stop early, or use a 10 times lower learning rate | Falls from step 50 and never rises. Low rate ends at 0.36 | no | yes |
 | Best "robust" model on the colleague's phone | 0.53 [0.37-0.69], mark 0.55 | no | yes |
 
@@ -112,7 +112,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | 200 scrapes from a small physics model, no real data | Probe 0.37, fine-tuned CLAP 0.41 (original 0.43) | no | yes |
 | 2000 scrapes, much more variety | Probe 0.40, fine-tuned 0.37-0.39 | no | yes |
 | Real datasets + 2000 synthetic scrapes | Unseen public datasets 0.38 (0.36 without). Colleague's phone 0.65, mark 0.55, but weight mixing alone already gives 0.60 | partly | yes |
-| 200, 2000 or 20000 scrapes, half of every batch, 3 seeds | 0.32 / 0.34 / 0.34. Training 4 times longer: 0.34 | no | yes |
+| 200, 2000 or 20000 scrapes, half of every batch | 0.34 / 0.35 / 0.34 (0.31 with none). An earlier run with 3 seeds, and one trained 4 times longer, gave the same | no | yes |
 
 ## 7. Friction and other physical quantities (`8_friction.ipynb`)
 
