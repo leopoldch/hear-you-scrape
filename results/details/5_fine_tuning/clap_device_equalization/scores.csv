@@ -1,0 +1,31 @@
+tested on,weights,score
+LMT108,original CLAP,0.5293055555555555
+LMT108,"original CLAP, equalized",0.5572222222222222
+LMT108,fine-tuned,0.3598611111111111
+LMT108,"fine-tuned, equalized at test only",0.38444444444444437
+LMT108,fine-tuned with equalized input,0.28458333333333335
+LMT69,original CLAP,0.6511111111111111
+LMT69,"original CLAP, equalized",0.5411111111111111
+LMT69,fine-tuned,0.5522222222222222
+LMT69,"fine-tuned, equalized at test only",0.49777777777777776
+LMT69,fine-tuned with equalized input,0.42111111111111105
+TUM,original CLAP,0.34393939393939393
+TUM,"original CLAP, equalized",0.39545454545454545
+TUM,fine-tuned,0.32323232323232326
+TUM,"fine-tuned, equalized at test only",0.39595959595959596
+TUM,fine-tuned with equalized input,0.3171717171717171
+SENS3,original CLAP,0.31611111111111106
+SENS3,"original CLAP, equalized",0.3029166666666667
+SENS3,fine-tuned,0.12708333333333333
+SENS3,"fine-tuned, equalized at test only",0.23763888888888893
+SENS3,fine-tuned with equalized input,0.2651388888888888
+Cluster,original CLAP,0.23657407407407408
+Cluster,"original CLAP, equalized",0.3138888888888889
+Cluster,fine-tuned,0.19969135802469135
+Cluster,"fine-tuned, equalized at test only",0.26157407407407407
+Cluster,fine-tuned with equalized input,0.19822530864197532
+Greatest Hits,original CLAP,0.484585545083455
+Greatest Hits,"original CLAP, equalized",0.4348038033808758
+Greatest Hits,fine-tuned,0.32907766114972287
+Greatest Hits,"fine-tuned, equalized at test only",0.2890781300457287
+Greatest Hits,fine-tuned with equalized input,0.34661367868480275

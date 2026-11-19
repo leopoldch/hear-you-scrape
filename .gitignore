@@ -20,3 +20,9 @@ __pycache__/
 
 # HaTT-derived recording metadata; source dataset licence restricts redistribution
 /analysis/classification/hatt_recordings.csv
+
+# Model weights (like /models/)
+*.pt
+
+# Big intermediate files made by 1_data.ipynb
+/cache/

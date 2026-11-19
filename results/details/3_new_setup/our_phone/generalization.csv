@@ -1,0 +1,25 @@
+method,contact,right,takes
+BEATs probe trained on LMT69 (steel tip),doigt,2,10
+BEATs probe trained on LMT69 (steel tip),pointemetal,3,8
+BEATs probe trained on LMT69 (steel tip),pointeplastique,5,8
+BEATs probe trained on LMT69 (steel tip),coups,2,5
+BEATs probe trained on SENS3 (finger),doigt,1,10
+BEATs probe trained on SENS3 (finger),pointemetal,0,8
+BEATs probe trained on SENS3 (finger),pointeplastique,2,8
+BEATs probe trained on SENS3 (finger),coups,2,5
+BEATs probe trained on TUM (steel tooltip),doigt,2,10
+BEATs probe trained on TUM (steel tooltip),pointemetal,2,8
+BEATs probe trained on TUM (steel tooltip),pointeplastique,2,8
+BEATs probe trained on TUM (steel tooltip),coups,1,5
+BEATs probe trained on LMT69 (steel tip) + SENS3 (finger) + TUM (steel tooltip),doigt,1,10
+BEATs probe trained on LMT69 (steel tip) + SENS3 (finger) + TUM (steel tooltip),pointemetal,1,8
+BEATs probe trained on LMT69 (steel tip) + SENS3 (finger) + TUM (steel tooltip),pointeplastique,2,8
+BEATs probe trained on LMT69 (steel tip) + SENS3 (finger) + TUM (steel tooltip),coups,1,5
+"CLAP text, raw",doigt,2,10
+"CLAP text, raw",pointemetal,2,8
+"CLAP text, raw",pointeplastique,2,8
+"CLAP text, raw",coups,2,5
+"CLAP text, balanced over the pilot takes",doigt,5,10
+"CLAP text, balanced over the pilot takes",pointemetal,6,8
+"CLAP text, balanced over the pilot takes",pointeplastique,7,8
+"CLAP text, balanced over the pilot takes",coups,3,5

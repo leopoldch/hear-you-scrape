@@ -1,0 +1,9 @@
+jeu,prédiction (HaTT + LMT69) contre,spearman,low,high,n,prédiction (LMT69 + SENS3) contre
+"SENS3, morceaux de 4 s dans une session",frottement,-0.06595292034081751,-0.18301165008397485,0.04559053306526268,1985,
+"SENS3, morceaux de 4 s dans une session",vitesse,0.8095763528456408,0.7783882034129358,0.8355663455562689,1985,
+"SENS3, morceaux de 4 s dans une session",force,-0.054469248397677056,-0.10519004245748853,-0.008202263458183747,1985,
+"SENS3, morceaux de 4 s dans une session",niveau,0.783638180148011,0.7386072406546356,0.818516263823985,1985,
+"HaTT, fenêtres de 0,5 s dans un enregistrement",,0.0038451612028751843,-0.03721386245203503,0.046021822278918635,3977,frottement
+"HaTT, fenêtres de 0,5 s dans un enregistrement",,0.2745376961672563,0.23231526836994215,0.3163518472349367,3977,vitesse
+"HaTT, fenêtres de 0,5 s dans un enregistrement",,0.17863009609441402,0.1343282913136951,0.22104437601456342,3977,force
+"HaTT, fenêtres de 0,5 s dans un enregistrement",,0.3319173112341223,0.2862935350319555,0.3767188386568115,3977,niveau

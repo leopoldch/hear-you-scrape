@@ -1,0 +1,18 @@
+recording,takes right (of 31),objects right (of 5),bois_cuillere,metal_casserole,plastique_gourde,plastique_regle,textile_jean
+as recorded,21.0,4.0,3.0,7.0,2.0,3.0,6.0
+only 0.5 s of the gesture,15.6,2.8,1.8,5.8,2.0,2.4,3.6
+only 1 s of the gesture,17.4,3.4,2.6,6.2,1.6,2.8,4.2
+only 2 s of the gesture,17.0,3.0,2.0,6.4,1.8,2.6,4.2
+only 4 s of the gesture,18.4,3.4,2.6,7.0,1.8,2.4,4.6
+low-pass 1000 Hz,10.0,1.0,1.0,3.0,1.0,0.0,5.0
+low-pass 2000 Hz,15.0,2.0,1.0,5.0,2.0,2.0,5.0
+low-pass 4000 Hz,18.0,3.0,3.0,6.0,2.0,2.0,5.0
+high-pass 1000 Hz,21.0,5.0,3.0,7.0,3.0,3.0,5.0
+high-pass 3000 Hz,18.0,3.0,1.0,6.0,2.0,4.0,5.0
+"white noise added, signal-to-noise +10 dB",18.6,2.4,2.2,6.8,1.6,2.0,6.0
+"white noise added, signal-to-noise 0 dB",17.4,3.0,2.4,6.0,0.0,2.2,6.8
+"white noise added, signal-to-noise -10 dB",12.6,2.2,0.4,5.8,0.2,0.6,5.6
+resonances smoothed out,18.0,2.0,1.0,7.0,2.0,2.0,6.0
+telephone band (300-3400 Hz),17.0,3.0,2.0,6.0,2.0,2.0,5.0
+reverberant room (0.6 s decay),17.0,4.0,3.0,7.0,0.0,2.0,5.0
+far microphone: reverberant + noise at 0 dB,15.8,2.0,2.0,7.0,0.0,0.0,6.8

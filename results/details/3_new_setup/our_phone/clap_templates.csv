@@ -1,0 +1,9 @@
+prompts,takes right (of 31),objects right (of 5)
+all 5 templates,21,4.0
+the sound of scraping {},20,5.0
+a stick scratching a {} surface,19,2.0
+rubbing a finger on {},20,3.0
+friction noise of sliding on {},18,2.0
+scratching {},18,3.0
+"all 5 templates, balance computed without the tested object",22,
+exact test: label orders doing as well as 4/5 objects,2 of 60,

@@ -1,0 +1,5 @@
+jeu,signaux,surfaces,étiquetées,familles parmi les étiquetées,exactitude équilibrée sur les autres,rappel metal,rappel polymer,rappel textile,rappel wood
+LMT108,frottement + coups,35,12,4,0.95,1.0,0.8,1.0,1.0
+SENS3,frottement + coups,30,12,4,0.7666666666666666,0.6666666666666666,1.0,1.0,0.4
+TUM,frottement + coups,111,12,3,0.7390476190476191,0.4,0.8571428571428571,,0.96
+HaTT,frottement seul,43,12,4,0.7483660130718954,0.6666666666666666,0.4444444444444444,0.8823529411764706,1.0

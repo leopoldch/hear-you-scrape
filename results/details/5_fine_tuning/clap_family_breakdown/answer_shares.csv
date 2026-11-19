@@ -1,0 +1,200 @@
+split,model,dataset,answer,share
+seen,fine-tuned,Cluster,wood,0.4166666666666667
+seen,fine-tuned,Cluster,metal,0.29365079365079366
+seen,fine-tuned,Cluster,textile,0.23412698412698413
+seen,fine-tuned,Cluster,polymer,0.05555555555555555
+seen,fine-tuned,Greatest Hits,metal,0.34464751958224543
+seen,fine-tuned,Greatest Hits,textile,0.3368146214099217
+seen,fine-tuned,Greatest Hits,wood,0.2010443864229765
+seen,fine-tuned,Greatest Hits,polymer,0.1174934725848564
+seen,fine-tuned,LMT108,textile,0.4090909090909091
+seen,fine-tuned,LMT108,polymer,0.26515151515151514
+seen,fine-tuned,LMT108,wood,0.1893939393939394
+seen,fine-tuned,LMT108,metal,0.13636363636363635
+seen,fine-tuned,LMT69,textile,0.45
+seen,fine-tuned,LMT69,metal,0.18333333333333332
+seen,fine-tuned,LMT69,wood,0.18333333333333332
+seen,fine-tuned,LMT69,polymer,0.18333333333333332
+seen,fine-tuned,SENS3,textile,0.425
+seen,fine-tuned,SENS3,metal,0.3416666666666667
+seen,fine-tuned,SENS3,polymer,0.16666666666666666
+seen,fine-tuned,SENS3,wood,0.06666666666666667
+seen,fine-tuned,TUM,wood,0.38571428571428573
+seen,fine-tuned,TUM,polymer,0.32857142857142857
+seen,fine-tuned,TUM,metal,0.2857142857142857
+seen,original CLAP,Cluster,textile,0.3253968253968254
+seen,original CLAP,Cluster,metal,0.3055555555555556
+seen,original CLAP,Cluster,polymer,0.23412698412698413
+seen,original CLAP,Cluster,wood,0.1349206349206349
+seen,original CLAP,Greatest Hits,metal,0.31070496083550914
+seen,original CLAP,Greatest Hits,textile,0.2924281984334204
+seen,original CLAP,Greatest Hits,wood,0.24804177545691905
+seen,original CLAP,Greatest Hits,polymer,0.14882506527415143
+seen,original CLAP,LMT108,metal,0.3484848484848485
+seen,original CLAP,LMT108,textile,0.3106060606060606
+seen,original CLAP,LMT108,polymer,0.21212121212121213
+seen,original CLAP,LMT108,wood,0.12878787878787878
+seen,original CLAP,LMT69,metal,0.3333333333333333
+seen,original CLAP,LMT69,textile,0.31666666666666665
+seen,original CLAP,LMT69,wood,0.2
+seen,original CLAP,LMT69,polymer,0.15
+seen,original CLAP,SENS3,metal,0.325
+seen,original CLAP,SENS3,textile,0.3
+seen,original CLAP,SENS3,wood,0.2
+seen,original CLAP,SENS3,polymer,0.175
+seen,original CLAP,TUM,polymer,0.42857142857142855
+seen,original CLAP,TUM,metal,0.4
+seen,original CLAP,TUM,wood,0.17142857142857143
+single source,only Cluster,Greatest Hits,metal,0.32719665271966525
+single source,only Cluster,Greatest Hits,textile,0.2794979079497908
+single source,only Cluster,Greatest Hits,wood,0.25523012552301255
+single source,only Cluster,Greatest Hits,polymer,0.13807531380753138
+single source,only Cluster,LMT108,textile,0.4652777777777778
+single source,only Cluster,LMT108,metal,0.25462962962962965
+single source,only Cluster,LMT108,polymer,0.15046296296296297
+single source,only Cluster,LMT108,wood,0.12962962962962962
+single source,only Cluster,LMT69,textile,0.5
+single source,only Cluster,LMT69,metal,0.28
+single source,only Cluster,LMT69,polymer,0.155
+single source,only Cluster,LMT69,wood,0.065
+single source,only Cluster,SENS3,textile,0.4166666666666667
+single source,only Cluster,SENS3,polymer,0.24722222222222223
+single source,only Cluster,SENS3,metal,0.21944444444444444
+single source,only Cluster,SENS3,wood,0.11666666666666667
+single source,only Cluster,TUM,polymer,0.358974358974359
+single source,only Cluster,TUM,wood,0.3418803418803419
+single source,only Cluster,TUM,metal,0.29914529914529914
+single source,only Greatest Hits,Cluster,metal,0.3819444444444444
+single source,only Greatest Hits,Cluster,textile,0.3148148148148148
+single source,only Greatest Hits,Cluster,polymer,0.19791666666666666
+single source,only Greatest Hits,Cluster,wood,0.10532407407407407
+single source,only Greatest Hits,LMT108,metal,0.4074074074074074
+single source,only Greatest Hits,LMT108,textile,0.32407407407407407
+single source,only Greatest Hits,LMT108,polymer,0.13657407407407407
+single source,only Greatest Hits,LMT108,wood,0.13194444444444445
+single source,only Greatest Hits,LMT69,textile,0.42
+single source,only Greatest Hits,LMT69,metal,0.225
+single source,only Greatest Hits,LMT69,polymer,0.18
+single source,only Greatest Hits,LMT69,wood,0.175
+single source,only Greatest Hits,SENS3,textile,0.38055555555555554
+single source,only Greatest Hits,SENS3,metal,0.3611111111111111
+single source,only Greatest Hits,SENS3,polymer,0.1361111111111111
+single source,only Greatest Hits,SENS3,wood,0.12222222222222222
+single source,only Greatest Hits,TUM,polymer,0.44017094017094016
+single source,only Greatest Hits,TUM,metal,0.358974358974359
+single source,only Greatest Hits,TUM,wood,0.20085470085470086
+single source,only LMT108,Cluster,textile,0.3506944444444444
+single source,only LMT108,Cluster,wood,0.24421296296296297
+single source,only LMT108,Cluster,metal,0.2349537037037037
+single source,only LMT108,Cluster,polymer,0.1701388888888889
+single source,only LMT108,Greatest Hits,wood,0.3163179916317992
+single source,only LMT108,Greatest Hits,metal,0.3104602510460251
+single source,only LMT108,Greatest Hits,textile,0.2
+single source,only LMT108,Greatest Hits,polymer,0.17322175732217573
+single source,only LMT108,SENS3,textile,0.4083333333333333
+single source,only LMT108,SENS3,wood,0.3888888888888889
+single source,only LMT108,SENS3,metal,0.14166666666666666
+single source,only LMT108,SENS3,polymer,0.06111111111111111
+single source,only LMT108,TUM,metal,0.37606837606837606
+single source,only LMT108,TUM,wood,0.358974358974359
+single source,only LMT108,TUM,polymer,0.26495726495726496
+single source,only LMT69,Cluster,textile,0.3449074074074074
+single source,only LMT69,Cluster,metal,0.29282407407407407
+single source,only LMT69,Cluster,wood,0.20717592592592593
+single source,only LMT69,Cluster,polymer,0.1550925925925926
+single source,only LMT69,Greatest Hits,wood,0.3631799163179916
+single source,only LMT69,Greatest Hits,metal,0.2485355648535565
+single source,only LMT69,Greatest Hits,textile,0.20669456066945607
+single source,only LMT69,Greatest Hits,polymer,0.1815899581589958
+single source,only LMT69,SENS3,textile,0.34444444444444444
+single source,only LMT69,SENS3,wood,0.325
+single source,only LMT69,SENS3,polymer,0.20833333333333334
+single source,only LMT69,SENS3,metal,0.12222222222222222
+single source,only LMT69,TUM,polymer,0.36752136752136755
+single source,only LMT69,TUM,wood,0.36324786324786323
+single source,only LMT69,TUM,metal,0.2692307692307692
+single source,only SENS3,Cluster,textile,0.3599537037037037
+single source,only SENS3,Cluster,wood,0.35532407407407407
+single source,only SENS3,Cluster,metal,0.1574074074074074
+single source,only SENS3,Cluster,polymer,0.12731481481481483
+single source,only SENS3,Greatest Hits,textile,0.3288702928870293
+single source,only SENS3,Greatest Hits,wood,0.2560669456066946
+single source,only SENS3,Greatest Hits,metal,0.22594142259414227
+single source,only SENS3,Greatest Hits,polymer,0.1891213389121339
+single source,only SENS3,LMT108,textile,0.47453703703703703
+single source,only SENS3,LMT108,polymer,0.24537037037037038
+single source,only SENS3,LMT108,metal,0.1550925925925926
+single source,only SENS3,LMT108,wood,0.125
+single source,only SENS3,LMT69,polymer,0.355
+single source,only SENS3,LMT69,wood,0.26
+single source,only SENS3,LMT69,textile,0.245
+single source,only SENS3,LMT69,metal,0.14
+single source,only SENS3,TUM,polymer,0.3888888888888889
+single source,only SENS3,TUM,wood,0.3333333333333333
+single source,only SENS3,TUM,metal,0.2777777777777778
+single source,only TUM,Cluster,wood,0.4363425925925926
+single source,only TUM,Cluster,polymer,0.3680555555555556
+single source,only TUM,Cluster,metal,0.16435185185185186
+single source,only TUM,Cluster,textile,0.03125
+single source,only TUM,Greatest Hits,wood,0.32803347280334727
+single source,only TUM,Greatest Hits,metal,0.2744769874476987
+single source,only TUM,Greatest Hits,polymer,0.2719665271966527
+single source,only TUM,Greatest Hits,textile,0.12552301255230125
+single source,only TUM,LMT108,polymer,0.3541666666666667
+single source,only TUM,LMT108,wood,0.3287037037037037
+single source,only TUM,LMT108,metal,0.2337962962962963
+single source,only TUM,LMT108,textile,0.08333333333333333
+single source,only TUM,LMT69,polymer,0.38
+single source,only TUM,LMT69,metal,0.33
+single source,only TUM,LMT69,wood,0.25
+single source,only TUM,LMT69,textile,0.04
+single source,only TUM,SENS3,wood,0.36666666666666664
+single source,only TUM,SENS3,polymer,0.325
+single source,only TUM,SENS3,metal,0.25
+single source,only TUM,SENS3,textile,0.058333333333333334
+unseen,fine-tuned,Cluster,wood,0.3159722222222222
+unseen,fine-tuned,Cluster,metal,0.2569444444444444
+unseen,fine-tuned,Cluster,textile,0.24305555555555555
+unseen,fine-tuned,Cluster,polymer,0.1840277777777778
+unseen,fine-tuned,Greatest Hits,wood,0.34309623430962344
+unseen,fine-tuned,Greatest Hits,metal,0.26527196652719665
+unseen,fine-tuned,Greatest Hits,polymer,0.23514644351464434
+unseen,fine-tuned,Greatest Hits,textile,0.15648535564853555
+unseen,fine-tuned,LMT108,textile,0.5486111111111112
+unseen,fine-tuned,LMT108,polymer,0.20833333333333334
+unseen,fine-tuned,LMT108,metal,0.1875
+unseen,fine-tuned,LMT108,wood,0.05555555555555555
+unseen,fine-tuned,LMT69,metal,0.38
+unseen,fine-tuned,LMT69,textile,0.35
+unseen,fine-tuned,LMT69,wood,0.155
+unseen,fine-tuned,LMT69,polymer,0.115
+unseen,fine-tuned,SENS3,wood,0.36944444444444446
+unseen,fine-tuned,SENS3,metal,0.25277777777777777
+unseen,fine-tuned,SENS3,polymer,0.21388888888888888
+unseen,fine-tuned,SENS3,textile,0.1638888888888889
+unseen,fine-tuned,TUM,polymer,0.38461538461538464
+unseen,fine-tuned,TUM,metal,0.3504273504273504
+unseen,fine-tuned,TUM,wood,0.26495726495726496
+unseen,original CLAP,Cluster,textile,0.32523148148148145
+unseen,original CLAP,Cluster,metal,0.2777777777777778
+unseen,original CLAP,Cluster,polymer,0.2337962962962963
+unseen,original CLAP,Cluster,wood,0.16319444444444445
+unseen,original CLAP,Greatest Hits,metal,0.32719665271966525
+unseen,original CLAP,Greatest Hits,textile,0.27866108786610877
+unseen,original CLAP,Greatest Hits,wood,0.2485355648535565
+unseen,original CLAP,Greatest Hits,polymer,0.14560669456066946
+unseen,original CLAP,LMT108,textile,0.4166666666666667
+unseen,original CLAP,LMT108,metal,0.3055555555555556
+unseen,original CLAP,LMT108,polymer,0.1550925925925926
+unseen,original CLAP,LMT108,wood,0.12268518518518519
+unseen,original CLAP,LMT69,textile,0.38
+unseen,original CLAP,LMT69,metal,0.265
+unseen,original CLAP,LMT69,polymer,0.2
+unseen,original CLAP,LMT69,wood,0.155
+unseen,original CLAP,SENS3,metal,0.29444444444444445
+unseen,original CLAP,SENS3,textile,0.28888888888888886
+unseen,original CLAP,SENS3,wood,0.2388888888888889
+unseen,original CLAP,SENS3,polymer,0.17777777777777778
+unseen,original CLAP,TUM,polymer,0.44017094017094016
+unseen,original CLAP,TUM,metal,0.41025641025641024
+unseen,original CLAP,TUM,wood,0.14957264957264957

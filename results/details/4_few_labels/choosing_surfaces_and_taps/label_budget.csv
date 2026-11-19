@@ -1,0 +1,3521 @@
+jeu,N,subset,méthode,score
+HaTT,4,0,hasard + sonde,0.3953724747474747
+HaTT,4,0,médoïdes + sonde,0.5
+HaTT,4,0,médoïdes + propagation,0.5
+HaTT,4,0,médoïdes + propagation + sonde,0.5
+HaTT,6,0,hasard + sonde,0.4891331931956932
+HaTT,6,0,médoïdes + sonde,0.75
+HaTT,6,0,médoïdes + propagation,0.5
+HaTT,6,0,médoïdes + propagation + sonde,0.5
+HaTT,8,0,hasard + sonde,0.41430798368298366
+HaTT,8,0,médoïdes + sonde,0.41428571428571426
+HaTT,8,0,médoïdes + propagation,0.30952380952380953
+HaTT,8,0,médoïdes + propagation + sonde,0.30952380952380953
+HaTT,12,0,hasard + sonde,0.5100520313020314
+HaTT,12,0,médoïdes + sonde,0.5555555555555556
+HaTT,12,0,médoïdes + propagation,0.5555555555555556
+HaTT,12,0,médoïdes + propagation + sonde,0.5555555555555556
+HaTT,16,0,hasard + sonde,0.45133597883597876
+HaTT,16,0,médoïdes + sonde,0.7777777777777777
+HaTT,16,0,médoïdes + propagation,0.8333333333333334
+HaTT,16,0,médoïdes + propagation + sonde,0.8333333333333334
+HaTT,24,0,hasard + sonde,0.5444246031746032
+HaTT,24,0,médoïdes + sonde,0.6190476190476191
+HaTT,24,0,médoïdes + propagation,0.6190476190476191
+HaTT,24,0,médoïdes + propagation + sonde,0.6190476190476191
+HaTT,4,1,hasard + sonde,0.44059027777777776
+HaTT,4,1,médoïdes + sonde,0.28888888888888886
+HaTT,4,1,médoïdes + propagation,0.24444444444444446
+HaTT,4,1,médoïdes + propagation + sonde,0.24444444444444446
+HaTT,6,1,hasard + sonde,0.5495680708180709
+HaTT,6,1,médoïdes + sonde,0.6083333333333334
+HaTT,6,1,médoïdes + propagation,0.48333333333333334
+HaTT,6,1,médoïdes + propagation + sonde,0.48333333333333334
+HaTT,8,1,hasard + sonde,0.4948145604395605
+HaTT,8,1,médoïdes + sonde,0.6527777777777778
+HaTT,8,1,médoïdes + propagation,0.6057692307692308
+HaTT,8,1,médoïdes + propagation + sonde,0.6057692307692308
+HaTT,12,1,hasard + sonde,0.5931534437784437
+HaTT,12,1,médoïdes + sonde,0.7648809523809523
+HaTT,12,1,médoïdes + propagation,0.5357142857142857
+HaTT,12,1,médoïdes + propagation + sonde,0.5357142857142857
+HaTT,16,1,hasard + sonde,0.669781746031746
+HaTT,16,1,médoïdes + sonde,0.75
+HaTT,16,1,médoïdes + propagation,0.75
+HaTT,16,1,médoïdes + propagation + sonde,0.75
+HaTT,24,1,hasard + sonde,0.5887896825396826
+HaTT,24,1,médoïdes + sonde,0.6666666666666666
+HaTT,24,1,médoïdes + propagation,0.6666666666666666
+HaTT,24,1,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,4,2,hasard + sonde,0.46417811355311356
+HaTT,4,2,médoïdes + sonde,0.5321428571428571
+HaTT,4,2,médoïdes + propagation,0.5321428571428571
+HaTT,4,2,médoïdes + propagation + sonde,0.5321428571428571
+HaTT,6,2,hasard + sonde,0.4486538461538461
+HaTT,6,2,médoïdes + sonde,0.75
+HaTT,6,2,médoïdes + propagation,0.6057692307692308
+HaTT,6,2,médoïdes + propagation + sonde,0.6057692307692308
+HaTT,8,2,hasard + sonde,0.5824137667887668
+HaTT,8,2,médoïdes + sonde,0.7585470085470085
+HaTT,8,2,médoïdes + propagation,0.8141025641025641
+HaTT,8,2,médoïdes + propagation + sonde,0.8141025641025641
+HaTT,12,2,hasard + sonde,0.6802005633255632
+HaTT,12,2,médoïdes + sonde,0.7916666666666667
+HaTT,12,2,médoïdes + propagation,0.8125
+HaTT,12,2,médoïdes + propagation + sonde,0.8125
+HaTT,16,2,hasard + sonde,0.7504761904761905
+HaTT,16,2,médoïdes + sonde,0.875
+HaTT,16,2,médoïdes + propagation,0.8125
+HaTT,16,2,médoïdes + propagation + sonde,0.8125
+HaTT,24,2,hasard + sonde,0.7074999999999998
+HaTT,24,2,médoïdes + sonde,0.9523809523809524
+HaTT,24,2,médoïdes + propagation,0.9523809523809524
+HaTT,24,2,médoïdes + propagation + sonde,0.9523809523809524
+HaTT,4,3,hasard + sonde,0.41624999999999995
+HaTT,4,3,médoïdes + sonde,0.5625
+HaTT,4,3,médoïdes + propagation,0.48333333333333334
+HaTT,4,3,médoïdes + propagation + sonde,0.48333333333333334
+HaTT,6,3,hasard + sonde,0.394290293040293
+HaTT,6,3,médoïdes + sonde,0.7958333333333334
+HaTT,6,3,médoïdes + propagation,0.7458333333333333
+HaTT,6,3,médoïdes + propagation + sonde,0.7458333333333333
+HaTT,8,3,hasard + sonde,0.538951048951049
+HaTT,8,3,médoïdes + sonde,0.6057692307692308
+HaTT,8,3,médoïdes + propagation,0.6414835164835164
+HaTT,8,3,médoïdes + propagation + sonde,0.6414835164835164
+HaTT,12,3,hasard + sonde,0.6671887140637142
+HaTT,12,3,médoïdes + sonde,0.6458333333333333
+HaTT,12,3,médoïdes + propagation,0.6666666666666666
+HaTT,12,3,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,16,3,hasard + sonde,0.6757738095238095
+HaTT,16,3,médoïdes + sonde,0.7916666666666666
+HaTT,16,3,médoïdes + propagation,0.8125
+HaTT,16,3,médoïdes + propagation + sonde,0.8125
+HaTT,24,3,hasard + sonde,0.7134722222222222
+HaTT,24,3,médoïdes + sonde,0.75
+HaTT,24,3,médoïdes + propagation,0.75
+HaTT,24,3,médoïdes + propagation + sonde,0.75
+HaTT,4,4,hasard + sonde,0.4223313492063491
+HaTT,4,4,médoïdes + sonde,0.48214285714285715
+HaTT,4,4,médoïdes + propagation,0.4642857142857143
+HaTT,4,4,médoïdes + propagation + sonde,0.4642857142857143
+HaTT,6,4,hasard + sonde,0.42368804806304805
+HaTT,6,4,médoïdes + sonde,0.5099206349206349
+HaTT,6,4,médoïdes + propagation,0.45634920634920634
+HaTT,6,4,médoïdes + propagation + sonde,0.45634920634920634
+HaTT,8,4,hasard + sonde,0.5202762515262516
+HaTT,8,4,médoïdes + sonde,0.5953525641025641
+HaTT,8,4,médoïdes + propagation,0.6266025641025641
+HaTT,8,4,médoïdes + propagation + sonde,0.6266025641025641
+HaTT,12,4,hasard + sonde,0.5788636363636364
+HaTT,12,4,médoïdes + sonde,0.6607142857142857
+HaTT,12,4,médoïdes + propagation,0.6964285714285714
+HaTT,12,4,médoïdes + propagation + sonde,0.6964285714285714
+HaTT,16,4,hasard + sonde,0.5749305555555555
+HaTT,16,4,médoïdes + sonde,0.5972222222222222
+HaTT,16,4,médoïdes + propagation,0.5972222222222222
+HaTT,16,4,médoïdes + propagation + sonde,0.5972222222222222
+HaTT,24,4,hasard + sonde,0.69375
+HaTT,24,4,médoïdes + sonde,0.7777777777777777
+HaTT,24,4,médoïdes + propagation,0.6666666666666666
+HaTT,24,4,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,4,5,hasard + sonde,0.3409668472652219
+HaTT,4,5,médoïdes + sonde,0.5694444444444444
+HaTT,4,5,médoïdes + propagation,0.5833333333333333
+HaTT,4,5,médoïdes + propagation + sonde,0.5833333333333333
+HaTT,6,5,hasard + sonde,0.33686974789915963
+HaTT,6,5,médoïdes + sonde,0.40740740740740744
+HaTT,6,5,médoïdes + propagation,0.40740740740740744
+HaTT,6,5,médoïdes + propagation + sonde,0.40740740740740744
+HaTT,8,5,hasard + sonde,0.4653037464985995
+HaTT,8,5,médoïdes + sonde,0.53125
+HaTT,8,5,médoïdes + propagation,0.375
+HaTT,8,5,médoïdes + propagation + sonde,0.375
+HaTT,12,5,hasard + sonde,0.4702570346320346
+HaTT,12,5,médoïdes + sonde,0.6
+HaTT,12,5,médoïdes + propagation,0.35
+HaTT,12,5,médoïdes + propagation + sonde,0.35
+HaTT,16,5,hasard + sonde,0.5736574074074074
+HaTT,16,5,médoïdes + sonde,0.5
+HaTT,16,5,médoïdes + propagation,0.4777777777777778
+HaTT,16,5,médoïdes + propagation + sonde,0.4777777777777778
+HaTT,24,5,hasard + sonde,0.6874603174603174
+HaTT,24,5,médoïdes + sonde,0.4444444444444444
+HaTT,24,5,médoïdes + propagation,0.3888888888888889
+HaTT,24,5,médoïdes + propagation + sonde,0.3888888888888889
+HaTT,4,6,hasard + sonde,0.41804563492063496
+HaTT,4,6,médoïdes + sonde,0.5486111111111112
+HaTT,4,6,médoïdes + propagation,0.5486111111111112
+HaTT,4,6,médoïdes + propagation + sonde,0.5486111111111112
+HaTT,6,6,hasard + sonde,0.5127678571428571
+HaTT,6,6,médoïdes + sonde,0.625
+HaTT,6,6,médoïdes + propagation,0.5770833333333334
+HaTT,6,6,médoïdes + propagation + sonde,0.5770833333333334
+HaTT,8,6,hasard + sonde,0.5066926129426129
+HaTT,8,6,médoïdes + sonde,0.6875
+HaTT,8,6,médoïdes + propagation,0.6875
+HaTT,8,6,médoïdes + propagation + sonde,0.6875
+HaTT,12,6,hasard + sonde,0.5765223665223667
+HaTT,12,6,médoïdes + sonde,0.6875
+HaTT,12,6,médoïdes + propagation,0.71875
+HaTT,12,6,médoïdes + propagation + sonde,0.71875
+HaTT,16,6,hasard + sonde,0.6173205266955267
+HaTT,16,6,médoïdes + sonde,0.7916666666666666
+HaTT,16,6,médoïdes + propagation,0.7291666666666666
+HaTT,16,6,médoïdes + propagation + sonde,0.7291666666666666
+HaTT,24,6,hasard + sonde,0.7197023809523809
+HaTT,24,6,médoïdes + sonde,0.8333333333333334
+HaTT,24,6,médoïdes + propagation,0.875
+HaTT,24,6,médoïdes + propagation + sonde,0.875
+HaTT,4,7,hasard + sonde,0.38450980392156864
+HaTT,4,7,médoïdes + sonde,0.575
+HaTT,4,7,médoïdes + propagation,0.55
+HaTT,4,7,médoïdes + propagation + sonde,0.55
+HaTT,6,7,hasard + sonde,0.4679513888888889
+HaTT,6,7,médoïdes + sonde,0.5833333333333333
+HaTT,6,7,médoïdes + propagation,0.5555555555555556
+HaTT,6,7,médoïdes + propagation + sonde,0.5555555555555556
+HaTT,8,7,hasard + sonde,0.45225781163281165
+HaTT,8,7,médoïdes + sonde,0.8055555555555556
+HaTT,8,7,médoïdes + propagation,0.8055555555555556
+HaTT,8,7,médoïdes + propagation + sonde,0.8055555555555556
+HaTT,12,7,hasard + sonde,0.5448068598068598
+HaTT,12,7,médoïdes + sonde,0.7724358974358975
+HaTT,12,7,médoïdes + propagation,0.7948717948717948
+HaTT,12,7,médoïdes + propagation + sonde,0.7948717948717948
+HaTT,16,7,hasard + sonde,0.6590638528138528
+HaTT,16,7,médoïdes + sonde,0.75
+HaTT,16,7,médoïdes + propagation,0.75
+HaTT,16,7,médoïdes + propagation + sonde,0.75
+HaTT,24,7,hasard + sonde,0.6772420634920635
+HaTT,24,7,médoïdes + sonde,0.9166666666666666
+HaTT,24,7,médoïdes + propagation,0.875
+HaTT,24,7,médoïdes + propagation + sonde,0.875
+HaTT,4,8,hasard + sonde,0.4150910364145658
+HaTT,4,8,médoïdes + sonde,0.3634453781512605
+HaTT,4,8,médoïdes + propagation,0.3067226890756303
+HaTT,4,8,médoïdes + propagation + sonde,0.3067226890756303
+HaTT,6,8,hasard + sonde,0.37456115779645194
+HaTT,6,8,médoïdes + sonde,0.5625
+HaTT,6,8,médoïdes + propagation,0.546875
+HaTT,6,8,médoïdes + propagation + sonde,0.546875
+HaTT,8,8,hasard + sonde,0.48489697802197795
+HaTT,8,8,médoïdes + sonde,0.39404761904761904
+HaTT,8,8,médoïdes + propagation,0.2523809523809524
+HaTT,8,8,médoïdes + propagation + sonde,0.2523809523809524
+HaTT,12,8,hasard + sonde,0.48238095238095235
+HaTT,12,8,médoïdes + sonde,0.6666666666666666
+HaTT,12,8,médoïdes + propagation,0.6666666666666666
+HaTT,12,8,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,16,8,hasard + sonde,0.5561237373737373
+HaTT,16,8,médoïdes + sonde,0.8650793650793651
+HaTT,16,8,médoïdes + propagation,0.7063492063492064
+HaTT,16,8,médoïdes + propagation + sonde,0.7063492063492064
+HaTT,24,8,hasard + sonde,0.6758333333333334
+HaTT,24,8,médoïdes + sonde,0.6666666666666666
+HaTT,24,8,médoïdes + propagation,0.6666666666666666
+HaTT,24,8,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,4,9,hasard + sonde,0.37236842105263157
+HaTT,4,9,médoïdes + sonde,0.56875
+HaTT,4,9,médoïdes + propagation,0.58125
+HaTT,4,9,médoïdes + propagation + sonde,0.58125
+HaTT,6,9,hasard + sonde,0.3908718282634691
+HaTT,6,9,médoïdes + sonde,0.36184210526315785
+HaTT,6,9,médoïdes + propagation,0.36184210526315785
+HaTT,6,9,médoïdes + propagation + sonde,0.36184210526315785
+HaTT,8,9,hasard + sonde,0.44249095471521943
+HaTT,8,9,médoïdes + sonde,0.6111111111111112
+HaTT,8,9,médoïdes + propagation,0.5972222222222222
+HaTT,8,9,médoïdes + propagation + sonde,0.5972222222222222
+HaTT,12,9,hasard + sonde,0.5528601953601955
+HaTT,12,9,médoïdes + sonde,0.41666666666666663
+HaTT,12,9,médoïdes + propagation,0.6372549019607843
+HaTT,12,9,médoïdes + propagation + sonde,0.6372549019607843
+HaTT,16,9,hasard + sonde,0.5885984848484849
+HaTT,16,9,médoïdes + sonde,0.3125
+HaTT,16,9,médoïdes + propagation,0.2916666666666667
+HaTT,16,9,médoïdes + propagation + sonde,0.2916666666666667
+HaTT,24,9,hasard + sonde,0.6017857142857144
+HaTT,24,9,médoïdes + sonde,0.9
+HaTT,24,9,médoïdes + propagation,0.9
+HaTT,24,9,médoïdes + propagation + sonde,0.9
+HaTT,4,10,hasard + sonde,0.38292892156862746
+HaTT,4,10,médoïdes + sonde,0.3125
+HaTT,4,10,médoïdes + propagation,0.28125
+HaTT,4,10,médoïdes + propagation + sonde,0.28125
+HaTT,6,10,hasard + sonde,0.4676419413919414
+HaTT,6,10,médoïdes + sonde,0.48333333333333334
+HaTT,6,10,médoïdes + propagation,0.48333333333333334
+HaTT,6,10,médoïdes + propagation + sonde,0.48333333333333334
+HaTT,8,10,hasard + sonde,0.4870642551892552
+HaTT,8,10,médoïdes + sonde,0.7321428571428572
+HaTT,8,10,médoïdes + propagation,0.6488095238095238
+HaTT,8,10,médoïdes + propagation + sonde,0.6488095238095238
+HaTT,12,10,hasard + sonde,0.5659469696969698
+HaTT,12,10,médoïdes + sonde,0.6785714285714286
+HaTT,12,10,médoïdes + propagation,0.7142857142857143
+HaTT,12,10,médoïdes + propagation + sonde,0.7142857142857143
+HaTT,16,10,hasard + sonde,0.5848908730158731
+HaTT,16,10,médoïdes + sonde,0.75
+HaTT,16,10,médoïdes + propagation,0.75
+HaTT,16,10,médoïdes + propagation + sonde,0.75
+HaTT,24,10,hasard + sonde,0.6569047619047619
+HaTT,24,10,médoïdes + sonde,0.6428571428571428
+HaTT,24,10,médoïdes + propagation,0.9285714285714286
+HaTT,24,10,médoïdes + propagation + sonde,0.9285714285714286
+HaTT,4,11,hasard + sonde,0.38192956349206353
+HaTT,4,11,médoïdes + sonde,0.3277777777777778
+HaTT,4,11,médoïdes + propagation,0.3
+HaTT,4,11,médoïdes + propagation + sonde,0.3
+HaTT,6,11,hasard + sonde,0.39217071123321123
+HaTT,6,11,médoïdes + sonde,0.575
+HaTT,6,11,médoïdes + propagation,0.55
+HaTT,6,11,médoïdes + propagation + sonde,0.55
+HaTT,8,11,hasard + sonde,0.4315155677655677
+HaTT,8,11,médoïdes + sonde,0.6020833333333333
+HaTT,8,11,médoïdes + propagation,0.56875
+HaTT,8,11,médoïdes + propagation + sonde,0.56875
+HaTT,12,11,hasard + sonde,0.5346412615162615
+HaTT,12,11,médoïdes + sonde,0.625
+HaTT,12,11,médoïdes + propagation,0.75
+HaTT,12,11,médoïdes + propagation + sonde,0.75
+HaTT,16,11,hasard + sonde,0.6554034391534391
+HaTT,16,11,médoïdes + sonde,0.8541666666666666
+HaTT,16,11,médoïdes + propagation,0.7708333333333334
+HaTT,16,11,médoïdes + propagation + sonde,0.7708333333333334
+HaTT,24,11,hasard + sonde,0.6505555555555556
+HaTT,24,11,médoïdes + sonde,0.6666666666666666
+HaTT,24,11,médoïdes + propagation,0.6666666666666666
+HaTT,24,11,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,4,12,hasard + sonde,0.3270138888888889
+HaTT,4,12,médoïdes + sonde,0.55
+HaTT,4,12,médoïdes + propagation,0.5777777777777777
+HaTT,4,12,médoïdes + propagation + sonde,0.5777777777777777
+HaTT,6,12,hasard + sonde,0.42223977411477415
+HaTT,6,12,médoïdes + sonde,0.625
+HaTT,6,12,médoïdes + propagation,0.625
+HaTT,6,12,médoïdes + propagation + sonde,0.625
+HaTT,8,12,hasard + sonde,0.5215086996336996
+HaTT,8,12,médoïdes + sonde,0.6547619047619048
+HaTT,8,12,médoïdes + propagation,0.6547619047619048
+HaTT,8,12,médoïdes + propagation + sonde,0.6547619047619048
+HaTT,12,12,hasard + sonde,0.528015873015873
+HaTT,12,12,médoïdes + sonde,0.7648809523809523
+HaTT,12,12,médoïdes + propagation,0.8214285714285714
+HaTT,12,12,médoïdes + propagation + sonde,0.8214285714285714
+HaTT,16,12,hasard + sonde,0.6463699494949495
+HaTT,16,12,médoïdes + sonde,0.8
+HaTT,16,12,médoïdes + propagation,0.8
+HaTT,16,12,médoïdes + propagation + sonde,0.8
+HaTT,24,12,hasard + sonde,0.7027380952380953
+HaTT,24,12,médoïdes + sonde,0.6190476190476191
+HaTT,24,12,médoïdes + propagation,0.6190476190476191
+HaTT,24,12,médoïdes + propagation + sonde,0.6190476190476191
+HaTT,4,13,hasard + sonde,0.3888619652406417
+HaTT,4,13,médoïdes + sonde,0.3025568181818182
+HaTT,4,13,médoïdes + propagation,0.30965909090909094
+HaTT,4,13,médoïdes + propagation + sonde,0.30965909090909094
+HaTT,6,13,hasard + sonde,0.40705712588065535
+HaTT,6,13,médoïdes + sonde,0.3454861111111111
+HaTT,6,13,médoïdes + propagation,0.3298611111111111
+HaTT,6,13,médoïdes + propagation + sonde,0.3298611111111111
+HaTT,8,13,hasard + sonde,0.418737339049839
+HaTT,8,13,médoïdes + sonde,0.55
+HaTT,8,13,médoïdes + propagation,0.55
+HaTT,8,13,médoïdes + propagation + sonde,0.55
+HaTT,12,13,hasard + sonde,0.553069153069153
+HaTT,12,13,médoïdes + sonde,0.6904761904761904
+HaTT,12,13,médoïdes + propagation,0.6904761904761904
+HaTT,12,13,médoïdes + propagation + sonde,0.6904761904761904
+HaTT,16,13,hasard + sonde,0.6436580086580086
+HaTT,16,13,médoïdes + sonde,0.8666666666666667
+HaTT,16,13,médoïdes + propagation,0.7999999999999999
+HaTT,16,13,médoïdes + propagation + sonde,0.7999999999999999
+HaTT,24,13,hasard + sonde,0.6475
+HaTT,24,13,médoïdes + sonde,0.7777777777777777
+HaTT,24,13,médoïdes + propagation,0.7777777777777777
+HaTT,24,13,médoïdes + propagation + sonde,0.7777777777777777
+HaTT,4,14,hasard + sonde,0.31463818860877685
+HaTT,4,14,médoïdes + sonde,0.5210084033613445
+HaTT,4,14,médoïdes + propagation,0.5210084033613445
+HaTT,4,14,médoïdes + propagation + sonde,0.5210084033613445
+HaTT,6,14,hasard + sonde,0.5191666666666668
+HaTT,6,14,médoïdes + sonde,0.519047619047619
+HaTT,6,14,médoïdes + propagation,0.519047619047619
+HaTT,6,14,médoïdes + propagation + sonde,0.519047619047619
+HaTT,8,14,hasard + sonde,0.4561353964662788
+HaTT,8,14,médoïdes + sonde,0.5416666666666667
+HaTT,8,14,médoïdes + propagation,0.5238095238095238
+HaTT,8,14,médoïdes + propagation + sonde,0.5238095238095238
+HaTT,12,14,hasard + sonde,0.5354945054945055
+HaTT,12,14,médoïdes + sonde,0.75
+HaTT,12,14,médoïdes + propagation,0.75
+HaTT,12,14,médoïdes + propagation + sonde,0.75
+HaTT,16,14,hasard + sonde,0.6122979797979797
+HaTT,16,14,médoïdes + sonde,0.75
+HaTT,16,14,médoïdes + propagation,0.75
+HaTT,16,14,médoïdes + propagation + sonde,0.75
+HaTT,24,14,hasard + sonde,0.6877777777777777
+HaTT,24,14,médoïdes + sonde,0.9523809523809524
+HaTT,24,14,médoïdes + propagation,0.9523809523809524
+HaTT,24,14,médoïdes + propagation + sonde,0.9523809523809524
+HaTT,4,15,hasard + sonde,0.4015873015873016
+HaTT,4,15,médoïdes + sonde,0.5476190476190477
+HaTT,4,15,médoïdes + propagation,0.5297619047619048
+HaTT,4,15,médoïdes + propagation + sonde,0.5297619047619048
+HaTT,6,15,hasard + sonde,0.47770222832722825
+HaTT,6,15,médoïdes + sonde,0.55
+HaTT,6,15,médoïdes + propagation,0.5557692307692308
+HaTT,6,15,médoïdes + propagation + sonde,0.5557692307692308
+HaTT,8,15,hasard + sonde,0.4915621184371185
+HaTT,8,15,médoïdes + sonde,0.5240384615384616
+HaTT,8,15,médoïdes + propagation,0.5552884615384616
+HaTT,8,15,médoïdes + propagation + sonde,0.5552884615384616
+HaTT,12,15,hasard + sonde,0.5692794705294706
+HaTT,12,15,médoïdes + sonde,0.7797619047619048
+HaTT,12,15,médoïdes + propagation,0.8214285714285714
+HaTT,12,15,médoïdes + propagation + sonde,0.8214285714285714
+HaTT,16,15,hasard + sonde,0.6338484432234432
+HaTT,16,15,médoïdes + sonde,0.8
+HaTT,16,15,médoïdes + propagation,0.8
+HaTT,16,15,médoïdes + propagation + sonde,0.8
+HaTT,24,15,hasard + sonde,0.6580952380952382
+HaTT,24,15,médoïdes + sonde,0.6666666666666666
+HaTT,24,15,médoïdes + propagation,0.6666666666666666
+HaTT,24,15,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,4,16,hasard + sonde,0.44681080765639586
+HaTT,4,16,médoïdes + sonde,0.5
+HaTT,4,16,médoïdes + propagation,0.4852941176470588
+HaTT,4,16,médoïdes + propagation + sonde,0.4852941176470588
+HaTT,6,16,hasard + sonde,0.43739204014939304
+HaTT,6,16,médoïdes + sonde,0.6666666666666666
+HaTT,6,16,médoïdes + propagation,0.6510416666666666
+HaTT,6,16,médoïdes + propagation + sonde,0.6510416666666666
+HaTT,8,16,hasard + sonde,0.4992525183150184
+HaTT,8,16,médoïdes + sonde,0.5625
+HaTT,8,16,médoïdes + propagation,0.5625
+HaTT,8,16,médoïdes + propagation + sonde,0.5625
+HaTT,12,16,hasard + sonde,0.6408195970695971
+HaTT,12,16,médoïdes + sonde,0.7113095238095238
+HaTT,12,16,médoïdes + propagation,0.7291666666666666
+HaTT,12,16,médoïdes + propagation + sonde,0.7291666666666666
+HaTT,16,16,hasard + sonde,0.6064102564102564
+HaTT,16,16,médoïdes + sonde,0.75
+HaTT,16,16,médoïdes + propagation,0.8125
+HaTT,16,16,médoïdes + propagation + sonde,0.8125
+HaTT,24,16,hasard + sonde,0.7051587301587301
+HaTT,24,16,médoïdes + sonde,0.75
+HaTT,24,16,médoïdes + propagation,0.75
+HaTT,24,16,médoïdes + propagation + sonde,0.75
+HaTT,4,17,hasard + sonde,0.353197601010101
+HaTT,4,17,médoïdes + sonde,0.625
+HaTT,4,17,médoïdes + propagation,0.5
+HaTT,4,17,médoïdes + propagation + sonde,0.5
+HaTT,6,17,hasard + sonde,0.44046092796092795
+HaTT,6,17,médoïdes + sonde,0.5
+HaTT,6,17,médoïdes + propagation,0.5
+HaTT,6,17,médoïdes + propagation + sonde,0.5
+HaTT,8,17,hasard + sonde,0.5071042152292152
+HaTT,8,17,médoïdes + sonde,0.8
+HaTT,8,17,médoïdes + propagation,0.575
+HaTT,8,17,médoïdes + propagation + sonde,0.575
+HaTT,12,17,hasard + sonde,0.5456469456469456
+HaTT,12,17,médoïdes + sonde,0.78125
+HaTT,12,17,médoïdes + propagation,0.8125
+HaTT,12,17,médoïdes + propagation + sonde,0.8125
+HaTT,16,17,hasard + sonde,0.6699107142857144
+HaTT,16,17,médoïdes + sonde,0.75
+HaTT,16,17,médoïdes + propagation,0.75
+HaTT,16,17,médoïdes + propagation + sonde,0.75
+HaTT,24,17,hasard + sonde,0.6677777777777778
+HaTT,24,17,médoïdes + sonde,0.8333333333333334
+HaTT,24,17,médoïdes + propagation,0.8333333333333334
+HaTT,24,17,médoïdes + propagation + sonde,0.8333333333333334
+HaTT,4,18,hasard + sonde,0.429920634920635
+HaTT,4,18,médoïdes + sonde,0.4265873015873016
+HaTT,4,18,médoïdes + propagation,0.4265873015873016
+HaTT,4,18,médoïdes + propagation + sonde,0.4265873015873016
+HaTT,6,18,hasard + sonde,0.4421039377289378
+HaTT,6,18,médoïdes + sonde,0.7420634920634921
+HaTT,6,18,médoïdes + propagation,0.7420634920634921
+HaTT,6,18,médoïdes + propagation + sonde,0.7420634920634921
+HaTT,8,18,hasard + sonde,0.5582587551337552
+HaTT,8,18,médoïdes + sonde,0.8055555555555556
+HaTT,8,18,médoïdes + propagation,0.8055555555555556
+HaTT,8,18,médoïdes + propagation + sonde,0.8055555555555556
+HaTT,12,18,hasard + sonde,0.6723763736263737
+HaTT,12,18,médoïdes + sonde,0.625
+HaTT,12,18,médoïdes + propagation,0.625
+HaTT,12,18,médoïdes + propagation + sonde,0.625
+HaTT,16,18,hasard + sonde,0.6937896825396825
+HaTT,16,18,médoïdes + sonde,0.75
+HaTT,16,18,médoïdes + propagation,0.75
+HaTT,16,18,médoïdes + propagation + sonde,0.75
+HaTT,24,18,hasard + sonde,0.8011111111111111
+HaTT,24,18,médoïdes + sonde,0.75
+HaTT,24,18,médoïdes + propagation,1.0
+HaTT,24,18,médoïdes + propagation + sonde,1.0
+HaTT,4,19,hasard + sonde,0.4027662037037037
+HaTT,4,19,médoïdes + sonde,0.409375
+HaTT,4,19,médoïdes + propagation,0.378125
+HaTT,4,19,médoïdes + propagation + sonde,0.378125
+HaTT,6,19,hasard + sonde,0.40525055962555967
+HaTT,6,19,médoïdes + sonde,0.6041666666666666
+HaTT,6,19,médoïdes + propagation,0.6041666666666666
+HaTT,6,19,médoïdes + propagation + sonde,0.6041666666666666
+HaTT,8,19,hasard + sonde,0.3642322954822955
+HaTT,8,19,médoïdes + sonde,0.5
+HaTT,8,19,médoïdes + propagation,0.5
+HaTT,8,19,médoïdes + propagation + sonde,0.5
+HaTT,12,19,hasard + sonde,0.4906881313131313
+HaTT,12,19,médoïdes + sonde,0.550595238095238
+HaTT,12,19,médoïdes + propagation,0.5863095238095238
+HaTT,12,19,médoïdes + propagation + sonde,0.5863095238095238
+HaTT,16,19,hasard + sonde,0.49361261423761416
+HaTT,16,19,médoïdes + sonde,0.5795454545454546
+HaTT,16,19,médoïdes + propagation,0.5568181818181819
+HaTT,16,19,médoïdes + propagation + sonde,0.5568181818181819
+HaTT,24,19,hasard + sonde,0.5547222222222222
+HaTT,24,19,médoïdes + sonde,0.625
+HaTT,24,19,médoïdes + propagation,0.625
+HaTT,24,19,médoïdes + propagation + sonde,0.625
+HaTT,4,20,hasard + sonde,0.4637847222222223
+HaTT,4,20,médoïdes + sonde,0.5
+HaTT,4,20,médoïdes + propagation,0.48333333333333334
+HaTT,4,20,médoïdes + propagation + sonde,0.48333333333333334
+HaTT,6,20,hasard + sonde,0.43338751526251523
+HaTT,6,20,médoïdes + sonde,0.6666666666666666
+HaTT,6,20,médoïdes + propagation,0.5654761904761905
+HaTT,6,20,médoïdes + propagation + sonde,0.5654761904761905
+HaTT,8,20,hasard + sonde,0.500904304029304
+HaTT,8,20,médoïdes + sonde,0.6490384615384616
+HaTT,8,20,médoïdes + propagation,0.6995192307692308
+HaTT,8,20,médoïdes + propagation + sonde,0.6995192307692308
+HaTT,12,20,hasard + sonde,0.5888679376179377
+HaTT,12,20,médoïdes + sonde,0.800595238095238
+HaTT,12,20,médoïdes + propagation,0.7648809523809523
+HaTT,12,20,médoïdes + propagation + sonde,0.7648809523809523
+HaTT,16,20,hasard + sonde,0.5105952380952381
+HaTT,16,20,médoïdes + sonde,0.8
+HaTT,16,20,médoïdes + propagation,0.8
+HaTT,16,20,médoïdes + propagation + sonde,0.8
+HaTT,24,20,hasard + sonde,0.7195039682539682
+HaTT,24,20,médoïdes + sonde,0.6785714285714286
+HaTT,24,20,médoïdes + propagation,0.7142857142857143
+HaTT,24,20,médoïdes + propagation + sonde,0.7142857142857143
+HaTT,4,21,hasard + sonde,0.3975204248366013
+HaTT,4,21,médoïdes + sonde,0.325
+HaTT,4,21,médoïdes + propagation,0.33333333333333337
+HaTT,4,21,médoïdes + propagation + sonde,0.33333333333333337
+HaTT,6,21,hasard + sonde,0.49420028908999497
+HaTT,6,21,médoïdes + sonde,0.3333333333333333
+HaTT,6,21,médoïdes + propagation,0.3611111111111111
+HaTT,6,21,médoïdes + propagation + sonde,0.3611111111111111
+HaTT,8,21,hasard + sonde,0.507792501616031
+HaTT,8,21,médoïdes + sonde,0.375
+HaTT,8,21,médoïdes + propagation,0.35714285714285715
+HaTT,8,21,médoïdes + propagation + sonde,0.35714285714285715
+HaTT,12,21,hasard + sonde,0.6015397102897102
+HaTT,12,21,médoïdes + sonde,0.7857142857142857
+HaTT,12,21,médoïdes + propagation,0.7857142857142857
+HaTT,12,21,médoïdes + propagation + sonde,0.7857142857142857
+HaTT,16,21,hasard + sonde,0.6348862942612943
+HaTT,16,21,médoïdes + sonde,0.8125
+HaTT,16,21,médoïdes + propagation,0.75
+HaTT,16,21,médoïdes + propagation + sonde,0.75
+HaTT,24,21,hasard + sonde,0.7467460317460317
+HaTT,24,21,médoïdes + sonde,0.7142857142857143
+HaTT,24,21,médoïdes + propagation,0.7142857142857143
+HaTT,24,21,médoïdes + propagation + sonde,0.7142857142857143
+HaTT,4,22,hasard + sonde,0.3834015984015984
+HaTT,4,22,médoïdes + sonde,0.5503246753246753
+HaTT,4,22,médoïdes + propagation,0.5503246753246753
+HaTT,4,22,médoïdes + propagation + sonde,0.5503246753246753
+HaTT,6,22,hasard + sonde,0.4123491092241093
+HaTT,6,22,médoïdes + sonde,0.6821428571428572
+HaTT,6,22,médoïdes + propagation,0.6821428571428572
+HaTT,6,22,médoïdes + propagation + sonde,0.6821428571428572
+HaTT,8,22,hasard + sonde,0.5482516788766789
+HaTT,8,22,médoïdes + sonde,0.6891025641025641
+HaTT,8,22,médoïdes + propagation,0.6698717948717948
+HaTT,8,22,médoïdes + propagation + sonde,0.6698717948717948
+HaTT,12,22,hasard + sonde,0.5071067821067821
+HaTT,12,22,médoïdes + sonde,0.8125
+HaTT,12,22,médoïdes + propagation,0.7897727272727273
+HaTT,12,22,médoïdes + propagation + sonde,0.7897727272727273
+HaTT,16,22,hasard + sonde,0.633693783068783
+HaTT,16,22,médoïdes + sonde,0.7222222222222223
+HaTT,16,22,médoïdes + propagation,0.6666666666666666
+HaTT,16,22,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,24,22,hasard + sonde,0.7392460317460318
+HaTT,24,22,médoïdes + sonde,0.6666666666666666
+HaTT,24,22,médoïdes + propagation,0.8333333333333334
+HaTT,24,22,médoïdes + propagation + sonde,0.8333333333333334
+HaTT,4,23,hasard + sonde,0.37240079365079365
+HaTT,4,23,médoïdes + sonde,0.5
+HaTT,4,23,médoïdes + propagation,0.48214285714285715
+HaTT,4,23,médoïdes + propagation + sonde,0.48214285714285715
+HaTT,6,23,hasard + sonde,0.45694902319902325
+HaTT,6,23,médoïdes + sonde,0.6666666666666666
+HaTT,6,23,médoïdes + propagation,0.6474358974358975
+HaTT,6,23,médoïdes + propagation + sonde,0.6474358974358975
+HaTT,8,23,hasard + sonde,0.545985310985311
+HaTT,8,23,médoïdes + sonde,0.75
+HaTT,8,23,médoïdes + propagation,0.75
+HaTT,8,23,médoïdes + propagation + sonde,0.75
+HaTT,12,23,hasard + sonde,0.5790674603174604
+HaTT,12,23,médoïdes + sonde,0.6666666666666666
+HaTT,12,23,médoïdes + propagation,0.5833333333333333
+HaTT,12,23,médoïdes + propagation + sonde,0.5833333333333333
+HaTT,16,23,hasard + sonde,0.6417090548340548
+HaTT,16,23,médoïdes + sonde,0.8
+HaTT,16,23,médoïdes + propagation,0.75
+HaTT,16,23,médoïdes + propagation + sonde,0.75
+HaTT,24,23,hasard + sonde,0.6183333333333333
+HaTT,24,23,médoïdes + sonde,0.9583333333333334
+HaTT,24,23,médoïdes + propagation,0.9166666666666666
+HaTT,24,23,médoïdes + propagation + sonde,0.9166666666666666
+HaTT,4,24,hasard + sonde,0.3776549369747899
+HaTT,4,24,médoïdes + sonde,0.5
+HaTT,4,24,médoïdes + propagation,0.484375
+HaTT,4,24,médoïdes + propagation + sonde,0.484375
+HaTT,6,24,hasard + sonde,0.4053571428571428
+HaTT,6,24,médoïdes + sonde,0.5
+HaTT,6,24,médoïdes + propagation,0.48333333333333334
+HaTT,6,24,médoïdes + propagation + sonde,0.48333333333333334
+HaTT,8,24,hasard + sonde,0.4747596153846153
+HaTT,8,24,médoïdes + sonde,0.6666666666666666
+HaTT,8,24,médoïdes + propagation,0.6666666666666666
+HaTT,8,24,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,12,24,hasard + sonde,0.6043681318681318
+HaTT,12,24,médoïdes + sonde,0.7625
+HaTT,12,24,médoïdes + propagation,0.5875
+HaTT,12,24,médoïdes + propagation + sonde,0.5875
+HaTT,16,24,hasard + sonde,0.5588804945054946
+HaTT,16,24,médoïdes + sonde,0.75
+HaTT,16,24,médoïdes + propagation,0.75
+HaTT,16,24,médoïdes + propagation + sonde,0.75
+HaTT,24,24,hasard + sonde,0.6166666666666666
+HaTT,24,24,médoïdes + sonde,0.75
+HaTT,24,24,médoïdes + propagation,0.75
+HaTT,24,24,médoïdes + propagation + sonde,0.75
+HaTT,4,25,hasard + sonde,0.37895833333333334
+HaTT,4,25,médoïdes + sonde,0.5
+HaTT,4,25,médoïdes + propagation,0.48333333333333334
+HaTT,4,25,médoïdes + propagation + sonde,0.48333333333333334
+HaTT,6,25,hasard + sonde,0.3541269841269841
+HaTT,6,25,médoïdes + sonde,0.6083333333333334
+HaTT,6,25,médoïdes + propagation,0.5916666666666667
+HaTT,6,25,médoïdes + propagation + sonde,0.5916666666666667
+HaTT,8,25,hasard + sonde,0.4498852536352536
+HaTT,8,25,médoïdes + sonde,0.4642857142857143
+HaTT,8,25,médoïdes + propagation,0.40625
+HaTT,8,25,médoïdes + propagation + sonde,0.40625
+HaTT,12,25,hasard + sonde,0.5856479631479632
+HaTT,12,25,médoïdes + sonde,0.7857142857142857
+HaTT,12,25,médoïdes + propagation,0.7857142857142857
+HaTT,12,25,médoïdes + propagation + sonde,0.7857142857142857
+HaTT,16,25,hasard + sonde,0.5437435481185482
+HaTT,16,25,médoïdes + sonde,0.6666666666666666
+HaTT,16,25,médoïdes + propagation,0.7222222222222223
+HaTT,16,25,médoïdes + propagation + sonde,0.7222222222222223
+HaTT,24,25,hasard + sonde,0.5955555555555556
+HaTT,24,25,médoïdes + sonde,0.6666666666666666
+HaTT,24,25,médoïdes + propagation,0.6666666666666666
+HaTT,24,25,médoïdes + propagation + sonde,0.6666666666666666
+HaTT,4,26,hasard + sonde,0.4295909645909646
+HaTT,4,26,médoïdes + sonde,0.5
+HaTT,4,26,médoïdes + propagation,0.4807692307692308
+HaTT,4,26,médoïdes + propagation + sonde,0.4807692307692308
+HaTT,6,26,hasard + sonde,0.3485375735375735
+HaTT,6,26,médoïdes + sonde,0.40934065934065933
+HaTT,6,26,médoïdes + propagation,0.35439560439560436
+HaTT,6,26,médoïdes + propagation + sonde,0.35439560439560436
+HaTT,8,26,hasard + sonde,0.5572659285159285
+HaTT,8,26,médoïdes + sonde,0.6458333333333333
+HaTT,8,26,médoïdes + propagation,0.5625
+HaTT,8,26,médoïdes + propagation + sonde,0.5625
+HaTT,12,26,hasard + sonde,0.5532723526473526
+HaTT,12,26,médoïdes + sonde,0.75
+HaTT,12,26,médoïdes + propagation,0.625
+HaTT,12,26,médoïdes + propagation + sonde,0.625
+HaTT,16,26,hasard + sonde,0.7816369047619048
+HaTT,16,26,médoïdes + sonde,0.675
+HaTT,16,26,médoïdes + propagation,0.675
+HaTT,16,26,médoïdes + propagation + sonde,0.675
+HaTT,24,26,hasard + sonde,0.7244047619047619
+HaTT,24,26,médoïdes + sonde,0.9047619047619048
+HaTT,24,26,médoïdes + propagation,0.9523809523809524
+HaTT,24,26,médoïdes + propagation + sonde,0.9523809523809524
+HaTT,4,27,hasard + sonde,0.35415088383838383
+HaTT,4,27,médoïdes + sonde,0.5596590909090909
+HaTT,4,27,médoïdes + propagation,0.5752840909090909
+HaTT,4,27,médoïdes + propagation + sonde,0.5752840909090909
+HaTT,6,27,hasard + sonde,0.4299657287157287
+HaTT,6,27,médoïdes + sonde,0.7458333333333332
+HaTT,6,27,médoïdes + propagation,0.7458333333333332
+HaTT,6,27,médoïdes + propagation + sonde,0.7458333333333332
+HaTT,8,27,hasard + sonde,0.46587632275132274
+HaTT,8,27,médoïdes + sonde,0.3973214285714286
+HaTT,8,27,médoïdes + propagation,0.34598214285714285
+HaTT,8,27,médoïdes + propagation + sonde,0.34598214285714285
+HaTT,12,27,hasard + sonde,0.4896033364783364
+HaTT,12,27,médoïdes + sonde,0.6236263736263736
+HaTT,12,27,médoïdes + propagation,0.39285714285714285
+HaTT,12,27,médoïdes + propagation + sonde,0.39285714285714285
+HaTT,16,27,hasard + sonde,0.582832190957191
+HaTT,16,27,médoïdes + sonde,0.625
+HaTT,16,27,médoïdes + propagation,0.625
+HaTT,16,27,médoïdes + propagation + sonde,0.625
+HaTT,24,27,hasard + sonde,0.712202380952381
+HaTT,24,27,médoïdes + sonde,0.5
+HaTT,24,27,médoïdes + propagation,1.0
+HaTT,24,27,médoïdes + propagation + sonde,1.0
+HaTT,4,28,hasard + sonde,0.4342013888888888
+HaTT,4,28,médoïdes + sonde,0.5
+HaTT,4,28,médoïdes + propagation,0.5
+HaTT,4,28,médoïdes + propagation + sonde,0.5
+HaTT,6,28,hasard + sonde,0.4449320818070818
+HaTT,6,28,médoïdes + sonde,0.5555555555555556
+HaTT,6,28,médoïdes + propagation,0.5555555555555556
+HaTT,6,28,médoïdes + propagation + sonde,0.5555555555555556
+HaTT,8,28,hasard + sonde,0.5796863553113554
+HaTT,8,28,médoïdes + sonde,0.5120192307692308
+HaTT,8,28,médoïdes + propagation,0.5120192307692308
+HaTT,8,28,médoïdes + propagation + sonde,0.5120192307692308
+HaTT,12,28,hasard + sonde,0.6276785714285715
+HaTT,12,28,médoïdes + sonde,0.7857142857142857
+HaTT,12,28,médoïdes + propagation,0.7857142857142857
+HaTT,12,28,médoïdes + propagation + sonde,0.7857142857142857
+HaTT,16,28,hasard + sonde,0.5290782828282827
+HaTT,16,28,médoïdes + sonde,0.8
+HaTT,16,28,médoïdes + propagation,0.85
+HaTT,16,28,médoïdes + propagation + sonde,0.85
+HaTT,24,28,hasard + sonde,0.8123611111111112
+HaTT,24,28,médoïdes + sonde,0.9523809523809524
+HaTT,24,28,médoïdes + propagation,0.9523809523809524
+HaTT,24,28,médoïdes + propagation + sonde,0.9523809523809524
+HaTT,4,29,hasard + sonde,0.441547619047619
+HaTT,4,29,médoïdes + sonde,0.5321428571428571
+HaTT,4,29,médoïdes + propagation,0.5321428571428571
+HaTT,4,29,médoïdes + propagation + sonde,0.5321428571428571
+HaTT,6,29,hasard + sonde,0.4553937728937728
+HaTT,6,29,médoïdes + sonde,0.7281746031746033
+HaTT,6,29,médoïdes + propagation,0.6448412698412699
+HaTT,6,29,médoïdes + propagation + sonde,0.6448412698412699
+HaTT,8,29,hasard + sonde,0.5808445027195027
+HaTT,8,29,médoïdes + sonde,0.7756410256410257
+HaTT,8,29,médoïdes + propagation,0.6794871794871795
+HaTT,8,29,médoïdes + propagation + sonde,0.6794871794871795
+HaTT,12,29,hasard + sonde,0.6980176767676768
+HaTT,12,29,médoïdes + sonde,0.7916666666666666
+HaTT,12,29,médoïdes + propagation,0.7708333333333333
+HaTT,12,29,médoïdes + propagation + sonde,0.7708333333333333
+HaTT,16,29,hasard + sonde,0.764917328042328
+HaTT,16,29,médoïdes + sonde,0.75
+HaTT,16,29,médoïdes + propagation,0.625
+HaTT,16,29,médoïdes + propagation + sonde,0.625
+HaTT,24,29,hasard + sonde,0.7683928571428571
+HaTT,24,29,médoïdes + sonde,0.75
+HaTT,24,29,médoïdes + propagation,0.75
+HaTT,24,29,médoïdes + propagation + sonde,0.75
+LMT108,4,0,hasard + sonde,0.4481439393939394
+LMT108,4,0,médoïdes + sonde,0.6666666666666666
+LMT108,4,0,médoïdes + propagation,0.6666666666666666
+LMT108,4,0,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,6,0,hasard + sonde,0.4866829004329003
+LMT108,6,0,médoïdes + sonde,0.5625
+LMT108,6,0,médoïdes + propagation,0.625
+LMT108,6,0,médoïdes + propagation + sonde,0.625
+LMT108,8,0,hasard + sonde,0.602470238095238
+LMT108,8,0,médoïdes + sonde,0.825
+LMT108,8,0,médoïdes + propagation,0.8416666666666666
+LMT108,8,0,médoïdes + propagation + sonde,0.8416666666666666
+LMT108,12,0,hasard + sonde,0.6107738095238096
+LMT108,12,0,médoïdes + sonde,0.75
+LMT108,12,0,médoïdes + propagation,0.8819444444444444
+LMT108,12,0,médoïdes + propagation + sonde,0.8819444444444444
+LMT108,16,0,hasard + sonde,0.6762499999999999
+LMT108,16,0,médoïdes + sonde,0.4444444444444444
+LMT108,16,0,médoïdes + propagation,0.5555555555555555
+LMT108,16,0,médoïdes + propagation + sonde,0.5555555555555555
+LMT108,4,1,hasard + sonde,0.5308012820512821
+LMT108,4,1,médoïdes + sonde,0.6666666666666666
+LMT108,4,1,médoïdes + propagation,0.6666666666666666
+LMT108,4,1,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,6,1,hasard + sonde,0.4817045454545455
+LMT108,6,1,médoïdes + sonde,0.8333333333333334
+LMT108,6,1,médoïdes + propagation,0.8125
+LMT108,6,1,médoïdes + propagation + sonde,0.8125
+LMT108,8,1,hasard + sonde,0.5537878787878787
+LMT108,8,1,médoïdes + sonde,0.8522727272727273
+LMT108,8,1,médoïdes + propagation,0.8522727272727273
+LMT108,8,1,médoïdes + propagation + sonde,0.8522727272727273
+LMT108,12,1,hasard + sonde,0.6036805555555556
+LMT108,12,1,médoïdes + sonde,0.9166666666666666
+LMT108,12,1,médoïdes + propagation,0.9166666666666666
+LMT108,12,1,médoïdes + propagation + sonde,0.9166666666666666
+LMT108,16,1,hasard + sonde,0.713452380952381
+LMT108,16,1,médoïdes + sonde,0.6666666666666666
+LMT108,16,1,médoïdes + propagation,0.6333333333333333
+LMT108,16,1,médoïdes + propagation + sonde,0.6333333333333333
+LMT108,4,2,hasard + sonde,0.36750000000000005
+LMT108,4,2,médoïdes + sonde,0.5
+LMT108,4,2,médoïdes + propagation,0.5
+LMT108,4,2,médoïdes + propagation + sonde,0.5
+LMT108,6,2,hasard + sonde,0.4980555555555556
+LMT108,6,2,médoïdes + sonde,0.6875
+LMT108,6,2,médoïdes + propagation,0.6875
+LMT108,6,2,médoïdes + propagation + sonde,0.6875
+LMT108,8,2,hasard + sonde,0.5915277777777778
+LMT108,8,2,médoïdes + sonde,0.6666666666666666
+LMT108,8,2,médoïdes + propagation,0.6666666666666666
+LMT108,8,2,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,12,2,hasard + sonde,0.6219543650793651
+LMT108,12,2,médoïdes + sonde,0.875
+LMT108,12,2,médoïdes + propagation,0.875
+LMT108,12,2,médoïdes + propagation + sonde,0.875
+LMT108,16,2,hasard + sonde,0.7262500000000001
+LMT108,16,2,médoïdes + sonde,1.0
+LMT108,16,2,médoïdes + propagation,1.0
+LMT108,16,2,médoïdes + propagation + sonde,1.0
+LMT108,4,3,hasard + sonde,0.4026007326007326
+LMT108,4,3,médoïdes + sonde,0.5
+LMT108,4,3,médoïdes + propagation,0.5
+LMT108,4,3,médoïdes + propagation + sonde,0.5
+LMT108,6,3,hasard + sonde,0.4697115384615385
+LMT108,6,3,médoïdes + sonde,0.6666666666666666
+LMT108,6,3,médoïdes + propagation,0.6474358974358975
+LMT108,6,3,médoïdes + propagation + sonde,0.6474358974358975
+LMT108,8,3,hasard + sonde,0.5208333333333333
+LMT108,8,3,médoïdes + sonde,0.5
+LMT108,8,3,médoïdes + propagation,0.5
+LMT108,8,3,médoïdes + propagation + sonde,0.5
+LMT108,12,3,hasard + sonde,0.5034722222222222
+LMT108,12,3,médoïdes + sonde,0.7777777777777777
+LMT108,12,3,médoïdes + propagation,0.75
+LMT108,12,3,médoïdes + propagation + sonde,0.75
+LMT108,16,3,hasard + sonde,0.6619444444444444
+LMT108,16,3,médoïdes + sonde,1.0
+LMT108,16,3,médoïdes + propagation,0.9545454545454546
+LMT108,16,3,médoïdes + propagation + sonde,0.9545454545454546
+LMT108,4,4,hasard + sonde,0.42681818181818176
+LMT108,4,4,médoïdes + sonde,0.6666666666666666
+LMT108,4,4,médoïdes + propagation,0.6666666666666666
+LMT108,4,4,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,6,4,hasard + sonde,0.5744318181818182
+LMT108,6,4,médoïdes + sonde,0.625
+LMT108,6,4,médoïdes + propagation,0.625
+LMT108,6,4,médoïdes + propagation + sonde,0.625
+LMT108,8,4,hasard + sonde,0.5643055555555556
+LMT108,8,4,médoïdes + sonde,0.6416666666666666
+LMT108,8,4,médoïdes + propagation,0.6416666666666666
+LMT108,8,4,médoïdes + propagation + sonde,0.6416666666666666
+LMT108,12,4,hasard + sonde,0.5668055555555556
+LMT108,12,4,médoïdes + sonde,0.8
+LMT108,12,4,médoïdes + propagation,0.8
+LMT108,12,4,médoïdes + propagation + sonde,0.8
+LMT108,16,4,hasard + sonde,0.7124007936507936
+LMT108,16,4,médoïdes + sonde,0.75
+LMT108,16,4,médoïdes + propagation,0.75
+LMT108,16,4,médoïdes + propagation + sonde,0.75
+LMT108,4,5,hasard + sonde,0.48636363636363644
+LMT108,4,5,médoïdes + sonde,0.6875
+LMT108,4,5,médoïdes + propagation,0.5
+LMT108,4,5,médoïdes + propagation + sonde,0.5
+LMT108,6,5,hasard + sonde,0.5653409090909091
+LMT108,6,5,médoïdes + sonde,0.6875
+LMT108,6,5,médoïdes + propagation,0.75
+LMT108,6,5,médoïdes + propagation + sonde,0.75
+LMT108,8,5,hasard + sonde,0.5426073232323232
+LMT108,8,5,médoïdes + sonde,0.75
+LMT108,8,5,médoïdes + propagation,0.8939393939393939
+LMT108,8,5,médoïdes + propagation + sonde,0.8939393939393939
+LMT108,12,5,hasard + sonde,0.6754265873015873
+LMT108,12,5,médoïdes + sonde,0.875
+LMT108,12,5,médoïdes + propagation,0.9772727272727273
+LMT108,12,5,médoïdes + propagation + sonde,0.9772727272727273
+LMT108,16,5,hasard + sonde,0.7443749999999999
+LMT108,16,5,médoïdes + sonde,1.0
+LMT108,16,5,médoïdes + propagation,0.9722222222222222
+LMT108,16,5,médoïdes + propagation + sonde,0.9722222222222222
+LMT108,4,6,hasard + sonde,0.39022727272727276
+LMT108,4,6,médoïdes + sonde,0.6875
+LMT108,4,6,médoïdes + propagation,0.6875
+LMT108,4,6,médoïdes + propagation + sonde,0.6875
+LMT108,6,6,hasard + sonde,0.5440151515151516
+LMT108,6,6,médoïdes + sonde,0.75
+LMT108,6,6,médoïdes + propagation,0.625
+LMT108,6,6,médoïdes + propagation + sonde,0.625
+LMT108,8,6,hasard + sonde,0.5855555555555556
+LMT108,8,6,médoïdes + sonde,0.725
+LMT108,8,6,médoïdes + propagation,0.725
+LMT108,8,6,médoïdes + propagation + sonde,0.725
+LMT108,12,6,hasard + sonde,0.6716369047619046
+LMT108,12,6,médoïdes + sonde,0.7166666666666667
+LMT108,12,6,médoïdes + propagation,0.7999999999999999
+LMT108,12,6,médoïdes + propagation + sonde,0.7999999999999999
+LMT108,16,6,hasard + sonde,0.6644444444444444
+LMT108,16,6,médoïdes + sonde,0.8472222222222222
+LMT108,16,6,médoïdes + propagation,0.8472222222222222
+LMT108,16,6,médoïdes + propagation + sonde,0.8472222222222222
+LMT108,4,7,hasard + sonde,0.43249999999999994
+LMT108,4,7,médoïdes + sonde,0.625
+LMT108,4,7,médoïdes + propagation,0.625
+LMT108,4,7,médoïdes + propagation + sonde,0.625
+LMT108,6,7,hasard + sonde,0.5171085858585858
+LMT108,6,7,médoïdes + sonde,0.8
+LMT108,6,7,médoïdes + propagation,0.8272727272727274
+LMT108,6,7,médoïdes + propagation + sonde,0.8272727272727274
+LMT108,8,7,hasard + sonde,0.5076388888888889
+LMT108,8,7,médoïdes + sonde,0.5606060606060606
+LMT108,8,7,médoïdes + propagation,0.75
+LMT108,8,7,médoïdes + propagation + sonde,0.75
+LMT108,12,7,hasard + sonde,0.5387202380952381
+LMT108,12,7,médoïdes + sonde,0.5
+LMT108,12,7,médoïdes + propagation,0.75
+LMT108,12,7,médoïdes + propagation + sonde,0.75
+LMT108,16,7,hasard + sonde,0.609375
+LMT108,16,7,médoïdes + sonde,0.8333333333333334
+LMT108,16,7,médoïdes + propagation,1.0
+LMT108,16,7,médoïdes + propagation + sonde,1.0
+LMT108,4,8,hasard + sonde,0.43136363636363634
+LMT108,4,8,médoïdes + sonde,0.5
+LMT108,4,8,médoïdes + propagation,0.5
+LMT108,4,8,médoïdes + propagation + sonde,0.5
+LMT108,6,8,hasard + sonde,0.4691666666666666
+LMT108,6,8,médoïdes + sonde,0.5625
+LMT108,6,8,médoïdes + propagation,0.6647727272727273
+LMT108,6,8,médoïdes + propagation + sonde,0.6647727272727273
+LMT108,8,8,hasard + sonde,0.517885101010101
+LMT108,8,8,médoïdes + sonde,0.625
+LMT108,8,8,médoïdes + propagation,0.6
+LMT108,8,8,médoïdes + propagation + sonde,0.6
+LMT108,12,8,hasard + sonde,0.5738897907647906
+LMT108,12,8,médoïdes + sonde,0.6597222222222222
+LMT108,12,8,médoïdes + propagation,0.6597222222222222
+LMT108,12,8,médoïdes + propagation + sonde,0.6597222222222222
+LMT108,16,8,hasard + sonde,0.6311507936507936
+LMT108,16,8,médoïdes + sonde,0.625
+LMT108,16,8,médoïdes + propagation,0.6666666666666666
+LMT108,16,8,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,4,9,hasard + sonde,0.42397727272727276
+LMT108,4,9,médoïdes + sonde,0.6875
+LMT108,4,9,médoïdes + propagation,0.5625
+LMT108,4,9,médoïdes + propagation + sonde,0.5625
+LMT108,6,9,hasard + sonde,0.4705871212121212
+LMT108,6,9,médoïdes + sonde,0.6666666666666666
+LMT108,6,9,médoïdes + propagation,0.6666666666666666
+LMT108,6,9,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,8,9,hasard + sonde,0.5351767676767676
+LMT108,8,9,médoïdes + sonde,0.6666666666666666
+LMT108,8,9,médoïdes + propagation,0.75
+LMT108,8,9,médoïdes + propagation + sonde,0.75
+LMT108,12,9,hasard + sonde,0.6295238095238095
+LMT108,12,9,médoïdes + sonde,0.875
+LMT108,12,9,médoïdes + propagation,0.85
+LMT108,12,9,médoïdes + propagation + sonde,0.85
+LMT108,16,9,hasard + sonde,0.7000992063492063
+LMT108,16,9,médoïdes + sonde,0.8333333333333334
+LMT108,16,9,médoïdes + propagation,1.0
+LMT108,16,9,médoïdes + propagation + sonde,1.0
+LMT108,4,10,hasard + sonde,0.39807539682539683
+LMT108,4,10,médoïdes + sonde,0.5357142857142857
+LMT108,4,10,médoïdes + propagation,0.5357142857142857
+LMT108,4,10,médoïdes + propagation + sonde,0.5357142857142857
+LMT108,6,10,hasard + sonde,0.5134126984126983
+LMT108,6,10,médoïdes + sonde,0.6607142857142857
+LMT108,6,10,médoïdes + propagation,0.6329365079365079
+LMT108,6,10,médoïdes + propagation + sonde,0.6329365079365079
+LMT108,8,10,hasard + sonde,0.5202380952380953
+LMT108,8,10,médoïdes + sonde,0.7916666666666666
+LMT108,8,10,médoïdes + propagation,0.7638888888888888
+LMT108,8,10,médoïdes + propagation + sonde,0.7638888888888888
+LMT108,12,10,hasard + sonde,0.6365873015873016
+LMT108,12,10,médoïdes + sonde,0.90625
+LMT108,12,10,médoïdes + propagation,0.90625
+LMT108,12,10,médoïdes + propagation + sonde,0.90625
+LMT108,16,10,hasard + sonde,0.7122619047619047
+LMT108,16,10,médoïdes + sonde,0.9166666666666666
+LMT108,16,10,médoïdes + propagation,0.9166666666666666
+LMT108,16,10,médoïdes + propagation + sonde,0.9166666666666666
+LMT108,4,11,hasard + sonde,0.42761363636363636
+LMT108,4,11,médoïdes + sonde,0.6875
+LMT108,4,11,médoïdes + propagation,0.6875
+LMT108,4,11,médoïdes + propagation + sonde,0.6875
+LMT108,6,11,hasard + sonde,0.5327272727272726
+LMT108,6,11,médoïdes + sonde,0.6666666666666666
+LMT108,6,11,médoïdes + propagation,0.75
+LMT108,6,11,médoïdes + propagation + sonde,0.75
+LMT108,8,11,hasard + sonde,0.5435606060606061
+LMT108,8,11,médoïdes + sonde,0.75
+LMT108,8,11,médoïdes + propagation,0.75
+LMT108,8,11,médoïdes + propagation + sonde,0.75
+LMT108,12,11,hasard + sonde,0.5911805555555555
+LMT108,12,11,médoïdes + sonde,0.8125
+LMT108,12,11,médoïdes + propagation,0.725
+LMT108,12,11,médoïdes + propagation + sonde,0.725
+LMT108,16,11,hasard + sonde,0.6197916666666667
+LMT108,16,11,médoïdes + sonde,0.5
+LMT108,16,11,médoïdes + propagation,0.5
+LMT108,16,11,médoïdes + propagation + sonde,0.5
+LMT108,4,12,hasard + sonde,0.44431818181818183
+LMT108,4,12,médoïdes + sonde,0.6875
+LMT108,4,12,médoïdes + propagation,0.6875
+LMT108,4,12,médoïdes + propagation + sonde,0.6875
+LMT108,6,12,hasard + sonde,0.581919191919192
+LMT108,6,12,médoïdes + sonde,0.6041666666666666
+LMT108,6,12,médoïdes + propagation,0.6666666666666666
+LMT108,6,12,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,8,12,hasard + sonde,0.6170833333333333
+LMT108,8,12,médoïdes + sonde,0.5833333333333333
+LMT108,8,12,médoïdes + propagation,0.6666666666666666
+LMT108,8,12,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,12,12,hasard + sonde,0.7394940476190477
+LMT108,12,12,médoïdes + sonde,0.7847222222222222
+LMT108,12,12,médoïdes + propagation,0.9444444444444444
+LMT108,12,12,médoïdes + propagation + sonde,0.9444444444444444
+LMT108,16,12,hasard + sonde,0.7020833333333333
+LMT108,16,12,médoïdes + sonde,0.9583333333333334
+LMT108,16,12,médoïdes + propagation,1.0
+LMT108,16,12,médoïdes + propagation + sonde,1.0
+LMT108,4,13,hasard + sonde,0.4560984848484848
+LMT108,4,13,médoïdes + sonde,0.6666666666666666
+LMT108,4,13,médoïdes + propagation,0.6666666666666666
+LMT108,4,13,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,6,13,hasard + sonde,0.45738636363636365
+LMT108,6,13,médoïdes + sonde,0.75
+LMT108,6,13,médoïdes + propagation,0.7916666666666667
+LMT108,6,13,médoïdes + propagation + sonde,0.7916666666666667
+LMT108,8,13,hasard + sonde,0.513611111111111
+LMT108,8,13,médoïdes + sonde,0.7916666666666667
+LMT108,8,13,médoïdes + propagation,0.7666666666666667
+LMT108,8,13,médoïdes + propagation + sonde,0.7666666666666667
+LMT108,12,13,hasard + sonde,0.6771990740740741
+LMT108,12,13,médoïdes + sonde,0.8125
+LMT108,12,13,médoïdes + propagation,0.8472222222222222
+LMT108,12,13,médoïdes + propagation + sonde,0.8472222222222222
+LMT108,16,13,hasard + sonde,0.6292658730158729
+LMT108,16,13,médoïdes + sonde,0.8333333333333333
+LMT108,16,13,médoïdes + propagation,0.8809523809523809
+LMT108,16,13,médoïdes + propagation + sonde,0.8809523809523809
+LMT108,4,14,hasard + sonde,0.38284632034632027
+LMT108,4,14,médoïdes + sonde,0.6666666666666666
+LMT108,4,14,médoïdes + propagation,0.6439393939393939
+LMT108,4,14,médoïdes + propagation + sonde,0.6439393939393939
+LMT108,6,14,hasard + sonde,0.49906926406926405
+LMT108,6,14,médoïdes + sonde,0.625
+LMT108,6,14,médoïdes + propagation,0.625
+LMT108,6,14,médoïdes + propagation + sonde,0.625
+LMT108,8,14,hasard + sonde,0.5470616883116883
+LMT108,8,14,médoïdes + sonde,0.75
+LMT108,8,14,médoïdes + propagation,0.8522727272727273
+LMT108,8,14,médoïdes + propagation + sonde,0.8522727272727273
+LMT108,12,14,hasard + sonde,0.618482142857143
+LMT108,12,14,médoïdes + sonde,0.8333333333333334
+LMT108,12,14,médoïdes + propagation,0.7962962962962963
+LMT108,12,14,médoïdes + propagation + sonde,0.7962962962962963
+LMT108,16,14,hasard + sonde,0.6755555555555556
+LMT108,16,14,médoïdes + sonde,0.8333333333333334
+LMT108,16,14,médoïdes + propagation,0.9166666666666666
+LMT108,16,14,médoïdes + propagation + sonde,0.9166666666666666
+LMT108,4,15,hasard + sonde,0.48746336996337
+LMT108,4,15,médoïdes + sonde,0.75
+LMT108,4,15,médoïdes + propagation,0.625
+LMT108,4,15,médoïdes + propagation + sonde,0.625
+LMT108,6,15,hasard + sonde,0.4040293040293041
+LMT108,6,15,médoïdes + sonde,0.7541666666666667
+LMT108,6,15,médoïdes + propagation,0.775
+LMT108,6,15,médoïdes + propagation + sonde,0.775
+LMT108,8,15,hasard + sonde,0.7191724941724942
+LMT108,8,15,médoïdes + sonde,0.6666666666666666
+LMT108,8,15,médoïdes + propagation,0.7291666666666666
+LMT108,8,15,médoïdes + propagation + sonde,0.7291666666666666
+LMT108,12,15,hasard + sonde,0.6027777777777777
+LMT108,12,15,médoïdes + sonde,0.8939393939393939
+LMT108,12,15,médoïdes + propagation,0.8712121212121212
+LMT108,12,15,médoïdes + propagation + sonde,0.8712121212121212
+LMT108,16,15,hasard + sonde,0.7129960317460318
+LMT108,16,15,médoïdes + sonde,0.6296296296296297
+LMT108,16,15,médoïdes + propagation,0.6666666666666666
+LMT108,16,15,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,4,16,hasard + sonde,0.5382196969696971
+LMT108,4,16,médoïdes + sonde,0.6875
+LMT108,4,16,médoïdes + propagation,0.6875
+LMT108,4,16,médoïdes + propagation + sonde,0.6875
+LMT108,6,16,hasard + sonde,0.5610858585858587
+LMT108,6,16,médoïdes + sonde,0.75
+LMT108,6,16,médoïdes + propagation,0.6666666666666666
+LMT108,6,16,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,8,16,hasard + sonde,0.535915404040404
+LMT108,8,16,médoïdes + sonde,0.6666666666666666
+LMT108,8,16,médoïdes + propagation,0.7916666666666666
+LMT108,8,16,médoïdes + propagation + sonde,0.7916666666666666
+LMT108,12,16,hasard + sonde,0.7026785714285714
+LMT108,12,16,médoïdes + sonde,0.9166666666666666
+LMT108,12,16,médoïdes + propagation,0.8916666666666666
+LMT108,12,16,médoïdes + propagation + sonde,0.8916666666666666
+LMT108,16,16,hasard + sonde,0.7339285714285714
+LMT108,16,16,médoïdes + sonde,0.8888888888888888
+LMT108,16,16,médoïdes + propagation,0.8472222222222222
+LMT108,16,16,médoïdes + propagation + sonde,0.8472222222222222
+LMT108,4,17,hasard + sonde,0.47547979797979795
+LMT108,4,17,médoïdes + sonde,0.75
+LMT108,4,17,médoïdes + propagation,0.75
+LMT108,4,17,médoïdes + propagation + sonde,0.75
+LMT108,6,17,hasard + sonde,0.5679545454545455
+LMT108,6,17,médoïdes + sonde,0.6666666666666666
+LMT108,6,17,médoïdes + propagation,0.6666666666666666
+LMT108,6,17,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,8,17,hasard + sonde,0.6168181818181819
+LMT108,8,17,médoïdes + sonde,0.6666666666666666
+LMT108,8,17,médoïdes + propagation,0.6666666666666666
+LMT108,8,17,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,12,17,hasard + sonde,0.7108035714285714
+LMT108,12,17,médoïdes + sonde,0.6666666666666666
+LMT108,12,17,médoïdes + propagation,0.8333333333333333
+LMT108,12,17,médoïdes + propagation + sonde,0.8333333333333333
+LMT108,16,17,hasard + sonde,0.7434126984126983
+LMT108,16,17,médoïdes + sonde,0.8333333333333333
+LMT108,16,17,médoïdes + propagation,0.8333333333333333
+LMT108,16,17,médoïdes + propagation + sonde,0.8333333333333333
+LMT108,4,18,hasard + sonde,0.44875
+LMT108,4,18,médoïdes + sonde,0.6666666666666666
+LMT108,4,18,médoïdes + propagation,0.6666666666666666
+LMT108,4,18,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,6,18,hasard + sonde,0.5419318181818181
+LMT108,6,18,médoïdes + sonde,0.7666666666666666
+LMT108,6,18,médoïdes + propagation,0.7666666666666666
+LMT108,6,18,médoïdes + propagation + sonde,0.7666666666666666
+LMT108,8,18,hasard + sonde,0.5823611111111111
+LMT108,8,18,médoïdes + sonde,0.85
+LMT108,8,18,médoïdes + propagation,0.7772727272727272
+LMT108,8,18,médoïdes + propagation + sonde,0.7772727272727272
+LMT108,12,18,hasard + sonde,0.6145833333333333
+LMT108,12,18,médoïdes + sonde,0.8083333333333333
+LMT108,12,18,médoïdes + propagation,0.8333333333333333
+LMT108,12,18,médoïdes + propagation + sonde,0.8333333333333333
+LMT108,16,18,hasard + sonde,0.6677777777777778
+LMT108,16,18,médoïdes + sonde,0.8333333333333334
+LMT108,16,18,médoïdes + propagation,0.7962962962962963
+LMT108,16,18,médoïdes + propagation + sonde,0.7962962962962963
+LMT108,4,19,hasard + sonde,0.42867424242424235
+LMT108,4,19,médoïdes + sonde,0.5833333333333333
+LMT108,4,19,médoïdes + propagation,0.5833333333333333
+LMT108,4,19,médoïdes + propagation + sonde,0.5833333333333333
+LMT108,6,19,hasard + sonde,0.5175757575757576
+LMT108,6,19,médoïdes + sonde,0.7
+LMT108,6,19,médoïdes + propagation,0.7272727272727273
+LMT108,6,19,médoïdes + propagation + sonde,0.7272727272727273
+LMT108,8,19,hasard + sonde,0.5668308080808081
+LMT108,8,19,médoïdes + sonde,0.625
+LMT108,8,19,médoïdes + propagation,0.625
+LMT108,8,19,médoïdes + propagation + sonde,0.625
+LMT108,12,19,hasard + sonde,0.6622916666666667
+LMT108,12,19,médoïdes + sonde,0.8722222222222222
+LMT108,12,19,médoïdes + propagation,0.9222222222222223
+LMT108,12,19,médoïdes + propagation + sonde,0.9222222222222223
+LMT108,16,19,hasard + sonde,0.7115674603174602
+LMT108,16,19,médoïdes + sonde,0.84375
+LMT108,16,19,médoïdes + propagation,0.875
+LMT108,16,19,médoïdes + propagation + sonde,0.875
+LMT108,4,20,hasard + sonde,0.4113782051282051
+LMT108,4,20,médoïdes + sonde,0.55
+LMT108,4,20,médoïdes + propagation,0.55
+LMT108,4,20,médoïdes + propagation + sonde,0.55
+LMT108,6,20,hasard + sonde,0.5273106060606061
+LMT108,6,20,médoïdes + sonde,0.6875
+LMT108,6,20,médoïdes + propagation,0.6458333333333333
+LMT108,6,20,médoïdes + propagation + sonde,0.6458333333333333
+LMT108,8,20,hasard + sonde,0.5678156565656566
+LMT108,8,20,médoïdes + sonde,0.675
+LMT108,8,20,médoïdes + propagation,0.675
+LMT108,8,20,médoïdes + propagation + sonde,0.675
+LMT108,12,20,hasard + sonde,0.5875462962962963
+LMT108,12,20,médoïdes + sonde,0.8106060606060606
+LMT108,12,20,médoïdes + propagation,0.8333333333333333
+LMT108,12,20,médoïdes + propagation + sonde,0.8333333333333333
+LMT108,16,20,hasard + sonde,0.6218055555555557
+LMT108,16,20,médoïdes + sonde,0.8333333333333334
+LMT108,16,20,médoïdes + propagation,0.8333333333333334
+LMT108,16,20,médoïdes + propagation + sonde,0.8333333333333334
+LMT108,4,21,hasard + sonde,0.4471590909090909
+LMT108,4,21,médoïdes + sonde,0.5
+LMT108,4,21,médoïdes + propagation,0.5
+LMT108,4,21,médoïdes + propagation + sonde,0.5
+LMT108,6,21,hasard + sonde,0.6322853535353536
+LMT108,6,21,médoïdes + sonde,0.6666666666666666
+LMT108,6,21,médoïdes + propagation,0.6666666666666666
+LMT108,6,21,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,8,21,hasard + sonde,0.6011805555555556
+LMT108,8,21,médoïdes + sonde,0.7333333333333334
+LMT108,8,21,médoïdes + propagation,0.7666666666666666
+LMT108,8,21,médoïdes + propagation + sonde,0.7666666666666666
+LMT108,12,21,hasard + sonde,0.6591666666666667
+LMT108,12,21,médoïdes + sonde,0.8125
+LMT108,12,21,médoïdes + propagation,0.9375
+LMT108,12,21,médoïdes + propagation + sonde,0.9375
+LMT108,16,21,hasard + sonde,0.6936111111111111
+LMT108,16,21,médoïdes + sonde,0.8333333333333334
+LMT108,16,21,médoïdes + propagation,0.8333333333333334
+LMT108,16,21,médoïdes + propagation + sonde,0.8333333333333334
+LMT108,4,22,hasard + sonde,0.43789335664335666
+LMT108,4,22,médoïdes + sonde,0.5
+LMT108,4,22,médoïdes + propagation,0.5
+LMT108,4,22,médoïdes + propagation + sonde,0.5
+LMT108,6,22,hasard + sonde,0.4379166666666666
+LMT108,6,22,médoïdes + sonde,0.7041666666666666
+LMT108,6,22,médoïdes + propagation,0.7333333333333334
+LMT108,6,22,médoïdes + propagation + sonde,0.7333333333333334
+LMT108,8,22,hasard + sonde,0.45823232323232316
+LMT108,8,22,médoïdes + sonde,0.75
+LMT108,8,22,médoïdes + propagation,0.75
+LMT108,8,22,médoïdes + propagation + sonde,0.75
+LMT108,12,22,hasard + sonde,0.5438293650793651
+LMT108,12,22,médoïdes + sonde,0.8030303030303031
+LMT108,12,22,médoïdes + propagation,0.8030303030303031
+LMT108,12,22,médoïdes + propagation + sonde,0.8030303030303031
+LMT108,16,22,hasard + sonde,0.65
+LMT108,16,22,médoïdes + sonde,0.6666666666666666
+LMT108,16,22,médoïdes + propagation,0.6296296296296297
+LMT108,16,22,médoïdes + propagation + sonde,0.6296296296296297
+LMT108,4,23,hasard + sonde,0.45939393939393935
+LMT108,4,23,médoïdes + sonde,0.5
+LMT108,4,23,médoïdes + propagation,0.4375
+LMT108,4,23,médoïdes + propagation + sonde,0.4375
+LMT108,6,23,hasard + sonde,0.548219696969697
+LMT108,6,23,médoïdes + sonde,0.5833333333333333
+LMT108,6,23,médoïdes + propagation,0.5
+LMT108,6,23,médoïdes + propagation + sonde,0.5
+LMT108,8,23,hasard + sonde,0.6148755411255411
+LMT108,8,23,médoïdes + sonde,0.8166666666666667
+LMT108,8,23,médoïdes + propagation,0.7666666666666666
+LMT108,8,23,médoïdes + propagation + sonde,0.7666666666666666
+LMT108,12,23,hasard + sonde,0.7345238095238094
+LMT108,12,23,médoïdes + sonde,0.625
+LMT108,12,23,médoïdes + propagation,0.9375
+LMT108,12,23,médoïdes + propagation + sonde,0.9375
+LMT108,16,23,hasard + sonde,0.7006944444444445
+LMT108,16,23,médoïdes + sonde,0.8333333333333334
+LMT108,16,23,médoïdes + propagation,1.0
+LMT108,16,23,médoïdes + propagation + sonde,1.0
+LMT108,4,24,hasard + sonde,0.4257305194805195
+LMT108,4,24,médoïdes + sonde,0.6666666666666666
+LMT108,4,24,médoïdes + propagation,0.6666666666666666
+LMT108,4,24,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,6,24,hasard + sonde,0.5016215728715728
+LMT108,6,24,médoïdes + sonde,0.75
+LMT108,6,24,médoïdes + propagation,0.75
+LMT108,6,24,médoïdes + propagation + sonde,0.75
+LMT108,8,24,hasard + sonde,0.4915972222222222
+LMT108,8,24,médoïdes + sonde,0.875
+LMT108,8,24,médoïdes + propagation,0.8916666666666666
+LMT108,8,24,médoïdes + propagation + sonde,0.8916666666666666
+LMT108,12,24,hasard + sonde,0.5359226190476191
+LMT108,12,24,médoïdes + sonde,0.6416666666666666
+LMT108,12,24,médoïdes + propagation,0.7
+LMT108,12,24,médoïdes + propagation + sonde,0.7
+LMT108,16,24,hasard + sonde,0.6612037037037037
+LMT108,16,24,médoïdes + sonde,0.6666666666666666
+LMT108,16,24,médoïdes + propagation,0.6666666666666666
+LMT108,16,24,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,4,25,hasard + sonde,0.47423076923076923
+LMT108,4,25,médoïdes + sonde,0.6875
+LMT108,4,25,médoïdes + propagation,0.6875
+LMT108,4,25,médoïdes + propagation + sonde,0.6875
+LMT108,6,25,hasard + sonde,0.4671212121212121
+LMT108,6,25,médoïdes + sonde,0.75
+LMT108,6,25,médoïdes + propagation,0.75
+LMT108,6,25,médoïdes + propagation + sonde,0.75
+LMT108,8,25,hasard + sonde,0.5014772727272727
+LMT108,8,25,médoïdes + sonde,0.6666666666666666
+LMT108,8,25,médoïdes + propagation,0.6666666666666666
+LMT108,8,25,médoïdes + propagation + sonde,0.6666666666666666
+LMT108,12,25,hasard + sonde,0.6518939393939395
+LMT108,12,25,médoïdes + sonde,0.5795454545454546
+LMT108,12,25,médoïdes + propagation,0.7272727272727273
+LMT108,12,25,médoïdes + propagation + sonde,0.7272727272727273
+LMT108,16,25,hasard + sonde,0.6027777777777777
+LMT108,16,25,médoïdes + sonde,0.75
+LMT108,16,25,médoïdes + propagation,0.75
+LMT108,16,25,médoïdes + propagation + sonde,0.75
+LMT108,4,26,hasard + sonde,0.5179166666666667
+LMT108,4,26,médoïdes + sonde,0.6875
+LMT108,4,26,médoïdes + propagation,0.6875
+LMT108,4,26,médoïdes + propagation + sonde,0.6875
+LMT108,6,26,hasard + sonde,0.5750694444444444
+LMT108,6,26,médoïdes + sonde,0.75
+LMT108,6,26,médoïdes + propagation,0.75
+LMT108,6,26,médoïdes + propagation + sonde,0.75
+LMT108,8,26,hasard + sonde,0.536845238095238
+LMT108,8,26,médoïdes + sonde,0.7083333333333333
+LMT108,8,26,médoïdes + propagation,0.6527777777777778
+LMT108,8,26,médoïdes + propagation + sonde,0.6527777777777778
+LMT108,12,26,hasard + sonde,0.6729166666666666
+LMT108,12,26,médoïdes + sonde,0.6875
+LMT108,12,26,médoïdes + propagation,0.71875
+LMT108,12,26,médoïdes + propagation + sonde,0.71875
+LMT108,16,26,hasard + sonde,0.78875
+LMT108,16,26,médoïdes + sonde,0.8333333333333334
+LMT108,16,26,médoïdes + propagation,0.8333333333333334
+LMT108,16,26,médoïdes + propagation + sonde,0.8333333333333334
+LMT108,4,27,hasard + sonde,0.3759569597069597
+LMT108,4,27,médoïdes + sonde,0.75
+LMT108,4,27,médoïdes + propagation,0.625
+LMT108,4,27,médoïdes + propagation + sonde,0.625
+LMT108,6,27,hasard + sonde,0.49519522144522143
+LMT108,6,27,médoïdes + sonde,0.8307692307692307
+LMT108,6,27,médoïdes + propagation,0.8307692307692307
+LMT108,6,27,médoïdes + propagation + sonde,0.8307692307692307
+LMT108,8,27,hasard + sonde,0.5754166666666667
+LMT108,8,27,médoïdes + sonde,0.9375
+LMT108,8,27,médoïdes + propagation,0.8333333333333334
+LMT108,8,27,médoïdes + propagation + sonde,0.8333333333333334
+LMT108,12,27,hasard + sonde,0.6208333333333333
+LMT108,12,27,médoïdes + sonde,0.6666666666666666
+LMT108,12,27,médoïdes + propagation,0.6439393939393939
+LMT108,12,27,médoïdes + propagation + sonde,0.6439393939393939
+LMT108,16,27,hasard + sonde,0.6675
+LMT108,16,27,médoïdes + sonde,0.8333333333333334
+LMT108,16,27,médoïdes + propagation,0.8333333333333334
+LMT108,16,27,médoïdes + propagation + sonde,0.8333333333333334
+LMT108,4,28,hasard + sonde,0.4916666666666667
+LMT108,4,28,médoïdes + sonde,0.5
+LMT108,4,28,médoïdes + propagation,0.5
+LMT108,4,28,médoïdes + propagation + sonde,0.5
+LMT108,6,28,hasard + sonde,0.45486111111111105
+LMT108,6,28,médoïdes + sonde,0.625
+LMT108,6,28,médoïdes + propagation,0.625
+LMT108,6,28,médoïdes + propagation + sonde,0.625
+LMT108,8,28,hasard + sonde,0.5333333333333333
+LMT108,8,28,médoïdes + sonde,0.6666666666666666
+LMT108,8,28,médoïdes + propagation,0.75
+LMT108,8,28,médoïdes + propagation + sonde,0.75
+LMT108,12,28,hasard + sonde,0.6230257936507937
+LMT108,12,28,médoïdes + sonde,0.625
+LMT108,12,28,médoïdes + propagation,0.625
+LMT108,12,28,médoïdes + propagation + sonde,0.625
+LMT108,16,28,hasard + sonde,0.6197916666666666
+LMT108,16,28,médoïdes + sonde,0.625
+LMT108,16,28,médoïdes + propagation,0.625
+LMT108,16,28,médoïdes + propagation + sonde,0.625
+LMT108,4,29,hasard + sonde,0.49183531746031744
+LMT108,4,29,médoïdes + sonde,0.5
+LMT108,4,29,médoïdes + propagation,0.5
+LMT108,4,29,médoïdes + propagation + sonde,0.5
+LMT108,6,29,hasard + sonde,0.5359027777777777
+LMT108,6,29,médoïdes + sonde,0.75
+LMT108,6,29,médoïdes + propagation,0.75
+LMT108,6,29,médoïdes + propagation + sonde,0.75
+LMT108,8,29,hasard + sonde,0.6220833333333333
+LMT108,8,29,médoïdes + sonde,0.8293650793650793
+LMT108,8,29,médoïdes + propagation,0.8293650793650793
+LMT108,8,29,médoïdes + propagation + sonde,0.8293650793650793
+LMT108,12,29,hasard + sonde,0.6078869047619049
+LMT108,12,29,médoïdes + sonde,0.7083333333333333
+LMT108,12,29,médoïdes + propagation,0.7708333333333333
+LMT108,12,29,médoïdes + propagation + sonde,0.7708333333333333
+LMT108,16,29,hasard + sonde,0.7941666666666666
+LMT108,16,29,médoïdes + sonde,0.875
+LMT108,16,29,médoïdes + propagation,0.875
+LMT108,16,29,médoïdes + propagation + sonde,0.875
+TUM,4,0,hasard + sonde,0.46096626893928516
+TUM,4,0,médoïdes + sonde,0.7116402116402116
+TUM,4,0,médoïdes + propagation,0.7328042328042329
+TUM,4,0,médoïdes + propagation + sonde,0.7328042328042329
+TUM,6,0,hasard + sonde,0.44554689086799615
+TUM,6,0,médoïdes + sonde,0.7504553734061931
+TUM,6,0,médoïdes + propagation,0.7395264116575592
+TUM,6,0,médoïdes + propagation + sonde,0.7395264116575592
+TUM,8,0,hasard + sonde,0.5186257060303932
+TUM,8,0,médoïdes + sonde,0.7294413057124922
+TUM,8,0,médoïdes + propagation,0.662586315128688
+TUM,8,0,médoïdes + propagation + sonde,0.662586315128688
+TUM,12,0,hasard + sonde,0.48527529285585125
+TUM,12,0,médoïdes + sonde,0.7761904761904762
+TUM,12,0,médoïdes + propagation,0.6984126984126985
+TUM,12,0,médoïdes + propagation + sonde,0.6984126984126985
+TUM,16,0,hasard + sonde,0.6043333508067138
+TUM,16,0,médoïdes + sonde,0.6971595655806183
+TUM,16,0,médoïdes + propagation,0.6553884711779449
+TUM,16,0,médoïdes + propagation + sonde,0.6553884711779449
+TUM,24,0,hasard + sonde,0.6914381711412239
+TUM,24,0,médoïdes + sonde,0.7145191409897292
+TUM,24,0,médoïdes + propagation,0.6034080298786181
+TUM,24,0,médoïdes + propagation + sonde,0.6034080298786181
+TUM,4,1,hasard + sonde,0.4493278314910193
+TUM,4,1,médoïdes + sonde,0.6009959539371303
+TUM,4,1,médoïdes + propagation,0.6258948023653906
+TUM,4,1,médoïdes + propagation + sonde,0.6258948023653906
+TUM,6,1,hasard + sonde,0.5179613557627059
+TUM,6,1,médoïdes + sonde,0.6939700611427367
+TUM,6,1,médoïdes + propagation,0.6974488720219271
+TUM,6,1,médoïdes + propagation + sonde,0.6974488720219271
+TUM,8,1,hasard + sonde,0.5446538088923983
+TUM,8,1,médoïdes + sonde,0.7350865209471767
+TUM,8,1,médoïdes + propagation,0.7296220400728597
+TUM,8,1,médoïdes + propagation + sonde,0.7296220400728597
+TUM,12,1,hasard + sonde,0.6531375492502522
+TUM,12,1,médoïdes + sonde,0.7443502824858758
+TUM,12,1,médoïdes + propagation,0.7108286252354049
+TUM,12,1,médoïdes + propagation + sonde,0.7108286252354049
+TUM,16,1,hasard + sonde,0.6397204934321101
+TUM,16,1,médoïdes + sonde,0.8216374269005847
+TUM,16,1,médoïdes + propagation,0.7362573099415205
+TUM,16,1,médoïdes + propagation + sonde,0.7362573099415205
+TUM,24,1,hasard + sonde,0.6756723886879167
+TUM,24,1,médoïdes + sonde,0.7615384615384616
+TUM,24,1,médoïdes + propagation,0.7230769230769232
+TUM,24,1,médoïdes + propagation + sonde,0.7230769230769232
+TUM,4,2,hasard + sonde,0.45934218386467957
+TUM,4,2,médoïdes + sonde,0.594541910331384
+TUM,4,2,médoïdes + propagation,0.5998329156223893
+TUM,4,2,médoïdes + propagation + sonde,0.5998329156223893
+TUM,6,2,hasard + sonde,0.5287029857975333
+TUM,6,2,médoïdes + sonde,0.5921771642220305
+TUM,6,2,médoïdes + propagation,0.6042565429968364
+TUM,6,2,médoïdes + propagation + sonde,0.6042565429968364
+TUM,8,2,hasard + sonde,0.519628073212257
+TUM,8,2,médoïdes + sonde,0.7443249701314216
+TUM,8,2,médoïdes + propagation,0.7502986857825568
+TUM,8,2,médoïdes + propagation + sonde,0.7502986857825568
+TUM,12,2,hasard + sonde,0.5705677557759031
+TUM,12,2,médoïdes + sonde,0.7369175627240142
+TUM,12,2,médoïdes + propagation,0.7086021505376344
+TUM,12,2,médoïdes + propagation + sonde,0.7086021505376344
+TUM,16,2,hasard + sonde,0.5729712168847048
+TUM,16,2,médoïdes + sonde,0.6824561403508772
+TUM,16,2,médoïdes + propagation,0.6473684210526316
+TUM,16,2,médoïdes + propagation + sonde,0.6473684210526316
+TUM,24,2,hasard + sonde,0.5989279737066451
+TUM,24,2,médoïdes + sonde,0.7922431865828092
+TUM,24,2,médoïdes + propagation,0.7581761006289308
+TUM,24,2,médoïdes + propagation + sonde,0.7581761006289308
+TUM,4,3,hasard + sonde,0.44469792031602307
+TUM,4,3,médoïdes + sonde,0.6084656084656085
+TUM,4,3,médoïdes + propagation,0.626984126984127
+TUM,4,3,médoïdes + propagation + sonde,0.626984126984127
+TUM,6,3,hasard + sonde,0.5289386884265304
+TUM,6,3,médoïdes + sonde,0.6699522102747909
+TUM,6,3,médoïdes + propagation,0.6197729988052568
+TUM,6,3,médoïdes + propagation + sonde,0.6197729988052568
+TUM,8,3,hasard + sonde,0.5281108919408193
+TUM,8,3,médoïdes + sonde,0.6031420765027322
+TUM,8,3,médoïdes + propagation,0.6294398907103825
+TUM,8,3,médoïdes + propagation + sonde,0.6294398907103825
+TUM,12,3,hasard + sonde,0.580193690840281
+TUM,12,3,médoïdes + sonde,0.7339588377723971
+TUM,12,3,médoïdes + propagation,0.7396085552865214
+TUM,12,3,médoïdes + propagation + sonde,0.7396085552865214
+TUM,16,3,hasard + sonde,0.5839171747318495
+TUM,16,3,médoïdes + sonde,0.7014230979748222
+TUM,16,3,médoïdes + propagation,0.7101806239737275
+TUM,16,3,médoïdes + propagation + sonde,0.7101806239737275
+TUM,24,3,hasard + sonde,0.6417056056430813
+TUM,24,3,médoïdes + sonde,0.6851851851851851
+TUM,24,3,médoïdes + propagation,0.70679012345679
+TUM,24,3,médoïdes + propagation + sonde,0.70679012345679
+TUM,4,4,hasard + sonde,0.5129817374978665
+TUM,4,4,médoïdes + sonde,0.6064516129032258
+TUM,4,4,médoïdes + propagation,0.6338709677419355
+TUM,4,4,médoïdes + propagation + sonde,0.6338709677419355
+TUM,6,4,hasard + sonde,0.44783502472027054
+TUM,6,4,médoïdes + sonde,0.6097210238711533
+TUM,6,4,médoïdes + propagation,0.5921771642220305
+TUM,6,4,médoïdes + propagation + sonde,0.5921771642220305
+TUM,8,4,hasard + sonde,0.5918610508912954
+TUM,8,4,médoïdes + sonde,0.6595238095238095
+TUM,8,4,médoïdes + propagation,0.5952380952380952
+TUM,8,4,médoïdes + propagation + sonde,0.5952380952380952
+TUM,12,4,hasard + sonde,0.5807071628733066
+TUM,12,4,médoïdes + sonde,0.7444444444444445
+TUM,12,4,médoïdes + propagation,0.7069444444444444
+TUM,12,4,médoïdes + propagation + sonde,0.7069444444444444
+TUM,16,4,hasard + sonde,0.6076993144000563
+TUM,16,4,médoïdes + sonde,0.7375478927203066
+TUM,16,4,médoïdes + propagation,0.79272030651341
+TUM,16,4,médoïdes + propagation + sonde,0.79272030651341
+TUM,24,4,hasard + sonde,0.6542212257294244
+TUM,24,4,médoïdes + sonde,0.7757619738751815
+TUM,24,4,médoïdes + propagation,0.7507256894049347
+TUM,24,4,médoïdes + propagation + sonde,0.7507256894049347
+TUM,4,5,hasard + sonde,0.43234126984126986
+TUM,4,5,médoïdes + sonde,0.5729166666666666
+TUM,4,5,médoïdes + propagation,0.59375
+TUM,4,5,médoïdes + propagation + sonde,0.59375
+TUM,6,5,hasard + sonde,0.5054629843593822
+TUM,6,5,médoïdes + sonde,0.7784391534391535
+TUM,6,5,médoïdes + propagation,0.7205687830687831
+TUM,6,5,médoïdes + propagation + sonde,0.7205687830687831
+TUM,8,5,hasard + sonde,0.528478463804583
+TUM,8,5,médoïdes + sonde,0.6290322580645161
+TUM,8,5,médoïdes + propagation,0.5890937019969278
+TUM,8,5,médoïdes + propagation + sonde,0.5890937019969278
+TUM,12,5,hasard + sonde,0.558851742063416
+TUM,12,5,médoïdes + sonde,0.7613960113960113
+TUM,12,5,médoïdes + propagation,0.6783475783475783
+TUM,12,5,médoïdes + propagation + sonde,0.6783475783475783
+TUM,16,5,hasard + sonde,0.6034142870432957
+TUM,16,5,médoïdes + sonde,0.7132752305166098
+TUM,16,5,médoïdes + propagation,0.6933813313123659
+TUM,16,5,médoïdes + propagation + sonde,0.6933813313123659
+TUM,24,5,hasard + sonde,0.66362399842643
+TUM,24,5,médoïdes + sonde,0.6432098765432098
+TUM,24,5,médoïdes + propagation,0.7641975308641976
+TUM,24,5,médoïdes + propagation + sonde,0.7641975308641976
+TUM,4,6,hasard + sonde,0.520842605107311
+TUM,4,6,médoïdes + sonde,0.6205808080808081
+TUM,4,6,médoïdes + propagation,0.610479797979798
+TUM,4,6,médoïdes + propagation + sonde,0.610479797979798
+TUM,6,6,hasard + sonde,0.48141463112051347
+TUM,6,6,médoïdes + sonde,0.7898351648351648
+TUM,6,6,médoïdes + propagation,0.7949633699633699
+TUM,6,6,médoïdes + propagation + sonde,0.7949633699633699
+TUM,8,6,hasard + sonde,0.5668202764976958
+TUM,8,6,médoïdes + sonde,0.765625
+TUM,8,6,médoïdes + propagation,0.7395833333333334
+TUM,8,6,médoïdes + propagation + sonde,0.7395833333333334
+TUM,12,6,hasard + sonde,0.6203174104518512
+TUM,12,6,médoïdes + sonde,0.6925243215565796
+TUM,12,6,médoïdes + propagation,0.6315924219150025
+TUM,12,6,médoïdes + propagation + sonde,0.6315924219150025
+TUM,16,6,hasard + sonde,0.6527876448977145
+TUM,16,6,médoïdes + sonde,0.6744148506860371
+TUM,16,6,médoïdes + propagation,0.644955609362389
+TUM,16,6,médoïdes + propagation + sonde,0.644955609362389
+TUM,24,6,hasard + sonde,0.6644560131745004
+TUM,24,6,médoïdes + sonde,0.8580246913580246
+TUM,24,6,médoïdes + propagation,0.6882716049382717
+TUM,24,6,médoïdes + propagation + sonde,0.6882716049382717
+TUM,4,7,hasard + sonde,0.4352850033382529
+TUM,4,7,médoïdes + sonde,0.6168689698101463
+TUM,4,7,médoïdes + propagation,0.6168689698101463
+TUM,4,7,médoïdes + propagation + sonde,0.6168689698101463
+TUM,6,7,hasard + sonde,0.5054701147160785
+TUM,6,7,médoïdes + sonde,0.6907723662941879
+TUM,6,7,médoïdes + propagation,0.671164523156933
+TUM,6,7,médoïdes + propagation + sonde,0.671164523156933
+TUM,8,7,hasard + sonde,0.46673114755350814
+TUM,8,7,médoïdes + sonde,0.6555555555555556
+TUM,8,7,médoïdes + propagation,0.6555555555555556
+TUM,8,7,médoïdes + propagation + sonde,0.6555555555555556
+TUM,12,7,hasard + sonde,0.6456162511640278
+TUM,12,7,médoïdes + sonde,0.7720439870863599
+TUM,12,7,médoïdes + propagation,0.7286117836965295
+TUM,12,7,médoïdes + propagation + sonde,0.7286117836965295
+TUM,16,7,hasard + sonde,0.676580302122755
+TUM,16,7,médoïdes + sonde,0.6549707602339181
+TUM,16,7,médoïdes + propagation,0.7623224728487887
+TUM,16,7,médoïdes + propagation + sonde,0.7623224728487887
+TUM,24,7,hasard + sonde,0.7497586998618957
+TUM,24,7,médoïdes + sonde,0.6820987654320988
+TUM,24,7,médoïdes + propagation,0.8148148148148149
+TUM,24,7,médoïdes + propagation + sonde,0.8148148148148149
+TUM,4,8,hasard + sonde,0.48556020250935505
+TUM,4,8,médoïdes + sonde,0.4696969696969697
+TUM,4,8,médoïdes + propagation,0.5151515151515151
+TUM,4,8,médoïdes + propagation + sonde,0.5151515151515151
+TUM,6,8,hasard + sonde,0.49557195605328436
+TUM,6,8,médoïdes + sonde,0.6098484848484849
+TUM,6,8,médoïdes + propagation,0.6192528735632185
+TUM,6,8,médoïdes + propagation + sonde,0.6192528735632185
+TUM,8,8,hasard + sonde,0.5816298648921154
+TUM,8,8,médoïdes + sonde,0.7422723475355054
+TUM,8,8,médoïdes + propagation,0.6647869674185464
+TUM,8,8,médoïdes + propagation + sonde,0.6647869674185464
+TUM,12,8,hasard + sonde,0.5712961454363309
+TUM,12,8,médoïdes + sonde,0.5806878306878307
+TUM,12,8,médoïdes + propagation,0.5866402116402116
+TUM,12,8,médoïdes + propagation + sonde,0.5866402116402116
+TUM,16,8,hasard + sonde,0.6400248120450194
+TUM,16,8,médoïdes + sonde,0.7321817615935263
+TUM,16,8,médoïdes + propagation,0.6638655462184874
+TUM,16,8,médoïdes + propagation + sonde,0.6638655462184874
+TUM,24,8,hasard + sonde,0.6629187207128384
+TUM,24,8,médoïdes + sonde,0.7897435897435897
+TUM,24,8,médoïdes + propagation,0.7923076923076923
+TUM,24,8,médoïdes + propagation + sonde,0.7923076923076923
+TUM,4,9,hasard + sonde,0.4851044210419211
+TUM,4,9,médoïdes + sonde,0.6256410256410256
+TUM,4,9,médoïdes + propagation,0.6358974358974359
+TUM,4,9,médoïdes + propagation + sonde,0.6358974358974359
+TUM,6,9,hasard + sonde,0.5459749310532043
+TUM,6,9,médoïdes + sonde,0.6031746031746031
+TUM,6,9,médoïdes + propagation,0.5952380952380952
+TUM,6,9,médoïdes + propagation + sonde,0.5952380952380952
+TUM,8,9,hasard + sonde,0.5762043671984335
+TUM,8,9,médoïdes + sonde,0.7724867724867724
+TUM,8,9,médoïdes + propagation,0.7777777777777778
+TUM,8,9,médoïdes + propagation + sonde,0.7777777777777778
+TUM,12,9,hasard + sonde,0.6489400633621849
+TUM,12,9,médoïdes + sonde,0.7347670250896057
+TUM,12,9,médoïdes + propagation,0.7240143369175627
+TUM,12,9,médoïdes + propagation + sonde,0.7240143369175627
+TUM,16,9,hasard + sonde,0.6441689674274813
+TUM,16,9,médoïdes + sonde,0.6939736346516008
+TUM,16,9,médoïdes + propagation,0.8220338983050848
+TUM,16,9,médoïdes + propagation + sonde,0.8220338983050848
+TUM,24,9,hasard + sonde,0.6807414289984316
+TUM,24,9,médoïdes + sonde,0.7438271604938271
+TUM,24,9,médoïdes + propagation,0.7808641975308642
+TUM,24,9,médoïdes + propagation + sonde,0.7808641975308642
+TUM,4,10,hasard + sonde,0.4450933781632311
+TUM,4,10,médoïdes + sonde,0.6158088235294118
+TUM,4,10,médoïdes + propagation,0.6354166666666666
+TUM,4,10,médoïdes + propagation + sonde,0.6354166666666666
+TUM,6,10,hasard + sonde,0.5188612984120728
+TUM,6,10,médoïdes + sonde,0.7729536258948023
+TUM,6,10,médoïdes + propagation,0.7154139433551198
+TUM,6,10,médoïdes + propagation + sonde,0.7154139433551198
+TUM,8,10,hasard + sonde,0.5160586779410062
+TUM,8,10,médoïdes + sonde,0.7748655913978495
+TUM,8,10,médoïdes + propagation,0.7231182795698925
+TUM,8,10,médoïdes + propagation + sonde,0.7231182795698925
+TUM,12,10,hasard + sonde,0.5709484078013991
+TUM,12,10,médoïdes + sonde,0.8730418943533698
+TUM,12,10,médoïdes + propagation,0.8398907103825137
+TUM,12,10,médoïdes + propagation + sonde,0.8398907103825137
+TUM,16,10,hasard + sonde,0.5927905893710944
+TUM,16,10,médoïdes + sonde,0.7000547345374931
+TUM,16,10,médoïdes + propagation,0.7679255610290093
+TUM,16,10,médoïdes + propagation + sonde,0.7679255610290093
+TUM,24,10,hasard + sonde,0.6621922076109452
+TUM,24,10,médoïdes + sonde,0.7056119980648283
+TUM,24,10,médoïdes + propagation,0.782656023222061
+TUM,24,10,médoïdes + propagation + sonde,0.782656023222061
+TUM,4,11,hasard + sonde,0.52646525091152
+TUM,4,11,médoïdes + sonde,0.589344262295082
+TUM,4,11,médoïdes + propagation,0.6008196721311475
+TUM,4,11,médoïdes + propagation + sonde,0.6008196721311475
+TUM,6,11,hasard + sonde,0.5535995338211231
+TUM,6,11,médoïdes + sonde,0.5997175141242937
+TUM,6,11,médoïdes + propagation,0.6163841807909605
+TUM,6,11,médoïdes + propagation + sonde,0.6163841807909605
+TUM,8,11,hasard + sonde,0.5506397015657528
+TUM,8,11,médoïdes + sonde,0.7324074074074073
+TUM,8,11,médoïdes + propagation,0.7388888888888889
+TUM,8,11,médoïdes + propagation + sonde,0.7388888888888889
+TUM,12,11,hasard + sonde,0.570609132735912
+TUM,12,11,médoïdes + sonde,0.8243933588761175
+TUM,12,11,médoïdes + propagation,0.7701149425287356
+TUM,12,11,médoïdes + propagation + sonde,0.7701149425287356
+TUM,16,11,hasard + sonde,0.6459436192457104
+TUM,16,11,médoïdes + sonde,0.8507309941520468
+TUM,16,11,médoïdes + propagation,0.7190058479532163
+TUM,16,11,médoïdes + propagation + sonde,0.7190058479532163
+TUM,24,11,hasard + sonde,0.6851106607874774
+TUM,24,11,médoïdes + sonde,0.7318658280922432
+TUM,24,11,médoïdes + propagation,0.8248427672955975
+TUM,24,11,médoïdes + propagation + sonde,0.8248427672955975
+TUM,4,12,hasard + sonde,0.4439138783043581
+TUM,4,12,médoïdes + sonde,0.5694444444444445
+TUM,4,12,médoïdes + propagation,0.6302083333333334
+TUM,4,12,médoïdes + propagation + sonde,0.6302083333333334
+TUM,6,12,hasard + sonde,0.5515729622371954
+TUM,6,12,médoïdes + sonde,0.8148148148148149
+TUM,6,12,médoïdes + propagation,0.7328042328042327
+TUM,6,12,médoïdes + propagation + sonde,0.7328042328042327
+TUM,8,12,hasard + sonde,0.542910635338848
+TUM,8,12,médoïdes + sonde,0.8083039667479895
+TUM,8,12,médoïdes + propagation,0.7338031986988343
+TUM,8,12,médoïdes + propagation + sonde,0.7338031986988343
+TUM,12,12,hasard + sonde,0.6271586639299634
+TUM,12,12,médoïdes + sonde,0.7340619307832422
+TUM,12,12,médoïdes + propagation,0.7227686703096539
+TUM,12,12,médoïdes + propagation + sonde,0.7227686703096539
+TUM,16,12,hasard + sonde,0.640126774175711
+TUM,16,12,médoïdes + sonde,0.6881226053639846
+TUM,16,12,médoïdes + propagation,0.6773946360153257
+TUM,16,12,médoïdes + propagation + sonde,0.6773946360153257
+TUM,24,12,hasard + sonde,0.6559566844575065
+TUM,24,12,médoïdes + sonde,0.7762457668118046
+TUM,24,12,médoïdes + propagation,0.7631833575229802
+TUM,24,12,médoïdes + propagation + sonde,0.7631833575229802
+TUM,4,13,hasard + sonde,0.5631537711800869
+TUM,4,13,médoïdes + sonde,0.6074561403508771
+TUM,4,13,médoïdes + propagation,0.6074561403508771
+TUM,4,13,médoïdes + propagation + sonde,0.6074561403508771
+TUM,6,13,hasard + sonde,0.527979530028432
+TUM,6,13,médoïdes + sonde,0.5803621958121109
+TUM,6,13,médoïdes + propagation,0.5223542727787209
+TUM,6,13,médoïdes + propagation + sonde,0.5223542727787209
+TUM,8,13,hasard + sonde,0.5045688549376564
+TUM,8,13,médoïdes + sonde,0.6367980884109916
+TUM,8,13,médoïdes + propagation,0.6792114695340502
+TUM,8,13,médoïdes + propagation + sonde,0.6792114695340502
+TUM,12,13,hasard + sonde,0.5574211101415695
+TUM,12,13,médoïdes + sonde,0.6791666666666667
+TUM,12,13,médoïdes + propagation,0.6625
+TUM,12,13,médoïdes + propagation + sonde,0.6625
+TUM,16,13,hasard + sonde,0.6405993368135621
+TUM,16,13,médoïdes + sonde,0.5777777777777778
+TUM,16,13,médoïdes + propagation,0.5555555555555555
+TUM,16,13,médoïdes + propagation + sonde,0.5555555555555555
+TUM,24,13,hasard + sonde,0.6679293801137717
+TUM,24,13,médoïdes + sonde,0.6644042232277526
+TUM,24,13,médoïdes + propagation,0.7199597787833082
+TUM,24,13,médoïdes + propagation + sonde,0.7199597787833082
+TUM,4,14,hasard + sonde,0.43910414344949456
+TUM,4,14,médoïdes + sonde,0.5618386243386243
+TUM,4,14,médoïdes + propagation,0.5879629629629629
+TUM,4,14,médoïdes + propagation + sonde,0.5879629629629629
+TUM,6,14,hasard + sonde,0.4218666538535033
+TUM,6,14,médoïdes + sonde,0.7423941798941799
+TUM,6,14,médoïdes + propagation,0.7159391534391534
+TUM,6,14,médoïdes + propagation + sonde,0.7159391534391534
+TUM,8,14,hasard + sonde,0.5421349317257699
+TUM,8,14,médoïdes + sonde,0.6174863387978142
+TUM,8,14,médoïdes + propagation,0.6675774134790529
+TUM,8,14,médoïdes + propagation + sonde,0.6675774134790529
+TUM,12,14,hasard + sonde,0.5483811819563661
+TUM,12,14,médoïdes + sonde,0.7222222222222223
+TUM,12,14,médoïdes + propagation,0.7111111111111111
+TUM,12,14,médoïdes + propagation + sonde,0.7111111111111111
+TUM,16,14,hasard + sonde,0.6104425349352282
+TUM,16,14,médoïdes + sonde,0.6775753486279802
+TUM,16,14,médoïdes + propagation,0.6679599640125956
+TUM,16,14,médoïdes + propagation + sonde,0.6679599640125956
+TUM,24,14,hasard + sonde,0.6418097991410227
+TUM,24,14,médoïdes + sonde,0.7416225749559082
+TUM,24,14,médoïdes + propagation,0.7583774250440918
+TUM,24,14,médoïdes + propagation + sonde,0.7583774250440918
+TUM,4,15,hasard + sonde,0.47090505376689584
+TUM,4,15,médoïdes + sonde,0.5906250000000001
+TUM,4,15,médoïdes + propagation,0.6072916666666667
+TUM,4,15,médoïdes + propagation + sonde,0.6072916666666667
+TUM,6,15,hasard + sonde,0.5464315049036303
+TUM,6,15,médoïdes + sonde,0.766499582289056
+TUM,6,15,médoïdes + propagation,0.7612085769980507
+TUM,6,15,médoïdes + propagation + sonde,0.7612085769980507
+TUM,8,15,hasard + sonde,0.5569548533476001
+TUM,8,15,médoïdes + sonde,0.7694145758661888
+TUM,8,15,médoïdes + propagation,0.7455197132616488
+TUM,8,15,médoïdes + propagation + sonde,0.7455197132616488
+TUM,12,15,hasard + sonde,0.6282503238922074
+TUM,12,15,médoïdes + sonde,0.7514752040175768
+TUM,12,15,médoïdes + propagation,0.7257376020087886
+TUM,12,15,médoïdes + propagation + sonde,0.7257376020087886
+TUM,16,15,hasard + sonde,0.6620040931931228
+TUM,16,15,médoïdes + sonde,0.7555555555555555
+TUM,16,15,médoïdes + propagation,0.7111111111111111
+TUM,16,15,médoïdes + propagation + sonde,0.7111111111111111
+TUM,24,15,hasard + sonde,0.7147956644196142
+TUM,24,15,médoïdes + sonde,0.7874213836477987
+TUM,24,15,médoïdes + propagation,0.7659329140461216
+TUM,24,15,médoïdes + propagation + sonde,0.7659329140461216
+TUM,4,16,hasard + sonde,0.46728850378106346
+TUM,4,16,médoïdes + sonde,0.6212664277180405
+TUM,4,16,médoïdes + propagation,0.6397849462365591
+TUM,4,16,médoïdes + propagation + sonde,0.6397849462365591
+TUM,6,16,hasard + sonde,0.5010783886795498
+TUM,6,16,médoïdes + sonde,0.6785063752276866
+TUM,6,16,médoïdes + propagation,0.6785063752276868
+TUM,6,16,médoïdes + propagation + sonde,0.6785063752276868
+TUM,8,16,hasard + sonde,0.541214727034292
+TUM,8,16,médoïdes + sonde,0.7018518518518518
+TUM,8,16,médoïdes + propagation,0.5471677559912854
+TUM,8,16,médoïdes + propagation + sonde,0.5471677559912854
+TUM,12,16,hasard + sonde,0.5884867783898236
+TUM,12,16,médoïdes + sonde,0.721003655699568
+TUM,12,16,médoïdes + propagation,0.7260440899523651
+TUM,12,16,médoïdes + propagation + sonde,0.7260440899523651
+TUM,16,16,hasard + sonde,0.6242245398987907
+TUM,16,16,médoïdes + sonde,0.6198830409356725
+TUM,16,16,médoïdes + propagation,0.7087719298245614
+TUM,16,16,médoïdes + propagation + sonde,0.7087719298245614
+TUM,24,16,hasard + sonde,0.6712297448016107
+TUM,24,16,médoïdes + sonde,0.6852201257861635
+TUM,24,16,médoïdes + propagation,0.7129979035639412
+TUM,24,16,médoïdes + propagation + sonde,0.7129979035639412
+TUM,4,17,hasard + sonde,0.4455817803918398
+TUM,4,17,médoïdes + sonde,0.6164021164021164
+TUM,4,17,médoïdes + propagation,0.6164021164021164
+TUM,4,17,médoïdes + propagation + sonde,0.6164021164021164
+TUM,6,17,hasard + sonde,0.4303762822356437
+TUM,6,17,médoïdes + sonde,0.6723416965352449
+TUM,6,17,médoïdes + propagation,0.6400836320191159
+TUM,6,17,médoïdes + propagation + sonde,0.6400836320191159
+TUM,8,17,hasard + sonde,0.5070713896083774
+TUM,8,17,médoïdes + sonde,0.631067180970749
+TUM,8,17,médoïdes + propagation,0.631067180970749
+TUM,8,17,médoïdes + propagation + sonde,0.631067180970749
+TUM,12,17,hasard + sonde,0.5661554654167665
+TUM,12,17,médoïdes + sonde,0.7473196175021734
+TUM,12,17,médoïdes + propagation,0.7019221481696126
+TUM,12,17,médoïdes + propagation + sonde,0.7019221481696126
+TUM,16,17,hasard + sonde,0.5990648929072124
+TUM,16,17,médoïdes + sonde,0.7326649958228906
+TUM,16,17,médoïdes + propagation,0.6616541353383458
+TUM,16,17,médoïdes + propagation + sonde,0.6616541353383458
+TUM,24,17,hasard + sonde,0.707790352929679
+TUM,24,17,médoïdes + sonde,0.6068376068376068
+TUM,24,17,médoïdes + propagation,0.5918803418803419
+TUM,24,17,médoïdes + propagation + sonde,0.5918803418803419
+TUM,4,18,hasard + sonde,0.4454258405871309
+TUM,4,18,médoïdes + sonde,0.5957049486461251
+TUM,4,18,médoïdes + propagation,0.6296296296296297
+TUM,4,18,médoïdes + propagation + sonde,0.6296296296296297
+TUM,6,18,hasard + sonde,0.5425993007814794
+TUM,6,18,médoïdes + sonde,0.630665380906461
+TUM,6,18,médoïdes + propagation,0.625200900032144
+TUM,6,18,médoïdes + propagation + sonde,0.625200900032144
+TUM,8,18,hasard + sonde,0.5266241537201932
+TUM,8,18,médoïdes + sonde,0.6871205221615058
+TUM,8,18,médoïdes + propagation,0.5983227079538554
+TUM,8,18,médoïdes + propagation + sonde,0.5983227079538554
+TUM,12,18,hasard + sonde,0.5459591809227016
+TUM,12,18,médoïdes + sonde,0.788135593220339
+TUM,12,18,médoïdes + propagation,0.7546139359698681
+TUM,12,18,médoïdes + propagation + sonde,0.7546139359698681
+TUM,16,18,hasard + sonde,0.6208742949596193
+TUM,16,18,médoïdes + sonde,0.691311612364244
+TUM,16,18,médoïdes + propagation,0.6077694235588972
+TUM,16,18,médoïdes + propagation + sonde,0.6077694235588972
+TUM,24,18,hasard + sonde,0.6585798379908427
+TUM,24,18,médoïdes + sonde,0.6158684083212386
+TUM,24,18,médoïdes + propagation,0.6479196903725205
+TUM,24,18,médoïdes + propagation + sonde,0.6479196903725205
+TUM,4,19,hasard + sonde,0.5060142224943639
+TUM,4,19,médoïdes + sonde,0.6046972269383135
+TUM,4,19,médoïdes + propagation,0.6397849462365591
+TUM,4,19,médoïdes + propagation + sonde,0.6397849462365591
+TUM,6,19,hasard + sonde,0.5586762756819497
+TUM,6,19,médoïdes + sonde,0.7533793500143803
+TUM,6,19,médoïdes + propagation,0.6864394593039976
+TUM,6,19,médoïdes + propagation + sonde,0.6864394593039976
+TUM,8,19,hasard + sonde,0.5156992859177774
+TUM,8,19,médoïdes + sonde,0.6324074074074074
+TUM,8,19,médoïdes + propagation,0.5611111111111111
+TUM,8,19,médoïdes + propagation + sonde,0.5611111111111111
+TUM,12,19,hasard + sonde,0.629763430184916
+TUM,12,19,médoïdes + sonde,0.6767120641359993
+TUM,12,19,médoïdes + propagation,0.643243504298271
+TUM,12,19,médoïdes + propagation + sonde,0.643243504298271
+TUM,16,19,hasard + sonde,0.5919611162555406
+TUM,16,19,médoïdes + sonde,0.7818713450292397
+TUM,16,19,médoïdes + propagation,0.6596491228070175
+TUM,16,19,médoïdes + propagation + sonde,0.6596491228070175
+TUM,24,19,hasard + sonde,0.6766604486311709
+TUM,24,19,médoïdes + sonde,0.8011530398322851
+TUM,24,19,médoïdes + propagation,0.7330188679245283
+TUM,24,19,médoïdes + propagation + sonde,0.7330188679245283
+TUM,4,20,hasard + sonde,0.48938254147812976
+TUM,4,20,médoïdes + sonde,0.583974358974359
+TUM,4,20,médoïdes + propagation,0.6099358974358974
+TUM,4,20,médoïdes + propagation + sonde,0.6099358974358974
+TUM,6,20,hasard + sonde,0.5055800904591228
+TUM,6,20,médoïdes + sonde,0.65625
+TUM,6,20,médoïdes + propagation,0.71875
+TUM,6,20,médoïdes + propagation + sonde,0.71875
+TUM,8,20,hasard + sonde,0.5536727321811856
+TUM,8,20,médoïdes + sonde,0.665994623655914
+TUM,8,20,médoïdes + propagation,0.6606182795698925
+TUM,8,20,médoïdes + propagation + sonde,0.6606182795698925
+TUM,12,20,hasard + sonde,0.573253043852914
+TUM,12,20,médoïdes + sonde,0.6783242258652095
+TUM,12,20,médoïdes + propagation,0.7174863387978142
+TUM,12,20,médoïdes + propagation + sonde,0.7174863387978142
+TUM,16,20,hasard + sonde,0.6054706622592364
+TUM,16,20,médoïdes + sonde,0.7333333333333334
+TUM,16,20,médoïdes + propagation,0.7333333333333334
+TUM,16,20,médoïdes + propagation + sonde,0.7333333333333334
+TUM,24,20,hasard + sonde,0.6667657098327252
+TUM,24,20,médoïdes + sonde,0.7450056116722784
+TUM,24,20,médoïdes + propagation,0.8598204264870931
+TUM,24,20,médoïdes + propagation + sonde,0.8598204264870931
+TUM,4,21,hasard + sonde,0.5283552799090387
+TUM,4,21,médoïdes + sonde,0.599320882852292
+TUM,4,21,médoïdes + propagation,0.6168647425014148
+TUM,4,21,médoïdes + propagation + sonde,0.6168647425014148
+TUM,6,21,hasard + sonde,0.4975810387086545
+TUM,6,21,médoïdes + sonde,0.6038011695906432
+TUM,6,21,médoïdes + propagation,0.5909356725146199
+TUM,6,21,médoïdes + propagation + sonde,0.5909356725146199
+TUM,8,21,hasard + sonde,0.6319532966221033
+TUM,8,21,médoïdes + sonde,0.762962962962963
+TUM,8,21,médoïdes + propagation,0.6666666666666666
+TUM,8,21,médoïdes + propagation + sonde,0.6666666666666666
+TUM,12,21,hasard + sonde,0.5899365769516297
+TUM,12,21,médoïdes + sonde,0.7393058918482648
+TUM,12,21,médoïdes + propagation,0.7547921711057305
+TUM,12,21,médoïdes + propagation + sonde,0.7547921711057305
+TUM,16,21,hasard + sonde,0.6209065034460793
+TUM,16,21,médoïdes + sonde,0.6935672514619883
+TUM,16,21,médoïdes + propagation,0.6654970760233918
+TUM,16,21,médoïdes + propagation + sonde,0.6654970760233918
+TUM,24,21,hasard + sonde,0.7397924780195515
+TUM,24,21,médoïdes + sonde,0.7023569023569024
+TUM,24,21,médoïdes + propagation,0.7326599326599327
+TUM,24,21,médoïdes + propagation + sonde,0.7326599326599327
+TUM,4,22,hasard + sonde,0.4471853188077722
+TUM,4,22,médoïdes + sonde,0.5998329156223893
+TUM,4,22,médoïdes + propagation,0.6157059314954051
+TUM,4,22,médoïdes + propagation + sonde,0.6157059314954051
+TUM,6,22,hasard + sonde,0.47787339625283903
+TUM,6,22,médoïdes + sonde,0.6891826340043657
+TUM,6,22,médoïdes + propagation,0.7314253375373919
+TUM,6,22,médoïdes + propagation + sonde,0.7314253375373919
+TUM,8,22,hasard + sonde,0.5323263628956
+TUM,8,22,médoïdes + sonde,0.596842744383728
+TUM,8,22,médoïdes + propagation,0.596842744383728
+TUM,8,22,médoïdes + propagation + sonde,0.596842744383728
+TUM,12,22,hasard + sonde,0.6187576494653969
+TUM,12,22,médoïdes + sonde,0.5320704553007644
+TUM,12,22,médoïdes + propagation,0.5320704553007644
+TUM,12,22,médoïdes + propagation + sonde,0.5320704553007644
+TUM,16,22,hasard + sonde,0.6233258848596095
+TUM,16,22,médoïdes + sonde,0.7531746031746032
+TUM,16,22,médoïdes + propagation,0.8007936507936507
+TUM,16,22,médoïdes + propagation + sonde,0.8007936507936507
+TUM,24,22,hasard + sonde,0.6541208311607473
+TUM,24,22,médoïdes + sonde,0.7038461538461539
+TUM,24,22,médoïdes + propagation,0.7064102564102565
+TUM,24,22,médoïdes + propagation + sonde,0.7064102564102565
+TUM,4,23,hasard + sonde,0.4380790777849601
+TUM,4,23,médoïdes + sonde,0.5833333333333334
+TUM,4,23,médoïdes + propagation,0.6145833333333334
+TUM,4,23,médoïdes + propagation + sonde,0.6145833333333334
+TUM,6,23,hasard + sonde,0.5046277232395396
+TUM,6,23,médoïdes + sonde,0.5826612903225806
+TUM,6,23,médoïdes + propagation,0.5571236559139785
+TUM,6,23,médoïdes + propagation + sonde,0.5571236559139785
+TUM,8,23,hasard + sonde,0.475656142128101
+TUM,8,23,médoïdes + sonde,0.6625661375661376
+TUM,8,23,médoïdes + propagation,0.6234126984126984
+TUM,8,23,médoïdes + propagation + sonde,0.6234126984126984
+TUM,12,23,hasard + sonde,0.6362630115684529
+TUM,12,23,médoïdes + sonde,0.6725214676034348
+TUM,12,23,médoïdes + propagation,0.7201405152224826
+TUM,12,23,médoïdes + propagation + sonde,0.7201405152224826
+TUM,16,23,hasard + sonde,0.6602266487879696
+TUM,16,23,médoïdes + sonde,0.8167070217917676
+TUM,16,23,médoïdes + propagation,0.7217917675544795
+TUM,16,23,médoïdes + propagation + sonde,0.7217917675544795
+TUM,24,23,hasard + sonde,0.6274037991602843
+TUM,24,23,médoïdes + sonde,0.6231962481962482
+TUM,24,23,médoïdes + propagation,0.6231962481962482
+TUM,24,23,médoïdes + propagation + sonde,0.6231962481962482
+TUM,4,24,hasard + sonde,0.4989252645502645
+TUM,4,24,médoïdes + sonde,0.6158088235294118
+TUM,4,24,médoïdes + propagation,0.6210171568627451
+TUM,4,24,médoïdes + propagation + sonde,0.6210171568627451
+TUM,6,24,hasard + sonde,0.5231206131049915
+TUM,6,24,médoïdes + sonde,0.7897214441332089
+TUM,6,24,médoïdes + propagation,0.7063881107998755
+TUM,6,24,médoïdes + propagation + sonde,0.7063881107998755
+TUM,8,24,hasard + sonde,0.5313004716840611
+TUM,8,24,médoïdes + sonde,0.7526518804243009
+TUM,8,24,médoïdes + propagation,0.7526518804243009
+TUM,8,24,médoïdes + propagation + sonde,0.7526518804243009
+TUM,12,24,hasard + sonde,0.5448038143743812
+TUM,12,24,médoïdes + sonde,0.753968253968254
+TUM,12,24,médoïdes + propagation,0.7317460317460318
+TUM,12,24,médoïdes + propagation + sonde,0.7317460317460318
+TUM,16,24,hasard + sonde,0.6616273634148887
+TUM,16,24,médoïdes + sonde,0.7549707602339182
+TUM,16,24,médoïdes + propagation,0.5701754385964911
+TUM,16,24,médoïdes + propagation + sonde,0.5701754385964911
+TUM,24,24,hasard + sonde,0.6987836376295495
+TUM,24,24,médoïdes + sonde,0.7270482603815936
+TUM,24,24,médoïdes + propagation,0.6905723905723905
+TUM,24,24,médoïdes + propagation + sonde,0.6905723905723905
+TUM,4,25,hasard + sonde,0.40500129500129506
+TUM,4,25,médoïdes + sonde,0.6262626262626263
+TUM,4,25,médoïdes + propagation,0.6262626262626263
+TUM,4,25,médoïdes + propagation + sonde,0.6262626262626263
+TUM,6,25,hasard + sonde,0.4630687306974071
+TUM,6,25,médoïdes + sonde,0.6513323278029161
+TUM,6,25,médoïdes + propagation,0.6821518350930115
+TUM,6,25,médoïdes + propagation + sonde,0.6821518350930115
+TUM,8,25,hasard + sonde,0.5079954184031158
+TUM,8,25,médoïdes + sonde,0.704861111111111
+TUM,8,25,médoïdes + propagation,0.6684027777777777
+TUM,8,25,médoïdes + propagation + sonde,0.6684027777777777
+TUM,12,25,hasard + sonde,0.585969222828522
+TUM,12,25,médoïdes + sonde,0.5952380952380952
+TUM,12,25,médoïdes + propagation,0.5952380952380952
+TUM,12,25,médoïdes + propagation + sonde,0.5952380952380952
+TUM,16,25,hasard + sonde,0.5891313864863972
+TUM,16,25,médoïdes + sonde,0.5885057471264368
+TUM,16,25,médoïdes + propagation,0.48888888888888893
+TUM,16,25,médoïdes + propagation + sonde,0.48888888888888893
+TUM,24,25,hasard + sonde,0.6149698546085101
+TUM,24,25,médoïdes + sonde,0.6869463869463869
+TUM,24,25,médoïdes + propagation,0.7841491841491841
+TUM,24,25,médoïdes + propagation + sonde,0.7841491841491841
+TUM,4,26,hasard + sonde,0.47903838060088066
+TUM,4,26,médoïdes + sonde,0.603988603988604
+TUM,4,26,médoïdes + propagation,0.603988603988604
+TUM,4,26,médoïdes + propagation + sonde,0.603988603988604
+TUM,6,26,hasard + sonde,0.4615643050278025
+TUM,6,26,médoïdes + sonde,0.8044243338360987
+TUM,6,26,médoïdes + propagation,0.8035193564605329
+TUM,6,26,médoïdes + propagation + sonde,0.8035193564605329
+TUM,8,26,hasard + sonde,0.5056470411000178
+TUM,8,26,médoïdes + sonde,0.636943666355431
+TUM,8,26,médoïdes + propagation,0.6316526610644257
+TUM,8,26,médoïdes + propagation + sonde,0.6316526610644257
+TUM,12,26,hasard + sonde,0.6045529120692603
+TUM,12,26,médoïdes + sonde,0.8402116402116402
+TUM,12,26,médoïdes + propagation,0.8058201058201058
+TUM,12,26,médoïdes + propagation + sonde,0.8058201058201058
+TUM,16,26,hasard + sonde,0.6326681221542027
+TUM,16,26,médoïdes + sonde,0.6388888888888888
+TUM,16,26,médoïdes + propagation,0.6444444444444445
+TUM,16,26,médoïdes + propagation + sonde,0.6444444444444445
+TUM,24,26,hasard + sonde,0.7084500486804408
+TUM,24,26,médoïdes + sonde,0.7884615384615384
+TUM,24,26,médoïdes + propagation,0.7821722302854379
+TUM,24,26,médoïdes + propagation + sonde,0.7821722302854379
+TUM,4,27,hasard + sonde,0.43212528280542983
+TUM,4,27,médoïdes + sonde,0.6099358974358974
+TUM,4,27,médoïdes + propagation,0.6253205128205128
+TUM,4,27,médoïdes + propagation + sonde,0.6253205128205128
+TUM,6,27,hasard + sonde,0.43048174449680615
+TUM,6,27,médoïdes + sonde,0.546875
+TUM,6,27,médoïdes + propagation,0.5416666666666666
+TUM,6,27,médoïdes + propagation + sonde,0.5416666666666666
+TUM,8,27,hasard + sonde,0.586215994866423
+TUM,8,27,médoïdes + sonde,0.7963709677419355
+TUM,8,27,médoïdes + propagation,0.7654569892473119
+TUM,8,27,médoïdes + propagation + sonde,0.7654569892473119
+TUM,12,27,hasard + sonde,0.569256118319637
+TUM,12,27,médoïdes + sonde,0.6500910746812386
+TUM,12,27,médoïdes + propagation,0.7001821493624772
+TUM,12,27,médoïdes + propagation + sonde,0.7001821493624772
+TUM,16,27,hasard + sonde,0.5908411208842244
+TUM,16,27,médoïdes + sonde,0.6724509012644605
+TUM,16,27,médoïdes + propagation,0.7455609362389023
+TUM,16,27,médoïdes + propagation + sonde,0.7455609362389023
+TUM,24,27,hasard + sonde,0.6882907916432176
+TUM,24,27,médoïdes + sonde,0.6765432098765433
+TUM,24,27,médoïdes + propagation,0.6938271604938272
+TUM,24,27,médoïdes + propagation + sonde,0.6938271604938272
+TUM,4,28,hasard + sonde,0.5039390756302521
+TUM,4,28,médoïdes + sonde,0.6302083333333334
+TUM,4,28,médoïdes + propagation,0.6302083333333334
+TUM,4,28,médoïdes + propagation + sonde,0.6302083333333334
+TUM,6,28,hasard + sonde,0.5460588599238979
+TUM,6,28,médoïdes + sonde,0.7939814814814815
+TUM,6,28,médoïdes + propagation,0.7625661375661376
+TUM,6,28,médoïdes + propagation + sonde,0.7625661375661376
+TUM,8,28,hasard + sonde,0.5752691499576742
+TUM,8,28,médoïdes + sonde,0.7118279569892473
+TUM,8,28,médoïdes + propagation,0.6788530465949821
+TUM,8,28,médoïdes + propagation + sonde,0.6788530465949821
+TUM,12,28,hasard + sonde,0.5627236887165358
+TUM,12,28,médoïdes + sonde,0.6967514124293785
+TUM,12,28,médoïdes + propagation,0.6914783427495292
+TUM,12,28,médoïdes + propagation + sonde,0.6914783427495292
+TUM,16,28,hasard + sonde,0.5832235364764036
+TUM,16,28,médoïdes + sonde,0.8059660645867542
+TUM,16,28,médoïdes + propagation,0.759168035030104
+TUM,16,28,médoïdes + propagation + sonde,0.759168035030104
+TUM,24,28,hasard + sonde,0.7239482741814675
+TUM,24,28,médoïdes + sonde,0.7833333333333332
+TUM,24,28,médoïdes + propagation,0.7590909090909091
+TUM,24,28,médoïdes + propagation + sonde,0.7590909090909091
+TUM,4,29,hasard + sonde,0.4586528361344538
+TUM,4,29,médoïdes + sonde,0.6158088235294118
+TUM,4,29,médoïdes + propagation,0.5818014705882353
+TUM,4,29,médoïdes + propagation + sonde,0.5818014705882353
+TUM,6,29,hasard + sonde,0.5482645528979557
+TUM,6,29,médoïdes + sonde,0.6113219481340924
+TUM,6,29,médoïdes + propagation,0.6059456040480709
+TUM,6,29,médoïdes + propagation + sonde,0.6059456040480709
+TUM,8,29,hasard + sonde,0.64211818851167
+TUM,8,29,médoïdes + sonde,0.7660318225650916
+TUM,8,29,médoïdes + propagation,0.6214239794278367
+TUM,8,29,médoïdes + propagation + sonde,0.6214239794278367
+TUM,12,29,hasard + sonde,0.6089010481183804
+TUM,12,29,médoïdes + sonde,0.694256120527307
+TUM,12,29,médoïdes + propagation,0.6663841807909604
+TUM,12,29,médoïdes + propagation + sonde,0.6663841807909604
+TUM,16,29,hasard + sonde,0.6164849552294545
+TUM,16,29,médoïdes + sonde,0.664003228410008
+TUM,16,29,médoïdes + propagation,0.7306698950766748
+TUM,16,29,médoïdes + propagation + sonde,0.7306698950766748
+TUM,24,29,hasard + sonde,0.6975420253943272
+TUM,24,29,médoïdes + sonde,0.719047619047619
+TUM,24,29,médoïdes + propagation,0.7238095238095239
+TUM,24,29,médoïdes + propagation + sonde,0.7238095238095239
+SENS3,4,0,hasard + sonde,0.2703472222222222
+SENS3,4,0,médoïdes + sonde,0.25
+SENS3,4,0,médoïdes + propagation,0.25
+SENS3,4,0,médoïdes + propagation + sonde,0.25
+SENS3,6,0,hasard + sonde,0.31453373015873015
+SENS3,6,0,médoïdes + sonde,0.2708333333333333
+SENS3,6,0,médoïdes + propagation,0.35416666666666663
+SENS3,6,0,médoïdes + propagation + sonde,0.35416666666666663
+SENS3,8,0,hasard + sonde,0.3876488095238095
+SENS3,8,0,médoïdes + sonde,0.3125
+SENS3,8,0,médoïdes + propagation,0.25
+SENS3,8,0,médoïdes + propagation + sonde,0.25
+SENS3,12,0,hasard + sonde,0.36327380952380955
+SENS3,12,0,médoïdes + sonde,0.5416666666666666
+SENS3,12,0,médoïdes + propagation,0.5416666666666666
+SENS3,12,0,médoïdes + propagation + sonde,0.5416666666666666
+SENS3,16,0,hasard + sonde,0.32166666666666666
+SENS3,16,0,médoïdes + sonde,0.41666666666666663
+SENS3,16,0,médoïdes + propagation,0.3333333333333333
+SENS3,16,0,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,4,1,hasard + sonde,0.38666666666666666
+SENS3,4,1,médoïdes + sonde,0.3125
+SENS3,4,1,médoïdes + propagation,0.3125
+SENS3,4,1,médoïdes + propagation + sonde,0.3125
+SENS3,6,1,hasard + sonde,0.33295634920634926
+SENS3,6,1,médoïdes + sonde,0.46875
+SENS3,6,1,médoïdes + propagation,0.59375
+SENS3,6,1,médoïdes + propagation + sonde,0.59375
+SENS3,8,1,hasard + sonde,0.357093253968254
+SENS3,8,1,médoïdes + sonde,0.34375
+SENS3,8,1,médoïdes + propagation,0.375
+SENS3,8,1,médoïdes + propagation + sonde,0.375
+SENS3,12,1,hasard + sonde,0.47684523809523804
+SENS3,12,1,médoïdes + sonde,0.4444444444444444
+SENS3,12,1,médoïdes + propagation,0.5
+SENS3,12,1,médoïdes + propagation + sonde,0.5
+SENS3,16,1,hasard + sonde,0.4820833333333333
+SENS3,16,1,médoïdes + sonde,0.3666666666666667
+SENS3,16,1,médoïdes + propagation,0.7000000000000001
+SENS3,16,1,médoïdes + propagation + sonde,0.7000000000000001
+SENS3,4,2,hasard + sonde,0.3168452380952381
+SENS3,4,2,médoïdes + sonde,0.1875
+SENS3,4,2,médoïdes + propagation,0.1875
+SENS3,4,2,médoïdes + propagation + sonde,0.1875
+SENS3,6,2,hasard + sonde,0.3252380952380952
+SENS3,6,2,médoïdes + sonde,0.25476190476190474
+SENS3,6,2,médoïdes + propagation,0.3761904761904762
+SENS3,6,2,médoïdes + propagation + sonde,0.3761904761904762
+SENS3,8,2,hasard + sonde,0.3882738095238095
+SENS3,8,2,médoïdes + sonde,0.2375
+SENS3,8,2,médoïdes + propagation,0.25
+SENS3,8,2,médoïdes + propagation + sonde,0.25
+SENS3,12,2,hasard + sonde,0.4050000000000001
+SENS3,12,2,médoïdes + sonde,0.3375
+SENS3,12,2,médoïdes + propagation,0.2875
+SENS3,12,2,médoïdes + propagation + sonde,0.2875
+SENS3,16,2,hasard + sonde,0.48263888888888884
+SENS3,16,2,médoïdes + sonde,0.3
+SENS3,16,2,médoïdes + propagation,0.3
+SENS3,16,2,médoïdes + propagation + sonde,0.3
+SENS3,4,3,hasard + sonde,0.3221031746031746
+SENS3,4,3,médoïdes + sonde,0.29166666666666663
+SENS3,4,3,médoïdes + propagation,0.375
+SENS3,4,3,médoïdes + propagation + sonde,0.375
+SENS3,6,3,hasard + sonde,0.30758928571428573
+SENS3,6,3,médoïdes + sonde,0.3958333333333333
+SENS3,6,3,médoïdes + propagation,0.3333333333333333
+SENS3,6,3,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,8,3,hasard + sonde,0.3619642857142857
+SENS3,8,3,médoïdes + sonde,0.40625
+SENS3,8,3,médoïdes + propagation,0.4375
+SENS3,8,3,médoïdes + propagation + sonde,0.4375
+SENS3,12,3,hasard + sonde,0.4894047619047618
+SENS3,12,3,médoïdes + sonde,0.20833333333333334
+SENS3,12,3,médoïdes + propagation,0.375
+SENS3,12,3,médoïdes + propagation + sonde,0.375
+SENS3,16,3,hasard + sonde,0.4405555555555556
+SENS3,16,3,médoïdes + sonde,0.4666666666666666
+SENS3,16,3,médoïdes + propagation,0.5666666666666667
+SENS3,16,3,médoïdes + propagation + sonde,0.5666666666666667
+SENS3,4,4,hasard + sonde,0.3202777777777778
+SENS3,4,4,médoïdes + sonde,0.375
+SENS3,4,4,médoïdes + propagation,0.375
+SENS3,4,4,médoïdes + propagation + sonde,0.375
+SENS3,6,4,hasard + sonde,0.39703373015873017
+SENS3,6,4,médoïdes + sonde,0.22916666666666666
+SENS3,6,4,médoïdes + propagation,0.26041666666666663
+SENS3,6,4,médoïdes + propagation + sonde,0.26041666666666663
+SENS3,8,4,hasard + sonde,0.37896825396825395
+SENS3,8,4,médoïdes + sonde,0.3645833333333333
+SENS3,8,4,médoïdes + propagation,0.2708333333333333
+SENS3,8,4,médoïdes + propagation + sonde,0.2708333333333333
+SENS3,12,4,hasard + sonde,0.3675
+SENS3,12,4,médoïdes + sonde,0.5892857142857143
+SENS3,12,4,médoïdes + propagation,0.4285714285714286
+SENS3,12,4,médoïdes + propagation + sonde,0.4285714285714286
+SENS3,16,4,hasard + sonde,0.5316666666666666
+SENS3,16,4,médoïdes + sonde,0.65
+SENS3,16,4,médoïdes + propagation,0.6
+SENS3,16,4,médoïdes + propagation + sonde,0.6
+SENS3,4,5,hasard + sonde,0.36007936507936505
+SENS3,4,5,médoïdes + sonde,0.375
+SENS3,4,5,médoïdes + propagation,0.375
+SENS3,4,5,médoïdes + propagation + sonde,0.375
+SENS3,6,5,hasard + sonde,0.4645436507936508
+SENS3,6,5,médoïdes + sonde,0.2777777777777778
+SENS3,6,5,médoïdes + propagation,0.2777777777777778
+SENS3,6,5,médoïdes + propagation + sonde,0.2777777777777778
+SENS3,8,5,hasard + sonde,0.4194246031746031
+SENS3,8,5,médoïdes + sonde,0.5476190476190476
+SENS3,8,5,médoïdes + propagation,0.5833333333333333
+SENS3,8,5,médoïdes + propagation + sonde,0.5833333333333333
+SENS3,12,5,hasard + sonde,0.5979166666666667
+SENS3,12,5,médoïdes + sonde,0.375
+SENS3,12,5,médoïdes + propagation,0.41666666666666663
+SENS3,12,5,médoïdes + propagation + sonde,0.41666666666666663
+SENS3,16,5,hasard + sonde,0.5234722222222222
+SENS3,16,5,médoïdes + sonde,0.7916666666666666
+SENS3,16,5,médoïdes + propagation,0.7916666666666666
+SENS3,16,5,médoïdes + propagation + sonde,0.7916666666666666
+SENS3,4,6,hasard + sonde,0.314047619047619
+SENS3,4,6,médoïdes + sonde,0.2708333333333333
+SENS3,4,6,médoïdes + propagation,0.1875
+SENS3,4,6,médoïdes + propagation + sonde,0.1875
+SENS3,6,6,hasard + sonde,0.30955357142857143
+SENS3,6,6,médoïdes + sonde,0.43452380952380953
+SENS3,6,6,médoïdes + propagation,0.5119047619047619
+SENS3,6,6,médoïdes + propagation + sonde,0.5119047619047619
+SENS3,8,6,hasard + sonde,0.36262896825396823
+SENS3,8,6,médoïdes + sonde,0.5625
+SENS3,8,6,médoïdes + propagation,0.4375
+SENS3,8,6,médoïdes + propagation + sonde,0.4375
+SENS3,12,6,hasard + sonde,0.45499999999999996
+SENS3,12,6,médoïdes + sonde,0.5
+SENS3,12,6,médoïdes + propagation,0.375
+SENS3,12,6,médoïdes + propagation + sonde,0.375
+SENS3,16,6,hasard + sonde,0.4730555555555555
+SENS3,16,6,médoïdes + sonde,0.5333333333333333
+SENS3,16,6,médoïdes + propagation,0.2333333333333333
+SENS3,16,6,médoïdes + propagation + sonde,0.2333333333333333
+SENS3,4,7,hasard + sonde,0.2893154761904762
+SENS3,4,7,médoïdes + sonde,0.1875
+SENS3,4,7,médoïdes + propagation,0.1875
+SENS3,4,7,médoïdes + propagation + sonde,0.1875
+SENS3,6,7,hasard + sonde,0.32556547619047616
+SENS3,6,7,médoïdes + sonde,0.2361111111111111
+SENS3,6,7,médoïdes + propagation,0.2361111111111111
+SENS3,6,7,médoïdes + propagation + sonde,0.2361111111111111
+SENS3,8,7,hasard + sonde,0.3586309523809524
+SENS3,8,7,médoïdes + sonde,0.21875
+SENS3,8,7,médoïdes + propagation,0.21875
+SENS3,8,7,médoïdes + propagation + sonde,0.21875
+SENS3,12,7,hasard + sonde,0.47027777777777774
+SENS3,12,7,médoïdes + sonde,0.48214285714285715
+SENS3,12,7,médoïdes + propagation,0.3214285714285714
+SENS3,12,7,médoïdes + propagation + sonde,0.3214285714285714
+SENS3,16,7,hasard + sonde,0.47833333333333333
+SENS3,16,7,médoïdes + sonde,0.45
+SENS3,16,7,médoïdes + propagation,0.3
+SENS3,16,7,médoïdes + propagation + sonde,0.3
+SENS3,4,8,hasard + sonde,0.3098214285714286
+SENS3,4,8,médoïdes + sonde,0.2648809523809524
+SENS3,4,8,médoïdes + propagation,0.3005952380952381
+SENS3,4,8,médoïdes + propagation + sonde,0.3005952380952381
+SENS3,6,8,hasard + sonde,0.3266071428571428
+SENS3,6,8,médoïdes + sonde,0.28809523809523807
+SENS3,6,8,médoïdes + propagation,0.33571428571428574
+SENS3,6,8,médoïdes + propagation + sonde,0.33571428571428574
+SENS3,8,8,hasard + sonde,0.40708333333333335
+SENS3,8,8,médoïdes + sonde,0.23809523809523808
+SENS3,8,8,médoïdes + propagation,0.36904761904761907
+SENS3,8,8,médoïdes + propagation + sonde,0.36904761904761907
+SENS3,12,8,hasard + sonde,0.34319444444444447
+SENS3,12,8,médoïdes + sonde,0.3666666666666667
+SENS3,12,8,médoïdes + propagation,0.21666666666666667
+SENS3,12,8,médoïdes + propagation + sonde,0.21666666666666667
+SENS3,16,8,hasard + sonde,0.4256944444444445
+SENS3,16,8,médoïdes + sonde,0.5625
+SENS3,16,8,médoïdes + propagation,0.125
+SENS3,16,8,médoïdes + propagation + sonde,0.125
+SENS3,4,9,hasard + sonde,0.3666666666666667
+SENS3,4,9,médoïdes + sonde,0.36904761904761907
+SENS3,4,9,médoïdes + propagation,0.36904761904761907
+SENS3,4,9,médoïdes + propagation + sonde,0.36904761904761907
+SENS3,6,9,hasard + sonde,0.39464285714285713
+SENS3,6,9,médoïdes + sonde,0.425
+SENS3,6,9,médoïdes + propagation,0.3625
+SENS3,6,9,médoïdes + propagation + sonde,0.3625
+SENS3,8,9,hasard + sonde,0.38208333333333333
+SENS3,8,9,médoïdes + sonde,0.4083333333333333
+SENS3,8,9,médoïdes + propagation,0.20833333333333331
+SENS3,8,9,médoïdes + propagation + sonde,0.20833333333333331
+SENS3,12,9,hasard + sonde,0.5162500000000001
+SENS3,12,9,médoïdes + sonde,0.47916666666666663
+SENS3,12,9,médoïdes + propagation,0.35416666666666663
+SENS3,12,9,médoïdes + propagation + sonde,0.35416666666666663
+SENS3,16,9,hasard + sonde,0.5393055555555555
+SENS3,16,9,médoïdes + sonde,0.25
+SENS3,16,9,médoïdes + propagation,0.4375
+SENS3,16,9,médoïdes + propagation + sonde,0.4375
+SENS3,4,10,hasard + sonde,0.3205059523809523
+SENS3,4,10,médoïdes + sonde,0.19047619047619047
+SENS3,4,10,médoïdes + propagation,0.2738095238095238
+SENS3,4,10,médoïdes + propagation + sonde,0.2738095238095238
+SENS3,6,10,hasard + sonde,0.4133333333333333
+SENS3,6,10,médoïdes + sonde,0.25297619047619047
+SENS3,6,10,médoïdes + propagation,0.16964285714285715
+SENS3,6,10,médoïdes + propagation + sonde,0.16964285714285715
+SENS3,8,10,hasard + sonde,0.355327380952381
+SENS3,8,10,médoïdes + sonde,0.4583333333333333
+SENS3,8,10,médoïdes + propagation,0.4083333333333333
+SENS3,8,10,médoïdes + propagation + sonde,0.4083333333333333
+SENS3,12,10,hasard + sonde,0.46375
+SENS3,12,10,médoïdes + sonde,0.5416666666666667
+SENS3,12,10,médoïdes + propagation,0.4583333333333333
+SENS3,12,10,médoïdes + propagation + sonde,0.4583333333333333
+SENS3,16,10,hasard + sonde,0.47055555555555556
+SENS3,16,10,médoïdes + sonde,0.6333333333333333
+SENS3,16,10,médoïdes + propagation,0.5
+SENS3,16,10,médoïdes + propagation + sonde,0.5
+SENS3,4,11,hasard + sonde,0.4019047619047619
+SENS3,4,11,médoïdes + sonde,0.31666666666666665
+SENS3,4,11,médoïdes + propagation,0.3666666666666667
+SENS3,4,11,médoïdes + propagation + sonde,0.3666666666666667
+SENS3,6,11,hasard + sonde,0.38565476190476194
+SENS3,6,11,médoïdes + sonde,0.3333333333333333
+SENS3,6,11,médoïdes + propagation,0.3333333333333333
+SENS3,6,11,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,8,11,hasard + sonde,0.43125
+SENS3,8,11,médoïdes + sonde,0.3125
+SENS3,8,11,médoïdes + propagation,0.35416666666666663
+SENS3,8,11,médoïdes + propagation + sonde,0.35416666666666663
+SENS3,12,11,hasard + sonde,0.4741666666666666
+SENS3,12,11,médoïdes + sonde,0.65
+SENS3,12,11,médoïdes + propagation,0.55
+SENS3,12,11,médoïdes + propagation + sonde,0.55
+SENS3,16,11,hasard + sonde,0.5416666666666666
+SENS3,16,11,médoïdes + sonde,0.25
+SENS3,16,11,médoïdes + propagation,0.3333333333333333
+SENS3,16,11,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,4,12,hasard + sonde,0.30327380952380956
+SENS3,4,12,médoïdes + sonde,0.35555555555555557
+SENS3,4,12,médoïdes + propagation,0.3833333333333333
+SENS3,4,12,médoïdes + propagation + sonde,0.3833333333333333
+SENS3,6,12,hasard + sonde,0.2697916666666667
+SENS3,6,12,médoïdes + sonde,0.15625
+SENS3,6,12,médoïdes + propagation,0.15625
+SENS3,6,12,médoïdes + propagation + sonde,0.15625
+SENS3,8,12,hasard + sonde,0.3143154761904762
+SENS3,8,12,médoïdes + sonde,0.125
+SENS3,8,12,médoïdes + propagation,0.125
+SENS3,8,12,médoïdes + propagation + sonde,0.125
+SENS3,12,12,hasard + sonde,0.3696428571428571
+SENS3,12,12,médoïdes + sonde,0.18333333333333335
+SENS3,12,12,médoïdes + propagation,0.26666666666666666
+SENS3,12,12,médoïdes + propagation + sonde,0.26666666666666666
+SENS3,16,12,hasard + sonde,0.37486111111111114
+SENS3,16,12,médoïdes + sonde,0.5
+SENS3,16,12,médoïdes + propagation,0.20833333333333331
+SENS3,16,12,médoïdes + propagation + sonde,0.20833333333333331
+SENS3,4,13,hasard + sonde,0.35559523809523813
+SENS3,4,13,médoïdes + sonde,0.3625
+SENS3,4,13,médoïdes + propagation,0.3625
+SENS3,4,13,médoïdes + propagation + sonde,0.3625
+SENS3,6,13,hasard + sonde,0.3393452380952381
+SENS3,6,13,médoïdes + sonde,0.3416666666666667
+SENS3,6,13,médoïdes + propagation,0.3416666666666667
+SENS3,6,13,médoïdes + propagation + sonde,0.3416666666666667
+SENS3,8,13,hasard + sonde,0.3733928571428572
+SENS3,8,13,médoïdes + sonde,0.3
+SENS3,8,13,médoïdes + propagation,0.2583333333333333
+SENS3,8,13,médoïdes + propagation + sonde,0.2583333333333333
+SENS3,12,13,hasard + sonde,0.45763888888888893
+SENS3,12,13,médoïdes + sonde,0.5
+SENS3,12,13,médoïdes + propagation,0.375
+SENS3,12,13,médoïdes + propagation + sonde,0.375
+SENS3,16,13,hasard + sonde,0.44444444444444436
+SENS3,16,13,médoïdes + sonde,0.5
+SENS3,16,13,médoïdes + propagation,0.3333333333333333
+SENS3,16,13,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,4,14,hasard + sonde,0.37416666666666665
+SENS3,4,14,médoïdes + sonde,0.3125
+SENS3,4,14,médoïdes + propagation,0.25
+SENS3,4,14,médoïdes + propagation + sonde,0.25
+SENS3,6,14,hasard + sonde,0.3092857142857143
+SENS3,6,14,médoïdes + sonde,0.3125
+SENS3,6,14,médoïdes + propagation,0.3125
+SENS3,6,14,médoïdes + propagation + sonde,0.3125
+SENS3,8,14,hasard + sonde,0.4310714285714286
+SENS3,8,14,médoïdes + sonde,0.31666666666666665
+SENS3,8,14,médoïdes + propagation,0.275
+SENS3,8,14,médoïdes + propagation + sonde,0.275
+SENS3,12,14,hasard + sonde,0.48875
+SENS3,12,14,médoïdes + sonde,0.5416666666666666
+SENS3,12,14,médoïdes + propagation,0.47916666666666663
+SENS3,12,14,médoïdes + propagation + sonde,0.47916666666666663
+SENS3,16,14,hasard + sonde,0.4569444444444444
+SENS3,16,14,médoïdes + sonde,0.3333333333333333
+SENS3,16,14,médoïdes + propagation,0.3333333333333333
+SENS3,16,14,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,4,15,hasard + sonde,0.33416666666666667
+SENS3,4,15,médoïdes + sonde,0.325
+SENS3,4,15,médoïdes + propagation,0.325
+SENS3,4,15,médoïdes + propagation + sonde,0.325
+SENS3,6,15,hasard + sonde,0.4444444444444445
+SENS3,6,15,médoïdes + sonde,0.4875
+SENS3,6,15,médoïdes + propagation,0.2375
+SENS3,6,15,médoïdes + propagation + sonde,0.2375
+SENS3,8,15,hasard + sonde,0.3583730158730159
+SENS3,8,15,médoïdes + sonde,0.3
+SENS3,8,15,médoïdes + propagation,0.425
+SENS3,8,15,médoïdes + propagation + sonde,0.425
+SENS3,12,15,hasard + sonde,0.40928571428571425
+SENS3,12,15,médoïdes + sonde,0.2833333333333333
+SENS3,12,15,médoïdes + propagation,0.3333333333333333
+SENS3,12,15,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,16,15,hasard + sonde,0.45263888888888887
+SENS3,16,15,médoïdes + sonde,0.6111111111111112
+SENS3,16,15,médoïdes + propagation,0.2222222222222222
+SENS3,16,15,médoïdes + propagation + sonde,0.2222222222222222
+SENS3,4,16,hasard + sonde,0.31915674603174604
+SENS3,4,16,médoïdes + sonde,0.26875
+SENS3,4,16,médoïdes + propagation,0.44375
+SENS3,4,16,médoïdes + propagation + sonde,0.44375
+SENS3,6,16,hasard + sonde,0.3583928571428572
+SENS3,6,16,médoïdes + sonde,0.20476190476190476
+SENS3,6,16,médoïdes + propagation,0.32380952380952377
+SENS3,6,16,médoïdes + propagation + sonde,0.32380952380952377
+SENS3,8,16,hasard + sonde,0.41645833333333326
+SENS3,8,16,médoïdes + sonde,0.33035714285714285
+SENS3,8,16,médoïdes + propagation,0.3660714285714286
+SENS3,8,16,médoïdes + propagation + sonde,0.3660714285714286
+SENS3,12,16,hasard + sonde,0.4404761904761904
+SENS3,12,16,médoïdes + sonde,0.375
+SENS3,12,16,médoïdes + propagation,0.5
+SENS3,12,16,médoïdes + propagation + sonde,0.5
+SENS3,16,16,hasard + sonde,0.5655555555555555
+SENS3,16,16,médoïdes + sonde,0.25
+SENS3,16,16,médoïdes + propagation,0.3
+SENS3,16,16,médoïdes + propagation + sonde,0.3
+SENS3,4,17,hasard + sonde,0.3179761904761904
+SENS3,4,17,médoïdes + sonde,0.3
+SENS3,4,17,médoïdes + propagation,0.2916666666666667
+SENS3,4,17,médoïdes + propagation + sonde,0.2916666666666667
+SENS3,6,17,hasard + sonde,0.34773809523809524
+SENS3,6,17,médoïdes + sonde,0.22916666666666666
+SENS3,6,17,médoïdes + propagation,0.375
+SENS3,6,17,médoïdes + propagation + sonde,0.375
+SENS3,8,17,hasard + sonde,0.37125
+SENS3,8,17,médoïdes + sonde,0.30833333333333335
+SENS3,8,17,médoïdes + propagation,0.3416666666666667
+SENS3,8,17,médoïdes + propagation + sonde,0.3416666666666667
+SENS3,12,17,hasard + sonde,0.4733333333333333
+SENS3,12,17,médoïdes + sonde,0.43333333333333335
+SENS3,12,17,médoïdes + propagation,0.4583333333333333
+SENS3,12,17,médoïdes + propagation + sonde,0.4583333333333333
+SENS3,16,17,hasard + sonde,0.49236111111111097
+SENS3,16,17,médoïdes + sonde,0.5416666666666666
+SENS3,16,17,médoïdes + propagation,0.4583333333333333
+SENS3,16,17,médoïdes + propagation + sonde,0.4583333333333333
+SENS3,4,18,hasard + sonde,0.2537202380952381
+SENS3,4,18,médoïdes + sonde,0.26785714285714285
+SENS3,4,18,médoïdes + propagation,0.23214285714285715
+SENS3,4,18,médoïdes + propagation + sonde,0.23214285714285715
+SENS3,6,18,hasard + sonde,0.3376785714285714
+SENS3,6,18,médoïdes + sonde,0.23809523809523808
+SENS3,6,18,médoïdes + propagation,0.3214285714285714
+SENS3,6,18,médoïdes + propagation + sonde,0.3214285714285714
+SENS3,8,18,hasard + sonde,0.31172619047619043
+SENS3,8,18,médoïdes + sonde,0.2833333333333333
+SENS3,8,18,médoïdes + propagation,0.18333333333333335
+SENS3,8,18,médoïdes + propagation + sonde,0.18333333333333335
+SENS3,12,18,hasard + sonde,0.41500000000000004
+SENS3,12,18,médoïdes + sonde,0.2708333333333333
+SENS3,12,18,médoïdes + propagation,0.29166666666666663
+SENS3,12,18,médoïdes + propagation + sonde,0.29166666666666663
+SENS3,16,18,hasard + sonde,0.3909722222222222
+SENS3,16,18,médoïdes + sonde,0.5625
+SENS3,16,18,médoïdes + propagation,0.4375
+SENS3,16,18,médoïdes + propagation + sonde,0.4375
+SENS3,4,19,hasard + sonde,0.32375
+SENS3,4,19,médoïdes + sonde,0.3
+SENS3,4,19,médoïdes + propagation,0.3
+SENS3,4,19,médoïdes + propagation + sonde,0.3
+SENS3,6,19,hasard + sonde,0.31875
+SENS3,6,19,médoïdes + sonde,0.44999999999999996
+SENS3,6,19,médoïdes + propagation,0.3875
+SENS3,6,19,médoïdes + propagation + sonde,0.3875
+SENS3,8,19,hasard + sonde,0.40125
+SENS3,8,19,médoïdes + sonde,0.3208333333333333
+SENS3,8,19,médoïdes + propagation,0.3708333333333333
+SENS3,8,19,médoïdes + propagation + sonde,0.3708333333333333
+SENS3,12,19,hasard + sonde,0.34527777777777774
+SENS3,12,19,médoïdes + sonde,0.3125
+SENS3,12,19,médoïdes + propagation,0.375
+SENS3,12,19,médoïdes + propagation + sonde,0.375
+SENS3,16,19,hasard + sonde,0.37083333333333335
+SENS3,16,19,médoïdes + sonde,0.41666666666666663
+SENS3,16,19,médoïdes + propagation,0.4583333333333333
+SENS3,16,19,médoïdes + propagation + sonde,0.4583333333333333
+SENS3,4,20,hasard + sonde,0.36080357142857145
+SENS3,4,20,médoïdes + sonde,0.19791666666666666
+SENS3,4,20,médoïdes + propagation,0.19791666666666666
+SENS3,4,20,médoïdes + propagation + sonde,0.19791666666666666
+SENS3,6,20,hasard + sonde,0.375625
+SENS3,6,20,médoïdes + sonde,0.375
+SENS3,6,20,médoïdes + propagation,0.5
+SENS3,6,20,médoïdes + propagation + sonde,0.5
+SENS3,8,20,hasard + sonde,0.3751785714285715
+SENS3,8,20,médoïdes + sonde,0.4625
+SENS3,8,20,médoïdes + propagation,0.2625
+SENS3,8,20,médoïdes + propagation + sonde,0.2625
+SENS3,12,20,hasard + sonde,0.4291666666666666
+SENS3,12,20,médoïdes + sonde,0.4625
+SENS3,12,20,médoïdes + propagation,0.4625
+SENS3,12,20,médoïdes + propagation + sonde,0.4625
+SENS3,16,20,hasard + sonde,0.44666666666666666
+SENS3,16,20,médoïdes + sonde,0.5833333333333334
+SENS3,16,20,médoïdes + propagation,0.6666666666666666
+SENS3,16,20,médoïdes + propagation + sonde,0.6666666666666666
+SENS3,4,21,hasard + sonde,0.30486111111111114
+SENS3,4,21,médoïdes + sonde,0.3125
+SENS3,4,21,médoïdes + propagation,0.3125
+SENS3,4,21,médoïdes + propagation + sonde,0.3125
+SENS3,6,21,hasard + sonde,0.34265873015873016
+SENS3,6,21,médoïdes + sonde,0.41666666666666663
+SENS3,6,21,médoïdes + propagation,0.47916666666666663
+SENS3,6,21,médoïdes + propagation + sonde,0.47916666666666663
+SENS3,8,21,hasard + sonde,0.3826190476190476
+SENS3,8,21,médoïdes + sonde,0.47916666666666663
+SENS3,8,21,médoïdes + propagation,0.2708333333333333
+SENS3,8,21,médoïdes + propagation + sonde,0.2708333333333333
+SENS3,12,21,hasard + sonde,0.4905952380952382
+SENS3,12,21,médoïdes + sonde,0.525
+SENS3,12,21,médoïdes + propagation,0.525
+SENS3,12,21,médoïdes + propagation + sonde,0.525
+SENS3,16,21,hasard + sonde,0.42305555555555563
+SENS3,16,21,médoïdes + sonde,0.45
+SENS3,16,21,médoïdes + propagation,0.4
+SENS3,16,21,médoïdes + propagation + sonde,0.4
+SENS3,4,22,hasard + sonde,0.32847222222222217
+SENS3,4,22,médoïdes + sonde,0.25
+SENS3,4,22,médoïdes + propagation,0.25
+SENS3,4,22,médoïdes + propagation + sonde,0.25
+SENS3,6,22,hasard + sonde,0.3393353174603175
+SENS3,6,22,médoïdes + sonde,0.28125
+SENS3,6,22,médoïdes + propagation,0.28125
+SENS3,6,22,médoïdes + propagation + sonde,0.28125
+SENS3,8,22,hasard + sonde,0.32842261904761905
+SENS3,8,22,médoïdes + sonde,0.21726190476190477
+SENS3,8,22,médoïdes + propagation,0.2648809523809524
+SENS3,8,22,médoïdes + propagation + sonde,0.2648809523809524
+SENS3,12,22,hasard + sonde,0.44938492063492064
+SENS3,12,22,médoïdes + sonde,0.16666666666666666
+SENS3,12,22,médoïdes + propagation,0.3333333333333333
+SENS3,12,22,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,16,22,hasard + sonde,0.4636111111111111
+SENS3,16,22,médoïdes + sonde,0.39999999999999997
+SENS3,16,22,médoïdes + propagation,0.5666666666666667
+SENS3,16,22,médoïdes + propagation + sonde,0.5666666666666667
+SENS3,4,23,hasard + sonde,0.32247023809523806
+SENS3,4,23,médoïdes + sonde,0.3
+SENS3,4,23,médoïdes + propagation,0.3
+SENS3,4,23,médoïdes + propagation + sonde,0.3
+SENS3,6,23,hasard + sonde,0.3379166666666667
+SENS3,6,23,médoïdes + sonde,0.3869047619047619
+SENS3,6,23,médoïdes + propagation,0.3869047619047619
+SENS3,6,23,médoïdes + propagation + sonde,0.3869047619047619
+SENS3,8,23,hasard + sonde,0.40160714285714283
+SENS3,8,23,médoïdes + sonde,0.32499999999999996
+SENS3,8,23,médoïdes + propagation,0.25
+SENS3,8,23,médoïdes + propagation + sonde,0.25
+SENS3,12,23,hasard + sonde,0.4164484126984127
+SENS3,12,23,médoïdes + sonde,0.47916666666666663
+SENS3,12,23,médoïdes + propagation,0.3125
+SENS3,12,23,médoïdes + propagation + sonde,0.3125
+SENS3,16,23,hasard + sonde,0.4363888888888889
+SENS3,16,23,médoïdes + sonde,0.3
+SENS3,16,23,médoïdes + propagation,0.2333333333333333
+SENS3,16,23,médoïdes + propagation + sonde,0.2333333333333333
+SENS3,4,24,hasard + sonde,0.34611111111111115
+SENS3,4,24,médoïdes + sonde,0.35416666666666663
+SENS3,4,24,médoïdes + propagation,0.35416666666666663
+SENS3,4,24,médoïdes + propagation + sonde,0.35416666666666663
+SENS3,6,24,hasard + sonde,0.3792063492063492
+SENS3,6,24,médoïdes + sonde,0.4017857142857143
+SENS3,6,24,médoïdes + propagation,0.33035714285714285
+SENS3,6,24,médoïdes + propagation + sonde,0.33035714285714285
+SENS3,8,24,hasard + sonde,0.3662037037037037
+SENS3,8,24,médoïdes + sonde,0.4642857142857143
+SENS3,8,24,médoïdes + propagation,0.5267857142857143
+SENS3,8,24,médoïdes + propagation + sonde,0.5267857142857143
+SENS3,12,24,hasard + sonde,0.3989285714285714
+SENS3,12,24,médoïdes + sonde,0.25
+SENS3,12,24,médoïdes + propagation,0.14583333333333331
+SENS3,12,24,médoïdes + propagation + sonde,0.14583333333333331
+SENS3,16,24,hasard + sonde,0.4822222222222222
+SENS3,16,24,médoïdes + sonde,0.3333333333333333
+SENS3,16,24,médoïdes + propagation,0.4444444444444444
+SENS3,16,24,médoïdes + propagation + sonde,0.4444444444444444
+SENS3,4,25,hasard + sonde,0.36611111111111105
+SENS3,4,25,médoïdes + sonde,0.275
+SENS3,4,25,médoïdes + propagation,0.375
+SENS3,4,25,médoïdes + propagation + sonde,0.375
+SENS3,6,25,hasard + sonde,0.35063492063492063
+SENS3,6,25,médoïdes + sonde,0.28125
+SENS3,6,25,médoïdes + propagation,0.34375
+SENS3,6,25,médoïdes + propagation + sonde,0.34375
+SENS3,8,25,hasard + sonde,0.3713392857142857
+SENS3,8,25,médoïdes + sonde,0.375
+SENS3,8,25,médoïdes + propagation,0.3035714285714286
+SENS3,8,25,médoïdes + propagation + sonde,0.3035714285714286
+SENS3,12,25,hasard + sonde,0.3793452380952381
+SENS3,12,25,médoïdes + sonde,0.3333333333333333
+SENS3,12,25,médoïdes + propagation,0.3333333333333333
+SENS3,12,25,médoïdes + propagation + sonde,0.3333333333333333
+SENS3,16,25,hasard + sonde,0.5904563492063492
+SENS3,16,25,médoïdes + sonde,0.4666666666666666
+SENS3,16,25,médoïdes + propagation,0.2333333333333333
+SENS3,16,25,médoïdes + propagation + sonde,0.2333333333333333
+SENS3,4,26,hasard + sonde,0.35639880952380953
+SENS3,4,26,médoïdes + sonde,0.30625
+SENS3,4,26,médoïdes + propagation,0.3375
+SENS3,4,26,médoïdes + propagation + sonde,0.3375
+SENS3,6,26,hasard + sonde,0.3194642857142857
+SENS3,6,26,médoïdes + sonde,0.3678571428571429
+SENS3,6,26,médoïdes + propagation,0.18392857142857144
+SENS3,6,26,médoïdes + propagation + sonde,0.18392857142857144
+SENS3,8,26,hasard + sonde,0.3322916666666667
+SENS3,8,26,médoïdes + sonde,0.24583333333333332
+SENS3,8,26,médoïdes + propagation,0.24583333333333332
+SENS3,8,26,médoïdes + propagation + sonde,0.24583333333333332
+SENS3,12,26,hasard + sonde,0.31680555555555556
+SENS3,12,26,médoïdes + sonde,0.3625
+SENS3,12,26,médoïdes + propagation,0.3
+SENS3,12,26,médoïdes + propagation + sonde,0.3
+SENS3,16,26,hasard + sonde,0.43125
+SENS3,16,26,médoïdes + sonde,0.5416666666666666
+SENS3,16,26,médoïdes + propagation,0.4583333333333333
+SENS3,16,26,médoïdes + propagation + sonde,0.4583333333333333
+SENS3,4,27,hasard + sonde,0.34080357142857143
+SENS3,4,27,médoïdes + sonde,0.37222222222222223
+SENS3,4,27,médoïdes + propagation,0.39444444444444443
+SENS3,4,27,médoïdes + propagation + sonde,0.39444444444444443
+SENS3,6,27,hasard + sonde,0.37974206349206346
+SENS3,6,27,médoïdes + sonde,0.27708333333333335
+SENS3,6,27,médoïdes + propagation,0.3895833333333333
+SENS3,6,27,médoïdes + propagation + sonde,0.3895833333333333
+SENS3,8,27,hasard + sonde,0.3732242063492063
+SENS3,8,27,médoïdes + sonde,0.36904761904761907
+SENS3,8,27,médoïdes + propagation,0.3214285714285714
+SENS3,8,27,médoïdes + propagation + sonde,0.3214285714285714
+SENS3,12,27,hasard + sonde,0.4636507936507936
+SENS3,12,27,médoïdes + sonde,0.2857142857142857
+SENS3,12,27,médoïdes + propagation,0.25
+SENS3,12,27,médoïdes + propagation + sonde,0.25
+SENS3,16,27,hasard + sonde,0.4811111111111111
+SENS3,16,27,médoïdes + sonde,0.5
+SENS3,16,27,médoïdes + propagation,0.43333333333333335
+SENS3,16,27,médoïdes + propagation + sonde,0.43333333333333335
+SENS3,4,28,hasard + sonde,0.3179464285714285
+SENS3,4,28,médoïdes + sonde,0.3125
+SENS3,4,28,médoïdes + propagation,0.28125
+SENS3,4,28,médoïdes + propagation + sonde,0.28125
+SENS3,6,28,hasard + sonde,0.3012202380952381
+SENS3,6,28,médoïdes + sonde,0.38690476190476186
+SENS3,6,28,médoïdes + propagation,0.4583333333333333
+SENS3,6,28,médoïdes + propagation + sonde,0.4583333333333333
+SENS3,8,28,hasard + sonde,0.424672619047619
+SENS3,8,28,médoïdes + sonde,0.3333333333333333
+SENS3,8,28,médoïdes + propagation,0.41666666666666663
+SENS3,8,28,médoïdes + propagation + sonde,0.41666666666666663
+SENS3,12,28,hasard + sonde,0.3888095238095238
+SENS3,12,28,médoïdes + sonde,0.375
+SENS3,12,28,médoïdes + propagation,0.25
+SENS3,12,28,médoïdes + propagation + sonde,0.25
+SENS3,16,28,hasard + sonde,0.5094444444444445
+SENS3,16,28,médoïdes + sonde,0.4166666666666667
+SENS3,16,28,médoïdes + propagation,0.25
+SENS3,16,28,médoïdes + propagation + sonde,0.25
+SENS3,4,29,hasard + sonde,0.3589583333333333
+SENS3,4,29,médoïdes + sonde,0.3645833333333333
+SENS3,4,29,médoïdes + propagation,0.3958333333333333
+SENS3,4,29,médoïdes + propagation + sonde,0.3958333333333333
+SENS3,6,29,hasard + sonde,0.3513690476190476
+SENS3,6,29,médoïdes + sonde,0.32083333333333336
+SENS3,6,29,médoïdes + propagation,0.3375
+SENS3,6,29,médoïdes + propagation + sonde,0.3375
+SENS3,8,29,hasard + sonde,0.4236309523809524
+SENS3,8,29,médoïdes + sonde,0.3857142857142857
+SENS3,8,29,médoïdes + propagation,0.325
+SENS3,8,29,médoïdes + propagation + sonde,0.325
+SENS3,12,29,hasard + sonde,0.545
+SENS3,12,29,médoïdes + sonde,0.5444444444444444
+SENS3,12,29,médoïdes + propagation,0.3444444444444444
+SENS3,12,29,médoïdes + propagation + sonde,0.3444444444444444
+SENS3,16,29,hasard + sonde,0.5794444444444443
+SENS3,16,29,médoïdes + sonde,0.47222222222222215
+SENS3,16,29,médoïdes + propagation,0.3055555555555555
+SENS3,16,29,médoïdes + propagation + sonde,0.3055555555555555
+Cluster,4,0,hasard + sonde,0.4090767010767011
+Cluster,4,0,médoïdes + sonde,0.5543981481481481
+Cluster,4,0,médoïdes + propagation,0.5451388888888888
+Cluster,4,0,médoïdes + propagation + sonde,0.5451388888888888
+Cluster,6,0,hasard + sonde,0.5356774198024199
+Cluster,6,0,médoïdes + sonde,0.5691438191438192
+Cluster,6,0,médoïdes + propagation,0.5598845598845599
+Cluster,6,0,médoïdes + propagation + sonde,0.5598845598845599
+Cluster,8,0,hasard + sonde,0.5874240300762039
+Cluster,8,0,médoïdes + sonde,0.564935064935065
+Cluster,8,0,médoïdes + propagation,0.5876623376623377
+Cluster,8,0,médoïdes + propagation + sonde,0.5876623376623377
+Cluster,12,0,hasard + sonde,0.5880968874121048
+Cluster,12,0,médoïdes + sonde,0.5535714285714286
+Cluster,12,0,médoïdes + propagation,0.5535714285714286
+Cluster,12,0,médoïdes + propagation + sonde,0.5535714285714286
+Cluster,16,0,hasard + sonde,0.638397772739592
+Cluster,16,0,médoïdes + sonde,0.5833333333333333
+Cluster,16,0,médoïdes + propagation,0.5833333333333333
+Cluster,16,0,médoïdes + propagation + sonde,0.5833333333333333
+Cluster,24,0,hasard + sonde,0.6420573646125117
+Cluster,24,0,médoïdes + sonde,0.6041666666666666
+Cluster,24,0,médoïdes + propagation,0.6428571428571428
+Cluster,24,0,médoïdes + propagation + sonde,0.6428571428571428
+Cluster,4,1,hasard + sonde,0.4260521978021978
+Cluster,4,1,médoïdes + sonde,0.5913461538461539
+Cluster,4,1,médoïdes + propagation,0.5721153846153846
+Cluster,4,1,médoïdes + propagation + sonde,0.5721153846153846
+Cluster,6,1,hasard + sonde,0.507409423909424
+Cluster,6,1,médoïdes + sonde,0.5941666666666666
+Cluster,6,1,médoïdes + propagation,0.5941666666666666
+Cluster,6,1,médoïdes + propagation + sonde,0.5941666666666666
+Cluster,8,1,hasard + sonde,0.6149184094890616
+Cluster,8,1,médoïdes + sonde,0.5775
+Cluster,8,1,médoïdes + propagation,0.5875
+Cluster,8,1,médoïdes + propagation + sonde,0.5875
+Cluster,12,1,hasard + sonde,0.6658659812409813
+Cluster,12,1,médoïdes + sonde,0.45833333333333337
+Cluster,12,1,médoïdes + propagation,0.48958333333333337
+Cluster,12,1,médoïdes + propagation + sonde,0.48958333333333337
+Cluster,16,1,hasard + sonde,0.6602278522131464
+Cluster,16,1,médoïdes + sonde,0.6891304347826087
+Cluster,16,1,médoïdes + propagation,0.6673913043478261
+Cluster,16,1,médoïdes + propagation + sonde,0.6673913043478261
+Cluster,24,1,hasard + sonde,0.7160145308123249
+Cluster,24,1,médoïdes + sonde,0.6875
+Cluster,24,1,médoïdes + propagation,0.7368421052631579
+Cluster,24,1,médoïdes + propagation + sonde,0.7368421052631579
+Cluster,4,2,hasard + sonde,0.46584920985783046
+Cluster,4,2,médoïdes + sonde,0.5360300618921308
+Cluster,4,2,médoïdes + propagation,0.518788682581786
+Cluster,4,2,médoïdes + propagation + sonde,0.518788682581786
+Cluster,6,2,hasard + sonde,0.46624338624338624
+Cluster,6,2,médoïdes + sonde,0.5949175824175824
+Cluster,6,2,médoïdes + propagation,0.585989010989011
+Cluster,6,2,médoïdes + propagation + sonde,0.585989010989011
+Cluster,8,2,hasard + sonde,0.5679584304584304
+Cluster,8,2,médoïdes + sonde,0.5601190476190476
+Cluster,8,2,médoïdes + propagation,0.5833333333333334
+Cluster,8,2,médoïdes + propagation + sonde,0.5833333333333334
+Cluster,12,2,hasard + sonde,0.5743425324675324
+Cluster,12,2,médoïdes + sonde,0.6964285714285714
+Cluster,12,2,médoïdes + propagation,0.6696428571428572
+Cluster,12,2,médoïdes + propagation + sonde,0.6696428571428572
+Cluster,16,2,hasard + sonde,0.6012415075072399
+Cluster,16,2,médoïdes + sonde,0.575
+Cluster,16,2,médoïdes + propagation,0.575
+Cluster,16,2,médoïdes + propagation + sonde,0.575
+Cluster,24,2,hasard + sonde,0.6343443976474162
+Cluster,24,2,médoïdes + sonde,0.6875
+Cluster,24,2,médoïdes + propagation,0.75
+Cluster,24,2,médoïdes + propagation + sonde,0.75
+Cluster,4,3,hasard + sonde,0.47401579670329663
+Cluster,4,3,médoïdes + sonde,0.583058608058608
+Cluster,4,3,médoïdes + propagation,0.5638278388278388
+Cluster,4,3,médoïdes + propagation + sonde,0.5638278388278388
+Cluster,6,3,hasard + sonde,0.4802283079239601
+Cluster,6,3,médoïdes + sonde,0.6080586080586081
+Cluster,6,3,médoïdes + propagation,0.6112637362637363
+Cluster,6,3,médoïdes + propagation + sonde,0.6112637362637363
+Cluster,8,3,hasard + sonde,0.46892609111902595
+Cluster,8,3,médoïdes + sonde,0.592948717948718
+Cluster,8,3,médoïdes + propagation,0.5821794871794872
+Cluster,8,3,médoïdes + propagation + sonde,0.5821794871794872
+Cluster,12,3,hasard + sonde,0.606507568518438
+Cluster,12,3,médoïdes + sonde,0.6083333333333334
+Cluster,12,3,médoïdes + propagation,0.5979166666666667
+Cluster,12,3,médoïdes + propagation + sonde,0.5979166666666667
+Cluster,16,3,hasard + sonde,0.5915076908703238
+Cluster,16,3,médoïdes + sonde,0.6217171717171718
+Cluster,16,3,médoïdes + propagation,0.6217171717171718
+Cluster,16,3,médoïdes + propagation + sonde,0.6217171717171718
+Cluster,24,3,hasard + sonde,0.6113652013835836
+Cluster,24,3,médoïdes + sonde,0.625
+Cluster,24,3,médoïdes + propagation,0.6535087719298245
+Cluster,24,3,médoïdes + propagation + sonde,0.6535087719298245
+Cluster,4,4,hasard + sonde,0.43626109076109076
+Cluster,4,4,médoïdes + sonde,0.5608084045584045
+Cluster,4,4,médoïdes + propagation,0.5330306267806267
+Cluster,4,4,médoïdes + propagation + sonde,0.5330306267806267
+Cluster,6,4,hasard + sonde,0.4477432844932845
+Cluster,6,4,médoïdes + sonde,0.5767195767195767
+Cluster,6,4,médoïdes + propagation,0.548941798941799
+Cluster,6,4,médoïdes + propagation + sonde,0.548941798941799
+Cluster,8,4,hasard + sonde,0.49463548770070515
+Cluster,8,4,médoïdes + sonde,0.5780469530469531
+Cluster,8,4,médoïdes + propagation,0.5780469530469531
+Cluster,8,4,médoïdes + propagation + sonde,0.5780469530469531
+Cluster,12,4,hasard + sonde,0.5537873720482416
+Cluster,12,4,médoïdes + sonde,0.5674603174603174
+Cluster,12,4,médoïdes + propagation,0.5570436507936508
+Cluster,12,4,médoïdes + propagation + sonde,0.5570436507936508
+Cluster,16,4,hasard + sonde,0.5685463929775075
+Cluster,16,4,médoïdes + sonde,0.5952380952380952
+Cluster,16,4,médoïdes + propagation,0.5952380952380952
+Cluster,16,4,médoïdes + propagation + sonde,0.5952380952380952
+Cluster,24,4,hasard + sonde,0.6047650082760376
+Cluster,24,4,médoïdes + sonde,0.5773809523809523
+Cluster,24,4,médoïdes + propagation,0.7023809523809523
+Cluster,24,4,médoïdes + propagation + sonde,0.7023809523809523
+Cluster,4,5,hasard + sonde,0.478159986565159
+Cluster,4,5,médoïdes + sonde,0.5854679802955665
+Cluster,4,5,médoïdes + propagation,0.5682266009852217
+Cluster,4,5,médoïdes + propagation + sonde,0.5682266009852217
+Cluster,6,5,hasard + sonde,0.5466563066563066
+Cluster,6,5,médoïdes + sonde,0.7164203612479474
+Cluster,6,5,médoïdes + propagation,0.6411330049261084
+Cluster,6,5,médoïdes + propagation + sonde,0.6411330049261084
+Cluster,8,5,hasard + sonde,0.5936321225071226
+Cluster,8,5,médoïdes + sonde,0.6190476190476191
+Cluster,8,5,médoïdes + propagation,0.636904761904762
+Cluster,8,5,médoïdes + propagation + sonde,0.636904761904762
+Cluster,12,5,hasard + sonde,0.6167864201016375
+Cluster,12,5,médoïdes + sonde,0.5978835978835978
+Cluster,12,5,médoïdes + propagation,0.6395502645502645
+Cluster,12,5,médoïdes + propagation + sonde,0.6395502645502645
+Cluster,16,5,hasard + sonde,0.6241028138528139
+Cluster,16,5,médoïdes + sonde,0.6071428571428572
+Cluster,16,5,médoïdes + propagation,0.6071428571428572
+Cluster,16,5,médoïdes + propagation + sonde,0.6071428571428572
+Cluster,24,5,hasard + sonde,0.6359933674426709
+Cluster,24,5,médoïdes + sonde,0.475
+Cluster,24,5,médoïdes + propagation,0.525
+Cluster,24,5,médoïdes + propagation + sonde,0.525
+Cluster,4,6,hasard + sonde,0.43838492063492057
+Cluster,4,6,médoïdes + sonde,0.5597435897435897
+Cluster,4,6,médoïdes + propagation,0.5297435897435898
+Cluster,4,6,médoïdes + propagation + sonde,0.5297435897435898
+Cluster,6,6,hasard + sonde,0.5007611742122612
+Cluster,6,6,médoïdes + sonde,0.5721153846153846
+Cluster,6,6,médoïdes + propagation,0.6105769230769231
+Cluster,6,6,médoïdes + propagation + sonde,0.6105769230769231
+Cluster,8,6,hasard + sonde,0.5391614876669225
+Cluster,8,6,médoïdes + sonde,0.6041666666666666
+Cluster,8,6,médoïdes + propagation,0.6041666666666666
+Cluster,8,6,médoïdes + propagation + sonde,0.6041666666666666
+Cluster,12,6,hasard + sonde,0.632756549006549
+Cluster,12,6,médoïdes + sonde,0.6319444444444444
+Cluster,12,6,médoïdes + propagation,0.6597222222222222
+Cluster,12,6,médoïdes + propagation + sonde,0.6597222222222222
+Cluster,16,6,hasard + sonde,0.6155885087135087
+Cluster,16,6,médoïdes + sonde,0.4895833333333333
+Cluster,16,6,médoïdes + propagation,0.53125
+Cluster,16,6,médoïdes + propagation + sonde,0.53125
+Cluster,24,6,hasard + sonde,0.6281293543058248
+Cluster,24,6,médoïdes + sonde,0.6535087719298245
+Cluster,24,6,médoïdes + propagation,0.6666666666666666
+Cluster,24,6,médoïdes + propagation + sonde,0.6666666666666666
+Cluster,4,7,hasard + sonde,0.446432387057387
+Cluster,4,7,médoïdes + sonde,0.5296266233766234
+Cluster,4,7,médoïdes + propagation,0.5028409090909091
+Cluster,4,7,médoïdes + propagation + sonde,0.5028409090909091
+Cluster,6,7,hasard + sonde,0.4612000869500871
+Cluster,6,7,médoïdes + sonde,0.5517857142857143
+Cluster,6,7,médoïdes + propagation,0.5160714285714285
+Cluster,6,7,médoïdes + propagation + sonde,0.5160714285714285
+Cluster,8,7,hasard + sonde,0.5186084424834425
+Cluster,8,7,médoïdes + sonde,0.5582010582010581
+Cluster,8,7,médoïdes + propagation,0.548941798941799
+Cluster,8,7,médoïdes + propagation + sonde,0.548941798941799
+Cluster,12,7,hasard + sonde,0.5042315818239731
+Cluster,12,7,médoïdes + sonde,0.5357142857142857
+Cluster,12,7,médoïdes + propagation,0.5357142857142857
+Cluster,12,7,médoïdes + propagation + sonde,0.5357142857142857
+Cluster,16,7,hasard + sonde,0.5724594630515683
+Cluster,16,7,médoïdes + sonde,0.47738095238095235
+Cluster,16,7,médoïdes + propagation,0.5273809523809524
+Cluster,16,7,médoïdes + propagation + sonde,0.5273809523809524
+Cluster,24,7,hasard + sonde,0.6410078197945845
+Cluster,24,7,médoïdes + sonde,0.6666666666666666
+Cluster,24,7,médoïdes + propagation,0.6458333333333333
+Cluster,24,7,médoïdes + propagation + sonde,0.6458333333333333
+Cluster,4,8,hasard + sonde,0.4328205128205128
+Cluster,4,8,médoïdes + sonde,0.5647893772893773
+Cluster,4,8,médoïdes + propagation,0.5663919413919414
+Cluster,4,8,médoïdes + propagation + sonde,0.5663919413919414
+Cluster,6,8,hasard + sonde,0.4816702047952047
+Cluster,6,8,médoïdes + sonde,0.5776623376623377
+Cluster,6,8,médoïdes + propagation,0.5776623376623377
+Cluster,6,8,médoïdes + propagation + sonde,0.5776623376623377
+Cluster,8,8,hasard + sonde,0.5385611616644225
+Cluster,8,8,médoïdes + sonde,0.6321428571428571
+Cluster,8,8,médoïdes + propagation,0.6121428571428571
+Cluster,8,8,médoïdes + propagation + sonde,0.6121428571428571
+Cluster,12,8,hasard + sonde,0.6197559747016269
+Cluster,12,8,médoïdes + sonde,0.6275232919254659
+Cluster,12,8,médoïdes + propagation,0.7008928571428572
+Cluster,12,8,médoïdes + propagation + sonde,0.7008928571428572
+Cluster,16,8,hasard + sonde,0.6597156531810422
+Cluster,16,8,médoïdes + sonde,0.6439393939393939
+Cluster,16,8,médoïdes + propagation,0.5665584415584416
+Cluster,16,8,médoïdes + propagation + sonde,0.5665584415584416
+Cluster,24,8,hasard + sonde,0.6661855158730159
+Cluster,24,8,médoïdes + sonde,0.6845238095238095
+Cluster,24,8,médoïdes + propagation,0.6488095238095238
+Cluster,24,8,médoïdes + propagation + sonde,0.6488095238095238
+Cluster,4,9,hasard + sonde,0.49688135938135936
+Cluster,4,9,médoïdes + sonde,0.575091575091575
+Cluster,4,9,médoïdes + propagation,0.5778388278388278
+Cluster,4,9,médoïdes + propagation + sonde,0.5778388278388278
+Cluster,6,9,hasard + sonde,0.5528940272690273
+Cluster,6,9,médoïdes + sonde,0.6346153846153846
+Cluster,6,9,médoïdes + propagation,0.6160968660968661
+Cluster,6,9,médoïdes + propagation + sonde,0.6160968660968661
+Cluster,8,9,hasard + sonde,0.5651639194139194
+Cluster,8,9,médoïdes + sonde,0.6590909090909091
+Cluster,8,9,médoïdes + propagation,0.6498316498316498
+Cluster,8,9,médoïdes + propagation + sonde,0.6498316498316498
+Cluster,12,9,hasard + sonde,0.5740104965591236
+Cluster,12,9,médoïdes + sonde,0.54
+Cluster,12,9,médoïdes + propagation,0.55
+Cluster,12,9,médoïdes + propagation + sonde,0.55
+Cluster,16,9,hasard + sonde,0.6158326395826396
+Cluster,16,9,médoïdes + sonde,0.5875
+Cluster,16,9,médoïdes + propagation,0.61875
+Cluster,16,9,médoïdes + propagation + sonde,0.61875
+Cluster,24,9,hasard + sonde,0.6560628286402281
+Cluster,24,9,médoïdes + sonde,0.6625
+Cluster,24,9,médoïdes + propagation,0.725
+Cluster,24,9,médoïdes + propagation + sonde,0.725
+Cluster,4,10,hasard + sonde,0.4452066544566544
+Cluster,4,10,médoïdes + sonde,0.5466269841269842
+Cluster,4,10,médoïdes + propagation,0.5373677248677249
+Cluster,4,10,médoïdes + propagation + sonde,0.5373677248677249
+Cluster,6,10,hasard + sonde,0.4761520979020979
+Cluster,6,10,médoïdes + sonde,0.5457042957042957
+Cluster,6,10,médoïdes + propagation,0.5553196803196804
+Cluster,6,10,médoïdes + propagation + sonde,0.5553196803196804
+Cluster,8,10,hasard + sonde,0.5118979430392474
+Cluster,8,10,médoïdes + sonde,0.5204517704517704
+Cluster,8,10,médoïdes + propagation,0.5300671550671551
+Cluster,8,10,médoïdes + propagation + sonde,0.5300671550671551
+Cluster,12,10,hasard + sonde,0.5342706182706183
+Cluster,12,10,médoïdes + sonde,0.5729166666666666
+Cluster,12,10,médoïdes + propagation,0.6041666666666666
+Cluster,12,10,médoïdes + propagation + sonde,0.6041666666666666
+Cluster,16,10,hasard + sonde,0.5929524430883125
+Cluster,16,10,médoïdes + sonde,0.5595238095238095
+Cluster,16,10,médoïdes + propagation,0.5952380952380952
+Cluster,16,10,médoïdes + propagation + sonde,0.5952380952380952
+Cluster,24,10,hasard + sonde,0.6106569370172311
+Cluster,24,10,médoïdes + sonde,0.5875
+Cluster,24,10,médoïdes + propagation,0.5875
+Cluster,24,10,médoïdes + propagation + sonde,0.5875
+Cluster,4,11,hasard + sonde,0.4544448757763975
+Cluster,4,11,médoïdes + sonde,0.5074404761904762
+Cluster,4,11,médoïdes + propagation,0.5223214285714286
+Cluster,4,11,médoïdes + propagation + sonde,0.5223214285714286
+Cluster,6,11,hasard + sonde,0.4907536937699981
+Cluster,6,11,médoïdes + sonde,0.5703983516483516
+Cluster,6,11,médoïdes + propagation,0.5391483516483516
+Cluster,6,11,médoïdes + propagation + sonde,0.5391483516483516
+Cluster,8,11,hasard + sonde,0.5937168537983755
+Cluster,8,11,médoïdes + sonde,0.5213744588744589
+Cluster,8,11,médoïdes + propagation,0.5251623376623377
+Cluster,8,11,médoïdes + propagation + sonde,0.5251623376623377
+Cluster,12,11,hasard + sonde,0.5854247652931863
+Cluster,12,11,médoïdes + sonde,0.6280663780663781
+Cluster,12,11,médoïdes + propagation,0.6280663780663781
+Cluster,12,11,médoïdes + propagation + sonde,0.6280663780663781
+Cluster,16,11,hasard + sonde,0.5785406390350276
+Cluster,16,11,médoïdes + sonde,0.6666666666666666
+Cluster,16,11,médoïdes + propagation,0.6130952380952381
+Cluster,16,11,médoïdes + propagation + sonde,0.6130952380952381
+Cluster,24,11,hasard + sonde,0.6426853354978356
+Cluster,24,11,médoïdes + sonde,0.7777777777777779
+Cluster,24,11,médoïdes + propagation,0.75
+Cluster,24,11,médoïdes + propagation + sonde,0.7638888888888888
+Cluster,4,12,hasard + sonde,0.4675579513079512
+Cluster,4,12,médoïdes + sonde,0.5678571428571428
+Cluster,4,12,médoïdes + propagation,0.55
+Cluster,4,12,médoïdes + propagation + sonde,0.55
+Cluster,6,12,hasard + sonde,0.48029545917045924
+Cluster,6,12,médoïdes + sonde,0.6300264550264549
+Cluster,6,12,médoïdes + propagation,0.6300264550264549
+Cluster,6,12,médoïdes + propagation + sonde,0.6300264550264549
+Cluster,8,12,hasard + sonde,0.5758413392163393
+Cluster,8,12,médoïdes + sonde,0.611276455026455
+Cluster,8,12,médoïdes + propagation,0.611276455026455
+Cluster,8,12,médoïdes + propagation + sonde,0.611276455026455
+Cluster,12,12,hasard + sonde,0.5880993710395883
+Cluster,12,12,médoïdes + sonde,0.6726190476190477
+Cluster,12,12,médoïdes + propagation,0.6726190476190477
+Cluster,12,12,médoïdes + propagation + sonde,0.6726190476190477
+Cluster,16,12,hasard + sonde,0.637492196812849
+Cluster,16,12,médoïdes + sonde,0.6583333333333333
+Cluster,16,12,médoïdes + propagation,0.6583333333333333
+Cluster,16,12,médoïdes + propagation + sonde,0.6583333333333333
+Cluster,24,12,hasard + sonde,0.6187700786056048
+Cluster,24,12,médoïdes + sonde,0.7083333333333333
+Cluster,24,12,médoïdes + propagation,0.7083333333333333
+Cluster,24,12,médoïdes + propagation + sonde,0.7083333333333333
+Cluster,4,13,hasard + sonde,0.4272609335109335
+Cluster,4,13,médoïdes + sonde,0.5925324675324675
+Cluster,4,13,médoïdes + propagation,0.5746753246753247
+Cluster,4,13,médoïdes + propagation + sonde,0.5746753246753247
+Cluster,6,13,hasard + sonde,0.4977815517815517
+Cluster,6,13,médoïdes + sonde,0.6035714285714285
+Cluster,6,13,médoïdes + propagation,0.58505291005291
+Cluster,6,13,médoïdes + propagation + sonde,0.58505291005291
+Cluster,8,13,hasard + sonde,0.5665859695859696
+Cluster,8,13,médoïdes + sonde,0.5952380952380952
+Cluster,8,13,médoïdes + propagation,0.5952380952380952
+Cluster,8,13,médoïdes + propagation + sonde,0.5952380952380952
+Cluster,12,13,hasard + sonde,0.5735886728006293
+Cluster,12,13,médoïdes + sonde,0.5952380952380952
+Cluster,12,13,médoïdes + propagation,0.6369047619047619
+Cluster,12,13,médoïdes + propagation + sonde,0.6369047619047619
+Cluster,16,13,hasard + sonde,0.6103651020985117
+Cluster,16,13,médoïdes + sonde,0.7133928571428572
+Cluster,16,13,médoïdes + propagation,0.6672619047619047
+Cluster,16,13,médoïdes + propagation + sonde,0.6672619047619047
+Cluster,24,13,hasard + sonde,0.6269742217062264
+Cluster,24,13,médoïdes + sonde,0.6130952380952381
+Cluster,24,13,médoïdes + propagation,0.6339285714285714
+Cluster,24,13,médoïdes + propagation + sonde,0.6339285714285714
+Cluster,4,14,hasard + sonde,0.4545371295371295
+Cluster,4,14,médoïdes + sonde,0.5982142857142858
+Cluster,4,14,médoïdes + propagation,0.5803571428571429
+Cluster,4,14,médoïdes + propagation + sonde,0.5803571428571429
+Cluster,6,14,hasard + sonde,0.5082517112517113
+Cluster,6,14,médoïdes + sonde,0.6157407407407407
+Cluster,6,14,médoïdes + propagation,0.6365740740740741
+Cluster,6,14,médoïdes + propagation + sonde,0.6365740740740741
+Cluster,8,14,hasard + sonde,0.5471580484732659
+Cluster,8,14,médoïdes + sonde,0.5990740740740741
+Cluster,8,14,médoïdes + propagation,0.624074074074074
+Cluster,8,14,médoïdes + propagation + sonde,0.624074074074074
+Cluster,12,14,hasard + sonde,0.5707826322228495
+Cluster,12,14,médoïdes + sonde,0.6979166666666666
+Cluster,12,14,médoïdes + propagation,0.688301282051282
+Cluster,12,14,médoïdes + propagation + sonde,0.688301282051282
+Cluster,16,14,hasard + sonde,0.6347238872238872
+Cluster,16,14,médoïdes + sonde,0.6991071428571428
+Cluster,16,14,médoïdes + propagation,0.6991071428571428
+Cluster,16,14,médoïdes + propagation + sonde,0.6991071428571428
+Cluster,24,14,hasard + sonde,0.6628882575757575
+Cluster,24,14,médoïdes + sonde,0.5833333333333333
+Cluster,24,14,médoïdes + propagation,0.5833333333333333
+Cluster,24,14,médoïdes + propagation + sonde,0.5833333333333333
+Cluster,4,15,hasard + sonde,0.4817967032967033
+Cluster,4,15,médoïdes + sonde,0.5892857142857143
+Cluster,4,15,médoïdes + propagation,0.570054945054945
+Cluster,4,15,médoïdes + propagation + sonde,0.570054945054945
+Cluster,6,15,hasard + sonde,0.523267316017316
+Cluster,6,15,médoïdes + sonde,0.6538461538461539
+Cluster,6,15,médoïdes + propagation,0.6438461538461538
+Cluster,6,15,médoïdes + propagation + sonde,0.6438461538461538
+Cluster,8,15,hasard + sonde,0.5857507347724741
+Cluster,8,15,médoïdes + sonde,0.625
+Cluster,8,15,médoïdes + propagation,0.6354166666666667
+Cluster,8,15,médoïdes + propagation + sonde,0.6354166666666667
+Cluster,12,15,hasard + sonde,0.6304692785284891
+Cluster,12,15,médoïdes + sonde,0.6363636363636364
+Cluster,12,15,médoïdes + propagation,0.6363636363636364
+Cluster,12,15,médoïdes + propagation + sonde,0.6363636363636364
+Cluster,16,15,hasard + sonde,0.678323273948274
+Cluster,16,15,médoïdes + sonde,0.5553030303030303
+Cluster,16,15,médoïdes + propagation,0.6550505050505051
+Cluster,16,15,médoïdes + propagation + sonde,0.6550505050505051
+Cluster,24,15,hasard + sonde,0.7200457875457876
+Cluster,24,15,médoïdes + sonde,0.6041666666666666
+Cluster,24,15,médoïdes + propagation,0.6458333333333333
+Cluster,24,15,médoïdes + propagation + sonde,0.6458333333333333
+Cluster,4,16,hasard + sonde,0.46046474358974354
+Cluster,4,16,médoïdes + sonde,0.5408653846153846
+Cluster,4,16,médoïdes + propagation,0.53125
+Cluster,4,16,médoïdes + propagation + sonde,0.53125
+Cluster,6,16,hasard + sonde,0.49815942028985505
+Cluster,6,16,médoïdes + sonde,0.5567765567765568
+Cluster,6,16,médoïdes + propagation,0.5471611721611722
+Cluster,6,16,médoïdes + propagation + sonde,0.5471611721611722
+Cluster,8,16,hasard + sonde,0.5232116217116217
+Cluster,8,16,médoïdes + sonde,0.6112121212121212
+Cluster,8,16,médoïdes + propagation,0.6328787878787879
+Cluster,8,16,médoïdes + propagation + sonde,0.6328787878787879
+Cluster,12,16,hasard + sonde,0.5838359014174231
+Cluster,12,16,médoïdes + sonde,0.47738095238095235
+Cluster,12,16,médoïdes + propagation,0.4665113871635611
+Cluster,12,16,médoïdes + propagation + sonde,0.4665113871635611
+Cluster,16,16,hasard + sonde,0.6071531491384432
+Cluster,16,16,médoïdes + sonde,0.5148809523809523
+Cluster,16,16,médoïdes + propagation,0.5148809523809523
+Cluster,16,16,médoïdes + propagation + sonde,0.5148809523809523
+Cluster,24,16,hasard + sonde,0.6382516074611662
+Cluster,24,16,médoïdes + sonde,0.5791666666666666
+Cluster,24,16,médoïdes + propagation,0.5368421052631579
+Cluster,24,16,médoïdes + propagation + sonde,0.5368421052631579
+Cluster,4,17,hasard + sonde,0.40744290192566057
+Cluster,4,17,médoïdes + sonde,0.6288625167935512
+Cluster,4,17,médoïdes + propagation,0.603000447828034
+Cluster,4,17,médoïdes + propagation + sonde,0.603000447828034
+Cluster,6,17,hasard + sonde,0.5236556684056685
+Cluster,6,17,médoïdes + sonde,0.6050903119868637
+Cluster,6,17,médoïdes + propagation,0.5964696223316912
+Cluster,6,17,médoïdes + propagation + sonde,0.5964696223316912
+Cluster,8,17,hasard + sonde,0.6226818272723444
+Cluster,8,17,médoïdes + sonde,0.6309523809523809
+Cluster,8,17,médoïdes + propagation,0.6216931216931216
+Cluster,8,17,médoïdes + propagation + sonde,0.6216931216931216
+Cluster,12,17,hasard + sonde,0.6267999898652072
+Cluster,12,17,médoïdes + sonde,0.6142857142857143
+Cluster,12,17,médoïdes + propagation,0.65
+Cluster,12,17,médoïdes + propagation + sonde,0.65
+Cluster,16,17,hasard + sonde,0.6463759851259852
+Cluster,16,17,médoïdes + sonde,0.6375
+Cluster,16,17,médoïdes + propagation,0.6875
+Cluster,16,17,médoïdes + propagation + sonde,0.6875
+Cluster,24,17,hasard + sonde,0.7342559523809523
+Cluster,24,17,médoïdes + sonde,0.7666666666666666
+Cluster,24,17,médoïdes + propagation,0.7666666666666666
+Cluster,24,17,médoïdes + propagation + sonde,0.7666666666666666
+Cluster,4,18,hasard + sonde,0.45616452991452994
+Cluster,4,18,médoïdes + sonde,0.5240384615384616
+Cluster,4,18,médoïdes + propagation,0.5037393162393162
+Cluster,4,18,médoïdes + propagation + sonde,0.5037393162393162
+Cluster,6,18,hasard + sonde,0.5213220855231725
+Cluster,6,18,médoïdes + sonde,0.5222902097902098
+Cluster,6,18,médoïdes + propagation,0.5161713286713286
+Cluster,6,18,médoïdes + propagation + sonde,0.5161713286713286
+Cluster,8,18,hasard + sonde,0.5393998012856709
+Cluster,8,18,médoïdes + sonde,0.5525
+Cluster,8,18,médoïdes + propagation,0.5525
+Cluster,8,18,médoïdes + propagation + sonde,0.5525
+Cluster,12,18,hasard + sonde,0.5612454834131035
+Cluster,12,18,médoïdes + sonde,0.6666666666666666
+Cluster,12,18,médoïdes + propagation,0.6666666666666666
+Cluster,12,18,médoïdes + propagation + sonde,0.6666666666666666
+Cluster,16,18,hasard + sonde,0.5719580328297432
+Cluster,16,18,médoïdes + sonde,0.5767857142857142
+Cluster,16,18,médoïdes + propagation,0.5386363636363636
+Cluster,16,18,médoïdes + propagation + sonde,0.5386363636363636
+Cluster,24,18,hasard + sonde,0.6317777861972909
+Cluster,24,18,médoïdes + sonde,0.5833333333333334
+Cluster,24,18,médoïdes + propagation,0.6958333333333333
+Cluster,24,18,médoïdes + propagation + sonde,0.6958333333333333
+Cluster,4,19,hasard + sonde,0.3949272774327122
+Cluster,4,19,médoïdes + sonde,0.5000961538461539
+Cluster,4,19,médoïdes + propagation,0.5113461538461539
+Cluster,4,19,médoïdes + propagation + sonde,0.5113461538461539
+Cluster,6,19,hasard + sonde,0.4821094195659413
+Cluster,6,19,médoïdes + sonde,0.5423534798534798
+Cluster,6,19,médoïdes + propagation,0.5631868131868132
+Cluster,6,19,médoïdes + propagation + sonde,0.5631868131868132
+Cluster,8,19,hasard + sonde,0.5439087995337994
+Cluster,8,19,médoïdes + sonde,0.5441017316017316
+Cluster,8,19,médoïdes + propagation,0.533685064935065
+Cluster,8,19,médoïdes + propagation + sonde,0.533685064935065
+Cluster,12,19,hasard + sonde,0.5879344387496561
+Cluster,12,19,médoïdes + sonde,0.572463768115942
+Cluster,12,19,médoïdes + propagation,0.6002415458937198
+Cluster,12,19,médoïdes + propagation + sonde,0.6002415458937198
+Cluster,16,19,hasard + sonde,0.5484428561681136
+Cluster,16,19,médoïdes + sonde,0.5729166666666666
+Cluster,16,19,médoïdes + propagation,0.5922619047619047
+Cluster,16,19,médoïdes + propagation + sonde,0.5922619047619047
+Cluster,24,19,hasard + sonde,0.5967482558291382
+Cluster,24,19,médoïdes + sonde,0.6541666666666667
+Cluster,24,19,médoïdes + propagation,0.5986842105263158
+Cluster,24,19,médoïdes + propagation + sonde,0.5986842105263158
+Cluster,4,20,hasard + sonde,0.47791936005171304
+Cluster,4,20,médoïdes + sonde,0.5200892857142857
+Cluster,4,20,médoïdes + propagation,0.4933035714285714
+Cluster,4,20,médoïdes + propagation + sonde,0.4933035714285714
+Cluster,6,20,hasard + sonde,0.4515623787976729
+Cluster,6,20,médoïdes + sonde,0.4898148148148148
+Cluster,6,20,médoïdes + propagation,0.5138888888888888
+Cluster,6,20,médoïdes + propagation + sonde,0.5138888888888888
+Cluster,8,20,hasard + sonde,0.5470037438052143
+Cluster,8,20,médoïdes + sonde,0.5103276353276354
+Cluster,8,20,médoïdes + propagation,0.5010683760683761
+Cluster,8,20,médoïdes + propagation + sonde,0.5010683760683761
+Cluster,12,20,hasard + sonde,0.5916320083901605
+Cluster,12,20,médoïdes + sonde,0.5568181818181819
+Cluster,12,20,médoïdes + propagation,0.5795454545454546
+Cluster,12,20,médoïdes + propagation + sonde,0.5795454545454546
+Cluster,16,20,hasard + sonde,0.5796256806918572
+Cluster,16,20,médoïdes + sonde,0.6166666666666667
+Cluster,16,20,médoïdes + propagation,0.6444444444444445
+Cluster,16,20,médoïdes + propagation + sonde,0.6444444444444445
+Cluster,24,20,hasard + sonde,0.6087280683497789
+Cluster,24,20,médoïdes + sonde,0.6166666666666667
+Cluster,24,20,médoïdes + propagation,0.5666666666666667
+Cluster,24,20,médoïdes + propagation + sonde,0.5666666666666667
+Cluster,4,21,hasard + sonde,0.472698717948718
+Cluster,4,21,médoïdes + sonde,0.5544871794871795
+Cluster,4,21,médoïdes + propagation,0.5352564102564102
+Cluster,4,21,médoïdes + propagation + sonde,0.5352564102564102
+Cluster,6,21,hasard + sonde,0.4998006021756021
+Cluster,6,21,médoïdes + sonde,0.5841666666666666
+Cluster,6,21,médoïdes + propagation,0.5941666666666666
+Cluster,6,21,médoïdes + propagation + sonde,0.5941666666666666
+Cluster,8,21,hasard + sonde,0.5417582224538746
+Cluster,8,21,médoïdes + sonde,0.5675
+Cluster,8,21,médoïdes + propagation,0.5675
+Cluster,8,21,médoïdes + propagation + sonde,0.5675
+Cluster,12,21,hasard + sonde,0.6106774264382959
+Cluster,12,21,médoïdes + sonde,0.5145833333333334
+Cluster,12,21,médoïdes + propagation,0.5145833333333334
+Cluster,12,21,médoïdes + propagation + sonde,0.5145833333333334
+Cluster,16,21,hasard + sonde,0.6361113667034719
+Cluster,16,21,médoïdes + sonde,0.38839285714285715
+Cluster,16,21,médoïdes + propagation,0.41964285714285715
+Cluster,16,21,médoïdes + propagation + sonde,0.41964285714285715
+Cluster,24,21,hasard + sonde,0.6750892857142856
+Cluster,24,21,médoïdes + sonde,0.6375
+Cluster,24,21,médoïdes + propagation,0.8166666666666667
+Cluster,24,21,médoïdes + propagation + sonde,0.8166666666666667
+Cluster,4,22,hasard + sonde,0.4576538164900234
+Cluster,4,22,médoïdes + sonde,0.5688349007314525
+Cluster,4,22,médoïdes + propagation,0.56021421107628
+Cluster,4,22,médoïdes + propagation + sonde,0.56021421107628
+Cluster,6,22,hasard + sonde,0.42801471676471686
+Cluster,6,22,médoïdes + sonde,0.6136363636363636
+Cluster,6,22,médoïdes + propagation,0.6047077922077922
+Cluster,6,22,médoïdes + propagation + sonde,0.6047077922077922
+Cluster,8,22,hasard + sonde,0.5382011627663801
+Cluster,8,22,médoïdes + sonde,0.6
+Cluster,8,22,médoïdes + propagation,0.625
+Cluster,8,22,médoïdes + propagation + sonde,0.625
+Cluster,12,22,hasard + sonde,0.5575627104377104
+Cluster,12,22,médoïdes + sonde,0.6785714285714286
+Cluster,12,22,médoïdes + propagation,0.6785714285714286
+Cluster,12,22,médoïdes + propagation + sonde,0.6785714285714286
+Cluster,16,22,hasard + sonde,0.6101095583160802
+Cluster,16,22,médoïdes + sonde,0.6785714285714286
+Cluster,16,22,médoïdes + propagation,0.6785714285714286
+Cluster,16,22,médoïdes + propagation + sonde,0.6785714285714286
+Cluster,24,22,hasard + sonde,0.6014385074205121
+Cluster,24,22,médoïdes + sonde,0.625
+Cluster,24,22,médoïdes + propagation,0.625
+Cluster,24,22,médoïdes + propagation + sonde,0.625
+Cluster,4,23,hasard + sonde,0.4328572604931301
+Cluster,4,23,médoïdes + sonde,0.6205357142857143
+Cluster,4,23,médoïdes + propagation,0.5997023809523809
+Cluster,4,23,médoïdes + propagation + sonde,0.5997023809523809
+Cluster,6,23,hasard + sonde,0.5318848226049313
+Cluster,6,23,médoïdes + sonde,0.6077152014652015
+Cluster,6,23,médoïdes + propagation,0.5972985347985348
+Cluster,6,23,médoïdes + propagation + sonde,0.5972985347985348
+Cluster,8,23,hasard + sonde,0.6386601849237719
+Cluster,8,23,médoïdes + sonde,0.6101190476190477
+Cluster,8,23,médoïdes + propagation,0.5992494824016563
+Cluster,8,23,médoïdes + propagation + sonde,0.5992494824016563
+Cluster,12,23,hasard + sonde,0.6074728396603396
+Cluster,12,23,médoïdes + sonde,0.6392857142857142
+Cluster,12,23,médoïdes + propagation,0.6523809523809523
+Cluster,12,23,médoïdes + propagation + sonde,0.6523809523809523
+Cluster,16,23,hasard + sonde,0.6864816086691086
+Cluster,16,23,médoïdes + sonde,0.6333333333333333
+Cluster,16,23,médoïdes + propagation,0.6041666666666666
+Cluster,16,23,médoïdes + propagation + sonde,0.6041666666666666
+Cluster,24,23,hasard + sonde,0.7270281352634294
+Cluster,24,23,médoïdes + sonde,0.7446428571428572
+Cluster,24,23,médoïdes + propagation,0.7232142857142857
+Cluster,24,23,médoïdes + propagation + sonde,0.7232142857142857
+Cluster,4,24,hasard + sonde,0.4658449063014281
+Cluster,4,24,médoïdes + sonde,0.5425
+Cluster,4,24,médoïdes + propagation,0.5333333333333333
+Cluster,4,24,médoïdes + propagation + sonde,0.5333333333333333
+Cluster,6,24,hasard + sonde,0.4971159951159951
+Cluster,6,24,médoïdes + sonde,0.5833333333333334
+Cluster,6,24,médoïdes + propagation,0.59375
+Cluster,6,24,médoïdes + propagation + sonde,0.59375
+Cluster,8,24,hasard + sonde,0.5125064790282182
+Cluster,8,24,médoïdes + sonde,0.5965909090909091
+Cluster,8,24,médoïdes + propagation,0.5857213438735178
+Cluster,8,24,médoïdes + propagation + sonde,0.5857213438735178
+Cluster,12,24,hasard + sonde,0.5696526280736807
+Cluster,12,24,médoïdes + sonde,0.4419642857142857
+Cluster,12,24,médoïdes + propagation,0.4310947204968944
+Cluster,12,24,médoïdes + propagation + sonde,0.4310947204968944
+Cluster,16,24,hasard + sonde,0.6202438387635756
+Cluster,16,24,médoïdes + sonde,0.42410714285714285
+Cluster,16,24,médoïdes + propagation,0.42410714285714285
+Cluster,16,24,médoïdes + propagation + sonde,0.42410714285714285
+Cluster,24,24,hasard + sonde,0.638883572567783
+Cluster,24,24,médoïdes + sonde,0.6178571428571429
+Cluster,24,24,médoïdes + propagation,0.6178571428571429
+Cluster,24,24,médoïdes + propagation + sonde,0.6178571428571429
+Cluster,4,25,hasard + sonde,0.44321840659340656
+Cluster,4,25,médoïdes + sonde,0.5913461538461539
+Cluster,4,25,médoïdes + propagation,0.5817307692307692
+Cluster,4,25,médoïdes + propagation + sonde,0.5817307692307692
+Cluster,6,25,hasard + sonde,0.47374771062271054
+Cluster,6,25,médoïdes + sonde,0.6117216117216118
+Cluster,6,25,médoïdes + propagation,0.5924908424908425
+Cluster,6,25,médoïdes + propagation + sonde,0.5924908424908425
+Cluster,8,25,hasard + sonde,0.5288672124976472
+Cluster,8,25,médoïdes + sonde,0.6133766233766234
+Cluster,8,25,médoïdes + propagation,0.6133766233766234
+Cluster,8,25,médoïdes + propagation + sonde,0.6133766233766234
+Cluster,12,25,hasard + sonde,0.5617523026490417
+Cluster,12,25,médoïdes + sonde,0.6031746031746031
+Cluster,12,25,médoïdes + propagation,0.6031746031746031
+Cluster,12,25,médoïdes + propagation + sonde,0.6031746031746031
+Cluster,16,25,hasard + sonde,0.6345401382243487
+Cluster,16,25,médoïdes + sonde,0.6785714285714286
+Cluster,16,25,médoïdes + propagation,0.6785714285714286
+Cluster,16,25,médoïdes + propagation + sonde,0.6785714285714286
+Cluster,24,25,hasard + sonde,0.6411635612409605
+Cluster,24,25,médoïdes + sonde,0.75
+Cluster,24,25,médoïdes + propagation,0.6666666666666666
+Cluster,24,25,médoïdes + propagation + sonde,0.6666666666666666
+Cluster,4,26,hasard + sonde,0.48139143264143264
+Cluster,4,26,médoïdes + sonde,0.5773809523809523
+Cluster,4,26,médoïdes + propagation,0.550595238095238
+Cluster,4,26,médoïdes + propagation + sonde,0.550595238095238
+Cluster,6,26,hasard + sonde,0.4867131664631664
+Cluster,6,26,médoïdes + sonde,0.5648809523809524
+Cluster,6,26,médoïdes + propagation,0.5380952380952381
+Cluster,6,26,médoïdes + propagation + sonde,0.5380952380952381
+Cluster,8,26,hasard + sonde,0.543543673918674
+Cluster,8,26,médoïdes + sonde,0.5820512820512821
+Cluster,8,26,médoïdes + propagation,0.5916666666666667
+Cluster,8,26,médoïdes + propagation + sonde,0.5916666666666667
+Cluster,12,26,hasard + sonde,0.5724349605708302
+Cluster,12,26,médoïdes + sonde,0.6354166666666666
+Cluster,12,26,médoïdes + propagation,0.6354166666666666
+Cluster,12,26,médoïdes + propagation + sonde,0.6354166666666666
+Cluster,16,26,hasard + sonde,0.5774448051948051
+Cluster,16,26,médoïdes + sonde,0.6166666666666667
+Cluster,16,26,médoïdes + propagation,0.6166666666666667
+Cluster,16,26,médoïdes + propagation + sonde,0.6166666666666667
+Cluster,24,26,hasard + sonde,0.6755520419123361
+Cluster,24,26,médoïdes + sonde,0.6375
+Cluster,24,26,médoïdes + propagation,0.7375
+Cluster,24,26,médoïdes + propagation + sonde,0.7375
+Cluster,4,27,hasard + sonde,0.42082464948844256
+Cluster,4,27,médoïdes + sonde,0.5573133762788935
+Cluster,4,27,médoïdes + propagation,0.5400719969685487
+Cluster,4,27,médoïdes + propagation + sonde,0.5400719969685487
+Cluster,6,27,hasard + sonde,0.5445163817663817
+Cluster,6,27,médoïdes + sonde,0.5747126436781609
+Cluster,6,27,médoïdes + propagation,0.5747126436781609
+Cluster,6,27,médoïdes + propagation + sonde,0.5747126436781609
+Cluster,8,27,hasard + sonde,0.4992142977795152
+Cluster,8,27,médoïdes + sonde,0.5757575757575757
+Cluster,8,27,médoïdes + propagation,0.5757575757575757
+Cluster,8,27,médoïdes + propagation + sonde,0.5757575757575757
+Cluster,12,27,hasard + sonde,0.5623493987896162
+Cluster,12,27,médoïdes + sonde,0.5902777777777778
+Cluster,12,27,médoïdes + propagation,0.6597222222222222
+Cluster,12,27,médoïdes + propagation + sonde,0.6597222222222222
+Cluster,16,27,hasard + sonde,0.6124025974025974
+Cluster,16,27,médoïdes + sonde,0.5625
+Cluster,16,27,médoïdes + propagation,0.6458333333333334
+Cluster,16,27,médoïdes + propagation + sonde,0.6458333333333334
+Cluster,24,27,hasard + sonde,0.6271641936280095
+Cluster,24,27,médoïdes + sonde,0.572463768115942
+Cluster,24,27,médoïdes + propagation,0.7391304347826086
+Cluster,24,27,médoïdes + propagation + sonde,0.7391304347826086
+Cluster,4,28,hasard + sonde,0.4810019841269842
+Cluster,4,28,médoïdes + sonde,0.5073051948051948
+Cluster,4,28,médoïdes + propagation,0.48051948051948046
+Cluster,4,28,médoïdes + propagation + sonde,0.48051948051948046
+Cluster,6,28,hasard + sonde,0.5188704813704814
+Cluster,6,28,médoïdes + sonde,0.5232142857142857
+Cluster,6,28,médoïdes + propagation,0.48035714285714287
+Cluster,6,28,médoïdes + propagation + sonde,0.48035714285714287
+Cluster,8,28,hasard + sonde,0.4912233923483923
+Cluster,8,28,médoïdes + sonde,0.525
+Cluster,8,28,médoïdes + propagation,0.525
+Cluster,8,28,médoïdes + propagation + sonde,0.525
+Cluster,12,28,hasard + sonde,0.5537057296568166
+Cluster,12,28,médoïdes + sonde,0.5071428571428571
+Cluster,12,28,médoïdes + propagation,0.5071428571428571
+Cluster,12,28,médoïdes + propagation + sonde,0.5071428571428571
+Cluster,16,28,hasard + sonde,0.5893353174603175
+Cluster,16,28,médoïdes + sonde,0.69
+Cluster,16,28,médoïdes + propagation,0.6275
+Cluster,16,28,médoïdes + propagation + sonde,0.6275
+Cluster,24,28,hasard + sonde,0.5979918546365914
+Cluster,24,28,médoïdes + sonde,0.5952380952380951
+Cluster,24,28,médoïdes + propagation,0.5833333333333333
+Cluster,24,28,médoïdes + propagation + sonde,0.5833333333333333
+Cluster,4,29,hasard + sonde,0.48624215822491684
+Cluster,4,29,médoïdes + sonde,0.5950170519136037
+Cluster,4,29,médoïdes + propagation,0.5691549829480864
+Cluster,4,29,médoïdes + propagation + sonde,0.5691549829480864
+Cluster,6,29,hasard + sonde,0.40768137832793006
+Cluster,6,29,médoïdes + sonde,0.6185344827586207
+Cluster,6,29,médoïdes + propagation,0.6185344827586207
+Cluster,6,29,médoïdes + propagation + sonde,0.6185344827586207
+Cluster,8,29,hasard + sonde,0.5329395326895328
+Cluster,8,29,médoïdes + sonde,0.6222943722943723
+Cluster,8,29,médoïdes + propagation,0.6044372294372294
+Cluster,8,29,médoïdes + propagation + sonde,0.6044372294372294
+Cluster,12,29,hasard + sonde,0.5704645354645355
+Cluster,12,29,médoïdes + sonde,0.625
+Cluster,12,29,médoïdes + propagation,0.625
+Cluster,12,29,médoïdes + propagation + sonde,0.625
+Cluster,16,29,hasard + sonde,0.6514468864468864
+Cluster,16,29,médoïdes + sonde,0.6083333333333334
+Cluster,16,29,médoïdes + propagation,0.6083333333333334
+Cluster,16,29,médoïdes + propagation + sonde,0.6083333333333334
+Cluster,24,29,hasard + sonde,0.6832043315731395
+Cluster,24,29,médoïdes + sonde,0.771969696969697
+Cluster,24,29,médoïdes + propagation,0.7833333333333333
+Cluster,24,29,médoïdes + propagation + sonde,0.7833333333333333
+Greatest Hits (frottements),8,0,hasard + sonde,0.3113723135343724
+Greatest Hits (frottements),8,0,médoïdes + sonde,0.37622796365311334
+Greatest Hits (frottements),8,0,médoïdes + propagation,0.3956335580587078
+Greatest Hits (frottements),8,0,médoïdes + propagation + sonde,0.3956335580587078
+Greatest Hits (frottements),16,0,hasard + sonde,0.3726349916922866
+Greatest Hits (frottements),16,0,médoïdes + sonde,0.4886274437884146
+Greatest Hits (frottements),16,0,médoïdes + propagation,0.44934463980925177
+Greatest Hits (frottements),16,0,médoïdes + propagation + sonde,0.44782024956534927
+Greatest Hits (frottements),32,0,hasard + sonde,0.44074091033934854
+Greatest Hits (frottements),32,0,médoïdes + sonde,0.48780911252957526
+Greatest Hits (frottements),32,0,médoïdes + propagation,0.48116276565239996
+Greatest Hits (frottements),32,0,médoïdes + propagation + sonde,0.4795804871713873
+Greatest Hits (frottements),64,0,hasard + sonde,0.5374445045809984
+Greatest Hits (frottements),64,0,médoïdes + sonde,0.5480699855699855
+Greatest Hits (frottements),64,0,médoïdes + propagation,0.49231442975914447
+Greatest Hits (frottements),64,0,médoïdes + propagation + sonde,0.49231442975914447
+Greatest Hits (frottements),8,1,hasard + sonde,0.33685791794350894
+Greatest Hits (frottements),8,1,médoïdes + sonde,0.3537276420496802
+Greatest Hits (frottements),8,1,médoïdes + propagation,0.4134266231593039
+Greatest Hits (frottements),8,1,médoïdes + propagation + sonde,0.4134266231593039
+Greatest Hits (frottements),16,1,hasard + sonde,0.42394653249180114
+Greatest Hits (frottements),16,1,médoïdes + sonde,0.49840385306239365
+Greatest Hits (frottements),16,1,médoïdes + propagation,0.5142714440343427
+Greatest Hits (frottements),16,1,médoïdes + propagation + sonde,0.5142714440343427
+Greatest Hits (frottements),32,1,hasard + sonde,0.4828988331297528
+Greatest Hits (frottements),32,1,médoïdes + sonde,0.5159918107370336
+Greatest Hits (frottements),32,1,médoïdes + propagation,0.48021755314748943
+Greatest Hits (frottements),32,1,médoïdes + propagation + sonde,0.48343328645876416
+Greatest Hits (frottements),64,1,hasard + sonde,0.5336800370080368
+Greatest Hits (frottements),64,1,médoïdes + sonde,0.5760649049527506
+Greatest Hits (frottements),64,1,médoïdes + propagation,0.49783718935733273
+Greatest Hits (frottements),64,1,médoïdes + propagation + sonde,0.4995613272883672
+Greatest Hits (frottements),8,2,hasard + sonde,0.3376637840946476
+Greatest Hits (frottements),8,2,médoïdes + sonde,0.39001866867436163
+Greatest Hits (frottements),8,2,médoïdes + propagation,0.4266491715550067
+Greatest Hits (frottements),8,2,médoïdes + propagation + sonde,0.4266491715550067
+Greatest Hits (frottements),16,2,hasard + sonde,0.39207044658082896
+Greatest Hits (frottements),16,2,médoïdes + sonde,0.5107298951048951
+Greatest Hits (frottements),16,2,médoïdes + propagation,0.5057473776223775
+Greatest Hits (frottements),16,2,médoïdes + propagation + sonde,0.508723568098568
+Greatest Hits (frottements),32,2,hasard + sonde,0.46652262318542437
+Greatest Hits (frottements),32,2,médoïdes + sonde,0.4880477284011916
+Greatest Hits (frottements),32,2,médoïdes + propagation,0.4399127979145978
+Greatest Hits (frottements),32,2,médoïdes + propagation + sonde,0.4399127979145978
+Greatest Hits (frottements),64,2,hasard + sonde,0.5274236569506506
+Greatest Hits (frottements),64,2,médoïdes + sonde,0.5927089997994633
+Greatest Hits (frottements),64,2,médoïdes + propagation,0.49845302932397917
+Greatest Hits (frottements),64,2,médoïdes + propagation + sonde,0.49845302932397917
+Greatest Hits (frottements),8,3,hasard + sonde,0.35499058944850775
+Greatest Hits (frottements),8,3,médoïdes + sonde,0.4019146305621026
+Greatest Hits (frottements),8,3,médoïdes + propagation,0.3777823272274627
+Greatest Hits (frottements),8,3,médoïdes + propagation + sonde,0.3777823272274627
+Greatest Hits (frottements),16,3,hasard + sonde,0.3961659874231639
+Greatest Hits (frottements),16,3,médoïdes + sonde,0.48301787297473714
+Greatest Hits (frottements),16,3,médoïdes + propagation,0.5230854385674341
+Greatest Hits (frottements),16,3,médoïdes + propagation + sonde,0.5230854385674341
+Greatest Hits (frottements),32,3,hasard + sonde,0.46396752391277013
+Greatest Hits (frottements),32,3,médoïdes + sonde,0.5227570093457944
+Greatest Hits (frottements),32,3,médoïdes + propagation,0.4642376984573809
+Greatest Hits (frottements),32,3,médoïdes + propagation + sonde,0.4642376984573809
+Greatest Hits (frottements),64,3,hasard + sonde,0.5297492921020661
+Greatest Hits (frottements),64,3,médoïdes + sonde,0.562623296967065
+Greatest Hits (frottements),64,3,médoïdes + propagation,0.5159216908890705
+Greatest Hits (frottements),64,3,médoïdes + propagation + sonde,0.5175039693700831
+Greatest Hits (frottements),8,4,hasard + sonde,0.3713524839927683
+Greatest Hits (frottements),8,4,médoïdes + sonde,0.3950574250694087
+Greatest Hits (frottements),8,4,médoïdes + propagation,0.4177462687877886
+Greatest Hits (frottements),8,4,médoïdes + propagation + sonde,0.4177462687877886
+Greatest Hits (frottements),16,4,hasard + sonde,0.3827188257870096
+Greatest Hits (frottements),16,4,médoïdes + sonde,0.4999472845733458
+Greatest Hits (frottements),16,4,médoïdes + propagation,0.41342575251619496
+Greatest Hits (frottements),16,4,médoïdes + propagation + sonde,0.41342575251619496
+Greatest Hits (frottements),32,4,hasard + sonde,0.46898880429076434
+Greatest Hits (frottements),32,4,médoïdes + sonde,0.5084064826646495
+Greatest Hits (frottements),32,4,médoïdes + propagation,0.4985869895827209
+Greatest Hits (frottements),32,4,médoïdes + propagation + sonde,0.4985869895827209
+Greatest Hits (frottements),64,4,hasard + sonde,0.5535191124028077
+Greatest Hits (frottements),64,4,médoïdes + sonde,0.5711769278606965
+Greatest Hits (frottements),64,4,médoïdes + propagation,0.5044033813774267
+Greatest Hits (frottements),64,4,médoïdes + propagation + sonde,0.50273671471076
+Greatest Hits (frottements),8,5,hasard + sonde,0.32910913763780175
+Greatest Hits (frottements),8,5,médoïdes + sonde,0.44667023112337023
+Greatest Hits (frottements),8,5,médoïdes + propagation,0.4825623113669525
+Greatest Hits (frottements),8,5,médoïdes + propagation + sonde,0.4825623113669525
+Greatest Hits (frottements),16,5,hasard + sonde,0.3616464467506514
+Greatest Hits (frottements),16,5,médoïdes + sonde,0.4815170084005748
+Greatest Hits (frottements),16,5,médoïdes + propagation,0.4956864153863159
+Greatest Hits (frottements),16,5,médoïdes + propagation + sonde,0.4971924394827015
+Greatest Hits (frottements),32,5,hasard + sonde,0.46573529432671884
+Greatest Hits (frottements),32,5,médoïdes + sonde,0.5068767621449328
+Greatest Hits (frottements),32,5,médoïdes + propagation,0.4885351864636346
+Greatest Hits (frottements),32,5,médoïdes + propagation + sonde,0.4885351864636346
+Greatest Hits (frottements),64,5,hasard + sonde,0.5354300331924464
+Greatest Hits (frottements),64,5,médoïdes + sonde,0.5203227744946297
+Greatest Hits (frottements),64,5,médoïdes + propagation,0.483781864124572
+Greatest Hits (frottements),64,5,médoïdes + propagation + sonde,0.48204575301346086
+Greatest Hits (frottements),8,6,hasard + sonde,0.3511014337454334
+Greatest Hits (frottements),8,6,médoïdes + sonde,0.32196248638374814
+Greatest Hits (frottements),8,6,médoïdes + propagation,0.332080847815155
+Greatest Hits (frottements),8,6,médoïdes + propagation + sonde,0.332080847815155
+Greatest Hits (frottements),16,6,hasard + sonde,0.3527525043749715
+Greatest Hits (frottements),16,6,médoïdes + sonde,0.46183035714285714
+Greatest Hits (frottements),16,6,médoïdes + propagation,0.45252613240418116
+Greatest Hits (frottements),16,6,médoïdes + propagation + sonde,0.45252613240418116
+Greatest Hits (frottements),32,6,hasard + sonde,0.4549289716085002
+Greatest Hits (frottements),32,6,médoïdes + sonde,0.44328291438335077
+Greatest Hits (frottements),32,6,médoïdes + propagation,0.4775425620343575
+Greatest Hits (frottements),32,6,médoïdes + propagation + sonde,0.47910506203435754
+Greatest Hits (frottements),64,6,hasard + sonde,0.5030709335429775
+Greatest Hits (frottements),64,6,médoïdes + sonde,0.49909017897219166
+Greatest Hits (frottements),64,6,médoïdes + propagation,0.4833754354871467
+Greatest Hits (frottements),64,6,médoïdes + propagation + sonde,0.48742599657654273
+Greatest Hits (frottements),8,7,hasard + sonde,0.36887456984006206
+Greatest Hits (frottements),8,7,médoïdes + sonde,0.40418562420518245
+Greatest Hits (frottements),8,7,médoïdes + propagation,0.41821178224875255
+Greatest Hits (frottements),8,7,médoïdes + propagation + sonde,0.41821178224875255
+Greatest Hits (frottements),16,7,hasard + sonde,0.37032985151213454
+Greatest Hits (frottements),16,7,médoïdes + sonde,0.5092276064960193
+Greatest Hits (frottements),16,7,médoïdes + propagation,0.47380978455248546
+Greatest Hits (frottements),16,7,médoïdes + propagation + sonde,0.4744092707072099
+Greatest Hits (frottements),32,7,hasard + sonde,0.4581899387955225
+Greatest Hits (frottements),32,7,médoïdes + sonde,0.5524268413848314
+Greatest Hits (frottements),32,7,médoïdes + propagation,0.4980583660646955
+Greatest Hits (frottements),32,7,médoïdes + propagation + sonde,0.4980583660646955
+Greatest Hits (frottements),64,7,hasard + sonde,0.5221286660572017
+Greatest Hits (frottements),64,7,médoïdes + sonde,0.5885001796292119
+Greatest Hits (frottements),64,7,médoïdes + propagation,0.5114952252049026
+Greatest Hits (frottements),64,7,médoïdes + propagation + sonde,0.5132434769531544
+Greatest Hits (frottements),8,8,hasard + sonde,0.2938223260519679
+Greatest Hits (frottements),8,8,médoïdes + sonde,0.41491730685597805
+Greatest Hits (frottements),8,8,médoïdes + propagation,0.43218222253806515
+Greatest Hits (frottements),8,8,médoïdes + propagation + sonde,0.43218222253806515
+Greatest Hits (frottements),16,8,hasard + sonde,0.3998248725163115
+Greatest Hits (frottements),16,8,médoïdes + sonde,0.5007427524376676
+Greatest Hits (frottements),16,8,médoïdes + propagation,0.4852138685295465
+Greatest Hits (frottements),16,8,médoïdes + propagation + sonde,0.4852138685295465
+Greatest Hits (frottements),32,8,hasard + sonde,0.43594455575769137
+Greatest Hits (frottements),32,8,médoïdes + sonde,0.5122167402187827
+Greatest Hits (frottements),32,8,médoïdes + propagation,0.48804157097825374
+Greatest Hits (frottements),32,8,médoïdes + propagation + sonde,0.4897898227265055
+Greatest Hits (frottements),64,8,hasard + sonde,0.5169217056093139
+Greatest Hits (frottements),64,8,médoïdes + sonde,0.5639781719848344
+Greatest Hits (frottements),64,8,médoïdes + propagation,0.493273601908145
+Greatest Hits (frottements),64,8,médoïdes + propagation + sonde,0.4950984194263932
+Greatest Hits (frottements),8,9,hasard + sonde,0.3204390792406543
+Greatest Hits (frottements),8,9,médoïdes + sonde,0.3904017068120992
+Greatest Hits (frottements),8,9,médoïdes + propagation,0.427536231884058
+Greatest Hits (frottements),8,9,médoïdes + propagation + sonde,0.427536231884058
+Greatest Hits (frottements),16,9,hasard + sonde,0.37847715625364675
+Greatest Hits (frottements),16,9,médoïdes + sonde,0.5088078142347923
+Greatest Hits (frottements),16,9,médoïdes + propagation,0.4851833697161445
+Greatest Hits (frottements),16,9,médoïdes + propagation + sonde,0.4851833697161445
+Greatest Hits (frottements),32,9,hasard + sonde,0.46329613597995534
+Greatest Hits (frottements),32,9,médoïdes + sonde,0.47784356576841436
+Greatest Hits (frottements),32,9,médoïdes + propagation,0.46285619836769853
+Greatest Hits (frottements),32,9,médoïdes + propagation + sonde,0.46285619836769853
+Greatest Hits (frottements),64,9,hasard + sonde,0.549255144047342
+Greatest Hits (frottements),64,9,médoïdes + sonde,0.5615003501400561
+Greatest Hits (frottements),64,9,médoïdes + propagation,0.5143866713352008
+Greatest Hits (frottements),64,9,médoïdes + propagation + sonde,0.5126505602240896

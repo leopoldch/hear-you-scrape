@@ -1,0 +1,334 @@
+dataset,surface,name,family
+cluster,0,Nyatoh,wood
+cluster,1,Castor aralia,wood
+cluster,2,Elm,wood
+cluster,3,Red oak,wood
+cluster,4,Oak,wood
+cluster,5,Ash,wood
+cluster,6,Black cherry,wood
+cluster,7,Hard maple,wood
+cluster,8,White ash,wood
+cluster,9,Birch,wood
+cluster,10,Poplar,wood
+cluster,11,Basswood,wood
+cluster,12,Beech,wood
+cluster,13,White ash,wood
+cluster,14,Zelkova,wood
+cluster,15,Wild cherry tree,wood
+cluster,16,Silver cherry,wood
+cluster,17,"Japanese cypress, Hinoki",wood
+cluster,18,Chestnut,wood
+cluster,19,Cedar,wood
+cluster,20,Zebra,wood
+cluster,21,Wenge,wood
+cluster,22,Eucalyptus,wood
+cluster,23,Teak,wood
+cluster,24,Mahogany,wood
+cluster,25,Sapele,wood
+cluster,26,Western hemlock,wood
+cluster,27,Douglas fir,wood
+cluster,28,Radiata pine,wood
+cluster,29,Walnut,wood
+cluster,30,Acacia,wood
+cluster,31,North pipe,wood
+cluster,32,Gumwood,wood
+cluster,33,White oak,wood
+cluster,34,Ash (laminated timber),
+cluster,35,Merkusii pine,wood
+cluster,36,"Japanese cypress, Hinoki (laminated timber)",
+cluster,37,Cedar (laminated timber),
+cluster,38,Granite,
+cluster,39,Basalt,
+cluster,40,Oya stone,
+cluster,41,Plutonic rock,
+cluster,42,Towada stone,
+cluster,43,Andesite ,
+cluster,44,Limestone,
+cluster,45,Travertine,
+cluster,46,Natural slate,
+cluster,47,Marble,
+cluster,48,Concrete,
+cluster,49,Polyethylene (high density),polymer
+cluster,50,Polyethylene (low density),polymer
+cluster,51,Polypropylene,polymer
+cluster,52,Styrofoam,
+cluster,53,ABS(Acrylonitrile Butadiene Styrene),polymer
+cluster,54,Vinyl chloride,polymer
+cluster,55,Polymethyl methacrylate,polymer
+cluster,56,Polytetrafluoroethylene,polymer
+cluster,57,Polyethylene terephthalate,polymer
+cluster,58,Ppolylactic acid,polymer
+cluster,59,Paper phenol,
+cluster,60,Linen phenol,
+cluster,61,Melamine sponge,
+cluster,62,Polyurethane sponge,
+cluster,63,Silicon,polymer
+cluster,64,Carbon fiber,
+cluster,65,Stainless steel,metal
+cluster,66,Steel,metal
+cluster,67,Cast iron,metal
+cluster,68,Aluminum,metal
+cluster,69,Lead,metal
+cluster,70,Copper,metal
+cluster,71,Brass,metal
+cluster,72,Bronze,metal
+cluster,73,Titanium,metal
+cluster,74,Float glass,
+cluster,75,Frosted glass,
+cluster,76,Frosted glass,
+cluster,77,Glass (haze),
+cluster,78,Obsidian,
+cluster,79,Linoleum,
+cluster,80,Tar paper,
+cluster,81,Sandpaper,
+cluster,82,Alumina,
+cluster,83,Porcelain,
+cluster,84,Terracotta,
+cluster,85,Brick,
+cluster,86,Earth style porcelain,
+cluster,87,Jute,textile
+cluster,88,Cotton,textile
+cluster,89,Wool felt,textile
+cluster,90,Sheep fur,
+cluster,91,Rabbit fur,
+cluster,92,Cow fur,
+cluster,93,Goat skin,
+cluster,94,Horse skin,
+cluster,95,Crocodile skin,
+cluster,96,Cow skin,
+cluster,97,Cow leather,
+cluster,98,Snake skin,
+cluster,99,Ray skin,
+cluster,100,Lizard skin,
+cluster,101,Seal skin,
+cluster,102,Velvet,textile
+cluster,103,Corduroy,textile
+cluster,104,Cotton,textile
+cluster,105,Cotton broadcloth,textile
+cluster,106,Cotton gauze,textile
+cluster,107,Chiffon,textile
+cluster,108,Lace,textile
+cluster,109,Georgette,textile
+cluster,110,Organdy,textile
+cluster,111,Mesh,
+cluster,112,Wool,textile
+cluster,113,Nylon,textile
+cluster,114,Polyester,textile
+cluster,115,Silk,textile
+cluster,116,Linen,textile
+cluster,117,Cotton linen,textile
+lmt108,G1EpoxyRasterPlate,EpoxyRasterPlate,
+lmt108,G1FineAluminumMesh,FineAluminumMesh,
+lmt108,G1IsolatingFoilMesh,IsolatingFoilMesh,
+lmt108,G1MeshFloorCloth,MeshFloorCloth,
+lmt108,G1PlasticMeshVersion1,PlasticMeshVersion1,
+lmt108,G1PlasticMeshVersion2,PlasticMeshVersion2,
+lmt108,G1ProfiledAluminumPlate,ProfiledAluminumPlate,metal
+lmt108,G1RhombAluminumMesh,RhombAluminumMesh,
+lmt108,G1RhombAluminumMeshVersion2,RhombAluminumMeshVersion2,
+lmt108,G1RoundAluminumMesh,RoundAluminumMesh,
+lmt108,G1RubberMesh,RubberMesh,
+lmt108,G1SquaredAluminumMesh,SquaredAluminumMesh,
+lmt108,G1TextileMeshVersion1,TextileMeshVersion1,
+lmt108,G2Brick,Brick,
+lmt108,G2CrushedRock,CrushedRock,
+lmt108,G2GraniteTypeVeneziano,GraniteTypeVeneziano,
+lmt108,G2Marble,Marble,
+lmt108,G2RoofTile,RoofTile,
+lmt108,G2StoneTileVersion1,StoneTileVersion1,
+lmt108,G2StoneTileVersion2,StoneTileVersion2,
+lmt108,G2StoneTileVersion3,StoneTileVersion3,
+lmt108,G2StoneTypeTerraCotta,StoneTypeTerraCotta,
+lmt108,G3AcrylicGlass,AcrylicGlass,polymer
+lmt108,G3AluminumPlate,AluminumPlate,metal
+lmt108,G3Brass,Brass,metal
+lmt108,G3CeramicPlate,CeramicPlate,
+lmt108,G3CeramicTile,CeramicTile,
+lmt108,G3Copper,Copper,metal
+lmt108,G3EpoxyPlate,EpoxyPlate,polymer
+lmt108,G3Glass,Glass,
+lmt108,G3StainlessSteel,StainlessSteel,metal
+lmt108,G4Bamboo,Bamboo,
+lmt108,G4Beech_0,Beech_0,wood
+lmt108,G4CherryTree,CherryTree,wood
+lmt108,G4CompressedWoodVersion1,CompressedWoodVersion1,
+lmt108,G4CompressedWoodVersion2,CompressedWoodVersion2,
+lmt108,G4CoreBeech,CoreBeech,wood
+lmt108,G4Cork,Cork,
+lmt108,G4LaminatedWood,LaminatedWood,
+lmt108,G4Larch,Larch,wood
+lmt108,G4ProfiledWoodPlate,ProfiledWoodPlate,wood
+lmt108,G4Teak,Teak,wood
+lmt108,G4WoodTypeSilverOak,WoodTypeSilverOak,wood
+lmt108,G4WoodenPaper,WoodenPaper,
+lmt108,G5FineRubber,FineRubber,polymer
+lmt108,G5ProfiledRubberPlate,ProfiledRubberPlate,polymer
+lmt108,G5RubberPlateVersion2,RubberPlateVersion2,polymer
+lmt108,G5SolidRubberPlateVersion1,SolidRubberPlateVersion1,polymer
+lmt108,G5SolidRubberPlateVersion2,SolidRubberPlateVersion2,polymer
+lmt108,G6Carpet,Carpet,
+lmt108,G6CoarseArtificialGrassFibers,CoarseArtificialGrassFibers,
+lmt108,G6Fibers,Fibers,
+lmt108,G6FineArtificialGrassFibers,FineArtificialGrassFibers,
+lmt108,G6IsolatingFoilVersion1,IsolatingFoilVersion1,
+lmt108,G6IsolatingFoilVersion2,IsolatingFoilVersion2,
+lmt108,G6IsolatingFoilVersion3,IsolatingFoilVersion3,
+lmt108,G6RedSleaze,RedSleaze,
+lmt108,G6ScouringPadVersion1,ScouringPadVersion1,
+lmt108,G6ScouringPadVersion2,ScouringPadVersion2,
+lmt108,G6SheepSkin,SheepSkin,
+lmt108,G6Steelwool,Steelwool,
+lmt108,G6Towel,Towel,textile
+lmt108,G6VelcroHooks,VelcroHooks,
+lmt108,G6VelcroLoops,VelcroLoops,
+lmt108,G7BumpyFoam,BumpyFoam,
+lmt108,G7CoarseFoam,CoarseFoam,
+lmt108,G7EpdmFoam,EpdmFoam,
+lmt108,G7FineFoamVersion1,FineFoamVersion1,
+lmt108,G7FineFoamVersion2,FineFoamVersion2,
+lmt108,G7FoamFoilVersion1,FoamFoilVersion1,
+lmt108,G7FoamPlate,FoamPlate,
+lmt108,G7MediumFoam,MediumFoam,
+lmt108,G7MediumFoamVersion2,MediumFoamVersion2,
+lmt108,G7ProfiledFoam,ProfiledFoam,
+lmt108,G7StyrofoamVersion1,StyrofoamVersion1,
+lmt108,G7StyrofoamVersion2,StyrofoamVersion2,
+lmt108,G8BubbleFoil,BubbleFoil,
+lmt108,G8CarbonFoil,CarbonFoil,
+lmt108,G8Cardboard,Cardboard,
+lmt108,G8CardboardVersion2,CardboardVersion2,
+lmt108,G8GlitterPaperVersion1,GlitterPaperVersion1,
+lmt108,G8GlitterPaperVersion2,GlitterPaperVersion2,
+lmt108,G8HighDensityPolyethylen,HighDensityPolyethylen,polymer
+lmt108,G8Paper,Paper,
+lmt108,G8PlasticFoilVersion1,PlasticFoilVersion1,
+lmt108,G8PlasticFoilVersion2,PlasticFoilVersion2,
+lmt108,G8PlayingCardPaper,PlayingCardPaper,
+lmt108,G8RoughPaper,RoughPaper,
+lmt108,G8Tarp,Tarp,
+lmt108,G8WallpaperVersion1,WallpaperVersion1,
+lmt108,G8WallpaperVersion2,WallpaperVersion2,
+lmt108,G9BlueSatin,BlueSatin,textile
+lmt108,G9FloorCloth,FloorCloth,textile
+lmt108,G9FloorClothVersion2,FloorClothVersion2,textile
+lmt108,G9FloorClothVersion3,FloorClothVersion3,textile
+lmt108,G9GreenVelvet,GreenVelvet,textile
+lmt108,G9Jeans,Jeans,textile
+lmt108,G9Kashmir,Kashmir,textile
+lmt108,G9Leather,Leather,
+lmt108,G9LeatherVersion2,LeatherVersion2,
+lmt108,G9RedFleeze,RedFleeze,textile
+lmt108,G9RedVelvet,RedVelvet,textile
+lmt108,G9TableClothVersion1,TableClothVersion1,textile
+lmt108,G9TableClothVersion2,TableClothVersion2,textile
+lmt108,G9TextileVersion1,TextileVersion1,textile
+lmt108,G9TextileVersion2,TextileVersion2,textile
+lmt108,G9TextileVersion3,TextileVersion3,textile
+lmt108,G9TextileVersion4,TextileVersion4,textile
+sens3,1,Fabric material 1,textile
+sens3,2,Fabric material 2,textile
+sens3,3,Fabric material 3,textile
+sens3,4,Fabric material 4,textile
+sens3,5,Fabric material 5,textile
+sens3,6,Fabric material 6,textile
+sens3,7,Fabric material 7,textile
+sens3,8,Fabric material 8,textile
+sens3,9,Fabric material 9,textile
+sens3,10,Fabric material 10,textile
+sens3,14,Fabric material 14,textile
+sens3,15,Fabric material 15,textile
+sens3,11,Sandpaper material 11,
+sens3,12,Sandpaper material 12,
+sens3,13,Sandpaper material 13,
+sens3,16,Sandpaper material 16,
+sens3,17,Vinyl material 17,polymer
+sens3,18,Vinyl material 18,polymer
+sens3,19,Vinyl material 19,polymer
+sens3,20,Vinyl material 20,polymer
+sens3,21,Plastic material 21,polymer
+sens3,22,Plastic material 22,polymer
+sens3,23,Leather material 23,
+sens3,24,Leather material 24,
+sens3,25,Rubber material 25,polymer
+sens3,26,Paper material 26,
+sens3,27,Paper material 27,
+sens3,28,Paper material 28,
+sens3,29,Paper material 29,
+sens3,30,Paper material 30,
+sens3,31,Paper material 31,
+sens3,32,Metal material 32,metal
+sens3,33,Metal material 33,metal
+sens3,34,Metal material 34,metal
+sens3,35,Metal material 35,metal
+sens3,36,Metal material 36,metal
+sens3,37,Wood material 37,wood
+sens3,38,Wood material 38,wood
+sens3,39,Wood material 39,wood
+sens3,40,Wood material 40,wood
+sens3,41,Wood material 41,wood
+sens3,42,Wood material 42,wood
+sens3,43,Foam material 43,
+sens3,44,Foam material 44,
+sens3,45,Foam material 45,
+sens3,46,Foam material 46,
+sens3,47,Foam material 47,
+sens3,48,Foam material 48,
+sens3,49,Foam material 49,
+sens3,50,Foam material 50,
+hatt,Wood,Wood,wood
+hatt,Stained Wood,Stained Wood,wood
+hatt,MDF,MDF,wood
+hatt,Aluminum,Aluminum,metal
+hatt,Aluminum Foil,Aluminum Foil,metal
+hatt,Metal Mesh,Metal Mesh,metal
+hatt,Metal Shelving,Metal Shelving,metal
+hatt,Textured Metal,Textured Metal,metal
+hatt,Athletic Shirt,Athletic Shirt,textile
+hatt,Blanket,Blanket,textile
+hatt,Canvas 1,Canvas 1,textile
+hatt,Canvas 2,Canvas 2,textile
+hatt,Canvas 3,Canvas 3,textile
+hatt,Cotton,Cotton,textile
+hatt,Denim,Denim,textile
+hatt,Felt,Felt,textile
+hatt,Flannel,Flannel,textile
+hatt,Fleece,Fleece,textile
+hatt,Microfiber Cloth,Microfiber Cloth,textile
+hatt,Nylon Bag,Nylon Bag,textile
+hatt,Nylon Mesh,Nylon Mesh,textile
+hatt,Silk 1,Silk 1,textile
+hatt,Silk 2,Silk 2,textile
+hatt,Textured Cloth,Textured Cloth,textile
+hatt,Towel,Towel,textile
+hatt,Velvet,Velvet,textile
+hatt,Carpet 1,Carpet 1,textile
+hatt,Carpet 2,Carpet 2,textile
+hatt,Carpet 3,Carpet 3,textile
+hatt,Carpet 4,Carpet 4,textile
+hatt,ABS Plastic,ABS Plastic,polymer
+hatt,Binder,Binder,polymer
+hatt,File Portfolio,File Portfolio,polymer
+hatt,Frosted Acrylic,Frosted Acrylic,polymer
+hatt,Plastic Mesh 1,Plastic Mesh 1,polymer
+hatt,Plastic Mesh 2,Plastic Mesh 2,polymer
+hatt,Tarp,Tarp,polymer
+hatt,Wavy Acrylic,Wavy Acrylic,polymer
+hatt,Nitrile Glove,Nitrile Glove,polymer
+hatt,Textured Rubber,Textured Rubber,polymer
+hatt,Vinyl 1,Vinyl 1,polymer
+hatt,Vinyl 2,Vinyl 2,polymer
+hatt,Pleather,Pleather,polymer
+tum,C1_S1,every material of class C1_S1,wood
+tum,C1_S2,every material of class C1_S2,wood
+tum,C7_S1,every material of class C7_S1,metal
+tum,C7_S2,every material of class C7_S2,metal
+tum,C7_S3,every material of class C7_S3,metal
+tum,C3_S1,every material of class C3_S1,polymer
+tum,C3_S2,every material of class C3_S2,polymer
+tum,C3_S3,every material of class C3_S3,polymer
+tum,C2_S1,every material of class C2_S1,textile
+greatest_hits,wood,wood,wood
+greatest_hits,metal,metal,metal
+greatest_hits,cloth,cloth,textile
+greatest_hits,carpet,carpet,textile
+greatest_hits,plastic,plastic,polymer

@@ -1,0 +1,19 @@
+dataset,weights,score
+LMT108,original CLAP,0.632638888888889
+LMT69,original CLAP,0.6741666666666664
+TUM,original CLAP,0.3814814814814815
+SENS3,original CLAP,0.36354166666666665
+Cluster,original CLAP,0.199537037037037
+Greatest Hits,original CLAP,0.5538250059678196
+LMT108,fine-tuned,0.7232638888888888
+LMT69,fine-tuned,0.9774999999999999
+TUM,fine-tuned,0.6314814814814814
+SENS3,fine-tuned,0.590625
+Cluster,fine-tuned,0.7150462962962959
+Greatest Hits,fine-tuned,0.6532640373681815
+LMT108,fine-tuned with equalized input,0.7420138888888889
+LMT69,fine-tuned with equalized input,0.985
+TUM,fine-tuned with equalized input,0.6425925925925927
+SENS3,fine-tuned with equalized input,0.5847222222222221
+Cluster,fine-tuned with equalized input,0.681712962962963
+Greatest Hits,fine-tuned with equalized input,0.6856458059162213

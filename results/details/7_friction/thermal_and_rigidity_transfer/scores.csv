@@ -1,0 +1,17 @@
+quantity,from,test,spearman,materials,low,high
+thermal conductance,sliding,inside TUM,0.5560855629746131,197,,
+thermal conductance,sliding,inside SENS3,0.5101080432172869,50,,
+thermal conductance,sliding,"TUM -> SENS3, no label",0.16350540216086432,50,-0.13890221854644663,0.46752499594416863
+thermal conductance,sliding,"SENS3 -> TUM, no label",0.2051411242854318,197,0.07107279459073661,0.32814226859793566
+thermal conductance,taps,inside TUM,0.3428112119621668,187,,
+thermal conductance,taps,inside SENS3,0.7192797118847538,50,,
+thermal conductance,taps,"TUM -> SENS3, no label",-0.49301320528211284,50,-0.7170140951944142,-0.21748439252101695
+thermal conductance,taps,"SENS3 -> TUM, no label",-0.07981208164542028,187,-0.21341897773794286,0.06704630763619444
+rigidity,sliding,inside TUM,0.6522303928055401,197,,
+rigidity,sliding,inside SENS3,0.3970708283313325,50,,
+rigidity,sliding,"TUM -> SENS3, no label",0.02127250900360144,50,-0.2514946718826153,0.2952861452871402
+rigidity,sliding,"SENS3 -> TUM, no label",0.2830139672669511,197,0.14195654270474442,0.41296044237885693
+rigidity,taps,inside TUM,0.582712841875919,187,,
+rigidity,taps,inside SENS3,0.29834333733493396,50,,
+rigidity,taps,"TUM -> SENS3, no label",0.35375750300120046,50,0.08088594071461817,0.5882034107048573
+rigidity,taps,"SENS3 -> TUM, no label",0.41915224397414164,187,0.28772294692484035,0.5337231035866506

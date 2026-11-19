@@ -1,0 +1,73 @@
+source,target,features,scaling,balanced accuracy,low,high,surfaces,classes,chance,descripteurs,paire
+HaTT,LMT108,beats,par jeu,0.46770833333333334,0.3125,0.6200757575757575,35,4,0.25,BEATs moyen (référence) | échelle : par jeu,HaTT → LMT108
+HaTT,SENS3,beats,par jeu,0.3630952380952381,0.25,0.47580357142857144,30,4,0.25,BEATs moyen (référence) | échelle : par jeu,HaTT → SENS3
+HaTT,Cluster,beats,par jeu,0.23333333333333334,0.171875,0.3,72,4,0.25,BEATs moyen (référence) | échelle : par jeu,HaTT → Cluster
+LMT108,HaTT,beats,par jeu,0.6851398601398602,0.5593298796791444,0.769828869047619,43,4,0.25,BEATs moyen (référence) | échelle : par jeu,LMT108 → HaTT
+LMT108,SENS3,beats,par jeu,0.14583333333333334,0.075,0.21875,30,4,0.25,BEATs moyen (référence) | échelle : par jeu,LMT108 → SENS3
+LMT108,Cluster,beats,par jeu,0.08333333333333333,0.03333333333333333,0.14285714285714285,72,4,0.25,BEATs moyen (référence) | échelle : par jeu,LMT108 → Cluster
+SENS3,HaTT,beats,par jeu,0.38566433566433567,0.28791806020066885,0.5133531746031745,43,4,0.25,BEATs moyen (référence) | échelle : par jeu,SENS3 → HaTT
+SENS3,LMT108,beats,par jeu,0.125,0.06727272727272728,0.1875,35,4,0.25,BEATs moyen (référence) | échelle : par jeu,SENS3 → LMT108
+SENS3,Cluster,beats,par jeu,0.3738095238095238,0.2673840601965602,0.47659924641210977,72,4,0.25,BEATs moyen (référence) | échelle : par jeu,SENS3 → Cluster
+Cluster,HaTT,beats,par jeu,0.2392191142191142,0.05314491064491064,0.3782168062200957,43,4,0.25,BEATs moyen (référence) | échelle : par jeu,Cluster → HaTT
+Cluster,LMT108,beats,par jeu,0.015625,0.0,0.05,35,4,0.25,BEATs moyen (référence) | échelle : par jeu,Cluster → LMT108
+Cluster,SENS3,beats,par jeu,0.2857142857142857,0.16666666666666666,0.4,30,4,0.25,BEATs moyen (référence) | échelle : par jeu,Cluster → SENS3
+HaTT,LMT108,bands,par jeu,0.7,0.5833333333333333,0.75,35,4,0.25,profil moyen de 16 bandes | échelle : par jeu,HaTT → LMT108
+HaTT,SENS3,bands,par jeu,0.30833333333333335,0.18181818181818182,0.4488392857142858,30,4,0.25,profil moyen de 16 bandes | échelle : par jeu,HaTT → SENS3
+HaTT,Cluster,bands,par jeu,0.16666666666666669,0.09375,0.25329301075268806,72,4,0.25,profil moyen de 16 bandes | échelle : par jeu,HaTT → Cluster
+LMT108,HaTT,bands,par jeu,0.5973776223776224,0.4591114953886693,0.7472111584068105,43,4,0.25,profil moyen de 16 bandes | échelle : par jeu,LMT108 → HaTT
+LMT108,SENS3,bands,par jeu,0.2523809523809524,0.10513392857142857,0.4381026785714286,30,4,0.25,profil moyen de 16 bandes | échelle : par jeu,LMT108 → SENS3
+LMT108,Cluster,bands,par jeu,0.14047619047619048,0.05070668107732061,0.25945870535714277,72,4,0.25,profil moyen de 16 bandes | échelle : par jeu,LMT108 → Cluster
+SENS3,HaTT,bands,par jeu,0.5791958041958042,0.4320632878151261,0.7182914402173913,43,4,0.25,profil moyen de 16 bandes | échelle : par jeu,SENS3 → HaTT
+SENS3,LMT108,bands,par jeu,0.5427083333333333,0.3812987012987013,0.7056547619047617,35,4,0.25,profil moyen de 16 bandes | échelle : par jeu,SENS3 → LMT108
+SENS3,Cluster,bands,par jeu,0.07023809523809524,0.019736842105263157,0.1524924242424241,72,4,0.25,profil moyen de 16 bandes | échelle : par jeu,SENS3 → Cluster
+Cluster,HaTT,bands,par jeu,0.09877622377622378,0.04390984654731458,0.1642281830495356,43,4,0.25,profil moyen de 16 bandes | échelle : par jeu,Cluster → HaTT
+Cluster,LMT108,bands,par jeu,0.28020833333333334,0.11348039215686273,0.426190476190476,35,4,0.25,profil moyen de 16 bandes | échelle : par jeu,Cluster → LMT108
+Cluster,SENS3,bands,par jeu,0.1607142857142857,0.04455213903743316,0.2981006493506494,30,4,0.25,profil moyen de 16 bandes | échelle : par jeu,Cluster → SENS3
+HaTT,LMT108,level,par jeu,0.1625,0.017857142857142856,0.305906432748538,35,4,0.25,M-niveau | échelle : par jeu,HaTT → LMT108
+HaTT,SENS3,level,par jeu,0.2113095238095238,0.08333333333333334,0.345603354978355,30,4,0.25,M-niveau | échelle : par jeu,HaTT → SENS3
+HaTT,Cluster,level,par jeu,0.02103174603174603,0.0,0.05940632832080196,72,4,0.25,M-niveau | échelle : par jeu,HaTT → Cluster
+LMT108,HaTT,level,par jeu,0.11363636363636363,0.05555555555555555,0.17,43,4,0.25,M-niveau | échelle : par jeu,LMT108 → HaTT
+LMT108,SENS3,level,par jeu,0.11904761904761904,0.03125,0.21969696969696967,30,4,0.25,M-niveau | échelle : par jeu,LMT108 → SENS3
+LMT108,Cluster,level,par jeu,0.3615079365079365,0.26813997090931235,0.4410568041871921,72,4,0.25,M-niveau | échelle : par jeu,LMT108 → Cluster
+SENS3,HaTT,level,par jeu,0.15646853146853146,0.07665133779264215,0.24395833333333333,43,4,0.25,M-niveau | échelle : par jeu,SENS3 → HaTT
+SENS3,LMT108,level,par jeu,0.13541666666666666,0.03125,0.269642857142857,35,4,0.25,M-niveau | échelle : par jeu,SENS3 → LMT108
+SENS3,Cluster,level,par jeu,0.1623015873015873,0.0950284090909091,0.2283892463235294,72,4,0.25,M-niveau | échelle : par jeu,SENS3 → Cluster
+Cluster,HaTT,level,par jeu,0.022727272727272728,0.0,0.05769751082251079,43,4,0.25,M-niveau | échelle : par jeu,Cluster → HaTT
+Cluster,LMT108,level,par jeu,0.2760416666666667,0.14823529411764705,0.408859649122807,35,4,0.25,M-niveau | échelle : par jeu,Cluster → LMT108
+Cluster,SENS3,level,par jeu,0.25,0.1484659090909091,0.33735119047619055,30,4,0.25,M-niveau | échelle : par jeu,Cluster → SENS3
+HaTT,LMT108,level,source seule,0.29375,0.15535714285714286,0.41249999999999964,35,4,0.25,M-niveau | échelle : source seule,HaTT → LMT108
+HaTT,SENS3,level,source seule,0.25,0.25,0.25,30,4,0.25,M-niveau | échelle : source seule,HaTT → SENS3
+HaTT,Cluster,level,source seule,0.25,0.25,0.25,72,4,0.25,M-niveau | échelle : source seule,HaTT → Cluster
+LMT108,HaTT,level,source seule,0.09545454545454546,0.022727272727272728,0.2002462121212121,43,4,0.25,M-niveau | échelle : source seule,LMT108 → HaTT
+LMT108,SENS3,level,source seule,0.20833333333333334,0.125,0.25,30,4,0.25,M-niveau | échelle : source seule,LMT108 → SENS3
+LMT108,Cluster,level,source seule,0.2357142857142857,0.21052631578947367,0.25,72,4,0.25,M-niveau | échelle : source seule,LMT108 → Cluster
+SENS3,HaTT,level,source seule,0.16923076923076924,0.041666666666666664,0.28125,43,4,0.25,M-niveau | échelle : source seule,SENS3 → HaTT
+SENS3,LMT108,level,source seule,0.2,0.08333333333333333,0.25,35,4,0.25,M-niveau | échelle : source seule,SENS3 → LMT108
+SENS3,Cluster,level,source seule,0.1,0.03125,0.18552083333333325,72,4,0.25,M-niveau | échelle : source seule,SENS3 → Cluster
+Cluster,HaTT,level,source seule,0.25,0.25,0.25,43,4,0.25,M-niveau | échelle : source seule,Cluster → HaTT
+Cluster,LMT108,level,source seule,0.25,0.25,0.25,35,4,0.25,M-niveau | échelle : source seule,Cluster → LMT108
+Cluster,SENS3,level,source seule,0.25,0.25,0.25,30,4,0.25,M-niveau | échelle : source seule,Cluster → SENS3
+HaTT,LMT108,beats + level,par jeu,0.403125,0.2805491990846682,0.484375,35,4,0.25,BEATs + M-niveau | échelle : par jeu,HaTT → LMT108
+HaTT,SENS3,beats + level,par jeu,0.37202380952380953,0.26796266233766236,0.4642857142857143,30,4,0.25,BEATs + M-niveau | échelle : par jeu,HaTT → SENS3
+HaTT,Cluster,beats + level,par jeu,0.125,0.06666666666666667,0.1875,72,4,0.25,BEATs + M-niveau | échelle : par jeu,HaTT → Cluster
+LMT108,HaTT,beats + level,par jeu,0.316958041958042,0.17559674775707385,0.4336906199677939,43,4,0.25,BEATs + M-niveau | échelle : par jeu,LMT108 → HaTT
+LMT108,SENS3,beats + level,par jeu,0.125,0.05421626984126984,0.19230769230769232,30,4,0.25,BEATs + M-niveau | échelle : par jeu,LMT108 → SENS3
+LMT108,Cluster,beats + level,par jeu,0.325,0.25,0.40328124999999987,72,4,0.25,BEATs + M-niveau | échelle : par jeu,LMT108 → Cluster
+SENS3,HaTT,beats + level,par jeu,0.17919580419580422,0.10272393048128342,0.27313461538461536,43,4,0.25,BEATs + M-niveau | échelle : par jeu,SENS3 → HaTT
+SENS3,LMT108,beats + level,par jeu,0.07291666666666666,0.0,0.16991978609625666,35,4,0.25,BEATs + M-niveau | échelle : par jeu,SENS3 → LMT108
+SENS3,Cluster,beats + level,par jeu,0.28174603174603174,0.20502920662219443,0.35156494554584583,72,4,0.25,BEATs + M-niveau | échelle : par jeu,SENS3 → Cluster
+Cluster,HaTT,beats + level,par jeu,0.04195804195804196,0.0,0.09625710227272725,43,4,0.25,BEATs + M-niveau | échelle : par jeu,Cluster → HaTT
+Cluster,LMT108,beats + level,par jeu,0.19791666666666666,0.07121848739495798,0.2927536231884057,35,4,0.25,BEATs + M-niveau | échelle : par jeu,Cluster → LMT108
+Cluster,SENS3,beats + level,par jeu,0.2916666666666667,0.25,0.34875,30,4,0.25,BEATs + M-niveau | échelle : par jeu,Cluster → SENS3
+HaTT,SENS3,gesture,par jeu,0.34464285714285714,0.216155303030303,0.5019886363636364,30,4,0.25,M-geste | échelle : par jeu,HaTT → SENS3
+HaTT,Cluster,gesture,par jeu,0.18134920634920637,0.12088676948051948,0.24467731461438547,72,4,0.25,M-geste | échelle : par jeu,HaTT → Cluster
+SENS3,HaTT,gesture,par jeu,0.12150349650349651,0.05906373517786561,0.19453125,43,4,0.25,M-geste | échelle : par jeu,SENS3 → HaTT
+SENS3,Cluster,gesture,par jeu,0.13214285714285715,0.08075782732447818,0.2052604166666666,72,4,0.25,M-geste | échelle : par jeu,SENS3 → Cluster
+Cluster,HaTT,gesture,par jeu,0.34877622377622375,0.28883223684210524,0.4113977146042363,43,4,0.25,M-geste | échelle : par jeu,Cluster → HaTT
+Cluster,SENS3,gesture,par jeu,0.3482142857142857,0.22623366013071894,0.4726920995670996,30,4,0.25,M-geste | échelle : par jeu,Cluster → SENS3
+HaTT,SENS3,gesture,source seule,0.1125,0.014154411764705882,0.225,30,4,0.25,M-geste | échelle : source seule,HaTT → SENS3
+HaTT,Cluster,gesture,source seule,0.3876984126984127,0.27642857142857147,0.4940697004608294,72,4,0.25,M-geste | échelle : source seule,HaTT → Cluster
+SENS3,HaTT,gesture,source seule,0.2,0.1,0.25,43,4,0.25,M-geste | échelle : source seule,SENS3 → HaTT
+SENS3,Cluster,gesture,source seule,0.25,0.25,0.25,72,4,0.25,M-geste | échelle : source seule,SENS3 → Cluster
+Cluster,HaTT,gesture,source seule,0.2502913752913753,0.11741666666666667,0.42555803571428563,43,4,0.25,M-geste | échelle : source seule,Cluster → HaTT
+Cluster,SENS3,gesture,source seule,0.4565476190476191,0.3090277777777778,0.6275694444444444,30,4,0.25,M-geste | échelle : source seule,Cluster → SENS3

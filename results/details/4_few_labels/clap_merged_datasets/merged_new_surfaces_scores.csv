@@ -1,0 +1,25 @@
+dataset,model,score
+LMT108,original CLAP,0.5293055555555555
+LMT108,fine-tuned on the other datasets only,0.33888888888888885
+LMT108,fine-tuned on this dataset alone,0.7836111111111113
+LMT108,fine-tuned on the six datasets merged,0.7393055555555555
+LMT69,original CLAP,0.6511111111111111
+LMT69,fine-tuned on the other datasets only,0.5572222222222223
+LMT69,fine-tuned on this dataset alone,0.9525
+LMT69,fine-tuned on the six datasets merged,0.9344444444444443
+TUM,original CLAP,0.34393939393939393
+TUM,fine-tuned on the other datasets only,0.3151515151515152
+TUM,fine-tuned on this dataset alone,0.7277777777777776
+TUM,fine-tuned on the six datasets merged,0.6994949494949494
+SENS3,original CLAP,0.31611111111111106
+SENS3,fine-tuned on the other datasets only,0.11319444444444444
+SENS3,fine-tuned on this dataset alone,0.6519444444444444
+SENS3,fine-tuned on the six datasets merged,0.5419444444444446
+Cluster,original CLAP,0.23657407407407408
+Cluster,fine-tuned on the other datasets only,0.18464506172839504
+Cluster,fine-tuned on this dataset alone,0.753858024691358
+Cluster,fine-tuned on the six datasets merged,0.7344135802469135
+Greatest Hits,original CLAP,0.48005135977294666
+Greatest Hits,fine-tuned on the other datasets only,0.3304531540241602
+Greatest Hits,fine-tuned on this dataset alone,0.6924474568107976
+Greatest Hits,fine-tuned on the six datasets merged,0.6335855665510569
