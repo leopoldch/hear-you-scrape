@@ -16,10 +16,14 @@ Every experiment, with its number and whether it passed, is in [RESULTS.md](RESU
 
 ## 1. The datasets differ more than the families
 
-Before any model we looked at the spectra. A PCA separates the two first datasets (Cluster and LMT108) much
-better than the four families. Inside LMT108 the families do differ (wood has a bump at 150-400 Hz), in Cluster
-they look almost the same. The Cluster vibration also contains lines from the machine (f = 3.5 x speed), and the
-level rises about 5.5 dB each time the speed doubles.
+Before any model we looked at the signals: spectrograms, spectra, PCA, clustering. With our two first datasets
+together (Cluster and LMT108), a PCA or a clustering finds the **dataset** (ARI 0.80-0.86), not the family (about
+0.1). Inside one dataset the families do show up: clearly in LMT108 (wood has a bump at 150-400 Hz), partly in
+Cluster (wood and most textiles).
+
+The Cluster vibration also contains lines from the machine (f = 3.5 x speed). There, speed changes the spectrum as
+much as the surface does, and the level rises about 5.5 dB each time the speed doubles. Sound and vibration are
+almost unrelated (coherence 0.01 to 0.10): they are two different views of the scrape.
 
 ![PCA of the spectra, colored by family, by dataset and by speed](results/signals_pca.png)
 
