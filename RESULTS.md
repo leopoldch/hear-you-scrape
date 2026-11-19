@@ -21,12 +21,14 @@ and our own phone recordings.
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
-| Do the spectra group by family or by dataset? | By dataset (ARI 0.80-0.89), almost not by family (under 0.1) | - | no |
+| Do the spectra group by family or by dataset? (PCA, three clustering methods) | By dataset (ARI 0.80-0.86 with four groups), almost not by family (about 0.1) | - | no |
+| Clustering inside one dataset | Cluster: wood and most textiles are isolated (ARI 0.63-0.74). LMT108: only wood (about 0.3) | - | no |
+| What explains the variance of the Cluster spectra? | Sound: surface 33 %, speed 32 %, direction 8 %. Vibration: speed 26 %, direction 23 %, surface 17 %. Family 5-10 % | - | no |
 | Do families differ inside one dataset? | Yes in LMT108 (wood has a 150-400 Hz bump), almost not in Cluster | - | no |
 | Is there machine noise in the Cluster vibration? | Lines at multiples of 3.5 x speed hold 45-73 % of the 10-600 Hz energy | - | no |
-| Can NMF isolate the machine? | One narrow template is active on all 8 surfaces: a candidate, not validated | partly | no |
+| Can NMF isolate the machine? | Two narrow templates are active on all 8 surfaces: a candidate, not validated | partly | no |
 | Does speed only shift the frequencies? | No. Spectra at 20 and 60 mm/s match better without rescaling (0.29-0.45 vs about 0.05). Level about +5.5 dB per doubling | - | no |
-| Are sound and vibration aligned in LMT108? | Coherence about 0.01 | - | no |
+| Do sound and vibration tell the same thing? | Coherence about 0.01 in LMT108, 0.10 in Cluster | - | no |
 
 ## 2. A setup the model knows (`3_known_setup.ipynb`)
 
