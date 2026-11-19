@@ -94,6 +94,12 @@ The model mostly follows the vibration level and the speed of the gesture. This 
 Heavy steps save their output in `cache/`, so a notebook is fast the second time.
 Tables and figures go to `results/`.
 
+## Weights
+
+The fine-tuned CLAP models of part 4 are on Hugging Face:
+[lchappuis/hear-you-scrape-clap](https://huggingface.co/lchappuis/hear-you-scrape-clap) (14 files, for research).
+They are worse than the original CLAP on a setup they have not seen: we share them so that others can study why.
+
 ## Data
 
 Not in the repo. `1_data.ipynb` gets it from the authors:
