@@ -19,14 +19,14 @@ Every experiment, with its number and whether it passed, is in [RESULTS.md](RESU
 Before any model we looked at the spectra. A PCA separates the two first datasets (Cluster and LMT108) much
 better than the four families. Inside LMT108 the families do differ (wood has a bump at 150-400 Hz), in Cluster
 they look almost the same. The Cluster vibration also contains lines from the machine (f = 3.5 x speed), and the
-level rises 4-7 dB each time the speed doubles.
+level rises about 5.5 dB each time the speed doubles.
 
 ![PCA of the spectra, colored by family, by dataset and by speed](results/signals_pca.png)
 
 ## 2. A setup the model knows: it works
 
 On new surfaces of the same setup, an SVM on spectral shapes and a small CNN both reach about 0.74 with
-sound + vibration. Pretrained encoders (BEATs, CLAP) give 0.72-0.76.
+sound + vibration (0.74 and 0.73).
 
 ## 3. A new setup with no label: it does not work reliably
 
@@ -59,8 +59,8 @@ the layers step by step, training on 1 to 4 setups, adding 200 to 20000 syntheti
 ## 5. Two labeled surfaces per family are enough
 
 If we label two surfaces per family on the new setup and train a small classifier on frozen BEATs vectors, we get
-0.64 on a locked test (0.42 with no label). Data from the other setups does not help here either: 0.61 alone,
-0.56 with the others.
+0.64 on a locked test (0.42 with no label). Data from the other setups does not help here either: on our three first
+setups, 0.56 with their own labels alone and 0.48 with the other setups added.
 
 ![A few labeled surfaces of the new setup](results/few_labels_locked_test.png)
 

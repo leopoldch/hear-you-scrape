@@ -35,14 +35,14 @@ and our own phone recordings.
 | New surfaces of a known setup (Cluster), SVM and small CNN | About 0.74 with sound + vibration | yes | no |
 | Same with pretrained encoders (BEATs, CLAP) | 0.72-0.76 | yes | no |
 | Easier label sets inside one setup | Three families 0.84, metal vs textile 0.96 | yes | no |
-| CLAP fine-tuned on one setup, new surfaces of it | 0.76 (0.43 before fine-tuning) | yes | yes |
+| CLAP fine-tuned on one setup, new surfaces of it | 0.75 (0.45 before fine-tuning) | yes | yes |
 | Same 10 textures touched by other people (Devillard, chance 0.10) | New person 0.70-0.77; other sensor of the same kind 0.49-0.70; vibration to sound 0.17-0.21 | yes | yes |
 
 ## 3. A new setup, no label (`4_new_setup.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
-| Train on Cluster, test on LMT108 (and the reverse) | Chance for every model | no | no |
+| Train on Cluster, test on LMT108 (and the reverse) | Near chance for every model (0.25-0.31) | no | no |
 | Train on both, test on SENS3 | 0.30-0.35 | no | no |
 | Usual fixes: more layers, AdaBN, mixup, noise, DANN | 0.24-0.34 | no | no |
 | Two setups for training, test on the third; add Greatest Hits | 0.16-0.35 | no | no |
@@ -57,7 +57,7 @@ and our own phone recordings.
 | 250 simulated devices | 0.70 inside the simulation, 0.22-0.40 on real setups | no | yes |
 | About 35 more ideas (transduction, optimal transport, co-training, self-training, other encoders...) | None passes. N29 passes on Greatest Hits (0.49) but equals CLAP text alone | no | no |
 | Five more ideas (gain-free features, naming clusters, tap sound...) | All fail. If the clusters were named right: 0.68-0.80 | no | yes |
-| CLAP with text prompts, vectors centered on the new setup | LMT108 0.52, LMT69 0.67, Greatest Hits 0.48, our phone 0.71; TUM 0.34, SENS3 0.31, Cluster 0.25 | partly | yes |
+| CLAP with text prompts, vectors centered on the new setup | LMT108 0.53, LMT69 0.65, Greatest Hits 0.48, our phone 0.83; TUM 0.34, SENS3 0.32, Cluster 0.24. Mean of the six public datasets 0.43 | partly | yes |
 | Same on our phone, 5 objects | 21 of 31 takes right; survives noise, fails with a 1 kHz low-pass | yes | no |
 | Same on a colleague's phone | 0.45 [0.33-0.58], mark 0.50 | no | locked |
 | Same on robot pokes (YCB) | 0.31 | no | yes |
@@ -75,7 +75,7 @@ and our own phone recordings.
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
-| Labels of the new setup alone, or pooled with the other setups? | Alone is better: 0.54 / 0.62 / 0.69 at k = 1 / 2 / 4, pooled 0.44 / 0.54 / 0.63 | yes | no |
+| Labels of the new setup alone, or pooled with the other setups? | Alone is better: 0.49 / 0.56 at k = 1 / 2, pooled 0.39 / 0.48 (mean of three setups) | yes | no |
 | Domain generalization + 4 labels | 0.63-0.67 (mark 0.68) | no | yes |
 | Locked test on HaTT: 2 labeled surfaces per family | **0.64 [0.54-0.76]** (k = 1: 0.53; no label: 0.42). Mark 0.45 | yes | locked |
 | Same on TUM (three families) | k = 2: 0.61 [0.44-0.77]; k = 8: 0.76 | yes | no |
@@ -95,7 +95,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | Light adaptation on frozen vectors | 0.47 to 0.48 at best, 0.36 at full strength | no | yes |
 | Fine-tune the whole sound encoder on the other datasets | Unseen setup **0.43 to 0.31**. New surfaces of seen setups 0.45 to 0.70 | no | yes |
 | 20 ways to edit the fine-tuned weights without gradients | Best 0.68 seen / 0.37 unseen. None keeps both | no | yes |
-| Mix original and fine-tuned weights (0, 25, 50, 75, 100 %) | Unseen 0.43 / 0.41 / 0.37 / 0.34 / 0.32. Every edit sits on this curve | no | yes |
+| Mix original and fine-tuned weights (0, 25, 50, 75, 100 %) | Unseen 0.43 / 0.41 / 0.37 / 0.33 / 0.31. Every edit sits on this curve | no | yes |
 | Which dataset hurts which? | No dataset helps another. SENS3 -0.14, TUM -0.10, Cluster -0.10 | no | yes |
 | Route between the two models with a "known setup" detector | 10 right of 12: 0.72 seen / 0.39 unseen | no | yes |
 | Equalize each setup's frequency bands | 0.32 to 0.34 | no | yes |
@@ -110,7 +110,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
 | 200 scrapes from a small physics model, no real data | Probe 0.37, fine-tuned CLAP 0.41 (original 0.43) | no | yes |
-| 2000 scrapes, much more variety | Probe 0.40, fine-tuned 0.37-0.39 | no | yes |
+| 2000 scrapes, much more variety | Probe 0.39, fine-tuned 0.37-0.39 | no | yes |
 | Real datasets + 2000 synthetic scrapes | Unseen public datasets 0.38 (0.36 without). Colleague's phone 0.65, mark 0.55, but weight mixing alone already gives 0.60 | partly | yes |
 | 200, 2000 or 20000 scrapes, half of every batch | 0.34 / 0.35 / 0.34 (0.31 with none). An earlier run with 3 seeds, and one trained 4 times longer, gave the same | no | yes |
 
@@ -120,12 +120,12 @@ Here the model predicts a measured quantity instead of a family. Vibration only,
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
-| Friction between steel-tip setups | HaTT to LMT69 0.51, LMT69 to HaTT 0.39. Holds in 4 directions of 6 | yes | no |
+| Friction between steel-tip setups | HaTT to LMT69 0.50, LMT69 to HaTT 0.39. Holds in 4 directions of 6 | yes | no |
 | Steel tip to bare finger | HaTT to SENS3 **0.59 [0.35-0.76]**, LMT69 to SENS3 0.52. But TUM to SENS3 -0.55 | partly | no |
 | Second bare-finger dataset (Devillard, 10 textures) | 0.87 and 0.89 | yes | no |
 | Does it depend on our settings? | Positive in all 9 settings (0.31-0.62). 96-100 % of 24 settings | yes | no |
 | Same with sound instead of vibration | 0.28 and 0.03, mark 0.30 | no | yes |
-| Same on the machine dataset (Cluster) | **-0.52 [-0.65, -0.37]**: the sign is inverted | no | yes |
+| Same on the machine dataset (Cluster) | **-0.52 [-0.65, -0.36]**: the sign is inverted | no | yes |
 | Same texture, ten people (Devillard) | 0.36 [-0.15, 0.70] | no | yes |
 | What does the model read? | At a fixed material it follows the speed of the gesture (0.81), not the friction. Steel tip to finger goes through the vibration level | - | no |
 | Density learned on TUM | Ranks metal first elsewhere (AUC 0.81 and 0.84) | yes | no |
