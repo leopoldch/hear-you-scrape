@@ -24,5 +24,5 @@ __pycache__/
 # Model weights (like /models/)
 *.pt
 
-# Big intermediate files made by 1_data.ipynb
+# Big intermediate files made by data.ipynb
 /cache/

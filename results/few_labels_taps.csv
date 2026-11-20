@@ -1,0 +1,901 @@
+dataset,signals,k,score
+TUM,scrape,1,0.6366739288307915
+TUM,scrape,1,0.6384410554345195
+TUM,scrape,1,0.45884773662551437
+TUM,scrape,1,0.5043330912611959
+TUM,scrape,1,0.6635439360929557
+TUM,scrape,1,0.3164366981360445
+TUM,scrape,1,0.6143306705398208
+TUM,scrape,1,0.5017671266037279
+TUM,scrape,1,0.5633986928104574
+TUM,scrape,1,0.5720406681190995
+TUM,scrape,1,0.6624304042604696
+TUM,scrape,1,0.6381505688695231
+TUM,scrape,1,0.5790607601065118
+TUM,scrape,1,0.3688211086903898
+TUM,scrape,1,0.6414427499394819
+TUM,scrape,1,0.6059307673686759
+TUM,scrape,1,0.541999515855725
+TUM,scrape,1,0.5969983054950375
+TUM,scrape,1,0.49980634229000237
+TUM,scrape,1,0.547276688453159
+TUM,scrape,1,0.3138465262648269
+TUM,scrape,1,0.486080852093924
+TUM,scrape,1,0.5214475913822318
+TUM,scrape,1,0.3162672476397967
+TUM,scrape,1,0.296078431372549
+TUM,scrape,1,0.5841442749939482
+TUM,scrape,1,0.6890341321713871
+TUM,scrape,1,0.6757443718228032
+TUM,scrape,1,0.5723553618978455
+TUM,scrape,1,0.5380779472282741
+TUM,scrape,1,0.5169208424110385
+TUM,scrape,1,0.7484386347131444
+TUM,scrape,1,0.6278625030259017
+TUM,scrape,1,0.37787460663277656
+TUM,scrape,1,0.4126119583635924
+TUM,scrape,1,0.4413701282982329
+TUM,scrape,1,0.5327523602033405
+TUM,scrape,1,0.40314693778746064
+TUM,scrape,1,0.5183006535947712
+TUM,scrape,1,0.6977003146937788
+TUM,scrape,1,0.7178649237472766
+TUM,scrape,1,0.6398208666182522
+TUM,scrape,1,0.6741224885015735
+TUM,scrape,1,0.5988380537400145
+TUM,scrape,1,0.5714839022028564
+TUM,scrape,1,0.5335511982570805
+TUM,scrape,1,0.3917695473251029
+TUM,scrape,1,0.7076978939724038
+TUM,scrape,1,0.5329944323408377
+TUM,scrape,1,0.49491648511256353
+TUM,scrape,2,0.7185185185185184
+TUM,scrape,2,0.7148148148148148
+TUM,scrape,2,0.6902777777777778
+TUM,scrape,2,0.6449074074074074
+TUM,scrape,2,0.5736111111111111
+TUM,scrape,2,0.6356481481481482
+TUM,scrape,2,0.7231481481481481
+TUM,scrape,2,0.5152777777777778
+TUM,scrape,2,0.49027777777777776
+TUM,scrape,2,0.7106481481481483
+TUM,scrape,2,0.7018518518518518
+TUM,scrape,2,0.7268518518518517
+TUM,scrape,2,0.6935185185185185
+TUM,scrape,2,0.7351851851851853
+TUM,scrape,2,0.6194444444444445
+TUM,scrape,2,0.5175925925925925
+TUM,scrape,2,0.45740740740740743
+TUM,scrape,2,0.8092592592592592
+TUM,scrape,2,0.5115740740740741
+TUM,scrape,2,0.5944444444444444
+TUM,scrape,2,0.4884259259259259
+TUM,scrape,2,0.6449074074074074
+TUM,scrape,2,0.5574074074074074
+TUM,scrape,2,0.6194444444444445
+TUM,scrape,2,0.6356481481481482
+TUM,scrape,2,0.7435185185185186
+TUM,scrape,2,0.7597222222222223
+TUM,scrape,2,0.6532407407407408
+TUM,scrape,2,0.5851851851851851
+TUM,scrape,2,0.6185185185185186
+TUM,scrape,2,0.47500000000000003
+TUM,scrape,2,0.5564814814814815
+TUM,scrape,2,0.6574074074074074
+TUM,scrape,2,0.48240740740740745
+TUM,scrape,2,0.6800925925925926
+TUM,scrape,2,0.825462962962963
+TUM,scrape,2,0.6444444444444444
+TUM,scrape,2,0.6777777777777777
+TUM,scrape,2,0.6157407407407408
+TUM,scrape,2,0.5981481481481481
+TUM,scrape,2,0.6319444444444444
+TUM,scrape,2,0.6944444444444443
+TUM,scrape,2,0.5527777777777777
+TUM,scrape,2,0.5555555555555555
+TUM,scrape,2,0.48888888888888893
+TUM,scrape,2,0.6972222222222223
+TUM,scrape,2,0.46435185185185185
+TUM,scrape,2,0.6226851851851852
+TUM,scrape,2,0.7125
+TUM,scrape,2,0.5287037037037038
+TUM,scrape,4,0.6043956043956044
+TUM,scrape,4,0.7625152625152625
+TUM,scrape,4,0.6562881562881563
+TUM,scrape,4,0.6868131868131867
+TUM,scrape,4,0.7387057387057387
+TUM,scrape,4,0.7087912087912088
+TUM,scrape,4,0.6575091575091575
+TUM,scrape,4,0.7362637362637363
+TUM,scrape,4,0.7387057387057387
+TUM,scrape,4,0.5671550671550672
+TUM,scrape,4,0.6562881562881563
+TUM,scrape,4,0.7319902319902319
+TUM,scrape,4,0.7124542124542125
+TUM,scrape,4,0.5653235653235653
+TUM,scrape,4,0.753968253968254
+TUM,scrape,4,0.6996336996336995
+TUM,scrape,4,0.7472527472527473
+TUM,scrape,4,0.7582417582417582
+TUM,scrape,4,0.6086691086691087
+TUM,scrape,4,0.7362637362637363
+TUM,scrape,4,0.6562881562881563
+TUM,scrape,4,0.7234432234432234
+TUM,scrape,4,0.7454212454212454
+TUM,scrape,4,0.6953601953601952
+TUM,scrape,4,0.652014652014652
+TUM,scrape,4,0.7167277167277167
+TUM,scrape,4,0.6691086691086691
+TUM,scrape,4,0.771062271062271
+TUM,scrape,4,0.721001221001221
+TUM,scrape,4,0.7667887667887667
+TUM,scrape,4,0.6367521367521367
+TUM,scrape,4,0.7148962148962149
+TUM,scrape,4,0.7387057387057387
+TUM,scrape,4,0.5934065934065934
+TUM,scrape,4,0.8186813186813188
+TUM,scrape,4,0.6886446886446885
+TUM,scrape,4,0.6758241758241758
+TUM,scrape,4,0.55006105006105
+TUM,scrape,4,0.7216117216117217
+TUM,scrape,4,0.7167277167277167
+TUM,scrape,4,0.7948717948717948
+TUM,scrape,4,0.7014652014652015
+TUM,scrape,4,0.7277167277167277
+TUM,scrape,4,0.6843711843711843
+TUM,scrape,4,0.6562881562881563
+TUM,scrape,4,0.6868131868131869
+TUM,scrape,4,0.7643467643467643
+TUM,scrape,4,0.5726495726495727
+TUM,scrape,4,0.6538461538461539
+TUM,scrape,4,0.7515262515262515
+TUM,scrape + tap vibration,1,0.7333817477608328
+TUM,scrape + tap vibration,1,0.6398208666182522
+TUM,scrape + tap vibration,1,0.5331638828370854
+TUM,scrape + tap vibration,1,0.3755507141128056
+TUM,scrape + tap vibration,1,0.6465262648269184
+TUM,scrape + tap vibration,1,0.38528201404018403
+TUM,scrape + tap vibration,1,0.676155894456548
+TUM,scrape + tap vibration,1,0.593923989348826
+TUM,scrape + tap vibration,1,0.559840232389252
+TUM,scrape + tap vibration,1,0.7259501331396757
+TUM,scrape + tap vibration,1,0.5557250060518034
+TUM,scrape + tap vibration,1,0.6583393851367707
+TUM,scrape + tap vibration,1,0.6520455095618494
+TUM,scrape + tap vibration,1,0.3670539820866618
+TUM,scrape + tap vibration,1,0.7096344710723795
+TUM,scrape + tap vibration,1,0.6008472524812394
+TUM,scrape + tap vibration,1,0.6118131203098524
+TUM,scrape + tap vibration,1,0.499757927862503
+TUM,scrape + tap vibration,1,0.45647542967804405
+TUM,scrape + tap vibration,1,0.604720406681191
+TUM,scrape + tap vibration,1,0.448559670781893
+TUM,scrape + tap vibration,1,0.6074558218349068
+TUM,scrape + tap vibration,1,0.5118615347373517
+TUM,scrape + tap vibration,1,0.4507141128056161
+TUM,scrape + tap vibration,1,0.5250302590171871
+TUM,scrape + tap vibration,1,0.5839506172839507
+TUM,scrape + tap vibration,1,0.6539336722343257
+TUM,scrape + tap vibration,1,0.6222706366497217
+TUM,scrape + tap vibration,1,0.6211813120309851
+TUM,scrape + tap vibration,1,0.509682885499879
+TUM,scrape + tap vibration,1,0.7000484144274995
+TUM,scrape + tap vibration,1,0.6015734688937303
+TUM,scrape + tap vibration,1,0.6488501573468893
+TUM,scrape + tap vibration,1,0.417283950617284
+TUM,scrape + tap vibration,1,0.3696683611716291
+TUM,scrape + tap vibration,1,0.5670055676591624
+TUM,scrape + tap vibration,1,0.4627935124667151
+TUM,scrape + tap vibration,1,0.4460905349794239
+TUM,scrape + tap vibration,1,0.5501089324618736
+TUM,scrape + tap vibration,1,0.7114258048898572
+TUM,scrape + tap vibration,1,0.7178891309610264
+TUM,scrape + tap vibration,1,0.6809973372064876
+TUM,scrape + tap vibration,1,0.77039457758412
+TUM,scrape + tap vibration,1,0.4863471314451706
+TUM,scrape + tap vibration,1,0.7259501331396757
+TUM,scrape + tap vibration,1,0.5892277898813846
+TUM,scrape + tap vibration,1,0.3962962962962963
+TUM,scrape + tap vibration,1,0.7323892519970951
+TUM,scrape + tap vibration,1,0.6241830065359477
+TUM,scrape + tap vibration,1,0.5008230452674897
+TUM,scrape + tap vibration,2,0.8384259259259258
+TUM,scrape + tap vibration,2,0.7759259259259258
+TUM,scrape + tap vibration,2,0.8134259259259259
+TUM,scrape + tap vibration,2,0.6092592592592593
+TUM,scrape + tap vibration,2,0.6398148148148147
+TUM,scrape + tap vibration,2,0.7268518518518517
+TUM,scrape + tap vibration,2,0.6847222222222221
+TUM,scrape + tap vibration,2,0.5018518518518519
+TUM,scrape + tap vibration,2,0.6032407407407407
+TUM,scrape + tap vibration,2,0.6888888888888888
+TUM,scrape + tap vibration,2,0.6981481481481482
+TUM,scrape + tap vibration,2,0.7888888888888888
+TUM,scrape + tap vibration,2,0.6847222222222221
+TUM,scrape + tap vibration,2,0.7935185185185185
+TUM,scrape + tap vibration,2,0.6601851851851852
+TUM,scrape + tap vibration,2,0.5759259259259258
+TUM,scrape + tap vibration,2,0.36620370370370375
+TUM,scrape + tap vibration,2,0.7847222222222222
+TUM,scrape + tap vibration,2,0.5643518518518519
+TUM,scrape + tap vibration,2,0.7314814814814815
+TUM,scrape + tap vibration,2,0.5842592592592593
+TUM,scrape + tap vibration,2,0.6527777777777778
+TUM,scrape + tap vibration,2,0.6027777777777777
+TUM,scrape + tap vibration,2,0.6810185185185186
+TUM,scrape + tap vibration,2,0.6726851851851853
+TUM,scrape + tap vibration,2,0.7231481481481481
+TUM,scrape + tap vibration,2,0.7472222222222221
+TUM,scrape + tap vibration,2,0.7356481481481482
+TUM,scrape + tap vibration,2,0.5435185185185185
+TUM,scrape + tap vibration,2,0.6398148148148147
+TUM,scrape + tap vibration,2,0.7273148148148149
+TUM,scrape + tap vibration,2,0.548611111111111
+TUM,scrape + tap vibration,2,0.6490740740740741
+TUM,scrape + tap vibration,2,0.5847222222222221
+TUM,scrape + tap vibration,2,0.7300925925925926
+TUM,scrape + tap vibration,2,0.6097222222222222
+TUM,scrape + tap vibration,2,0.7967592592592592
+TUM,scrape + tap vibration,2,0.7143518518518519
+TUM,scrape + tap vibration,2,0.7305555555555555
+TUM,scrape + tap vibration,2,0.5393518518518519
+TUM,scrape + tap vibration,2,0.6027777777777777
+TUM,scrape + tap vibration,2,0.6402777777777778
+TUM,scrape + tap vibration,2,0.6768518518518518
+TUM,scrape + tap vibration,2,0.6638888888888889
+TUM,scrape + tap vibration,2,0.4314814814814814
+TUM,scrape + tap vibration,2,0.5981481481481481
+TUM,scrape + tap vibration,2,0.6550925925925926
+TUM,scrape + tap vibration,2,0.7342592592592592
+TUM,scrape + tap vibration,2,0.4967592592592593
+TUM,scrape + tap vibration,2,0.6449074074074074
+TUM,scrape + tap vibration,4,0.6691086691086691
+TUM,scrape + tap vibration,4,0.8382173382173382
+TUM,scrape + tap vibration,4,0.7167277167277167
+TUM,scrape + tap vibration,4,0.7063492063492064
+TUM,scrape + tap vibration,4,0.8162393162393163
+TUM,scrape + tap vibration,4,0.7625152625152625
+TUM,scrape + tap vibration,4,0.7838827838827838
+TUM,scrape + tap vibration,4,0.7490842490842491
+TUM,scrape + tap vibration,4,0.7881562881562881
+TUM,scrape + tap vibration,4,0.6117216117216117
+TUM,scrape + tap vibration,4,0.68009768009768
+TUM,scrape + tap vibration,4,0.7210012210012211
+TUM,scrape + tap vibration,4,0.7148962148962149
+TUM,scrape + tap vibration,4,0.6691086691086691
+TUM,scrape + tap vibration,4,0.7796092796092796
+TUM,scrape + tap vibration,4,0.6825396825396827
+TUM,scrape + tap vibration,4,0.753968253968254
+TUM,scrape + tap vibration,4,0.7716727716727716
+TUM,scrape + tap vibration,4,0.76007326007326
+TUM,scrape + tap vibration,4,0.697191697191697
+TUM,scrape + tap vibration,4,0.76007326007326
+TUM,scrape + tap vibration,4,0.7252747252747253
+TUM,scrape + tap vibration,4,0.7606837606837606
+TUM,scrape + tap vibration,4,0.6929181929181928
+TUM,scrape + tap vibration,4,0.7686202686202686
+TUM,scrape + tap vibration,4,0.8052503052503052
+TUM,scrape + tap vibration,4,0.5897435897435898
+TUM,scrape + tap vibration,4,0.7362637362637363
+TUM,scrape + tap vibration,4,0.7405372405372406
+TUM,scrape + tap vibration,4,0.6715506715506715
+TUM,scrape + tap vibration,4,0.7277167277167277
+TUM,scrape + tap vibration,4,0.7777777777777778
+TUM,scrape + tap vibration,4,0.7967032967032966
+TUM,scrape + tap vibration,4,0.6819291819291818
+TUM,scrape + tap vibration,4,0.8467643467643468
+TUM,scrape + tap vibration,4,0.6257631257631258
+TUM,scrape + tap vibration,4,0.7319902319902319
+TUM,scrape + tap vibration,4,0.5262515262515263
+TUM,scrape + tap vibration,4,0.703907203907204
+TUM,scrape + tap vibration,4,0.7686202686202686
+TUM,scrape + tap vibration,4,0.8009768009768009
+TUM,scrape + tap vibration,4,0.7771672771672772
+TUM,scrape + tap vibration,4,0.68009768009768
+TUM,scrape + tap vibration,4,0.5744810744810745
+TUM,scrape + tap vibration,4,0.6776556776556776
+TUM,scrape + tap vibration,4,0.7753357753357752
+TUM,scrape + tap vibration,4,0.8205128205128206
+TUM,scrape + tap vibration,4,0.5921855921855922
+TUM,scrape + tap vibration,4,0.7057387057387058
+TUM,scrape + tap vibration,4,0.7844932844932845
+TUM,scrape + tap vibration + tap sound,1,0.7462841926894214
+TUM,scrape + tap vibration + tap sound,1,0.660396998305495
+TUM,scrape + tap vibration + tap sound,1,0.5331638828370854
+TUM,scrape + tap vibration + tap sound,1,0.5234083756959573
+TUM,scrape + tap vibration + tap sound,1,0.6032195594287098
+TUM,scrape + tap vibration + tap sound,1,0.38666182522391673
+TUM,scrape + tap vibration + tap sound,1,0.6751876059065601
+TUM,scrape + tap vibration + tap sound,1,0.6956911159525538
+TUM,scrape + tap vibration + tap sound,1,0.6302106027596223
+TUM,scrape + tap vibration + tap sound,1,0.6467199225369161
+TUM,scrape + tap vibration + tap sound,1,0.6090777051561366
+TUM,scrape + tap vibration + tap sound,1,0.628152989590898
+TUM,scrape + tap vibration + tap sound,1,0.6963447107237958
+TUM,scrape + tap vibration + tap sound,1,0.37666424594529174
+TUM,scrape + tap vibration + tap sound,1,0.6996368917937547
+TUM,scrape + tap vibration + tap sound,1,0.6894698620188816
+TUM,scrape + tap vibration + tap sound,1,0.6159283466473009
+TUM,scrape + tap vibration + tap sound,1,0.48620188816267246
+TUM,scrape + tap vibration + tap sound,1,0.6715807310578552
+TUM,scrape + tap vibration + tap sound,1,0.6929557007988381
+TUM,scrape + tap vibration + tap sound,1,0.448559670781893
+TUM,scrape + tap vibration + tap sound,1,0.6421689663519728
+TUM,scrape + tap vibration + tap sound,1,0.6447591382231906
+TUM,scrape + tap vibration + tap sound,1,0.5498910675381264
+TUM,scrape + tap vibration + tap sound,1,0.4675623335754055
+TUM,scrape + tap vibration + tap sound,1,0.5794238683127572
+TUM,scrape + tap vibration + tap sound,1,0.6992253691600098
+TUM,scrape + tap vibration + tap sound,1,0.5534495279593319
+TUM,scrape + tap vibration + tap sound,1,0.6380537400145244
+TUM,scrape + tap vibration + tap sound,1,0.6321955942870976
+TUM,scrape + tap vibration + tap sound,1,0.6161462115710482
+TUM,scrape + tap vibration + tap sound,1,0.6568627450980392
+TUM,scrape + tap vibration + tap sound,1,0.706487533284919
+TUM,scrape + tap vibration + tap sound,1,0.5131687242798354
+TUM,scrape + tap vibration + tap sound,1,0.5304526748971193
+TUM,scrape + tap vibration + tap sound,1,0.5205277172597434
+TUM,scrape + tap vibration + tap sound,1,0.5065359477124183
+TUM,scrape + tap vibration + tap sound,1,0.4962962962962963
+TUM,scrape + tap vibration + tap sound,1,0.5122730573710966
+TUM,scrape + tap vibration + tap sound,1,0.6945775841200678
+TUM,scrape + tap vibration + tap sound,1,0.6941660614863231
+TUM,scrape + tap vibration + tap sound,1,0.6445170660856935
+TUM,scrape + tap vibration + tap sound,1,0.7780682643427742
+TUM,scrape + tap vibration + tap sound,1,0.5704429920116194
+TUM,scrape + tap vibration + tap sound,1,0.7208666182522392
+TUM,scrape + tap vibration + tap sound,1,0.5806100217864923
+TUM,scrape + tap vibration + tap sound,1,0.4702251270878722
+TUM,scrape + tap vibration + tap sound,1,0.7470830307431614
+TUM,scrape + tap vibration + tap sound,1,0.5994916485112564
+TUM,scrape + tap vibration + tap sound,1,0.5865407891551683
+TUM,scrape + tap vibration + tap sound,2,0.7722222222222221
+TUM,scrape + tap vibration + tap sound,2,0.8009259259259259
+TUM,scrape + tap vibration + tap sound,2,0.7685185185185185
+TUM,scrape + tap vibration + tap sound,2,0.5467592592592593
+TUM,scrape + tap vibration + tap sound,2,0.6226851851851852
+TUM,scrape + tap vibration + tap sound,2,0.7310185185185185
+TUM,scrape + tap vibration + tap sound,2,0.7837962962962962
+TUM,scrape + tap vibration + tap sound,2,0.5342592592592592
+TUM,scrape + tap vibration + tap sound,2,0.7550925925925925
+TUM,scrape + tap vibration + tap sound,2,0.7222222222222222
+TUM,scrape + tap vibration + tap sound,2,0.7555555555555555
+TUM,scrape + tap vibration + tap sound,2,0.8217592592592592
+TUM,scrape + tap vibration + tap sound,2,0.6347222222222223
+TUM,scrape + tap vibration + tap sound,2,0.7555555555555555
+TUM,scrape + tap vibration + tap sound,2,0.7546296296296297
+TUM,scrape + tap vibration + tap sound,2,0.6842592592592592
+TUM,scrape + tap vibration + tap sound,2,0.3541666666666667
+TUM,scrape + tap vibration + tap sound,2,0.7888888888888888
+TUM,scrape + tap vibration + tap sound,2,0.5273148148148148
+TUM,scrape + tap vibration + tap sound,2,0.7476851851851851
+TUM,scrape + tap vibration + tap sound,2,0.6712962962962963
+TUM,scrape + tap vibration + tap sound,2,0.7680555555555554
+TUM,scrape + tap vibration + tap sound,2,0.5814814814814815
+TUM,scrape + tap vibration + tap sound,2,0.6935185185185185
+TUM,scrape + tap vibration + tap sound,2,0.7754629629629629
+TUM,scrape + tap vibration + tap sound,2,0.7638888888888888
+TUM,scrape + tap vibration + tap sound,2,0.7092592592592593
+TUM,scrape + tap vibration + tap sound,2,0.7231481481481481
+TUM,scrape + tap vibration + tap sound,2,0.6421296296296296
+TUM,scrape + tap vibration + tap sound,2,0.7023148148148147
+TUM,scrape + tap vibration + tap sound,2,0.7685185185185185
+TUM,scrape + tap vibration + tap sound,2,0.6472222222222223
+TUM,scrape + tap vibration + tap sound,2,0.7518518518518519
+TUM,scrape + tap vibration + tap sound,2,0.6805555555555555
+TUM,scrape + tap vibration + tap sound,2,0.7421296296296296
+TUM,scrape + tap vibration + tap sound,2,0.6833333333333332
+TUM,scrape + tap vibration + tap sound,2,0.7166666666666667
+TUM,scrape + tap vibration + tap sound,2,0.7680555555555554
+TUM,scrape + tap vibration + tap sound,2,0.7092592592592593
+TUM,scrape + tap vibration + tap sound,2,0.5430555555555555
+TUM,scrape + tap vibration + tap sound,2,0.6393518518518518
+TUM,scrape + tap vibration + tap sound,2,0.6152777777777777
+TUM,scrape + tap vibration + tap sound,2,0.7138888888888889
+TUM,scrape + tap vibration + tap sound,2,0.6925925925925925
+TUM,scrape + tap vibration + tap sound,2,0.575462962962963
+TUM,scrape + tap vibration + tap sound,2,0.7013888888888888
+TUM,scrape + tap vibration + tap sound,2,0.6175925925925926
+TUM,scrape + tap vibration + tap sound,2,0.7671296296296296
+TUM,scrape + tap vibration + tap sound,2,0.5430555555555555
+TUM,scrape + tap vibration + tap sound,2,0.6606481481481481
+TUM,scrape + tap vibration + tap sound,4,0.6929181929181928
+TUM,scrape + tap vibration + tap sound,4,0.7582417582417582
+TUM,scrape + tap vibration + tap sound,4,0.7124542124542125
+TUM,scrape + tap vibration + tap sound,4,0.7905982905982906
+TUM,scrape + tap vibration + tap sound,4,0.8205128205128206
+TUM,scrape + tap vibration + tap sound,4,0.7148962148962149
+TUM,scrape + tap vibration + tap sound,4,0.7728937728937729
+TUM,scrape + tap vibration + tap sound,4,0.7533577533577533
+TUM,scrape + tap vibration + tap sound,4,0.8272283272283273
+TUM,scrape + tap vibration + tap sound,4,0.724053724053724
+TUM,scrape + tap vibration + tap sound,4,0.7362637362637363
+TUM,scrape + tap vibration + tap sound,4,0.7210012210012211
+TUM,scrape + tap vibration + tap sound,4,0.68009768009768
+TUM,scrape + tap vibration + tap sound,4,0.697191697191697
+TUM,scrape + tap vibration + tap sound,4,0.7924297924297924
+TUM,scrape + tap vibration + tap sound,4,0.6483516483516484
+TUM,scrape + tap vibration + tap sound,4,0.8296703296703297
+TUM,scrape + tap vibration + tap sound,4,0.7887667887667887
+TUM,scrape + tap vibration + tap sound,4,0.7167277167277167
+TUM,scrape + tap vibration + tap sound,4,0.7448107448107448
+TUM,scrape + tap vibration + tap sound,4,0.7405372405372406
+TUM,scrape + tap vibration + tap sound,4,0.6495726495726496
+TUM,scrape + tap vibration + tap sound,4,0.8076923076923078
+TUM,scrape + tap vibration + tap sound,4,0.7448107448107448
+TUM,scrape + tap vibration + tap sound,4,0.6929181929181928
+TUM,scrape + tap vibration + tap sound,4,0.7771672771672772
+TUM,scrape + tap vibration + tap sound,4,0.5439560439560439
+TUM,scrape + tap vibration + tap sound,4,0.7643467643467643
+TUM,scrape + tap vibration + tap sound,4,0.7881562881562881
+TUM,scrape + tap vibration + tap sound,4,0.7319902319902319
+TUM,scrape + tap vibration + tap sound,4,0.7753357753357754
+TUM,scrape + tap vibration + tap sound,4,0.7844932844932845
+TUM,scrape + tap vibration + tap sound,4,0.7728937728937729
+TUM,scrape + tap vibration + tap sound,4,0.6581196581196581
+TUM,scrape + tap vibration + tap sound,4,0.851037851037851
+TUM,scrape + tap vibration + tap sound,4,0.6776556776556776
+TUM,scrape + tap vibration + tap sound,4,0.8119658119658121
+TUM,scrape + tap vibration + tap sound,4,0.5891330891330891
+TUM,scrape + tap vibration + tap sound,4,0.8272283272283273
+TUM,scrape + tap vibration + tap sound,4,0.7643467643467643
+TUM,scrape + tap vibration + tap sound,4,0.8205128205128206
+TUM,scrape + tap vibration + tap sound,4,0.7576312576312576
+TUM,scrape + tap vibration + tap sound,4,0.7557997557997558
+TUM,scrape + tap vibration + tap sound,4,0.536019536019536
+TUM,scrape + tap vibration + tap sound,4,0.7405372405372406
+TUM,scrape + tap vibration + tap sound,4,0.8272283272283273
+TUM,scrape + tap vibration + tap sound,4,0.92002442002442
+TUM,scrape + tap vibration + tap sound,4,0.6202686202686203
+TUM,scrape + tap vibration + tap sound,4,0.7771672771672772
+TUM,scrape + tap vibration + tap sound,4,0.7692307692307692
+SENS3,scrape,1,0.356060606060606
+SENS3,scrape,1,0.36818181818181817
+SENS3,scrape,1,0.35303030303030297
+SENS3,scrape,1,0.3375
+SENS3,scrape,1,0.38030303030303025
+SENS3,scrape,1,0.4329545454545455
+SENS3,scrape,1,0.3484848484848485
+SENS3,scrape,1,0.31780303030303025
+SENS3,scrape,1,0.4928030303030303
+SENS3,scrape,1,0.6053030303030302
+SENS3,scrape,1,0.375
+SENS3,scrape,1,0.23863636363636365
+SENS3,scrape,1,0.2621212121212121
+SENS3,scrape,1,0.40151515151515155
+SENS3,scrape,1,0.4102272727272728
+SENS3,scrape,1,0.32916666666666666
+SENS3,scrape,1,0.38030303030303025
+SENS3,scrape,1,0.5799242424242425
+SENS3,scrape,1,0.4617424242424242
+SENS3,scrape,1,0.23674242424242423
+SENS3,scrape,1,0.2121212121212121
+SENS3,scrape,1,0.4848484848484848
+SENS3,scrape,1,0.49507575757575756
+SENS3,scrape,1,0.36212121212121207
+SENS3,scrape,1,0.43257575757575756
+SENS3,scrape,1,0.2992424242424242
+SENS3,scrape,1,0.459469696969697
+SENS3,scrape,1,0.4738636363636364
+SENS3,scrape,1,0.3428030303030303
+SENS3,scrape,1,0.175
+SENS3,scrape,1,0.40719696969696967
+SENS3,scrape,1,0.38106060606060604
+SENS3,scrape,1,0.43333333333333335
+SENS3,scrape,1,0.3693181818181818
+SENS3,scrape,1,0.5647727272727273
+SENS3,scrape,1,0.3821969696969697
+SENS3,scrape,1,0.4329545454545455
+SENS3,scrape,1,0.45492424242424245
+SENS3,scrape,1,0.19886363636363635
+SENS3,scrape,1,0.23863636363636365
+SENS3,scrape,1,0.37689393939393934
+SENS3,scrape,1,0.2640151515151515
+SENS3,scrape,1,0.2496212121212121
+SENS3,scrape,1,0.293560606060606
+SENS3,scrape,1,0.24431818181818182
+SENS3,scrape,1,0.4446969696969697
+SENS3,scrape,1,0.2825757575757576
+SENS3,scrape,1,0.45265151515151514
+SENS3,scrape,1,0.30113636363636365
+SENS3,scrape,1,0.32840909090909093
+SENS3,scrape,2,0.6625000000000001
+SENS3,scrape,2,0.5416666666666666
+SENS3,scrape,2,0.4125
+SENS3,scrape,2,0.4041666666666667
+SENS3,scrape,2,0.5
+SENS3,scrape,2,0.35
+SENS3,scrape,2,0.39166666666666666
+SENS3,scrape,2,0.575
+SENS3,scrape,2,0.35833333333333334
+SENS3,scrape,2,0.4083333333333333
+SENS3,scrape,2,0.32499999999999996
+SENS3,scrape,2,0.33333333333333337
+SENS3,scrape,2,0.30833333333333335
+SENS3,scrape,2,0.33333333333333337
+SENS3,scrape,2,0.42083333333333334
+SENS3,scrape,2,0.5541666666666667
+SENS3,scrape,2,0.42083333333333334
+SENS3,scrape,2,0.5541666666666667
+SENS3,scrape,2,0.5291666666666667
+SENS3,scrape,2,0.5041666666666667
+SENS3,scrape,2,0.39166666666666666
+SENS3,scrape,2,0.3666666666666667
+SENS3,scrape,2,0.4708333333333333
+SENS3,scrape,2,0.4791666666666667
+SENS3,scrape,2,0.47916666666666663
+SENS3,scrape,2,0.22499999999999998
+SENS3,scrape,2,0.5125
+SENS3,scrape,2,0.38333333333333336
+SENS3,scrape,2,0.4666666666666667
+SENS3,scrape,2,0.4666666666666667
+SENS3,scrape,2,0.6625
+SENS3,scrape,2,0.5666666666666667
+SENS3,scrape,2,0.30833333333333335
+SENS3,scrape,2,0.275
+SENS3,scrape,2,0.38333333333333336
+SENS3,scrape,2,0.5249999999999999
+SENS3,scrape,2,0.4708333333333333
+SENS3,scrape,2,0.2875
+SENS3,scrape,2,0.37083333333333335
+SENS3,scrape,2,0.37083333333333335
+SENS3,scrape,2,0.35833333333333334
+SENS3,scrape,2,0.48333333333333334
+SENS3,scrape,2,0.3375
+SENS3,scrape,2,0.4458333333333333
+SENS3,scrape,2,0.30416666666666664
+SENS3,scrape,2,0.31666666666666665
+SENS3,scrape,2,0.5291666666666667
+SENS3,scrape,2,0.2833333333333333
+SENS3,scrape,2,0.375
+SENS3,scrape,2,0.41666666666666663
+SENS3,scrape,4,0.47916666666666663
+SENS3,scrape,4,0.3020833333333333
+SENS3,scrape,4,0.35416666666666663
+SENS3,scrape,4,0.40625
+SENS3,scrape,4,0.4895833333333333
+SENS3,scrape,4,0.75
+SENS3,scrape,4,0.47916666666666663
+SENS3,scrape,4,0.4270833333333333
+SENS3,scrape,4,0.2708333333333333
+SENS3,scrape,4,0.26041666666666663
+SENS3,scrape,4,0.5208333333333333
+SENS3,scrape,4,0.3020833333333333
+SENS3,scrape,4,0.7083333333333333
+SENS3,scrape,4,0.46875
+SENS3,scrape,4,0.6041666666666666
+SENS3,scrape,4,0.26041666666666663
+SENS3,scrape,4,0.6666666666666666
+SENS3,scrape,4,0.46875
+SENS3,scrape,4,0.4895833333333333
+SENS3,scrape,4,0.7083333333333333
+SENS3,scrape,4,0.44791666666666663
+SENS3,scrape,4,0.6041666666666666
+SENS3,scrape,4,0.7395833333333333
+SENS3,scrape,4,0.3645833333333333
+SENS3,scrape,4,0.8020833333333333
+SENS3,scrape,4,0.78125
+SENS3,scrape,4,0.5729166666666666
+SENS3,scrape,4,0.5520833333333333
+SENS3,scrape,4,0.26041666666666663
+SENS3,scrape,4,0.4895833333333333
+SENS3,scrape,4,0.4583333333333333
+SENS3,scrape,4,0.3958333333333333
+SENS3,scrape,4,0.3333333333333333
+SENS3,scrape,4,0.21875
+SENS3,scrape,4,0.38541666666666663
+SENS3,scrape,4,0.5520833333333333
+SENS3,scrape,4,0.6666666666666666
+SENS3,scrape,4,0.7291666666666666
+SENS3,scrape,4,0.8229166666666666
+SENS3,scrape,4,0.6354166666666666
+SENS3,scrape,4,0.7604166666666666
+SENS3,scrape,4,0.3958333333333333
+SENS3,scrape,4,0.47916666666666663
+SENS3,scrape,4,0.26041666666666663
+SENS3,scrape,4,0.3020833333333333
+SENS3,scrape,4,0.4583333333333333
+SENS3,scrape,4,0.26041666666666663
+SENS3,scrape,4,0.2708333333333333
+SENS3,scrape,4,0.625
+SENS3,scrape,4,0.3020833333333333
+SENS3,scrape + tap vibration,1,0.4799242424242424
+SENS3,scrape + tap vibration,1,0.6276515151515152
+SENS3,scrape + tap vibration,1,0.575
+SENS3,scrape + tap vibration,1,0.6553030303030303
+SENS3,scrape + tap vibration,1,0.5776515151515151
+SENS3,scrape + tap vibration,1,0.7587121212121213
+SENS3,scrape + tap vibration,1,0.23636363636363636
+SENS3,scrape + tap vibration,1,0.5882575757575758
+SENS3,scrape + tap vibration,1,0.6007575757575757
+SENS3,scrape + tap vibration,1,0.6916666666666667
+SENS3,scrape + tap vibration,1,0.5928030303030303
+SENS3,scrape + tap vibration,1,0.5708333333333333
+SENS3,scrape + tap vibration,1,0.515530303030303
+SENS3,scrape + tap vibration,1,0.5526515151515152
+SENS3,scrape + tap vibration,1,0.5193181818181818
+SENS3,scrape + tap vibration,1,0.6359848484848484
+SENS3,scrape + tap vibration,1,0.6916666666666667
+SENS3,scrape + tap vibration,1,0.5401515151515152
+SENS3,scrape + tap vibration,1,0.5981060606060605
+SENS3,scrape + tap vibration,1,0.553030303030303
+SENS3,scrape + tap vibration,1,0.421969696969697
+SENS3,scrape + tap vibration,1,0.7087121212121212
+SENS3,scrape + tap vibration,1,0.5553030303030303
+SENS3,scrape + tap vibration,1,0.4803030303030303
+SENS3,scrape + tap vibration,1,0.5742424242424243
+SENS3,scrape + tap vibration,1,0.5462121212121213
+SENS3,scrape + tap vibration,1,0.5731060606060605
+SENS3,scrape + tap vibration,1,0.6109848484848486
+SENS3,scrape + tap vibration,1,0.6905303030303029
+SENS3,scrape + tap vibration,1,0.3287878787878788
+SENS3,scrape + tap vibration,1,0.718939393939394
+SENS3,scrape + tap vibration,1,0.5901515151515151
+SENS3,scrape + tap vibration,1,0.5117424242424242
+SENS3,scrape + tap vibration,1,0.4875
+SENS3,scrape + tap vibration,1,0.6462121212121212
+SENS3,scrape + tap vibration,1,0.4939393939393939
+SENS3,scrape + tap vibration,1,0.5871212121212122
+SENS3,scrape + tap vibration,1,0.46590909090909094
+SENS3,scrape + tap vibration,1,0.3984848484848485
+SENS3,scrape + tap vibration,1,0.3939393939393939
+SENS3,scrape + tap vibration,1,0.5723484848484848
+SENS3,scrape + tap vibration,1,0.6507575757575756
+SENS3,scrape + tap vibration,1,0.459469696969697
+SENS3,scrape + tap vibration,1,0.521969696969697
+SENS3,scrape + tap vibration,1,0.3625
+SENS3,scrape + tap vibration,1,0.515530303030303
+SENS3,scrape + tap vibration,1,0.4053030303030303
+SENS3,scrape + tap vibration,1,0.6106060606060606
+SENS3,scrape + tap vibration,1,0.687878787878788
+SENS3,scrape + tap vibration,1,0.5196969696969697
+SENS3,scrape + tap vibration,2,0.6541666666666667
+SENS3,scrape + tap vibration,2,0.7291666666666666
+SENS3,scrape + tap vibration,2,0.5291666666666667
+SENS3,scrape + tap vibration,2,0.6666666666666666
+SENS3,scrape + tap vibration,2,0.7291666666666666
+SENS3,scrape + tap vibration,2,0.6375
+SENS3,scrape + tap vibration,2,0.8166666666666667
+SENS3,scrape + tap vibration,2,0.7291666666666666
+SENS3,scrape + tap vibration,2,0.5583333333333333
+SENS3,scrape + tap vibration,2,0.5708333333333333
+SENS3,scrape + tap vibration,2,0.575
+SENS3,scrape + tap vibration,2,0.5208333333333334
+SENS3,scrape + tap vibration,2,0.6791666666666667
+SENS3,scrape + tap vibration,2,0.6541666666666667
+SENS3,scrape + tap vibration,2,0.55
+SENS3,scrape + tap vibration,2,0.6708333333333334
+SENS3,scrape + tap vibration,2,0.8666666666666667
+SENS3,scrape + tap vibration,2,0.6
+SENS3,scrape + tap vibration,2,0.8416666666666667
+SENS3,scrape + tap vibration,2,0.7208333333333333
+SENS3,scrape + tap vibration,2,0.6625000000000001
+SENS3,scrape + tap vibration,2,0.6875
+SENS3,scrape + tap vibration,2,0.8666666666666667
+SENS3,scrape + tap vibration,2,0.6416666666666666
+SENS3,scrape + tap vibration,2,0.7041666666666666
+SENS3,scrape + tap vibration,2,0.7875000000000001
+SENS3,scrape + tap vibration,2,0.6166666666666667
+SENS3,scrape + tap vibration,2,0.7041666666666667
+SENS3,scrape + tap vibration,2,0.5541666666666667
+SENS3,scrape + tap vibration,2,0.7666666666666666
+SENS3,scrape + tap vibration,2,0.8666666666666667
+SENS3,scrape + tap vibration,2,0.7333333333333334
+SENS3,scrape + tap vibration,2,0.5125
+SENS3,scrape + tap vibration,2,0.6375
+SENS3,scrape + tap vibration,2,0.6458333333333334
+SENS3,scrape + tap vibration,2,0.6916666666666667
+SENS3,scrape + tap vibration,2,0.5833333333333334
+SENS3,scrape + tap vibration,2,0.3875
+SENS3,scrape + tap vibration,2,0.7166666666666667
+SENS3,scrape + tap vibration,2,0.7041666666666666
+SENS3,scrape + tap vibration,2,0.5958333333333333
+SENS3,scrape + tap vibration,2,0.7541666666666667
+SENS3,scrape + tap vibration,2,0.7541666666666667
+SENS3,scrape + tap vibration,2,0.7083333333333333
+SENS3,scrape + tap vibration,2,0.49583333333333335
+SENS3,scrape + tap vibration,2,0.525
+SENS3,scrape + tap vibration,2,0.7333333333333334
+SENS3,scrape + tap vibration,2,0.525
+SENS3,scrape + tap vibration,2,0.45
+SENS3,scrape + tap vibration,2,0.6291666666666667
+SENS3,scrape + tap vibration,4,0.6979166666666666
+SENS3,scrape + tap vibration,4,0.4583333333333333
+SENS3,scrape + tap vibration,4,0.625
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.5833333333333333
+SENS3,scrape + tap vibration,4,1.0
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.5416666666666666
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.5833333333333333
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.8854166666666666
+SENS3,scrape + tap vibration,4,0.75
+SENS3,scrape + tap vibration,4,0.625
+SENS3,scrape + tap vibration,4,0.875
+SENS3,scrape + tap vibration,4,0.5520833333333333
+SENS3,scrape + tap vibration,4,0.7083333333333333
+SENS3,scrape + tap vibration,4,0.8333333333333333
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.5416666666666666
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.75
+SENS3,scrape + tap vibration,4,0.7916666666666666
+SENS3,scrape + tap vibration,4,1.0
+SENS3,scrape + tap vibration,4,0.6354166666666666
+SENS3,scrape + tap vibration,4,0.6041666666666666
+SENS3,scrape + tap vibration,4,0.8333333333333333
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.4270833333333333
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.5416666666666666
+SENS3,scrape + tap vibration,4,0.75
+SENS3,scrape + tap vibration,4,0.96875
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.9166666666666666
+SENS3,scrape + tap vibration,4,0.65625
+SENS3,scrape + tap vibration,4,0.7083333333333333
+SENS3,scrape + tap vibration,4,0.75
+SENS3,scrape + tap vibration,4,0.75
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration,4,0.5416666666666666
+SENS3,scrape + tap vibration,4,0.5416666666666666
+SENS3,scrape + tap vibration,4,0.75
+SENS3,scrape + tap vibration,4,0.6666666666666666
+SENS3,scrape + tap vibration + tap sound,1,0.45719696969696966
+SENS3,scrape + tap vibration + tap sound,1,0.6189393939393939
+SENS3,scrape + tap vibration + tap sound,1,0.6481060606060606
+SENS3,scrape + tap vibration + tap sound,1,0.6507575757575756
+SENS3,scrape + tap vibration + tap sound,1,0.5378787878787878
+SENS3,scrape + tap vibration + tap sound,1,0.8041666666666667
+SENS3,scrape + tap vibration + tap sound,1,0.2636363636363636
+SENS3,scrape + tap vibration + tap sound,1,0.6007575757575757
+SENS3,scrape + tap vibration + tap sound,1,0.6109848484848486
+SENS3,scrape + tap vibration + tap sound,1,0.8041666666666667
+SENS3,scrape + tap vibration + tap sound,1,0.5303030303030303
+SENS3,scrape + tap vibration + tap sound,1,0.4564393939393939
+SENS3,scrape + tap vibration + tap sound,1,0.5545454545454546
+SENS3,scrape + tap vibration + tap sound,1,0.543939393939394
+SENS3,scrape + tap vibration + tap sound,1,0.6462121212121212
+SENS3,scrape + tap vibration + tap sound,1,0.7022727272727273
+SENS3,scrape + tap vibration + tap sound,1,0.6416666666666666
+SENS3,scrape + tap vibration + tap sound,1,0.6481060606060606
+SENS3,scrape + tap vibration + tap sound,1,0.6651515151515152
+SENS3,scrape + tap vibration + tap sound,1,0.5428030303030302
+SENS3,scrape + tap vibration + tap sound,1,0.2121212121212121
+SENS3,scrape + tap vibration + tap sound,1,0.6587121212121212
+SENS3,scrape + tap vibration + tap sound,1,0.39280303030303027
+SENS3,scrape + tap vibration + tap sound,1,0.5901515151515151
+SENS3,scrape + tap vibration + tap sound,1,0.5109848484848485
+SENS3,scrape + tap vibration + tap sound,1,0.5632575757575757
+SENS3,scrape + tap vibration + tap sound,1,0.6356060606060605
+SENS3,scrape + tap vibration + tap sound,1,0.6318181818181818
+SENS3,scrape + tap vibration + tap sound,1,0.6734848484848485
+SENS3,scrape + tap vibration + tap sound,1,0.3015151515151515
+SENS3,scrape + tap vibration + tap sound,1,0.6147727272727272
+SENS3,scrape + tap vibration + tap sound,1,0.5401515151515152
+SENS3,scrape + tap vibration + tap sound,1,0.6253787878787879
+SENS3,scrape + tap vibration + tap sound,1,0.4375
+SENS3,scrape + tap vibration + tap sound,1,0.6261363636363637
+SENS3,scrape + tap vibration + tap sound,1,0.7
+SENS3,scrape + tap vibration + tap sound,1,0.5200757575757575
+SENS3,scrape + tap vibration + tap sound,1,0.4431818181818182
+SENS3,scrape + tap vibration + tap sound,1,0.24431818181818182
+SENS3,scrape + tap vibration + tap sound,1,0.41666666666666663
+SENS3,scrape + tap vibration + tap sound,1,0.6984848484848484
+SENS3,scrape + tap vibration + tap sound,1,0.5655303030303029
+SENS3,scrape + tap vibration + tap sound,1,0.44242424242424244
+SENS3,scrape + tap vibration + tap sound,1,0.5674242424242424
+SENS3,scrape + tap vibration + tap sound,1,0.3170454545454546
+SENS3,scrape + tap vibration + tap sound,1,0.45113636363636367
+SENS3,scrape + tap vibration + tap sound,1,0.40909090909090906
+SENS3,scrape + tap vibration + tap sound,1,0.6333333333333333
+SENS3,scrape + tap vibration + tap sound,1,0.7087121212121212
+SENS3,scrape + tap vibration + tap sound,1,0.5734848484848485
+SENS3,scrape + tap vibration + tap sound,2,0.5916666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.7541666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.6041666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.5625
+SENS3,scrape + tap vibration + tap sound,2,0.7625
+SENS3,scrape + tap vibration + tap sound,2,0.6583333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.8
+SENS3,scrape + tap vibration + tap sound,2,0.8125
+SENS3,scrape + tap vibration + tap sound,2,0.7416666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.6458333333333334
+SENS3,scrape + tap vibration + tap sound,2,0.6916666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.6291666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.7041666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.6416666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.575
+SENS3,scrape + tap vibration + tap sound,2,0.7541666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.7833333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.575
+SENS3,scrape + tap vibration + tap sound,2,0.7291666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.6333333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.6916666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.475
+SENS3,scrape + tap vibration + tap sound,2,0.7208333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.6166666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.7291666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.6666666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.7625
+SENS3,scrape + tap vibration + tap sound,2,0.7291666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.6041666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.7041666666666666
+SENS3,scrape + tap vibration + tap sound,2,0.8041666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.6833333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.525
+SENS3,scrape + tap vibration + tap sound,2,0.6125
+SENS3,scrape + tap vibration + tap sound,2,0.5958333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.575
+SENS3,scrape + tap vibration + tap sound,2,0.7166666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.5958333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.7166666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.6166666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.5958333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.6708333333333334
+SENS3,scrape + tap vibration + tap sound,2,0.7625
+SENS3,scrape + tap vibration + tap sound,2,0.7583333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.5208333333333334
+SENS3,scrape + tap vibration + tap sound,2,0.5708333333333333
+SENS3,scrape + tap vibration + tap sound,2,0.8166666666666667
+SENS3,scrape + tap vibration + tap sound,2,0.5125
+SENS3,scrape + tap vibration + tap sound,2,0.525
+SENS3,scrape + tap vibration + tap sound,2,0.6291666666666667
+SENS3,scrape + tap vibration + tap sound,4,0.7291666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.4583333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.7916666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.5833333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,1.0
+SENS3,scrape + tap vibration + tap sound,4,0.6666666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.6666666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.7083333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.7916666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.75
+SENS3,scrape + tap vibration + tap sound,4,0.5416666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.7916666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.5520833333333333
+SENS3,scrape + tap vibration + tap sound,4,0.6770833333333333
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.6666666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.6666666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.5416666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.75
+SENS3,scrape + tap vibration + tap sound,4,0.7916666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.8020833333333333
+SENS3,scrape + tap vibration + tap sound,4,0.8333333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.4583333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.4583333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.75
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.6041666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.7083333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.5416666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.625
+SENS3,scrape + tap vibration + tap sound,4,0.5416666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.6354166666666666
+SENS3,scrape + tap vibration + tap sound,4,0.7916666666666666
+SENS3,scrape + tap vibration + tap sound,4,0.7083333333333333
+SENS3,scrape + tap vibration + tap sound,4,0.875
+SENS3,scrape + tap vibration + tap sound,4,0.9166666666666666
