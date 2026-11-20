@@ -83,9 +83,9 @@ and our own phone recordings.
 | Same on TUM (three families) | k = 2: 0.61 [0.44-0.77]; k = 8: 0.76 | yes | no |
 | CLAP: 2 labels alone, or with the other datasets? | Alone 0.61, with the others 0.56, frozen probe 0.51 | no | yes |
 | CLAP: one dataset alone, or the six merged? (new surfaces) | Alone 0.75, merged 0.70 | no | yes |
-| Choose which surfaces to label with k-means | +0.15 to +0.17 at 8 labels on HaTT, LMT108, TUM; +0.03 Cluster; -0.05 SENS3. Greatest Hits +0.08 [0.00-0.15] | yes | yes |
-| Add taps to the scrapes, k = 2 | LMT108 0.62 to 0.76, SENS3 0.44 to 0.65, TUM +0.01. Greatest Hits +0.06 | yes | yes |
-| Both together, 8 then 12 chosen surfaces | LMT108 0.86 / 0.91, SENS3 0.61 / 0.67, TUM 0.64 / 0.72. No locked test | yes | no |
+| Choose which surfaces to label with k-means | +0.15 to +0.17 at 8 labels on HaTT, LMT108, TUM; +0.04 Cluster; -0.05 SENS3. About as good as 2 per family, without knowing the families. Greatest Hits +0.08 [0.00-0.15] (earlier run) | yes | yes |
+| Add taps to the scrapes, k = 2 | SENS3 0.42 to 0.66, TUM 0.63 to 0.69. Earlier run: LMT108 0.62 to 0.76, Greatest Hits +0.06 (their taps are not in the notebook) | yes | yes |
+| Both together, 8 then 12 chosen surfaces | SENS3 0.58 / 0.65, TUM 0.64 / 0.72; earlier run LMT108 0.86 / 0.91. No locked test | yes | no |
 | Taps inside one setup | TUM: taps 0.89, scrape 0.71. SENS3: scrape + taps 0.72, scrape 0.51 | yes | no |
 
 ## 5. Fine-tuning CLAP on the other setups (`6_fine_tuning.ipynb`)
