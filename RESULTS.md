@@ -17,7 +17,7 @@ Datasets: Cluster (machine), LMT108 and LMT69 (steel tip held by hand), HaTT (st
 (steel tooltip), SENS3 (bare finger), Devillard (bare finger), Greatest Hits (drumstick, video sound), YCB (robot),
 and our own phone recordings.
 
-## 1. What the signals look like (`2_signals.ipynb`)
+## 1. What the signals look like (`signals.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
@@ -30,7 +30,7 @@ and our own phone recordings.
 | Does speed only shift the frequencies? | No. Spectra at 20 and 60 mm/s match better without rescaling (0.29-0.45 vs about 0.05). Level about +5.5 dB per doubling | - | no |
 | Do sound and vibration tell the same thing? | Coherence about 0.01 in LMT108, 0.10 in Cluster | - | no |
 
-## 2. A setup the model knows (`3_known_setup.ipynb`)
+## 2. A setup the model knows (`known_setup.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
@@ -40,7 +40,7 @@ and our own phone recordings.
 | CLAP fine-tuned on one setup, new surfaces of it | 0.75 (0.45 before fine-tuning) | yes | yes |
 | Same 10 textures touched by other people (Devillard, chance 0.10) | New person 0.70-0.77; other sensor of the same kind 0.49-0.70; vibration to sound 0.17-0.21 | yes | yes |
 
-## 3. A new setup, no label (`4_new_setup.ipynb`)
+## 3. A new setup, no label (`new_setup.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
@@ -73,7 +73,7 @@ and our own phone recordings.
 | Taps from one tool to another | 0.09 | no | yes |
 | Without polymer | CLAP 0.58; BEATs 0.66-0.75 between hand-held setups, fails on TUM and Cluster. Decided after seeing the results | partly | no |
 
-## 4. A few labels of the new setup (`5_few_labels.ipynb`)
+## 4. A few labels of the new setup (`few_labels.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
@@ -88,7 +88,7 @@ and our own phone recordings.
 | Both together, 8 then 12 chosen surfaces | SENS3 0.58 / 0.65, TUM 0.64 / 0.72; earlier run LMT108 0.86 / 0.91. No locked test | yes | no |
 | Taps inside one setup | TUM: taps 0.89, scrape 0.71. SENS3: scrape + taps 0.72, scrape 0.51 | yes | no |
 
-## 5. Fine-tuning CLAP on the other setups (`6_fine_tuning.ipynb`)
+## 5. Fine-tuning CLAP on the other setups (`fine_tuning.ipynb`)
 
 The original CLAP (text prompts, no training) gives 0.43 on average on a setup never seen.
 
@@ -107,7 +107,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | Stop early, or use a 10 times lower learning rate | Falls from step 50 and never rises. Low rate ends at 0.36 | no | yes |
 | Best "robust" model on the colleague's phone | 0.53 [0.37-0.69], mark 0.55 | no | yes |
 
-## 6. Synthetic scrapes (`7_synthetic.ipynb`)
+## 6. Synthetic scrapes (`synthetic.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
 |---|---|---|---|
@@ -116,7 +116,7 @@ The original CLAP (text prompts, no training) gives 0.43 on average on a setup n
 | Real datasets + 2000 synthetic scrapes | Unseen public datasets 0.38 (0.36 without). Colleague's phone 0.65, mark 0.55, but weight mixing alone already gives 0.60 | partly | yes |
 | 200, 2000 or 20000 scrapes, half of every batch | 0.34 / 0.35 / 0.34 (0.31 with none). An earlier run with 3 seeds, and one trained 4 times longer, gave the same | no | yes |
 
-## 7. Friction and other physical quantities (`8_friction.ipynb`)
+## 7. Friction and other physical quantities (`friction.ipynb`)
 
 Here the model predicts a measured quantity instead of a family. Vibration only, no label of the new setup.
 
@@ -135,8 +135,20 @@ Here the model predicts a measured quantity instead of a family. Vibration only,
 | Four measured quantities to family, inside SENS3 | 0.74 (vibration alone 0.51) | yes | no |
 | Predicted quantities to family, across setups | 0.19-0.38 | no | yes |
 
+## 8. The proposal: velocity consistency (`velocity_consistency.ipynb`)
+
+Cluster only, five folds of surfaces. 95 % intervals from drawing the surfaces again.
+
+| Question | Result | Worked? | Rule first? |
+|---|---|---|---|
+| Frozen encoders + logistic regression, new surfaces | BEATs: sound 0.72, vibration 0.63, both 0.74. CLAP: 0.67, 0.58, 0.69 | - | no |
+| BEATs fine-tuned, new surfaces, without / with the consistency penalty | 0.75 [0.68-0.82] / 0.75 [0.68-0.82] | no | no |
+| Same, test at a speed never seen in training (60 mm/s) | 0.68 [0.62-0.74] / 0.68 [0.62-0.74] | no | no |
+| Per family (fine-tuned, new surfaces) | F1: wood 0.96, textile 0.92, metal 0.65, polymer 0.50 | - | no |
+
 ## In short
 
+- The penalty of our proposal (same answer at two speeds) changes nothing, and an unseen speed costs only 0.07.
 - No label of the new setup: nothing works reliably. Training on other setups makes CLAP worse (0.43 to 0.31).
 - Two labeled surfaces per family of the new setup: 0.64 on a locked test. Other setups do not help.
 - What transfers depends on the kind of contact. Friction crosses from steel tip to finger, but not to the machine

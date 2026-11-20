@@ -1,0 +1,5 @@
+test,model,score,low,high
+new surfaces,BEATs fine-tuned,0.7509275793650794,0.6788353174603174,0.8206239459325395
+new surfaces,BEATs fine-tuned + consistency,0.7466021825396826,0.6755376364087301,0.817020275297619
+new surfaces at an unseen speed (60 mm/s),BEATs fine-tuned,0.6799355158730158,0.6162313988095238,0.7409021577380953
+new surfaces at an unseen speed (60 mm/s),BEATs fine-tuned + consistency,0.6810391865079365,0.615102306547619,0.7440727306547619

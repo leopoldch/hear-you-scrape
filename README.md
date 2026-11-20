@@ -32,6 +32,14 @@ almost unrelated (coherence 0.01 to 0.10): they are two different views of the s
 On new surfaces of the same setup, an SVM on spectral shapes and a small CNN both reach about 0.74 with
 sound + vibration (0.74 and 0.73).
 
+This is also where we tested the idea of our proposal (`velocity_consistency.ipynb`): BEATs fine-tuned on Cluster,
+with a penalty when two recordings of the same surface at two speeds get different answers. The penalty changes
+nothing: 0.75 with or without it on new surfaces, 0.68 with or without it when the speed of the test (60 mm/s) is
+never seen in training. Frozen BEATs with a logistic regression already gives 0.74. An unseen speed costs only
+about 0.07, far less than an unseen setup, so the rest of the project studies the change of setup.
+
+![Velocity consistency: scores with and without the penalty](results/velocity_consistency.png)
+
 ## 3. A new setup with no label: it does not work reliably
 
 Trained on Cluster and tested on LMT108 (or the reverse), every model is at chance. We tried about 40 ideas:
@@ -86,14 +94,15 @@ The model mostly follows the vibration level and the speed of the gesture. This 
 
 | Notebook | What it does |
 |---|---|
-| `1_data.ipynb` | downloads the datasets and cuts the recordings into short windows |
-| `2_signals.ipynb` | spectra of sound and vibration, machine noise, effect of speed |
-| `3_known_setup.ipynb` | new surfaces of a setup the model knows |
-| `4_new_setup.ipynb` | a new setup with no label |
-| `5_few_labels.ipynb` | a new setup with a few labeled surfaces |
-| `6_fine_tuning.ipynb` | fine-tuning CLAP on the other setups |
-| `7_synthetic.ipynb` | synthetic scrapes as training data |
-| `8_friction.ipynb` | predicting friction instead of a family |
+| `data.ipynb` | downloads the datasets and cuts the recordings into short windows |
+| `signals.ipynb` | spectrograms, machine noise, variance by factor, PCA, clustering, effect of speed, sound-vibration coherence |
+| `known_setup.ipynb` | new surfaces of a setup the model knows |
+| `new_setup.ipynb` | a new setup with no label |
+| `few_labels.ipynb` | a new setup with a few labeled surfaces |
+| `fine_tuning.ipynb` | fine-tuning CLAP on the other setups |
+| `synthetic.ipynb` | synthetic scrapes as training data |
+| `friction.ipynb` | predicting friction instead of a family |
+| `velocity_consistency.ipynb` | the proposal's experiment: BEATs fine-tuned with and without a penalty for answering differently at two speeds |
 
 Heavy steps save their output in `cache/`, so a notebook is fast the second time.
 Tables and figures go to `results/`.
@@ -106,7 +115,7 @@ They are worse than the original CLAP on a setup they have not seen: we share th
 
 ## Data
 
-Not in the repo. `1_data.ipynb` gets it from the authors:
+Not in the repo. `data.ipynb` gets it from the authors:
 [Cluster](https://doi.org/10.6084/m9.figshare.29438288),
 [LMT108 and LMT69](https://zeus.lkn.ei.tum.de/downloads/texture/),
 [HaTT](https://repository.upenn.edu/handle/20.500.14332/30085),
