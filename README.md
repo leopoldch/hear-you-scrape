@@ -27,6 +27,14 @@ almost unrelated (coherence 0.01 to 0.10): they are two different views of the s
 
 ![PCA of the spectra, colored by family, by dataset and by speed](results/signals_pca.png)
 
+The same holds with **every dataset we have** (`all_datasets.ipynb`: 7 datasets with sound, 7 with vibration,
+3339 + 9128 recordings). Whether a recording is described by its plain spectrum or by BEATs or CLAP, each dataset is
+its own island: the dataset explains 33-40 % of the variance, the family 2-5 %. The nearest neighbor of a recording
+is from the same dataset 95-98 % of the time. Clustering finds the datasets (ARI up to 0.90), not the families (0.10
+or less with the sound), and removing the mean of each dataset does not change that.
+
+![t-SNE of every recording of every dataset, colored by dataset and by family](results/all_datasets_tsne.png)
+
 ## 2. A setup the model knows: it works
 
 On new surfaces of the same setup, an SVM on spectral shapes and a small CNN both reach about 0.74 with
@@ -95,6 +103,7 @@ The model mostly follows the vibration level and the speed of the gesture. This 
 | Notebook | What it does |
 |---|---|
 | `data.ipynb` | downloads the datasets and cuts the recordings into short windows |
+| `all_datasets.ipynb` | every dataset on one map: PCA, t-SNE, variance, clustering, nearest neighbors |
 | `signals.ipynb` | spectrograms, machine noise, variance by factor, PCA, clustering, effect of speed, sound-vibration coherence |
 | `known_setup.ipynb` | new surfaces of a setup the model knows |
 | `new_setup.ipynb` | a new setup with no label |

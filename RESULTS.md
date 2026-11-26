@@ -30,6 +30,19 @@ and our own phone recordings.
 | Does speed only shift the frequencies? | No. Spectra at 20 and 60 mm/s match better without rescaling (0.29-0.45 vs about 0.05). Level about +5.5 dB per doubling | - | no |
 | Do sound and vibration tell the same thing? | Coherence about 0.01 in LMT108, 0.10 in Cluster | - | no |
 
+With every dataset (`all_datasets.ipynb`): sound of Cluster, LMT108, LMT69, SENS3, TUM, Greatest Hits and our two
+phones; vibration of Cluster, LMT108, LMT69, SENS3, TUM, HaTT and Devillard. Four representations: plain log mel
+spectrum, BEATs and CLAP on the sound, BEATs on the vibration.
+
+| Question | Result | Worked? | Rule first? |
+|---|---|---|---|
+| PCA and t-SNE of all recordings | One island per dataset with every representation; families mixed inside | - | no |
+| Share of the variance | Dataset 33-40 %, family 2-5 % (6-8 % once the dataset is known) | - | no |
+| Nearest neighbor from another surface | Same dataset 95-98 % (chance 19-23 %), same family 57-71 % (chance 26-28 %), almost always inside the dataset. Across datasets: sound 17-46 %; vibration 74 % but 75 of 84 pairs are LMT108 / LMT69 (same lab) | - | no |
+| Clustering all surfaces (3 methods, 2-12 groups) | Dataset ARI up to 0.90; family 0.00-0.10 with sound, about 0.2 with vibration | - | no |
+| Clustering inside each dataset (k-means, 4 groups) | Cluster 0.78 (spectrum), TUM vibration 0.46, LMT108 / LMT69 about 0.3, SENS3 and Greatest Hits about 0 | - | no |
+| Remove the mean of each dataset, cluster again | Family ARI stays at 0.10 or less | no | no |
+
 ## 2. A setup the model knows (`known_setup.ipynb`)
 
 | Question | Result | Worked? | Rule first? |
